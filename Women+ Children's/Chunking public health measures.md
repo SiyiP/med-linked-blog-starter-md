@@ -1,0 +1,141 @@
+worldwide leading deaths = caused by <3 dz ; 
+
+[[-HRR Genetic Testing I+II_Bulmer]] 
+- Nuchal translucency - 3.5 mL + = automatic screen poz heart defects, some other conditions and aneuploidy in general
+- Just know 1.0 is normal for MoM for the First Trimester Screen, so just know low/high
+- uE3, estradiol – produced by placenta and baby’s liver › low down, trisomy 18
+- DIA – produced by placenta - high in down syndrome
+- gastroeschiesis = not covered by the membrane. higher AFP but less associated w/ other genetic defects than omphalocele.
+- 2nd trimester screen has many false poz, worse than the FTS.
+- 2nd trimester ultrasound between 18-22 wks
+- omphalocele - 30-50% risk of chromosome abnormality
+- choroid plexus cysts is the only soft marker for tri18
+- intracardiac echogenic focus , not a defect but a bright dot where the heart is, as bright as bone; talk to them about screening for downs
+- renal pyelectasis - urinary tract dilation within renal pelvis, soft marker for downs
+- unexplained elevations in AFP - incidence of placental insufficiency - like oligohydramnios, etc. placental abruption, htn.
+- cell free DNA testing - any time after 9 wks, maternal blood only with the fetal DNA (cfDNA) fragments inside the placenta! - non-invasive prenatal screening - great for down syndrome, slightly less than 13 ... only shows poz or negative.
+- placental cells will break down and release fetal DNA fragments called cfDNA - sequenced to get chromosome of origin., cell free DNA testing measures aneuploidy, and we look at the ratios of base pair
+- diabetics. =lower AFP on avg, and higher risk of neural tube defects
+- AFP increases naturally throughout pregnancy, so gestational date matters, and with any low amniotic fluid, AFP more concentrated
+- background risk ratio (maternal age, etc) BEFORE any screens -> then replace with 1/532 FTS result risk... then we multiply with risk due to soft marker 1.8 = final risk.
+- type of diagnostic test = chorionic villus sampling / CVS - 1st trimester- better access to placenta. - use a catheter, to get some placental cells and looking at whole cells. genetically identical to the fetus
+- type of diagnostic test amniocentesis - 2nd trimester , 15+ weeks. enough skin cells in the amniotic fluid to test it. testing for AFP by putting a needle thru the abdomen.
+- microarray in addition to FISH is now offered to all invasive tests for diagnostics.
+- pretest counseling/education should note - carrier screening is voluntary , confidential and protected in health insurance and employment by GINA (2008), we'll talk about potential results, but residual risk not highlighted. then test partner for AR conditions
+- cystic fibrosis and asthma carrier screening for everyone, all other things in parents based on ethnicity!
+- complete CFTR gene sequencing + duplication analysis allows for more
+- only useful for ppl who are white + ashkenazi jewish. but still screen all patients. some gene modulator therapies.
+- Hb A = adult hemoglobins, which have 2 alpha and 2 beta globins 2a2b... chromosome 16 encodes a-like globins, and 11 encodes b like globins
+- sickle cell dz - abnormal hemoglobin due to homozygous mutations in the beta globin gene, HBB -
+- SCD - recessive, vaso-oclusive events _ anemia. seen spleen get infarct and destroyed -> more infections
+- you will include in the hemoglobinopathy carrier screening the CBC and THEN hemoglobin electrophoresis
+- serum ferritin used to rule out iron deficiency too
+- electrophoresis results show: Hb A - highest in normal; but HbS increase in sickle cell!
+- thalassemia - reduced production of a hb chain, so lower overall amount of hemoglobin
+- alpha thalassemia - in african, asian, central american, med, and middle eastern- no alpha globin being made; recall chromosome 16
+- hemoglobin bart hydrops fetalis - HbBart - more severe, fetal onset of edema, effusions, severe hypochromic anemia - fatal, no alpha... so 4 deletions (- - / - - )
+- hemoglobin H HbH disease- microcytic hypochromic hemolytic anemia, mild jaundice, and bone changes sometimes. - some alpha chains are there. mild to moderate anemia, but we see liver and spleen getting too big. we have 3 deletions, ( a - / - -)
+- one deletion = silent carrier
+- 2 deletions = alpha thalassemia minor - asymptomatic, but microcytic anemia on exam
+- cis carrier - higher chance of passing down hbh and hbBarts; common in SE asian backgrounds
+- trans carrier - always passing down one since both chromosomes have a deletion, no chance of hbbarts though. common in african and mediterranean populations.
+- alpha thalassemia - genetically test w multiplex ligation dependent probe amplification MLPA to detect deletions, sequencing for less common point mutations.
+- beta thalassemia - common in mediterranian + african american - autosomal recessive - microcytic hypochromic anemia, abnormal peripheral blood smear, reduced HbA on analysis -> screen with routine CBC at beginning of pregnancy for checking any microcytic anemia (low MCV <80), then hb electrophoresis + then ferritin!
+- ppl with thalassemia major - severe anemia, hepatosplenomegaly - failure to thrive + shortened life; B+/B+, b+/b0, and b0/b0, bone deformities seen too but it's homozygous
+- ppl with thalassemia intermedia - present later, have milder anemia in the future. risk of iron overload secondary to increased intestinal absorption of iron due to ineffective erythropoiesis; we see b0/b or b+/b+; might need blood transfusions occasionally
+- B = no mutations normal
+- B+ = mutation that allows some beta to be formed, but reduced
+- B0 = most severe, no beta chain formations.
+- thalassemia minor - carrier b0/B or b+/b, asymptomatic w/ microcytic anemia.
+- beta-thalassemia trait can be seen with microcytic anemia and HbA2 3.5+
+- alpha-thalassemia trait seen with HbA2 less than 3.5% and normal iron levels.
+- Ashkenazi jewish screen for: cystic fibrosis, Canavan syndrome, familial dysautonomia and Tay-Sachs disease
+- french canadian / cajun - increased incidence of tay sachs disease.
+- spinal muscular atrophy - progressive weakness in muscles, 2nd most common fatal AR disorder, after CF; SMN1 mostly deletion of both copies, although SMN2 is pseudogene, more mild phenotype of this
+- SMA screening - dosage test - how much of SMN1 and SMN2 do we have? 2+ copies = normal, one copy = carrier. can't determine point mutations.
+- treatments for SMA spinal muscular atrophy - zolgensma + nusineren
+- fragile x make sure to screen if women have ovarian insufficiency, elevated FSH before 40 yo, and make sure they get screened if they get late onset intention tremor + cerebellar ataxia
+- fragile x is a trinucleotide repeat expansion in FMR1, of CGG, triggering hypermethylation, silencing that gene
+- males - more larger head, long face, prominent forehead + chin, protruding ears. CT findings and large testes.
+- fragile x premutation 55-200 only female can carry over and expand. same deal (only female risk of carrying over+expanding, not for male transmission)
+
+## Highlights for -HRR Genetic Screening A Public Health Perspective_Champaigne
+- Conditions screened in newborn screening are individually rare but collectively common - and we do have a treatment. mostly has latent early symptomatic stage + suitable test for diagnosis later. cost of case finding is balanced with med care.[^2]
+- Core condition , there's 25 of them - Newborn screening is specifically designed for these conditions - very accurate test, good treatment, know health outcomes[^2]
+- RUSP - added, 31 core , 26 secondary screens for the newborn screening panel- the recommended uniform screening panel by the SACHDNC[^2]
+- 4 mil babies tested, required, not dependent on funds/insurance, some parents might opt out based on religious beliefs + NBS in addition to screening for hearing loss + congenital heaert dz[^2]
+- NBS happens in hospital be4 baby gets home, 24-48 hrs after birth - if home birth, performed by midwife or facility[^2]
+- In NBS, there's a heel stick and there's 7 spots, blood dropped onto the filter paper without layering or contamination. no exposure to heat, light, moisture too.[^2]
+- Results sent to child's HCP , and notify them by fax + phone of abnormal result. (followup differs by state) ; AMA has ACT sheets with algos and recs for each condition[^2]
+- Talk about - diet, preterm, timing of infants, transfusion - those can interfere with results; might get false normals if they get transfused[^2]
+[^2]: [[-HRR Genetic Screening A Public Health Perspective_Champaigne]]
+
+## Highlights for -HRR Vaccines_Kasman
+- ***It is NOT recommended to ask parents how they feel about giving vaccines but instead to use presumptive language first.***
+- If used widely, alternative schedules would increase the risk of transmission of infectious disease amount young children; note - while we do not think that alternative schedules work as well as the published CDC schedule, there have not been many studies looking at this
+
+- ***recombinant proteins made in yeast (Hepatitis B and HPV vaccines)***
+- Passive immunization -immune effector cells or antibodies are transferred from immune person to naive one - passive bc not lasting[^3]
+- Active - immune response stimulated in person protected; the goal of vaccination is to get this in 1-2 wks for a fast and strong 2ndary immune response thanks to B/T cells[^3]
+- T cells - costimulatory molecules for CD8+ are 86 AKA B7., presented by innate immune system's antigen presenting cells; so basically any vaccine needs to awaken both innate+adaptive[^3]
+- Attenuation - same pathogen but just less virulent - reduction of pathogenicity -[^3]
+- It's grown in a different host species + gets mutations that allow it to reduce in pathogenicity, while maintaining the same antigenic determinants as the virulent strains for the immune response to work.[^3]
+- Live polio vaccine, type 2 and 3 only have 2 key mutations from the attenuation, so they occasionally revert and cause paralytic polio.[^3]
+- Live attenuated orgs - make stronger immunization - longer challenge, appropriate induction, MORE antigens[^3]
+- MORE antigens, less likely to be subject randomly to MHC restriction (like if you don't have some that present peptides from that antigen you dont respond to the vaccine); many proteins to choose from in the live one[^3]
+- Simple proteins instead of life attenuated organisms may only induce a humoral response - might need some boosters[^3]
+- Herd immunity is to protect people who cannot develop immunity like newborns + pregnant women + immunocompromised.[^3]
+- R0 - avg number new infections started by an infected person during illness course - depends on agent infectivity, duration of shedding, environmental conditions + health status + behavior of population.[^3]
+	- Only pathogens transmitted person to person are generally subject to control by herd immunity. Pathogens with non-human reservoirs can maintain themselves with susceptible human hosts, and therefore are not subject to it.
+- Herd immunity = 1 - 1/R0[^3]
+- Adjuvants - substances added to vaccines to enhance the immune response, required by all nonliving vaccines![^3]
+- Aggregate antigens (recall you need to cross link 2+ antigen receptors on B cell to activate them) - you need a polyvalent antigen for all this (and viral + bacteria naturally do that, but vaccines need it)[^3]
+- Inducing inflammation - activation of the innate immune system[^3]
+- Aluminum adjuvants are present in the following U.S. childhood vaccines:[^3]
+-  hepatitis A[^3]
+-  hepatitis B[^3]
+-  DTaP, Tdap[^3]
+-  Hib - haemophilus influenzae type B.[^3]
+-  HPV[^3]
+-  S. pneumonia (pneumococcus)[^3]
+- Hep b vaccine - only one that's given @ birth, a recombinant one with purified HBsAg protein + adjuvant[^3]
+- Hep b severe CI in yeast allergies, but usually always safe[^3]
+- Hep b limited # of epitopes so some don't respond bc they don't have the MHC[^3]
+- RSV passive/active - targeted to elders + infants[^3]
+- RSV active vaccine - more recent - recombinant vaccines containing RSV fusion protein in pre fusion conformation (before they bind), 2 made, one for 60+ and pregnant ppl to pass immunity thru placenta in sept-jan and other for 60+ only[^3]
+- Passive RSV - nirsevimab - for all infants younger than 8 mon born or entering first RSV szn sept - jan without maternal antibodies[^3]
+- Rotavirus - live attenuated - ***only live attenuated given be4 age of 1*** - given orally as a suspension to induce IgA in intestines[^3]
+- For rotavirus - first dose given before 15 wks, and they should receive it all BEFORE 8 months old[^3]
+- Diptheria , tetanus, pertussis- DTaP - toxoids for it all[^3]
+- Formalin cross links proteins making it nontoxic but same structure gives immune response.[^3]
+- Corynebacterium dipteriae diptheria, clostridium tetani tetanus, and acellular pertussis aP inside the vaccine... not whole killed cell bc it causes seizures.[^3]
+- Multiple doses needed every 10 years for lasting immunity, starts at 2 months of age[^3]
+- TdaP - given to adults, meaning same ingredients diff ratio, reduce the diptheria toxoid[^3]
+- Poliovirus is IPV, whole intact killed organism with formalin or heat; oral vaccine replaced it until it was eradicated and then US switched to inactivated - almost extinct[^3]
+- Haemophilus influenza B - conjugate vaccine - most pathogenic when it expresses polysaccharide capsule, and type B very pathogenic in kids under 5 -[^3]
+- Antibodies to type B capsular - protective, but poorly immunogenic in ppl under 24 month[^3]
+- <24 mon , or 2 yo must get the conjugate vaccine for effective protection!!!![^3]
+- Conjugate bc T cells only see protein; proteins will recognize the protein antigen in MHC but not the polysaccharide[^3]
+- B cell - recognizes polysaccharide and the protein as long as it's aggregated- - b cell rxn to influenza B vaccine's polysaccharide while the t cell recognizes the protein[^3]
+	- B-cells present diphtheria toxoid fragment to T-helper cells - **B-cells take up the conjugate, process the diphtheria toxoid protein and presents it to CD4+ T-cells to induce them to provide T-cell help for isotype switching and memory.**
+- H. influenza B conjugate vaccine mechanism: b cell activated by polysaccharide part of conjugate and processes conjugate + presents *peptide from protein* on MHC2 with B7 + CD40, then the CD4 T cells recognize the protein, peptide activates making CD40L + CD28, going to lymph node edge.[^3]
+- T cell makes B cell isotype switches + makes memory cells - acting as both APC + humoral effector[^3]
+- Streptococcus pneumoniae - we need to make a conjugate when the polysaccharide is the virulent part of the bacteria. - conjugate[^3]
+- Influenza - whole intact killed / inactivated ; but there's an intranasal live attenuated vaccine , given ages 2-65 yrs.[^3]
+- Measles - MMRV - measles mumps rubella varicella vaccine given after 1 yr - 4 live attenuated vaccines[^3]
+- Chickenpox varicella - there's a newer recombinant adjuvanted vaccine[^3]
+- 2 dose, 90+ effective! recombinant glycoprotein E viral envelope + adjuvant suspension[^3]
+- HPV - gardasil 9 (strains), recombinant capside protein in yeast, 2 doses before 15, but 3 if started at 15 or later.[^3]
+- Adults should get: Tdap / Td booster every 10 yrs, influenza yearly, pneumococcal vaccines like prevnar - 20 once after age 65, and 15 once after 65 followed by pneumovax. and shingles/varicella booster[^3]
+- COVID vaccines are all vectored vaccines with adenovirus vectors used to transduce it - but the very prominent one are lipid nanoparticle mRNA vaccines, where a lipid envelope w/ protective antigen with ligands there that activate TLRs to get innate response.[^3]
+- When the lipid membranes of COVID vectored vaccines fuse to cell membrane - they release mRNA into cytoplasm, where the ribosomes translate it into SPIKE protein, which is given to immune system via dendritic cells or phagocytosis of vaccinated cells[^3]
+- Big hurdle to lipid membraned - we need to make sure we actually translate it, but it wasn't bc it was activating RIG, the antiviral state which shuts protein synthesis down in the cell.[^3]
+- Innate immune system was shutting down production, so they tricked it by adding 1-methylpseudouridine to evade the response and type 1 interferon response! making the mRNAs immunologically silent.[^3]
+- LNP mRNA vaccines are immunogenic bc of injection trauma -> dendritic cell activation already ; DAMP produced, TLR agonists in lipid nanoparticles, and both B+T cell responses are detected[^3]
+- Risk - prior antigenic exposures + circulating antibodies can reduce ur response to a new one[^3]
+- Risk - some pathogens have too many serotypes or genetic diversity around the world[^3]
+- Live attenuated vaccines - CI in immunocompromised[^3]
+- Some ppl should get vaccinated earlier: asplena and sickle celll anemia + any congenital deficiencies of humoral immunity, which is why they need capsular polysaccharide vaccines earlier for their b cells![^3]
+[^3]: [[-HRR Vaccines_Kasman]]
+
+
