@@ -20,3 +20,72 @@ don't worry about blood component vol/storage, just have an idea - that rbcs hav
 immunohematology - biggest thing 
 rbc - has surface of carbohydrates, glycoproteins, etc. antigens. 
 - if person's exposed to rbcs other than their own thru preg/transfusion, small genetic variations in these can be immunologically recognizable, resulting in antibody prod 
+agglutination or hemolysis can happen if the patient's antibodies react with the transfused antigens. 
+we're concerend with IgG/IgM
+- agglutination - is what we test at the blood bank , this clumping 
+- igM - cold reacting - strongly reactive below 25 c, and not clinically significant 
+	- but a few like anti-A and anti-B to be wide thermal amplitude, most strongly at 37 C, which makes them clinical. 
+	- most igM are naturally occuring and happens due to environmental stimuli; we normally have anti-A and anti-B 
+	- a great complement activator, just one single pentameric igM can bind C1q but C1q needs 2 igG adjacent. 
+- igG - best react at 37 degrees making them clinically significant + **exposure to foreign rbcs make it arise - unexpected antibodies**
+	- worse complement activator
+O/A/B/AB
+- all antigens on surface of red cell
+- Rh antigen - if you have it you're poz and if you don't it's neg. 
+ABO
+- all based on a common precursor carbohydrate - **called a precursor substance**
+	1. add a fucose to the precursor chain which -> **h substance = which is interpreted as type O**
+	2. add N-acetylgalactosamine to H substance -> **A blood type**. if instead d-galactose is added, **b blood type**
+- AB has both the chains!
+- we inherit the specific blood group but we also acquire the naturally occurring antibodies (early in life, call them isoagglutinins.) naturally occurring ones are predominantly IgM with minor IgG component - most likely environmentally stimulated
+	- type A ppl have anti-B
+	- type  B have anti-A
+	- type O has both 
+	- type AB has neither
+think of: 
+- antigens in RBC - corresponds to blood type - 
+	- **forward typing** - to denote test down to determine this abo antigen on the surface 
+- antibodies in plasma 
+	- **reverse typing- confirmatry, looking for anti-A/B/whatever in their plasma - what antibodies do you have**
+- if forward and reverse type doesn't match - ABO typing discrepancy 
+	- must be resolved before emergent situations ... such as weakly expressed A/B antigens or absent blood group antibodies in the immunocompromised. 
+inheritance - 
+- O = think of as recessive 
+- codominant: A and B
+- each person has 2 gene for the blood type, so blood type A can have AA or AO and so on 
+
+weak subgroups - there's multiple variants of A
+- A1 - strong, 80% of the population 
+- A2 - more weakly , might even make an antiA1 antibody 
+	- some people with this can occasionally be kidney donors. 
+
+bombay phenotype 
+- recall - first step is to add fucose... to terminal galactose of precursor... **this requires functional H gene... but if this is non functional**
+	- h/h instead of H/H , no H substance is made. 
+	- we cannot add anything that'll make you A or B ... happens in very rare type - Oh deonated. 
+	- clinically significant anti-A, anti-B and anti-H is made, causing hemolysis = **can't get O blood!**
+	- bombay can only be transfused with another bombay person 
+
+Rh - rhesus - protein is a big thing, along it it projects ot the external surface of the red cell 
+- over 50 specific ones, some are like : always worry abou tthese. 
+- D - d antigen no allele - 
+	- if we have the D = Rh positive = **highly immunogenic.** we will get an antibody basically 
+	- if we don't have it = Rh negative. 
+- C/c - allelic antigens
+- E/e - allelic antigens 
+
+**Rh null blood - no Rh antigens at all! no D antigen or anything else**
+- mild compensated hemolytic anemia, retiulocytosis, elevated bilirubin, stomatocytosis 
+- can only be transfused with another rh null 
+
+so many diff blood groups and rbc antigens
+- most of these will make antibodies in the 2-3% range
+
+pre-transfusion - 
+- testing them - with ABO + Rh testing
+- antibody screen is done to make sure if they have developped an antibody to any other blood group antigen like anti-K, etc etc. 
+- the antibody screens done by combing serum + screening rbcs
+	- agglutination = antibody to an antigen is present , more extensive testing 
+Coombs reagent - antihuman globulin/AHG
+- solution of IgG antibodies, tiny little jobs. directed to FC of igG. 
+- too small to agglutinate bc they are NOT IgM 
