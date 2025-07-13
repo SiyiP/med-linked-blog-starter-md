@@ -83,9 +83,35 @@ so many diff blood groups and rbc antigens
 
 pre-transfusion - 
 - testing them - with ABO + Rh testing
-- antibody screen is done to make sure if they have developped an antibody to any other blood group antigen like anti-K, etc etc. 
+- antibody screen is done to make sure if they have developed an antibody to any other blood group antigen like anti-K, etc etc. 
 - the antibody screens done by combing serum + screening rbcs
 	- agglutination = antibody to an antigen is present , more extensive testing 
 Coombs reagent - antihuman globulin/AHG
-- solution of IgG antibodies, tiny little jobs. directed to FC of igG. 
-- too small to agglutinate bc they are NOT IgM 
+- solution of IgG antibodies, tiny little jobs. directed to FC of igG. can be clinically significant but can't agglutinate
+- IgG too small to agglutinate bc they are NOT IgM 
+- allows crosslinking from an IgG molecule on one RBC to IgG on anothre RBC and makes an agglutinate -
+- with the help of coombs, we can see that there's an antibody in the pt attached to an rbc -> **indirect antiglobulin test**
+
+select type compatible blood - separate blood cells + plasma is important 
+- if we have A pt, give A blood etc etc... screen for whatever antigens there are
+- if pt is a b, and you go to inventory and there's no b blood... we can give him O. **but only if it's red cells and not whole blood - no a or b antigen on it.**
+look at what antibodies the recipient has (the recipient antibodies are **in plasma!!**), and basically the donors, the only thing going in is the red blood cells - dw about the antibodies in them. 
+- compatibility testing - we would cross match pt serum with rbcs from donors as final check. 
+
+platelet - **all abo groups are acceptable for any pt. but women of childbearing age and younger wh are Rh neg receive Rh neg platelets**
+- plasma - compatible with red cells
+- cryoprecipitate - all ABO groups acceptable 
+- granulocytes - compatible with recipients plasma, and women of childbearing age and younger who are Rh neg receive Rh neg granulocytes
+
+![[Screenshot 2025-07-13 at 10.42.38 AM.png]]
+ideally - platelets should be type compatible but any type can be transfused bc platelets have a few RBC in them so rh group applies. 
+
+transfusions - 2 identifiers + ppl comparing the information just in case. 
+
+Direct antiglobulin test - DAT - is it a transfusion rxn? 
+- not routine part of pre transfusion test
+- to determine if here's a igG antibody or complement attached to rbc surface. if poz: 
+	- hemolytic transfusion rxn
+	- hemolytic dz of fetus an newborn 
+	- autoimmune hemolysis 
+	- drug induced autoantibodies 
