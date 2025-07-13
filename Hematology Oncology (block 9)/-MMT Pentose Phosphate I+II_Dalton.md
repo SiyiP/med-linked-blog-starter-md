@@ -98,7 +98,7 @@ B. Functions of reduced glutathione - generally asymptomatic until triggered - i
 		**2GSH** + ROOH -> GSSG + H2O + ROH, selenolate at the active site, reducing lipid hydroperoxides to alcohol, and then hydrogen peroxide to water. 
 		- reduced glutathione molecule needed to regenerate selenolate . 
 	ii. Maintain general reducing conditions - **outside our cells we have an oxidized environment but inside is reduced.** 
-		a. Iron redox state (Methemoglobin) - ferrous generation of heme is needed, the 2+ form is important and if we make the 3+ form ferric form, we make Hemin instead of heme, which is inactive [[MMT Porphyrin Metabolism I+II_Dalton]] - making nonfunctional hemoglobin ;; 
+		a. Iron redox state (Methemoglobin) - ferrous generation of heme is needed, the 2+ form is important and if we make the 3+ form ferric form, we make Hemin instead of heme, which is inactive [[-MMT Porphyrin Metabolism I+II_Dalton]] - making nonfunctional hemoglobin ;; 
 			also there's a very low affinity for oxygen in Fe3+, so we make met hemoglobin. 
 			- but typically we can convert it back using met hemoglobin reductase. 
 			- **congenital methemoglobinemia - AR disease, deficiency of NADH methemoglobin reductase!!!** = this is stuck here ): cyanotic and hypoxic. 
