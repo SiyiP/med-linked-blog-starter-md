@@ -103,7 +103,7 @@ platelet - **all abo groups are acceptable for any pt. but women of childbearing
 - cryoprecipitate - all ABO groups acceptable 
 - granulocytes - compatible with recipients plasma, and women of childbearing age and younger who are Rh neg receive Rh neg granulocytes
 
-![[Screenshot 2025-07-13 at 10.42.38 AM.png]]
+![[blood type transfusions.png]]
 ideally - platelets should be type compatible but any type can be transfused bc platelets have a few RBC in them so rh group applies. 
 
 transfusions - 2 identifiers + ppl comparing the information just in case. 
@@ -115,3 +115,175 @@ Direct antiglobulin test - DAT - is it a transfusion rxn?
 	- hemolytic dz of fetus an newborn 
 	- autoimmune hemolysis 
 	- drug induced autoantibodies 
+
+![[4a. Transfusion Medicine II-Blood Use_Squires_NOTES.pdf]]
+blood components
+- rbcs - commonly transfused, to restore or maintain **oxygen carrying capacity - nothing else!**
+	- anemia, active blooding, chronic transfusions like thalassemias/anemias
+	- anemia - in transfusion it's when they're anemic but key is not compensated well like with symptoms of weakness/fatigue/dyspnea, tachy, etc. hb is a bad guideline for transfusion - never transfuse asymptomatic anemia. 
+	- guidelines - if 10+ hb, don't transfuse unless symptoms indicated. <6 = transfusion indicated. 
+	- active bleeding - might need transfusion - but the hb doesn't mean much, rely on clinical exp, estimated blood loss and symptoms. not too good at testing how much would help 
+- when to transfusion - surgery - need for this is set up by surgeons in different hospitals
+- reducing need for rbc transfusion 
+	- anemia should be corrected pre surg 
+	- normovolemic hemodilution - whole blood collected from pt at start of surgery and replaced with saline, then blood have re-infused at the end of surgery 
+	- intraoperative blood salvage - blood lost can be collected, filtered and returned at the end
+- when to transfuse in trauma - trauma resuscitation - stop the lethal triad , mainly based on their symptoms - major complications is the coagulopathy f trauma can be exacerbated 
+- active bleeding protocols of massive transfusion 
+	- **specifically for trauma - RBC:Plasma:platelets in 1:1:1 ratio - all group O until known.**
+	- use type O whole blood only more frequently in trauma resuscitation ... basically replace everything all at once time  
+- thalassemia - transfuse every 2-4 weeks, require chronic ones to prevent anemia and helping you replace the hb 
+- sickle cell dz - SCD - point mutation on b globulin chain, distorting rbc, vaso occlusive 
+	- happens to relieve symptoms associated with crises... and reduce strokes. goals to improve o2 carrying, decrease blood viscocity , suppress endogenous erythropoiesis (we give them new hb)
+	- complication - iron overload with tooo much 
+
+platelet transfusions
+- either derived from whole blood products (50 mL and 4-6 products are pooled together) 
+- or collected by apheresis (300 mL and each is a full adult dose)
+- given to pts who are thrombocytopenic (dysfunction of platelets to prevent/stop bleeding)
+- <10k transfuse... <50k transfuse for invasive procedure
+- post transfusion platlet increment... - transfusion of 1 apheresis platelet to non-bleeding normal patient with norm spleen should increase platelet count from 30k to 40k 
+	- **we should make it go up by 1 gram!!!**
+	- or by **10k**
+- refractory pts to platelets
+	- basically might not get any boosts at all. causes:
+		- spleen issues, sepsis, fever, meds
+		- immune: HLA or platelet specific antibodies
+			- this is alloimmunization due to blood exposure... they get tehse 
+			- we can give **HLA-matched products, hla-a or hla-b that allows us to give**
+			- or **cross matched platelet products, to determine any that might be compatible**
+			- ^^^basically huge issue! we need to know
+plasma 
+- apheresis - they have all the coagulation factors in it!!! 
+- used for active bleeding due to **multiple coagulation factor deficiencies like liver dz**
+- pt with a single coagulation factor deficiency for which no manufactured coagulation factor is available - 8,9,7 are commercially produed..
+- **rapid reversal of warfarin** - but nowadays prothrombin complex concentrate is now recommended for this... or reverse with IV vitamin K 
+cryprecipitate - made from plasma frozen within 8 hrs of collection - they are cold-insoluble proteins
+	has factor 8(not used to treat hemophilia A bc we already got factor 8 concentrate), 13, vWF, fibrinogen 
+	- to treat decreased or abnormal fibrinogen pts <100 
+	- some pts with vWD type 3 or type 2 who aren't responsive to DDAVP 
+	- rare pts with factor 13 def
+
+granulocyte transfusions - only for severely granulocytic pts who are septic and are currently treated with no improvement with antibiotics 
+
+special transfusion situations 
+autoantibodies
+- autoimmune hemolytic anemias are either caused by 
+	- igG - warm AIHA - incompatible cross match. **incompatible with own blood**
+	- igM - cold agglutinin dz 
+- some are life threatening others are indolent. 
+- issue with some transfusions - crossmatches incompatible... **we need to transfuse "incompatible blood!"** transfusing these pts would not necessarily worsen hemolysis, but we need to see if they have other blood group antibodies such as anti-e, anti-kell etc that can cause hemolytic transfusion rxns. 
+	- danger that that auto antibody would be hiding an alloantibody - have they been transfused in the past? blood bank needs some special techniques to eliminate the autoantibodies in the crossmatch and see if alloantibodies are present \
+bone marrow transplants- depend on ABO compatibility between pt and donor
+- but for stem cells - ABO compatibility is not a barrier!!! requires in unique issues;
+	- blood product compatibility - specific compatiblity guides for each blood type 
+	- immunocompromised - all bone marrow transplant pts are immunocompromised so they need irradiated cellular products (not solid organs; bc cellular products have lymphocytes we should irradiate them)
+
+hemolytic dz of fetus + newborn HDFN
+- anemia / hyperbilirubinemia of fetus/newborn due to incompatibility 
+- caused by IgG maternal.... but not good if that's a blood group antibody, basically making baby's rbcs destroyed
+2 categories
+- ABO HDFN - most of it... 
+	- most common mom group O (a ton of IgG anti A and B) and baby group A/B. and type A/B have very small amount of IgG antiA/anti-B
+	- mild, bilirubin postnatally, affecting first and subsequent pregnancies
+- immune antibody HDFN Rh or other antibody 
+	- caused by stimulated/immune antibodies, 40%
+	- most commonly anti-D crosses over
+	- symptoms are severe , later pregnancies 
+	- happens when rh- mom exposed to rh poz blood (which has a D antigen) via transfusion or fetal maternal hemorrhage from previous pregnancy (increases each trimester w greatest risk at delivery) 
+	- prenatal - anemic, high output heart failure, edema, polyhydramnios - **hydrops fetalis** - babies can survive this with prenatal care. 98% survive
+	- postnatally - anemia still, hyperbilirubinemia due to hemolysis -> kernicterus basically , **liver immature** and can't conjugate all the bilirubin buildup -> demise due to neurological complications 
+	- at first prenatal visit - we do ABO/Rh antibody screen.... if Rh-neg mom and screen neg - go to prevention (she has no antibody - we need to make sure she doesnt develop any)
+		- we give Rh-immune globulin RhIg - solution of antibodies to D antigen that *prevents* development of an anti-d antibody in Rh negative individuals
+		- this is something we do regardless to make sure she doesn't have this issue with future pregnancies on the case of a bleed.
+		- after delivery, figure out if baby is Rh poz or neg. if Rh poz neonate, assess fetal maternal hemorrhage, and give RhIg basically - how much of the bleed did the mom get ? ): 
+			- be4 28 wks, Fetal Maternal Hemorrhage is rare, volume small so 1 dose RhIg sufficient
+			- at delivery check approx volume of fetal maternal hemorrhage in case:
+				- rosette test - **big or small? if small, one dose is ok, but if large, more needed**
+				- kleihauer-betke test - how many doses of RhIG are necessary? 
+	- if rh poz mom, screen poz or rh neg and screen poz, we would eval -> they already got an antibody. what antibody is positive? some antibodies can cause HDFN and some don't 
+		- if IgG v IgM... then do a maternal titer if IgG antibody. higher titer = more severe HDFN. more likely to cause fetal risk. 
+		- if titer <8 repeat titer. 8+ , fetus affected 
+		- we can do fetal middle cerebal artery systolic blood flow velocity doppler. - basically to check how the baby is affected. 
+		- if the baby's MCA is afected, aka the middle cerebral artery - we can do an intrauterine transfusion for the greatest risk ones to increase hb. 
+			- should be antigen negative for offending antibody , O-negative, irradiated to prevent GVHD, CMV safe, and blood lacking hb S, fresh blood, etc
+		- manage at birth - phototherapy, IVIg, or exchange transfusion (only when you have to)
+	- 
+- 
+
+
+![[4b. Transfusion Medicine III-Transfusion Complications_Squires_NOTES.pdf]]
+
+ Non‐Infectious Complications • Classified by predominant symptom 
+ Allergic - most common adverse rxns - see hives/urticaria, weezing, angioedema, flushing. 
+ most commonly type 1 hypersensitivie, the allergen some transfused plasma protein combines with pre-formed IgE antibody on surface of mast cells + basophils of recipient -< activates them to release many anaphylatoxins ; degranulations 
+ - emergently - suspend transfusion, treat with antihistamine; prednisone alone, then restart transfusion if hives **resolve**
+ - prevent; repeated allergnic rxns only happen in minority of ppl, most get a antihistamine prior to transfusions but we don't know if it works. generally helpful when it occurs. 
+ • Anaphylactic txf. rx. •
+- more srs with all the symptoms plus severe hypotension/shock
+- basically reuslting are IgE hypersensitivity 1 
+- main thing that might cause this is **deficiency in IgA** - basically eventually if you give more and more IgA, they might make IgA antibodies... 
+	- we need to wash the platelets and the transfusion to remove all the IgA. as for plasma, there's IgA deficient donors who donate and they use that. 
+	- treat - stop transfusion and **do nor restart** , supportive oxygenation, stabilize hypotension - **crystalloids, epinephrine, dopamine if unresponsive**
+
+Hemolytic - typically happen when antigen poz rbcs transfused into pt with alloantibody 
+-  Acute hemolytic txf. rx. - within 24 hrs of transfusion, where antibody is present 
+	- start with fevers + chills - pain , dyspnea, hypothension, hemoglobinemia,
+	- haptoglobin down bc that binds to free hb, ldh up 
+	- usually the pre-existing anti-a or anti-b of patient attached to the incompatiblely tranfused red cells... (anti A/B usually IgM, giving rise to complement mediated intravascular hemolysis)
+		- causing hemoglobinemia, hemoglobinuria on top of bilirubin up 
+		- some igG can also do this but mainly causes extravascular hemolysis 
+	- stop transfusion, maintain venous access, infuse saline, maintain urine, bp, watch the pt. almost all of these are due to error. 
+
+- Delayed hemolytic txf. rx. - after 24 hrs alloantibody is not detectable at time of transfusion but develops later
+	- hardly any symptoms, unexpected anemia + jaundice. 
+	- why is that? bc we don't make that antibody until days after, tend to rise but then disappear over time unless we stimulate them. unlikely to build up to hemolysis 
+	- TREAT: unnecessary - transfusion might be required ; unavoidable bc it's undetectable 
+- think of the site of hemolysis: 
+	- intravascular hemolysis - requires fixation of complement to red cell, by IgG and IgM ; 
+		- requires classical activation of complement with IgM antibodies potent activators bc a single one can bind C1q activating it. IgG less likely, leads to membrane attack complex and lysis eventually 
+		- IgM antiA and IgM antib most commonly causes issues 
+		- real danger - **kidney dmg or DIC**, can happen due to an acute hemolytic transfusion rxn. 
+			- might be associated w factor 12, basically activated by hemolysis , which would **produce more and more bradykinin** (less important- causing hypotension thru production, and can also have 12 activate coagulation cascade, tNf-a and IL-1 which can cause DIC 
+	- extravascular hemolysis - IgG mostly causes this, more mild symptoms  
+		- when complement cascade not activated the binding of Igg to rbcs opsonizes RBCs, resulting in removal via reticuloendothelial cells of spleen + liver - phagocytic cells take bites
+- lab checks - clerical check - make sure there's no wrong matchups 
+	- recipient blood sample - hemolysis visual, confirm pt abo, direct antigobulin test/Coombs. 
+	- blood product check -retype blood product 
+
+Respiratory - sorta similar - both in dyspneic patients, after transfusion they get bilateral pulmonary infiltrates!!!!
+- Transfusion‐related acute lung injury (TRALI) -
+	- fever/chills + hypotension, central venous pressure, CVP normal to low 
+	- antibody problem - this time, **it's in the blood product**
+		- happens to look like the same HLA type. veryy common, donor antibodies are directed against recipient. - for sure. donor has antibody that goes to pts. 
+	TREAT: stop transfusion, prompt resp support, vasopressors for hypotension, ususlly helps in 5 days. 
+	prevent by minimizing use of donors with anti-leukocyte/HLA antibodies, like multiparous females
+	- produce transfusable plasma platelets from predominantly male donors 
+- Transfusion‐associated circulatory overload (TACO) • 
+	- orthopnea, htn, CVP elevated - we overloaded this guy ! 
+	- simple volume overload!! 
+	- BNP up , not reliable but useful when elevated 
+	- TREAT: stop transfusion, diuretics help, manage symptoms with support,
+	- prevent - carefully manage ppl with CVD, elderly, congestive heart failure, infants. slow infusion rate. 
+
+Miscellaneous 
+- Febrile nonhemolytic txf. rx. - relatively common - no long term impact on pts 
+- 
+- Graft versus host disease 
+- Platelet‐associated reactions 
+- Iron Overload 
+
+Infectious Complications - Classified by infectious agent 
+Virus 
+- Hepatitis B 
+- Hepatitis C 
+- HIV 
+- HTLV 
+Bacteria 
+- Bacterial contamination 
+- Syphilis (T. pallidum) 
+Protozoa 
+- Malaria (Plasmodium sp.) 
+- Chagas (T. cruzi) 
+Other 
+- Prions (variant Creutzfeld‐Jacob Disease)
