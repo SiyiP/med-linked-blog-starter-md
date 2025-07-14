@@ -205,11 +205,9 @@ hemolytic dz of fetus + newborn HDFN
 		- if IgG v IgM... then do a maternal titer if IgG antibody. higher titer = more severe HDFN. more likely to cause fetal risk. 
 		- if titer <8 repeat titer. 8+ , fetus affected 
 		- we can do fetal middle cerebal artery systolic blood flow velocity doppler. - basically to check how the baby is affected. 
-		- if the baby's MCA is afected, aka the middle cerebral artery - we can do an intrauterine transfusion for the greatest risk ones to increase hb. 
+		- if the baby's MCA is affected, aka the middle cerebral artery - we can do an intrauterine transfusion for the greatest risk ones to increase hb. 
 			- should be antigen negative for offending antibody , O-negative, irradiated to prevent GVHD, CMV safe, and blood lacking hb S, fresh blood, etc
 		- manage at birth - phototherapy, IVIg, or exchange transfusion (only when you have to)
-	- 
-- 
 
 
 ![[4b. Transfusion Medicine III-Transfusion Complications_Squires_NOTES.pdf]]
@@ -230,9 +228,9 @@ Hemolytic - typically happen when antigen poz rbcs transfused into pt with alloa
 -  Acute hemolytic txf. rx. - within 24 hrs of transfusion, where antibody is present 
 	- start with fevers + chills - pain , dyspnea, hypothension, hemoglobinemia,
 	- haptoglobin down bc that binds to free hb, ldh up 
-	- usually the pre-existing anti-a or anti-b of patient attached to the incompatiblely tranfused red cells... (anti A/B usually IgM, giving rise to complement mediated intravascular hemolysis)
+	- usually the pre-existing anti-a or anti-b of patient attached to the incompatiblely tranfused red cells... (anti A/B usually IgM, giving rise to complement mediated intravascular hemolysis -> **"completely obliterated" bc complement is strong**)
 		- causing hemoglobinemia, hemoglobinuria on top of bilirubin up 
-		- some igG can also do this but mainly causes extravascular hemolysis 
+		- some igG can also do this but mainly causes extravascular hemolysis  -> 
 	- stop transfusion, maintain venous access, infuse saline, maintain urine, bp, watch the pt. almost all of these are due to error. 
 
 - Delayed hemolytic txf. rx. - after 24 hrs alloantibody is not detectable at time of transfusion but develops later
@@ -245,8 +243,8 @@ Hemolytic - typically happen when antigen poz rbcs transfused into pt with alloa
 		- IgM antiA and IgM antib most commonly causes issues 
 		- real danger - **kidney dmg or DIC**, can happen due to an acute hemolytic transfusion rxn. 
 			- might be associated w factor 12, basically activated by hemolysis , which would **produce more and more bradykinin** (less important- causing hypotension thru production, and can also have 12 activate coagulation cascade, tNf-a and IL-1 which can cause DIC 
-	- extravascular hemolysis - IgG mostly causes this, more mild symptoms  
-		- when complement cascade not activated the binding of Igg to rbcs opsonizes RBCs, resulting in removal via reticuloendothelial cells of spleen + liver - phagocytic cells take bites
+	- extravascular hemolysis - IgG mostly causes this, more mild symptoms   -
+		- when complement cascade not activated the binding of Igg to rbcs opsonizes RBCs, resulting in removal via reticuloendothelial cells of spleen + liver - **phagocytic cells take bites** - bite cells 
 - lab checks - clerical check - make sure there's no wrong matchups 
 	- recipient blood sample - hemolysis visual, confirm pt abo, direct antigobulin test/Coombs. 
 	- blood product check -retype blood product 

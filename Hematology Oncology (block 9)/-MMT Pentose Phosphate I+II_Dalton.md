@@ -109,7 +109,7 @@ B. Functions of reduced glutathione - generally asymptomatic until triggered - i
 				macrophages will "take bites out of them", will see bite cells as a result of clearing up heinz cells. 
 		c. Hemolytic anemia and G6PD deficiency - characterized by RBC destruction
 			defects in RBC membrane = hereditary spherocytosis - hard time entering vessels
-			abnormal hb - thalassaemia
+			abnormal hb - thalassaemia [[-SFP Red Blood Cells I Laboratory Investigation & Classification of Anemias, RBC Production_Rinker]]
 			abnormal glycolytic enzymes - **non-spherocytic hemolytic anemia**
 				- hexokinase, pyruvate kinase, glucose6p isomerase + phosphoglycerate kinase, glucose 6pdh of the PP as well! 
 

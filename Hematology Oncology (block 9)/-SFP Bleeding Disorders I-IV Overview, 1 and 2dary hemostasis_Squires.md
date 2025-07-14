@@ -126,7 +126,7 @@ inherited:
 - thrombocytopenia w/ absent radii(TAR syndrome) - AR, no radii (**no forearm bones**)! - other skeletal and cardiac abnormalities, normal lifespan survivors of 1-2 years. 
 
 acquired:
-- Immune thrombocytopenic purpura ITP - common!!!! - petechiae bruising in skin, epitaxis, gingival, GI/GU bleeding. rare intracranial hemorrhage! 
+- **Immune thrombocytopenic purpura ITP** - common!!!! - petechiae bruising in skin, epitaxis, gingival, GI/GU bleeding. rare intracranial hemorrhage! 
 	- chronic ITP - in adults, mostly female. 
 		- not usually viral infection before; insidious, less likely to see bleeding early on 
 		- months to years duraction ... uncommon remission 
@@ -137,6 +137,8 @@ acquired:
 	- why is it so different? - pathophys - 
 		- spontaneous development of autoantibody to platelet glycoproteins like - **GPIIb/IIIa fibrinogen receptor complex** and **GPIb/IX vWF receptor**
 			- know these receptors
+			- binding site for fibrinogen + vWF on the surface of platelets, involved in platelet aggregation + endothelial adherence.
+			- this means **IgG against these receptors, whereas Glanzmann thrombasthenia is instead a deficiency in platelet gpIIb/IIIa**
 		- macrophages will take up these antibodies attached and then take them outta circulation. but not all pts with itp actually demonstrate these 
 	- dx - elimination - isolated thrombocytopenia and elimination of other decreased counts
 		- **it presents with ppl with dx of CLL** = chronic lymphocytic leukemia 

@@ -154,14 +154,14 @@ autoimmune hemolytic anemias
 	- IgM - big blumps of rbcs can be formed
 
 rbc membrane defects
-hereditary spherocytosis- AD!!! more fragile and more suseptible to stress . clinical stability and severeity varies 
+**hereditary spherocytosis**- AD!!! more fragile and more susceptible to stress. clinical stability and severity varies 
 - defect in cytoskeletal proteins 
-- ankyrin, spectrin
+- ankyrin, spectrin, band 3 - involving defects in these guys 
 - clinical signs - anemia, splenomegaly, jaundice, cholelithiasis
 - stable course punctuated by hemolytic crises / infection, or aplastic crises like parvovirus b19
 - no central pallor; mchc increases
 - using the osmotic fragility test, you see they're more prone to rupture in hypotonic solution 
-- TREAT: splenectomy - 
+- TREAT: splenectomy  
 - asplenic pts - need strep pneumo vaccines - **we might also see howell jolly bodies, remnant of dna that is left there by a lack of the spleen!**
 
 hereditary elliptocytosis- AD
@@ -202,14 +202,14 @@ homozygous - sickle cll anemia Hb SS - sporatic pain, thrombosis, splenic seques
 membrane changes - increase adhesiveness of rbcs - > occlusions, sickling = reversibly if debris of hypoxia and polymerization is mild can reverse. but in irreversible sickle in higher state, we see 
 - DX: sickling test - poz is sickling to reducing agent 
 - solubility test - lysis of RBC when exposured to reducing agent 
-- electrophoresis - hbSS - actually quannitative too
+- electrophoresis - hbSS - actually quanitative too
 	peripheral blood smear - high degree anisopoikilocytosis + sickle cells + target cells
 	high mag - we see howell-jolly bodies (without spleen) + sickled cells. 
 		howell-jolly bodies - due to chronic occlusion of splenic cords + sinusoids by sickled rbcs, by the end of childhood we get asplenia - prone to infection by encapsulated bacteria
 		**gamma gandy bodies- area of spleen with fibrosis + ca / fe deposits** - splenic hemorrhage seen - and some calcification 
-- in Hb SS dz sickle cell - **hemoglobin F is protectiv ein first few months**
+- in Hb SS dz sickle cell - **hemoglobin F is protective in first few months**
 	- acute exacerbations managed with transfusion 
-	- hydroxyurea inc hb F to protect
+	- hydroxyurea increases hb F to protect against these symptoms
 	- pain management + bone marrow transplant is curative. 
 
 ---
@@ -226,7 +226,7 @@ double heterozygosity for hb S + C = Hb SC
 - many target cells, mild sicling and 50% S 50% C
 
 ---
-thalassemia - normal hb is produced but not in good quantities
+thalassemia - normal hb is produced but not in good quantities; **pathologic RBC seen with it: Target cells = codocytes = due to blebbing of RBC membrane**
 a-thalassemias affected alpha - alpha globin reduction problem 
 - 16 chromosome, each has 2 gene copies, so we have total of 4 gene copies
 - usually due to deletions - excess unpaired chains - higher amount of deletions - more severe
@@ -290,7 +290,8 @@ inherited DNA repair or telomerase
 	- TREAT: bone marrow transplant only 
 	- DX: treat the chromosomes with culture and then **treat with DNA cross linking thing - we will have a lot of breakage compared to normal**
 - pure red cell aplasia - selective decrease in rbc production - subtype of aplastic, **only erythroid lineage decreased**
-	- bone marrow show: defect of rbc precursors - many causes like parvovirus b19 (transient rbc aplasia), diamond-blackfan anemia DBA:inherited erythroid aplasia, isolated anemia , in infancy presenting + osteosarcoma risk 
+	- bone marrow show: defect of rbc precursors - many causes like parvovirus b19 (transient rbc aplasia),
+		- diamond-blackfan anemia DBA:inherited erythroid aplasia, isolated anemia , in infancy presenting + osteosarcoma risk - **short stature, craniofacial abnormalities, triphalangeal thumbs**
 	- sometimes you see viral inclusions of the nuclei. 
 macrocytic anemia- **these are PAST the stem cell thing**
 	- inc MCV >100 fL 
@@ -351,7 +352,7 @@ if the response is adequate reticulocytes - think more peripheral destructive ca
 			- normocytic anemia - 
 			- microcytic hypochromic anemia - variant in size .. **note - platelet count inc bc elevated erythropoietin will cross rxn with thrombopoietin receptors on megakaryocytes, bystander rxn with production up.**
 	- anemia of chronic dz - usually mild and moderate - normocytic/microcyti or something else - 2nd most common type of anemia, common in hospitals - 
-		- note - regardless of cause, the common mechanism is improper iron transfer with iron trapped in bone marrow macrophages, inhibiting / suppressing erythropoiesis by cytokines hepcidin 
+		- note - regardless of cause, the common mechanism is *improper iron transfer with iron trapped in bone marrow macrophages*, inhibiting / suppressing erythropoiesis by cytokines hepcidin 
 			- blocking the transfer of iron from macrophages into the cells - cannot be used normally. 
 			**serum iron is decreased but the TIBC is also decreased!!!** increased ferritin!! plenty of storage iron, just can't use it! 
 	- sideroblastic anemia - faulty incorperation of iron into that protoporphyrin ring. 
