@@ -268,20 +268,44 @@ Respiratory - sorta similar - both in dyspneic patients, after transfusion they 
 
 Miscellaneous 
 - Febrile nonhemolytic txf. rx. - relatively common - no long term impact on pts 
-- 
-- Graft versus host disease 
-- Platelet‐associated reactions 
-- Iron Overload 
+	- 1-2 degree rise in temp during or in 4 hrs of transfusion, +- the chill/rigors. 
+	- pathophys of wbcs and cytokines elaborated in donor blood. 
+	- TREAT: antipyretics not aspirin/leukoreduction of blood product reduces risk of febrile rxns , basically reduce the platelets and red cells, cuts risk in half. 
+- Graft versus host disease - 
+	- very rare, only severely immunocomp patients like ppl with hodgkins, congenital immunodef, neonates, bone marrow transplant pts, etc. 
+	- rash, liver function test abnormalities, diarrhea, n/v, pancytopenia(decrease in all three blood cell types), symptoms begin 7-10 days post transfusion; all die ): only thing we do is prevent it by irradiation if the patient needs it. 
+	- pt with normal immune system - viable lymphocytes in any cellular product will be destroyed
+		- but in immunocompromised pts, recognition of donor lymphocytes don't happen, so donor colonizes pts and proliferate. 
+		- graft v host dz = the tissue death reaction. 
+- Platelet‐associated reactions - both associated with thrombocytopenia, severe bleed risk, low platelet count, alloantibody dev to platelet specific antigens like HPA-1a aka GPIIIa
+	- post transfusion purpura PTP - adults , sudden onset 5-10 days post transfusion, <10k, previous hx transfusion/pregnancy 
+		- in pts who are HPA-1a antigen negative.... any transfusion can lead to this development. uniquely in ptp not only are these platelets destroyed but ALSO the patient's own 
+		  HPA-1a negative platelets are also destroyed -> severe thrombocytopenia 
+		- TREAT: IVIg - HPA-1a neg platelets can be helpful in acute phase , but future ones should use rbcs and platelets known to be hpa-1a negative. 
+	- neonatal alloimmune thrombocytopenia - fetal/neonatal, platelets <20k 
+		- women neg for this antigen can develop this when fetus is hpa-1a poz and most are 
+		- antibody crosses placenta and sensitizes fetal platelets, resulting in severe thrombocytopenia in fetus in first pregnancy. 
+		- if one is affected many will be too 
+		- TREAT: antenatal IVIg with or without steroids or intrauterine platelet transfusion with HPA-1a negative platelets 
+- Iron Overload - issue in pts who are chronically transfused. 
+	- each unit can have iron deposits in liver, heart, pancrease etc
+	- symptoms - lethargy, fatigue, liver dmg, increased risk of diabetes, heart dz, arthritis
+	- TREAT: chelation 
+	- dw abt pts in trauma getting this, they bleed it all out. 
 
 Infectious Complications - Classified by infectious agent 
-Virus 
+pathogen reduction = in platlet - new tech become avaliable and further reduces this risk - bsically we take the 
+- take the blood, add **psoralen** reagant and then it gets into the DNA, then expose it to UV radiation, sticking it to all the dna. making it not replicate
+- risk of all these dz are gone - done for platelets having no risk of diseases
+REAL risk of blood transfusion - mainly error 
+Virus - "risk is small, all donor questions are answered"-
 - Hepatitis B 
 - Hepatitis C 
 - HIV 
 - HTLV 
-Bacteria 
+Bacteria - can grow, still a risk 
 - Bacterial contamination 
-- Syphilis (T. pallidum) 
+- Syphilis (T. pallidum) - 
 Protozoa 
 - Malaria (Plasmodium sp.) 
 - Chagas (T. cruzi) 
