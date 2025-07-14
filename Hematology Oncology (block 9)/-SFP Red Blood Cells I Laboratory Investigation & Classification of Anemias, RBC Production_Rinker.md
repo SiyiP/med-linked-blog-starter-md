@@ -276,3 +276,104 @@ ppl with combo S and b-thalassemia
 - way worse and same as hb SS. 
 - inc proportion of Hb S compaired to someone with sickle alone. 
 ![[2d. Red Blood Cells IV-Impaired RBC Production_Rinker_PPT.pdf]]
+
+rbc disorders - impaired rbc prod - there's disturbances that happen at stem cell prolif and diff or disturbance of proliferaction/maturation of erythroid cells (macrocytic or microcytic)
+aplastic anemia - failure of stem cells to make hematopoietic elements - peripheral blood we see cytopenias, can evolve into acute leukemias. - **marrow space looks like all fat.** - made based on how decrease their peripheral counts are as well as how cellular their marrow is in ref to a "normal person"
+	idiopathic (hypothesized to be immune, primary stem cell defect)
+	drugs/radiation/benzene
+	post viral infections like community acquired non-A/B/C hep 
+	inherited defects in DNA repair or telomerase 
+		TREAT: remove offending agent + supportive care, transfusions, G-CSF, immunosuppression, bone marrow transplant? 
+inherited DNA repair or telomerase 
+- faconi anemia - relatively rare AR disorder caused by defects in DNA repair - might have shortness, skeletal, endocrinopathy, renal failure, **cafe au lait spots**
+	- inc slid tumors, leukemia, bone marrow failure,
+	- TREAT: bone marrow transplant only 
+	- DX: treat the chromosomes with culture and then **treat with DNA cross linking thing - we will have a lot of breakage compared to normal**
+- pure red cell aplasia - selective decrease in rbc production - subtype of aplastic, **only erythroid lineage decreased**
+	- bone marrow show: defect of rbc precursors - many causes like parvovirus b19 (transient rbc aplasia), diamond-blackfan anemia DBA:inherited erythroid aplasia, isolated anemia , in infancy presenting + osteosarcoma risk 
+	- sometimes you see viral inclusions of the nuclei. 
+macrocytic anemia- **these are PAST the stem cell thing**
+	- inc MCV >100 fL 
+	- "megaloblastic" - these are DNA rep disorders, nutritional deficiencies like **folate and b12 deficiencies.**  ; intrinsic issue 
+		- hypoproliferative anemia  - bone marrow cannot make much rbcs
+		- decrease in reticulocytes + large immature rbcs in bone marrow
+		- **folate + b12 => pernicious anemia**
+		- symptoms of defective maturation of rbcs based on the DNA - 
+			- b12 def = neurologic impairments, decreased sensation in lower extremities + demyelination - animal food sources - 
+				- b12 is freed from food by pepsin, **haptocorrin protects b12 from degradation**, then pancreatic proteases split haptocorrin from b12
+				- intrinsic factor binds b12, then endocytosed by ileal cells
+				- in ileal, b12 binds to transcobalamin II , secreted into plasma. 
+				- b12 delivered to liver for storage + other areas that need it - normal storage is 3-4 yrs 
+				- most common cause - **malapsorption like pernicious anemia** or bacterial overgrowth, tapeowrms, diffuse intestinal dz like crohns 
+			- **pernicious anemia - antibodies target IF and parietal cells - they have lack of intrinsic factor**
+				- we see pancytopenia, neuropath, papillary atrophy of tongue, pH elevation, psychosis. 
+				- DX: we see anti-parietal cells and anti-if antibodies ;; schilling test is done, given oral radioactive b12 + IM b12 -> which should pass into urine as it's absorbed by GI. urine is tested 
+					- normal = high labeled b12 
+					- abnormal = lower b12 meaning it **stayed in the bowel, passed into feces and not absorbed**
+					- part 2 - repeat it after you give them intrinsic factor. normal reading shows pernicious anemia and abnormal still is malabsorption. 
+			- folate: intake depends on diet like veggies, fruits, cereals, etc. heat labile , destroyed by cooking
+				- absorbed in duodenum/jejunum, stored in liver for 3-4 mon 
+				- **carbon transfer into many biochem rxns, purine synthesis to DNA synthesis**
+				- most common is poor diet, decreased absorption like celiac, ibd, etc
+				- or increased requirement like lactation, pregnancy etc. 
+				- folate antag - methotrexate, phenytoin, ocp, trimethoprim 
+			- inc destruction in marrow. 
+			- CBC - decreased hb, hematocrit, rbc count, **high MCV**, +/- decreased WBC, platelets 
+		- DX tests - check for deficiencies
+			- b12 v folate def - measure both bc they can coexist .... if ambiguous , measure homocysteine(b12 is also here , but folate is also here. deficiency is for both to elevate. ) + *mma(ONLY B12 would convert this to succinyl coa, so this will make MMA instead in deficienc*y)
+			- if folate is given when b12 is deficient - anemia may be reversed but neuro problems will persist 
+		- **macrovalicytes - oval teardrop macrocytes, anisopoikilocytosis, large platelets, nucleated RBCs, large neutrophils, hypersegmented (usually 2-3+ too many ) neutrophils**
+		- we have immature band giant in neutrophils 
+		- bone marrow - has dysplastic changes - abnormally large RBc/WBC precursors
+	- non megaloblastic - **problem OUTSIDE of the bone marrow**
+		- hypo-proliferative decreased reticulocyte prod (excess alc use, liver dz lipid disorders, hypothyroidism, myelodysplasia)
+		- hyper-proliferative increased reticulocyte production (hemorrhage/hemolysis)
+normal/dereased - round macrocytes - no hypersegmentation on blood smear 
+- bone marrow examination -> megaloblastic change -> suspect treatable 
+inadequate reticulocyte response - **think thing that directly impact the bone marrow - which is megaloblastic changes, suspecting b12/folate, rbc folate stuff or primary stem problem like aplastic anemia**
+if the response is adequate reticulocytes - think more peripheral destructive category 
+
+---
+- microcytic anemia -
+	- iron def - poor intake/inc req, malabsorption 
+		- should be top of our differential - some are asymptomatic, signs and symptms - pica, koilonychia (indentation of fingernails), angular chelitis, smooth tongue/glossitis
+			- chronic blood loss most common in USA (other things are like low diet, malabsorption, inc demand... also be aware that breast milk is low in iron so you can get predisposition to this)
+			- evaluate tests: 
+				serum iron - iron bound to transferrin in bloood ; normal 60-170 ug/dL 
+				TIBC - amount of transferrin available for binding iron, the capacity is higher. 250-370 ug/dl 
+				% sat = amt of transferrin bound to iron - this is a percentage, 20-50 is normal 
+				ferritin - indirect indication of iron stores, 20-200 ug/dl ; general infalmmatory marker too - if you have someone with iron def, but something else going on, it might be driving it up via a diff mechanism 
+		- chronic infection/inflammation - anemia of chronic dz 
+		- neoplasia - anemia of chronic dz 
+		- stages of iron def anemia
+			- depletion of storage iron - low ferritin, high TIBC 
+			- depletion of serum iron : low iron + % saturation - bone marrow doesn't have enough iron to put into cells 
+			- normocytic anemia - 
+			- microcytic hypochromic anemia - variant in size .. **note - platelet count inc bc elevated erythropoietin will cross rxn with thrombopoietin receptors on megakaryocytes, bystander rxn with production up.**
+	- anemia of chronic dz - usually mild and moderate - normocytic/microcyti or something else - 2nd most common type of anemia, common in hospitals - 
+		- note - regardless of cause, the common mechanism is improper iron transfer with iron trapped in bone marrow macrophages, inhibiting / suppressing erythropoiesis by cytokines hepcidin 
+			- blocking the transfer of iron from macrophages into the cells - cannot be used normally. 
+			**serum iron is decreased but the TIBC is also decreased!!!** increased ferritin!! plenty of storage iron, just can't use it! 
+	- sideroblastic anemia - faulty incorperation of iron into that protoporphyrin ring. 
+		- ring of extra iron unincorperated and unassociated with any heme !!! **"ringed sideroblasts"**
+			- inc ferritin, iron,%saturation but dec TIBC 
+		- lead toxicity , zinc, arsenic, - lead interfeers with heme synthesis + iron - 
+			- neuro changes, gi upset, gingival lead line 
+			- see sideroblastic hcanges, but not guaranteed in every person 
+			- strong association between kids and this 
+		- B6 def, inherited, can also be myelodysplastic syndrome 
+		- dimorphic rbc population - some normochromic and normocytic and others hypochromic, microcytic
+		- **we see pappenheimer bodies** - see them without a stain like howell jolly bodies, but are diff bc **not as dark purple and round - irregularly shaped and made up of iron**
+		- basophilic stippling seen 
+		- DX: bone marrow biopsy to look for ringed sideroblasts and maturing RBC
+
+
+![[Screenshot 2025-07-14 at 3.34.00 PM.png]]
+![[Screenshot 2025-07-14 at 3.34.23 PM.png]]
+- 
+- Myelophthisic anemia - umbrella end result 
+	-bone marrow replaced by non-hematopoietic elements - fibrosis, metastatic cancer, granulomatous infection - due to some neoplasm? can also happen due to some storage disorders or other than that 
+	peripheral blood smear shows leukoerythroblastosis - immature left shifted granulocytes, nuc RBCs. teardrops 
+	- some splenomegaly + / - hepatomegaly 
+	- hematopoietic precursors released too early + teardrop shape from squeezing thru that bone marrow into the blood
+	- DX: need bone marrow biopsy - replacement of normal bone marrow with fibrosis and metastatic adenocarcinoma can also replace. 
