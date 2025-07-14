@@ -171,4 +171,108 @@ hereditary elliptocytosis- AD
 	- all diff shapes of rbcs 
 	- unusual thermal sensitiviy 
 	- also in burn trauma seen 
-- 
+
+![[2c. Red Blood Cells III-Hemoglobinopathies and Thalassemias_Rinker_PPT.pdf]]
+
+abnormal hemoglobins - hemoglobinopathies are inherited, usually single aa substitution in globin chain, moderate to severe anemia
+- might be sporadic in one family seen. too many variants of hbs 
+recall normal hb are hbA, hbF, hbA2
+- hbA - alpha 2, beta 2, most of it 
+- hbF - alpha 2, gamma 2 ; 2% in adults , be increased in adults beta thalassemia or HbSS
+- HbA2 - alpha 2 delta 2 , 1.5-4% of normal adult hb
+	- beta thalassemia or megaloblastic anemia : increased 
+	- decreased: iron def, sideroblastic anemia 
+
+electrophoresis is used to look at hb makeup
+- in basic ph, types of hb would migrate together. like A2 and C for instance 
+- you need to repeat on acidic pH 
+HPLC - high performance liquid chromatography - they elute from ion exchange column with different things 
+
+hb A- > hb S - structural abnormality in hb beta chain due to point mutation - glutamate replaced by valine 
+- polymerization in low o2 states
+- 10% ppl of african descent, protective against malaria 
+heterozygous - has sickle cell trait Hb AS - completely normal but inc risk of renal medullary carcinoma
+- Hb A 60% - still A dominant, more overrepresented bc more stable 
+- Hb S 40% 
+- <2 HbF and 1-4 HbA2 as normal 
+homozygous - sickle cll anemia Hb SS - sporatic pain, thrombosis, splenic sequestration, avascular necrosis of femoral head, precipitated by stresS: dehydration, hypoxemia, acidosis, infection
+- profound hemolytic anemia
+- HbS 85%+ ; does not have HbA - **has 0% of this!!!**
+- you might see some hbA in that lane of electrophoresis 
+membrane changes - increase adhesiveness of rbcs - > occlusions, sickling = reversibly if debris of hypoxia and polymerization is mild can reverse. but in irreversible sickle in higher state, we see 
+- DX: sickling test - poz is sickling to reducing agent 
+- solubility test - lysis of RBC when exposured to reducing agent 
+- electrophoresis - hbSS - actually quannitative too
+	peripheral blood smear - high degree anisopoikilocytosis + sickle cells + target cells
+	high mag - we see howell-jolly bodies (without spleen) + sickled cells. 
+		howell-jolly bodies - due to chronic occlusion of splenic cords + sinusoids by sickled rbcs, by the end of childhood we get asplenia - prone to infection by encapsulated bacteria
+		**gamma gandy bodies- area of spleen with fibrosis + ca / fe deposits** - splenic hemorrhage seen - and some calcification 
+- in Hb SS dz sickle cell - **hemoglobin F is protectiv ein first few months**
+	- acute exacerbations managed with transfusion 
+	- hydroxyurea inc hb F to protect
+	- pain management + bone marrow transplant is curative. 
+
+---
+HbC; lys instead of glutamate in b-chain
+- heteroxygous for the hb C trait, 50% C and 50% a 
+- some target cells 
+homozygous hb CC - hemoglobin C dz
+- clinically asymptomatic - peripheral blood smear - numerous target cells 
+- intracellular crystals - **huge chunky mass of all the precipitated hb C on one side of the rbcs**
+- 90% HbC, 0% Hb A , 7% Hb F etc. 
+
+double heterozygosity for hb S + C = Hb SC
+- intermediate clinical severity between SS and CC 
+- many target cells, mild sicling and 50% S 50% C
+
+---
+thalassemia - normal hb is produced but not in good quantities
+a-thalassemias affected alpha - alpha globin reduction problem 
+- 16 chromosome, each has 2 gene copies, so we have total of 4 gene copies
+- usually due to deletions - excess unpaired chains - higher amount of deletions - more severe
+	- normal - > silent carrier -> alpha thal. trait, 2 del on one gene or one on each. (mild microcytic hypochromic anemia) -> HbH dz (only one left, hemolytic anemia) -> hb Barts dz (hydrops fetalis)
+		- cis alpha thalassemia trait - more common in asian
+			- trans - on african populations 
+			- peripheral blood smear - mild hypochromia, anisocytosis, target cells. normal or mildly decreased HbA2 
+			- mainly dx of exclusion 
+		- hb h disease - common in asia, low MCV, deletion of 3 chains, high affinity of o2 but not efficient for delivery, p
+			- prone to oxidation + precipitation - dmg to rbcs 
+			- fast moving hb 
+		- Hb barts - unpaired y-globin makes hb barts
+			- high affinity for o2 
+			- electropheresis fast moving hb
+			- fetal demise but we can help with intrauterine transfusion/bone marrow transplatn  
+- newborns - excess unpaired y-globin makes y4 tetramers - hb barts
+- non-newborns excess unpaired b-globin makes b4 ttramers - hb H 
+
+b-thalassemias - affected b chain  - 
+- mediterranean, africa, SE asia
+- excess a-chains precipitate bc unpaired
+- chromosome 11 - each chromosome has ONE copy, 2 total copies coding for b-chain 
+- usually due t o point mutations + loss of heterogeneity 
+	- b0 mutations = absent synthesis 
+	- b+ mutations = reduced b synthesis 
+	- all Hb A2 rises, and HbF increases with severity 
+- minor = trait = one heterrozygous for null or + 
+	- asymptomatic typically , mild/no anemia, microcytosis, RBC up 
+	- peripheral blood smear - mild hypochromia, microcytosis, anisocytosis, target cells + basophilic stippling 
+	- mildly elevated HbA2 
+- intermedia - both + 
+	- symptoms present 6-9 mon after birth after switch from F to A. 
+	- nucleated rbc, target cells etc. 
+- major = cooleys: one + / 0 or both null 
+	- most severe - no HbA 
+	- severe anemia + transfusion dependent 6-9 mon post birth 
+	- anisopoikilocytosis, nucleated rbcs, basophilic stippling
+	- **bone marrow expansion - we see hairly like projections, frontal bossing/prominence of forehead/eyebrow + splayed teeth**
+	- hepatosplenomegaly bc of extramedullary hematopoisis 
+	- iron od from freq transfusion 
+
+ppl with combined Hb S and a-thalassemia - not as clinical severe as HbSS... 
+- basically b-chain abnormality and a-chain abnormality
+- better.
+- **bad b-chains made have fewer a-chains to pair up with, so fewer HbS in circulation!** 
+ppl with combo S and b-thalassemia 
+- way worse and same as hb SS. 
+- inc proportion of Hb S compaired to someone with sickle alone. 
+![[2d. Red Blood Cells IV-Impaired RBC Production_Rinker_PPT.pdf]]
