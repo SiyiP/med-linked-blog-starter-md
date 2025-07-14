@@ -154,8 +154,21 @@ autoimmune hemolytic anemias
 	- IgM - big blumps of rbcs can be formed
 
 rbc membrane defects
-hereditary spherocytosis- AD!!! more fragile and more suseptible to stress . clinical stability and severeityv
+hereditary spherocytosis- AD!!! more fragile and more suseptible to stress . clinical stability and severeity varies 
 - defect in cytoskeletal proteins 
 - ankyrin, spectrin
 - clinical signs - anemia, splenomegaly, jaundice, cholelithiasis
-- stable course punctuated by hemolytic crises / infection, or aplastic crises like parvovirus b19 
+- stable course punctuated by hemolytic crises / infection, or aplastic crises like parvovirus b19
+- no central pallor; mchc increases
+- using the osmotic fragility test, you see they're more prone to rupture in hypotonic solution 
+- TREAT: splenectomy - 
+- asplenic pts - need strep pneumo vaccines - **we might also see howell jolly bodies, remnant of dna that is left there by a lack of the spleen!**
+
+hereditary elliptocytosis- AD
+- defect in spectrin, making them more elongated. 
+- spectrin normally are in dimers but this is interrupted. variable severity 
+- spectrinn defect + deficiency = **hereditary pyropoikilocytosis** - basically not only dimers don't form, but you also get low levels of spectrin production
+	- all diff shapes of rbcs 
+	- unusual thermal sensitiviy 
+	- also in burn trauma seen 
+- 
