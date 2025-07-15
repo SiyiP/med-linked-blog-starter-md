@@ -43,7 +43,7 @@ CBC- most common lab - will do concentration of wbc + platelets + rbc indices
 - mean cell vol MCV = avg size of rbcs fL 
 - MCH - mean cell hb - avg amt of hgb in each RBC in pg
 - MCHC concntration - avg amt hb per certain concentration of rbs
-- red cell distrib wideth RDW - amoutn of variability, higher is more variability % 
+- red cell distrib width RDW - amt of variability, higher is more variability % 
 
 microcytic - small rbcs, mcv low
 normocytic - norm mcv

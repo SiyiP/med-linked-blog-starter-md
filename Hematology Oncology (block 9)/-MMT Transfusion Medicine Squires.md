@@ -200,7 +200,7 @@ hemolytic dz of fetus + newborn HDFN
 			- be4 28 wks, Fetal Maternal Hemorrhage is rare, volume small so 1 dose RhIg sufficient
 			- at delivery check approx volume of fetal maternal hemorrhage in case:
 				- rosette test - **big or small? if small, one dose is ok, but if large, more needed**
-				- kleihauer-betke test - how many doses of RhIG are necessary? 
+				- kleihauer-betke test - how many doses of RhIG are necessary? the quantitative test that we look to the volume of fetal rbcs
 	- if rh poz mom, screen poz or rh neg and screen poz, we would eval -> they already got an antibody. what antibody is positive? some antibodies can cause HDFN and some don't 
 		- if IgG v IgM... then do a maternal titer if IgG antibody. higher titer = more severe HDFN. more likely to cause fetal risk. 
 		- if titer <8 repeat titer. 8+ , fetus affected 
