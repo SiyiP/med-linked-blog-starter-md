@@ -30,6 +30,12 @@ wbc development
 - myeloid stem cells = everything other than lymphocytes. 
 
 leukocytosis - numerical inc in wbc count 
-- neutrophilia - 
+- inc due to normal immune response or a neoplastic bone disorder 
 leukopenia - def of wbc 
-- 
+- production failure or accelerated destruction 
+- classified by degree of severity 
+- inadequate granulopoiesis - decreased granulocyte prod in marrow - hypoplasia
+	- aplastic anemia - 
+	- external suppression by drug 
+	- **myelodysplastic syndrome - a lot of production, but doesn't make it into circulation bc ineffective maturation** 
+	- 
