@@ -43,7 +43,7 @@ CBC- most common lab - will do concentration of wbc + platelets + rbc indices
 - mean cell vol MCV = avg size of rbcs fL 
 - MCH - mean cell hb - avg amt of hgb in each RBC in pg
 - MCHC concntration - avg amt hb per certain concentration of rbs
-- red cell distrib width RDW - amt of variability, higher is more variability % 
+- red cell distrib width RDW - amt of variability, higher is more variability % ;
 
 microcytic - small rbcs, mcv low
 normocytic - norm mcv
@@ -265,6 +265,7 @@ b-thalassemias - affected b chain  -
 	- severe anemia + transfusion dependent 6-9 mon post birth 
 	- anisopoikilocytosis, nucleated rbcs, basophilic stippling
 	- **bone marrow expansion - we see hairly like projections, frontal bossing/prominence of forehead/eyebrow + splayed teeth**
+		- frontal bossing also seen in sickle cell dz 
 	- hepatosplenomegaly bc of extramedullary hematopoisis 
 	- iron od from freq transfusion 
 
@@ -369,9 +370,9 @@ if the response is adequate reticulocytes - think more peripheral destructive ca
 		- DX: bone marrow biopsy to look for ringed sideroblasts and maturing RBC
 
 
-![[Screenshot 2025-07-14 at 3.34.00 PM.png]]
-![[Screenshot 2025-07-14 at 3.34.23 PM.png]]
-- 
+![[microcytic anemias iron studies.png]]
+![[microcytic anemias CBC.png]]
+-  red cell distribution width = higher% = higher variability , RDW
 - Myelophthisic anemia - umbrella end result 
 	-bone marrow replaced by non-hematopoietic elements - fibrosis, metastatic cancer, granulomatous infection - due to some neoplasm? can also happen due to some storage disorders or other than that 
 	peripheral blood smear shows leukoerythroblastosis - immature left shifted granulocytes, nuc RBCs. teardrops 

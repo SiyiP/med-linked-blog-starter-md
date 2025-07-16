@@ -157,7 +157,7 @@ plasma
 - apheresis - they have all the coagulation factors in it!!! 
 - used for active bleeding due to **multiple coagulation factor deficiencies like liver dz**
 - pt with a single coagulation factor deficiency for which no manufactured coagulation factor is available - 8,9,7 are commercially produed..
-- **rapid reversal of warfarin** - but nowadays prothrombin complex concentrate is now recommended for this... or reverse with IV vitamin K 
+- **rapid reversal of warfarin** - but nowadays prothrombin complex concentrate is now recommended for this... **or reverse with IV vitamin K** 
 cryprecipitate - made from plasma frozen within 8 hrs of collection - they are cold-insoluble proteins
 	has factor 8(not used to treat hemophilia A bc we already got factor 8 concentrate), 13, vWF, fibrinogen 
 	- to treat decreased or abnormal fibrinogen pts <100 
