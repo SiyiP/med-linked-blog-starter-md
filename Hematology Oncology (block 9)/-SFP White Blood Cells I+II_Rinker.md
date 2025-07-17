@@ -4,7 +4,7 @@
 framework
 ![[WBC neoplasm framework]]
 leukemia - from the bone marrow - progression marked by abnormal cells in blood + bone marrow- extended to peripheral blood - 
-- classified acute - immautre blasts - block in stem cell maturation/differentiations = leading to neoplastic blasts. 
+- classified acute - immautre blasts - block in stem cell maturation/differentiations = leading to neoplastic blasts. **blocked maturation**
 - chronic = mature cells = block occurs later on in development 
 - myeloid or lymphoid cells arise from these 
 	- myeloid - think everything that's not like lymphocytes like t/b/nk cells. 
@@ -64,7 +64,7 @@ common traits
 ---
 myelodysplastic syndrome - MDS. 
 - **clonal hematopoietic stem cell dz - dysplasia in 1+ hematopoietic cell, at least 10% of total cells**
-- ineffective hematopoiesis, peripheral cytopenias 
+- *ineffective* hematopoiesis, peripheral cytopenias 
 - inc risk to DEVELOP into acute myeloid leukemia 
 MDS - typically in older adults but rare in younger
 - risk - higher to progress into AML with inc % of blasts
@@ -95,4 +95,104 @@ MDS - classification - not critical to memorize all the terminology for subcateg
 - key - inc number of blasts = more aggressive and worse prognosis . auer rods. = will always make the disease more serious and bump down the prognosis to worse
 - we newly have separate categories for pts with separate genetic abnormalities 
 
+
+
 ![[Neoplastic White Blood Cells II-Myeloproliferative Neoplasms, Immature Lymphoid Neoplasms_Rinker_PPT (1).pdf]]
+myelo*proliferative* neoplasms 
+- effective maturation, but **abnormally low apoptosis**, but high proliferation. 
+- underlying etiology - still a clonal stem cell disorder , but are characterized by **EFFECTIVE maturation** in the bone marrow instead of ineffective like in MDS
+	- bone marrow - hypercellular, increased amount of myeloid lineages 
+- peripheral blood has cytosis - more type of cells - **unlike MDS, where you end up with cytopenias** peripherally
+- associated with translocations/point mutations 
+	- activated tyrosine kinase receptors+**tyrosine pathways in general**
+	- enhanced expression of proteins participating in anti-apoptotic pathways 
+common features - they all **have the potential to permeate at the same end point. - termination of bone marrow failure**: happens via fibrosis, ineffective hematopoiesis, transformation to acute leukemia. 
+- CML - chronic myeloid leukemia - most common, predom in adults, but can be in kids
+	- 20-40% asymptomatic but fatigue, weight loss, bone pain, splenomegaly, night sweats
+	- labs - CBC - usually leukocytosis , 
+	- BEST TEST DX: **t(9;22) BCR-ABL1** - enhanced tyrosine kinase activity of BCR/ABL1 causing constitutive activity -> proliferation 
+		- PCR monitoring most sensitive 
+		- note - this protein is a fusion protein but many different types can be made with sqme translocation - this is on the larger side bigger than the one in ALL. 
+	- low LAP score - not in our tests
+	- dz course - chronic -> accerlerated -> blast phase 
+		- chronic phase - in periphery, we see leukocytosis, <10% blasts, no dysplasia, basphilia, and granulocytosis at all stages of maturation - left shift, basophilia (throwback, no benign causes of basophilia), thrombocytosis too -
+			- hypercellular bone marrow , granulocytes in all stages of maturation, more myeloid than rbc 
+			- **dwarf megakaryocytes seen**
+			- blasts <10%
+			- TREAT: tyrosine kinase inhibitors TKIs - imatinib 
+		- accerlerated phase - <20% blasts, but more. evidence of disease progression **in spite of treatment** = with inc wbc, thrombocytopenia or cytosis, bone marrow **fibrosis**, additional genetic abnormalities
+			- TREAT: switch to diff TKI 
+		- blast phase >20% blasts in periphery or marrow - basically acute myeloid leukemia, but we still consider it part of the CML spectrum ; **25% of these blasts proliferating are acute lymphoblasts instead; acute lymphoblastic leukemias B>>T** -> thought that the genetic abnormalities build up on an even earlier phase  
+			- treat as acute leukemia if all other TKI fail + bone marrow transplant 
+- polycythemia vera - primary issue = inc rbc prod independent of normal mechanisms
+	- hyperviscosity like headaches, dizziness, flushing, redness, htn, thrombosis 
+	- PLATELET dysfunction + pruitis **after bathing** bc temp increase leads to mast cell degranulation. inc in other types of cells 
+	- **JAK2 mutation poz in 95% of cases = activating tyrosine kinase!**
+		- this pathway is always active even when not binded with erythropoietin 
+	- bone marrow = **hypercellularity of all 3 cell lines**, no dysplasia (effective normal maturation unlike MDS), iron stores decreased 
+	- progression - spent phase = marrow is fibrotic, -> acute myeloid leukemia up to 20% ppl 
+	- TREAT: phlembotomy + antithrombotics like aspirin, JAK2 inhibitors too 
+	- prognosis - good survival 10+ yrs .... death from thrombosis/hemorrhage
+- secondary polycythemia - underlying process, not neoplastic but **physiologically appropriate**
+	- chronic pulm/cv dz
+	- high o2 affinity hemoblogbinopathy 
+	- inc carboxyhb with smoking and methb , or resistance at high altitude
+	- **physiologically inappropriate** - adrenal cortical hypersecretion, hydronephrosis with inc erythropoietin, or tumor making erythropoietin
+	- relative polycythemia - meaning decreased plasma volume, like if you lose lots of fluids, recall ur hematocrit's a ratio, so it'll look bigger
+essential thrombocythemia -
+- abnormally high platelet production - some abnormally large. 
+- clinical findings = giant platelets close in size with red cell
+- 50+% are asymptomatic, but we might see thrombosis + hemorrhage
+- JAK2 mutations + CALR, MPL mutations all jakstat pathway 
+- bone marrow = see staghorn nuclei hypersegmented megakarycytes which are also a bigger number now 
+- TREAT: antithrombotics + jak2 inhib
+- progression - spent phase after years, marrow gets fibrotic. and progression happens to acute myeloid leukemia , **but this is lowest risk, <5%**
+- prognosis - good typically peaceful with some interruptions of thrombotic episodes
+
+primary myelofibrosis - prolif of granulocytes and megakaryocytes with depo of fibrosis 
+- like 30% + asymptmatic but you get abdominal pain, thrombosis, hemorrhage, splenomegaly 
+- peripheral blood - some left shift, 
+	- early: inc platelets + wbc
+	- late: cytopenias, tear drop RBCs, leukoerythroblastic with left granulocytes + nucleated rbcs 
+- JAK2, CALR, MPL
+- bone marrow: 
+	- pre-fibrotic / cellular phase: hypercellular marrow, inc granulocytes + inc/abnormal **clustered circular lobed megakaryocytes**
+	- fibrotic phase - inc fibrosis + **atypical megakaryocytes too**
+	- prognosis - worse, 3-7 yrs fibrosis, death from bone marrow failure like hemorrhage/infection, 30% get AML
+	TREAT: antithrombotics, JAK2 inhib, transplant 
+
+---
+immature lymphoid neoplasms 
+maturation block after hematopoietic stem cell has chosen to become lymphoid 
+- all start in bone marrow then travel to blood then the periphery with b to the lymph nodes, t to the thymus 
+precursor b cell neoplasms - broken down due to the lineage/genetic abnormalities 
+B-ALL - **b lymphoblastic leukemia**
+- most common malignancy of kids
+- 20+% blasts in peripheral blod + bone marrow
+- abrupt onset: fatigue, fever, bleeding, prolonged infection, bone pain, CNS involvement (**blasts will go into the nervous system)** lymphadenopathy/hepatosplenomegaly
+- peripheral blood : has leukocytosis with lymphoblasts - huge - 
+- bone marrow - hypercellular, sheets of lymphoblasts replacing ; don't tend to happen in lymph nodes
+- morphology - **t and b the same blasts** - intermeiate in size, **very high nuc:cyt ratio!!1 scant agranular cytoplasm, no auer rods**
+	- not always possible to tell them apart based on morphology - look at genetics 
+- prognosis - overall good, but things associated with worse:
+	- very young <2 yrs, older age 10+ yrs
+	- high wbc at dx, and **philadelphia chromosome t(9;22)** - same thing in CML
+	- better prognosis with hyperdiploidy 
+THE BEST WAY TO TELL APART IN ACUTE LEUKEMIAS
+- **flow cytometry - you can test for markers**
+	- Immaturity markers: CD34, TdT, HLA-DR - 35 and TdT = **not as specific but tells you that it's a blast**
+	- b cell line - **CD19**, CD22, **CD79a**
+	- usually poz for CD10 
+- lymphoblast - **PAS stain**
+- myeloblasts: MPO, SBB, chloroacetate esterase CAE, NSE nonspecific esterase 
+
+T-ALL t lymphoblastic leukemias
+- 15% of childhood ALLs = more common in adolescents 
+- 20+% blasts in peripheral and/or bone marrow - can happen in both lymph nodes (**lymphomas**) and bone marrow
+	- maeks mediastinal mass with thymus involvement - 
+- leukocytosis w/ lymphoblasts, anemia, neutropenia, thrombocytopenia all in periphery 
+- flow cyt
+	- markers; CD34, TdT imaturity 
+	- T lineage - CD3, CD2, CD5, CD7 = **in the thymus they get CD4 and CD8... this is why we might have these! or both or neither!!!!**
+- cytochem stains = lymphoblasts - PAS 
+- cytogenetics - no major associations 
