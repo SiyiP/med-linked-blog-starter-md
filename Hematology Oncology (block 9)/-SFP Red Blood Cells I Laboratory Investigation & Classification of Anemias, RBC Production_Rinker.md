@@ -161,7 +161,7 @@ rbc membrane defects
 - stable course punctuated by hemolytic crises / infection, or aplastic crises like parvovirus b19
 - no central pallor; mchc increases
 - using the osmotic fragility test, you see they're more prone to rupture in hypotonic solution 
-- TREAT: splenectomy  
+- TREAT: splenectomy , bc the spleen will remove the fragile cells.  
 - asplenic pts - need strep pneumo vaccines - **we might also see howell jolly bodies, remnant of dna that is left there by a lack of the spleen!**
 
 hereditary elliptocytosis- AD
@@ -356,12 +356,12 @@ if the response is adequate reticulocytes - think more peripheral destructive ca
 		- note - regardless of cause, the common mechanism is *improper iron transfer with iron trapped in bone marrow macrophages*, inhibiting / suppressing erythropoiesis by cytokines hepcidin 
 			- blocking the transfer of iron from macrophages into the cells - cannot be used normally. 
 			**serum iron is decreased but the TIBC is also decreased!!!** increased ferritin!! plenty of storage iron, just can't use it! 
-	- sideroblastic anemia - faulty incorperation of iron into that protoporphyrin ring. 
+	-  sideroblastic anemia - faulty incorperation of iron into that protoporphyrin ring. 
 		- ring of extra iron unincorperated and unassociated with any heme !!! **"ringed sideroblasts"**
 			- inc ferritin, iron,%saturation but dec TIBC 
 		- lead toxicity , zinc, arsenic, - lead interfeers with heme synthesis + iron - 
 			- neuro changes, gi upset, gingival lead line 
-			- see sideroblastic hcanges, but not guaranteed in every person 
+			- see sideroblastic changes, but not guaranteed in every person 
 			- strong association between kids and this 
 		- B6 def, inherited, can also be myelodysplastic syndrome 
 		- dimorphic rbc population - some normochromic and normocytic and others hypochromic, microcytic
