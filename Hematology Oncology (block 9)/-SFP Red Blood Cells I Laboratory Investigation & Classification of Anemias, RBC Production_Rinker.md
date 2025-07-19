@@ -46,6 +46,7 @@ CBC- most common lab - will do concentration of wbc + platelets + rbc indices
 - red cell distrib width RDW - amt of variability, higher is more variability % ;
 
 microcytic - small rbcs, mcv low
+- ==Microcytic anemia include iron deficiency anemia, thalassemia, sideroblastic anemia, and anemia of chronic disease.==
 normocytic - norm mcv
 macrocytic large mcv high
 hypochromia - low decreased hb in rbcs, mchc basically, central pallor > 1/3 , basically more of the clear zone. 
@@ -139,12 +140,11 @@ intracellular trophozites - ring shaped - immature
 extracellular gametocytes - banana shaped ; mature 
 
 
-autoimmune hemolytic anemias 
+autoimmune hemolytic anemias - ==normochromic, normocytic anemia with increased spherocytes.== - can most likely be after an illness! 
 - phagocytosis by macrophages in the reticuloendothelial systems.... 
 - peripheral blood - microspherocytes; fc receptors bind to the antibodies + eat it + remove sme of the rbc membrane, which reseals into the microspherocyte 
 - **direct antigobulin test - DAT/coombs test positive.** 
 	- basically wash and remove the rbcs, just has the floating proteins then id with monoclonal antibodies against igg and complements 
-- microspherocytes!! similar to different causes of extravascular hemolysis 
 - warm rxns - antibodies igG usually react to rbcs at room temp, opsonized by autoantibodies and cleared by spleen reticuloendothelial cells - extravasc hemolysis
 	- causes - idiopathic, sle, b-cell lymphomas, or drug induced. like methyldopa, penicillin, quinidine? hugee thing on immune complexes 
 	- splenomegaly seen too 
@@ -157,7 +157,7 @@ rbc membrane defects
 **hereditary spherocytosis**- AD!!! more fragile and more susceptible to stress. clinical stability and severity varies 
 - defect in cytoskeletal proteins 
 - ankyrin, spectrin, band 3 - involving defects in these guys 
-- clinical signs - anemia, splenomegaly, jaundice, cholelithiasis
+- ==clinical signs - anemia, splenomegaly, jaundice, cholelithiasis==
 - stable course punctuated by hemolytic crises / infection, or aplastic crises like parvovirus b19
 - no central pallor; mchc increases
 - using the osmotic fragility test, you see they're more prone to rupture in hypotonic solution 
@@ -352,10 +352,10 @@ if the response is adequate reticulocytes - think more peripheral destructive ca
 			- depletion of serum iron : low iron + % saturation - bone marrow doesn't have enough iron to put into cells 
 			- normocytic anemia - 
 			- microcytic hypochromic anemia - variant in size .. **note - platelet count inc bc elevated erythropoietin will cross rxn with thrombopoietin receptors on megakaryocytes, bystander rxn with production up.**
-	- anemia of chronic dz - usually mild and moderate - normocytic/microcyti or something else - 2nd most common type of anemia, common in hospitals - 
-		- note - regardless of cause, the common mechanism is *improper iron transfer with iron trapped in bone marrow macrophages*, inhibiting / suppressing erythropoiesis by cytokines hepcidin 
+	- anemia of chronic dz - ==usually mild and moderate - normocytic/microcytic== or something else - 2nd most common type of anemia, common in hospitals - 
+		- note - regardless of cause, the c==ommon mechanism is *improper iron transfer with iron trapped in bone marrow macrophages*, inhibiting / suppressing erythropoiesis by cytokines hepcidin== 
 			- blocking the transfer of iron from macrophages into the cells - cannot be used normally. 
-			**serum iron is decreased but the TIBC is also decreased!!!** increased ferritin!! plenty of storage iron, just can't use it! 
+			==**serum iron is decreased but the TIBC is also decreased!!!**== ==increased ferritin!! plenty of storage iron, just can't use it!== 
 	-  sideroblastic anemia - faulty incorperation of iron into that protoporphyrin ring. 
 		- ring of extra iron unincorperated and unassociated with any heme !!! **"ringed sideroblasts"**
 			- inc ferritin, iron,%saturation but dec TIBC 
@@ -365,7 +365,7 @@ if the response is adequate reticulocytes - think more peripheral destructive ca
 			- strong association between kids and this 
 		- B6 def, inherited, can also be myelodysplastic syndrome 
 		- dimorphic rbc population - some normochromic and normocytic and others hypochromic, microcytic
-		- **we see pappenheimer bodies** - see them without a stain like howell jolly bodies, but are diff bc **not as dark purple and round - irregularly shaped and made up of iron**
+		- ==**we see pappenheimer bodies** in sideroblastic anemia - have a lot of iron== - see them without a stain like howell jolly bodies, but are diff bc **not as dark purple and round - irregularly shaped and made up of iron**
 		- basophilic stippling seen 
 		- DX: bone marrow biopsy to look for ringed sideroblasts and maturing RBC
 

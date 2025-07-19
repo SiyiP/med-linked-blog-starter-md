@@ -47,6 +47,7 @@ myeloid blast. - **larger than lymphoid blasts, 3-4x size of rbc** more common -
 		- PAS+ stain
 		- one or more of platelet glycoproteins CD41, CD61, CD42b 
 favorable prognosis - acute promyelocytic leukemia w PML::RARA fusion 15;17, basically 50% have long term dz free survival! 15-30% overall survival
+	t(8;21), t(16;16), and t(15;17)
 bad prognosis - amls associated with myelodysplasia/late complications of cytotoxic therapies given for another disease = bad. 
 - alkylating drugs, ionizing radiation etc. 
 

@@ -1,8 +1,16 @@
 ![[1. Porphyrin Metabolism I and II_Dalton_NOTES (1).pdf]] #hemonc 
+deficiencies 
+Congenital erythropoietic porphyria: uroporphyrinogen III synthase
+Porphyria cutanea tarda: uroporphyrinogen decarboxylase
+Lead poisoning : -aminolevulinate dehydrase
+Hepatic jaundice: UDP-glucuronyltransferase
+
 Overview of porphyrin metabolism 
 A. Pyrrole structure - porphyrin is a part of that, pyrrole ring is 4 in each heme molecule corner
 ![[porphyrin structure]]major porphyrin in animas = heme. major in plants, there's chloropyll, they have mg coordination
 we have iron coordination
+
+
 
 B. Porphyrin input-output - 
 ![[Porphyrin input-output overview.png|506x245]]
@@ -122,7 +130,8 @@ all of these = **light sensitive, blistering of skin, light reactive forms of th
 			- you upregulate cyt P450 in order to proess MORE drugs, requiring MORE heme, like with cyt384, needing this so most heme depletion = 
 				- derepression of ALA synthase reactivates this pathway, making even more ALA + porphobilinogen PBG. 
 		- also terrible insomnia ):
-		- treatment - withdraw offending drugs. + administer hematin, which inhibits ALA synthase... and carb-rich diet which represses the same enzyme - like with glucose repressing ALA synthase. 
+		- treatment - ==withdraw offending drugs. + administer hematin, which inhibits ALA synthase... and carb-rich diet which represses the same enzyme== - like with glucose repressing ALA synthase. 
+			- Hematin is a therapeutic form of hemin that can be administered to individuals with Acute Intermittent Porphyria.  Hemin represses transcription of the ALA synthase precursor protein and allosterically inhibits activity of ALA synthase. Therefore, hemin reduces further formation of ALA and porphobilinogen, two neurotoxic substances that build up in AIP and cause significant symptoms.
 	ii. Congenital erythropoietic porphyria -> uroporphyrinogen III synthase - basically this is supposed to make the linear go to the tetrad cycle!!!
 		- what happens instead is spontaneously we make **uroporphyrinogen I, where the sidechains are NOT asymmetrical!!! APAPAPAP**
 			- this is LIGHT REACTIVE, but Hydroxymethylbilane, which accumulates at first before becoming light reactive uroporphyrinogen is NOT. 

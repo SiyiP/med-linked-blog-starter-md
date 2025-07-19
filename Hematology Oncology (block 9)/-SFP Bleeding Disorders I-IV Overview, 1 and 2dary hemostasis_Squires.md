@@ -127,6 +127,7 @@ inherited:
 
 acquired:
 - **Immune thrombocytopenic purpura ITP** - common!!!! - petechiae bruising in skin, epitaxis, gingival, GI/GU bleeding. rare intracranial hemorrhage! 
+	-  ==Gingival bleeding is usually seen in patients with **a platelet abnormality**==
 	- chronic ITP - in adults, mostly female. 
 		- not usually viral infection before; insidious, less likely to see bleeding early on 
 		- months to years duraction ... uncommon remission 
@@ -162,14 +163,15 @@ acquired:
 		- **RECALL *- immune complex ACTIVATES platelets*** = causing more aggregation!!! thrombosis! 
 	- other than that there's a ton of meds that will bring down platelet count, most common quinine 
 	- testing for HIT - there's platelet activation assays , looking for heparin-pf-4 antibody
-	- therapy - elmination all heparin exposure + move to wafarin or some other anticoagulant. after cessation, still ongoing risk for 30 days. 
+	- therapy - elmination all heparin exposure + move to warfarin or some other anticoagulant. after cessation, still ongoing risk for 30 days. 
 
 Qualitative defects (Inherited and Acquired)
 inherited:
 - glanzmann's thrombasthenia - aggregation function - when platelets connect with fibrin ; AR
-	- deficiency of GIIb/IIIa = **fibrinogen receptor** on the platelet membrane
-	- therefore it's a disorder of platelet aggregation, 
-	- sees neonatal period, bleeding can be SEVERE!!! everywhere. 
+	- ==deficiency of GIIb/IIIa= **fibrinogen receptor**== on the platelet membrane
+	- symptoms consistent with a defect in primary hemostasis - **epistaxis**
+	- therefore it's a ==disorder of platelet aggregation,== 
+	- ==sees neonatal period, bleeding can be SEVERE!!! everywhere.== 
 	- TREAT: normal platelet transfusion
 	- Lab testing - **BLEEDING TIME prolonged**, everything else normal. (PT/PTT) ; no aggregation to anything but **ristocetin**
 - storage pool deficiencies - secretion issues, platelets adhering will release factors to call other platelets- recall platelets have 4 types of granules
@@ -250,6 +252,8 @@ Summary slide:
  Further, based on the interpretation of the PT and PTT, be able to construct a differential diagnosis 
  Some of the most important coagulopathies include:
  - Hemophilia A, B, C 
+	 -  Hemophilia A and Type 3 vWD would generally show severe bleeding and both would demonstrate a _prolonged aPTT._
+	 - 
  - While less common, the various inhibitors (autoantibody and alloantibody to factor VIII and Lupus inhibitor, are also important)
  Fibrinolysis is an important condition that may result in severe bleeding abnormalities - what causes that? dic/fibrinolytic bleeding and all that surgery that causes it 
 
@@ -262,11 +266,12 @@ PT and PTTs are both huge for secondary hemostasis
 		- inherited mild def of II, V, X, I. very rare too
 		- liver dz - liver mild to moderate causes prolonged PT bc of decreased syntheiss
 		- vita K def - **remember this is a cofactor in synthesizing 2,7,9,10** (malnourishment)
-		- wafarin - a vita K antagonist. usually causes prolonged PT, but in more severe cases of OD, both 
+		- ==warfarin - a vita K antagonist. usually causes prolonged PT==, but in more severe cases of OD, both 
 	- if it doesn't correct - inhibitor
 		- inhibitor of factor 7, or 2,5,10. very rare.
 
 - Normal PT; ↑PTT - 12,11,9,8 - before the mixing study - always ask: **are they on heparin?**
+	- ==**huge note - only heparin measured by PTT**==
 - does correct? - think factor def, HMWK/prekallekrein, or vWD (bc it's a factor 8 thing, causing a factor 8 diminishment)
 	- note - 12, prekallekrein and HMWK - **don't cause bleeding**
 	- in males - 8 and 9 are common def! 
