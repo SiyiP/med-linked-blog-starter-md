@@ -274,12 +274,189 @@ folllicular lymphoma - comprised of germinal center derived b cells
 - prognosis: lower grade = longer survival, but not curable bc mature b cells (not as chemosensitive, harder to eradicate)
 	- similar to CLL, might progress to diffuse large b cell lymphomas 
 
+marginal zone lymphoma - arise from the outiside of follicles, in many areas of body 
+- MALT lymphomas - extranodal marginal zone lyphoma of mucosa-associated lymphoid tissue - unique; but can appear in spleen etc. 
+	- extranodal, of small heterogenous b cells
+	- develop de novo or with **chronic inflammatory conditions - H pylori + hashimotos, sjogrens syndrome**
+	- treating H. pylori -> resolving this potentially! 
+	- female 61 yrs old mainly 
+	- infiltration of small heterogenous lymphocytes - with invasion of overlying epithelial surface
+		- going into gastric glands - lymphoepithelial lesions 
+		- bone marrow involvement uncommon. 
+		- non-specific b cell immunophenotype - don't aberrantly express cd5, cd10 = these are pertinent negatives
+	- not genetically specific either, depends on site. 
+	- prognosis = good , even less aggro than chemo. treat with h. pylori 
+
 higher grade mature b lyphomas
 burkitt lymphomas - 
 - endemically - large jaw mass, malarial distribution in africa, brazil , new guinea, kids, 
 - sporadic form - kids/young adults immunodef like HIV, we see ileocecal valve + gonads 
 - lymph node architecture - loss of this, monotonous sheets of tumor cells + high prolif
 	- **starry sky appearance bc inc tangible body macrophages** that are trying to clean up the other cells! 
-	- avg lymphocytes - 
+	- avg lymphocytes - basophilic cytoplasm, cytoplasmic vacuoles, inconspicuous nucleoli
+	- bone marrow involvement is frequent in immunodeficiency cases 
+- germinal center differentiation - similar to follicular lymphoma - poz for CD10.... 
+	- also poz for Ki-67 - meaning very high proliferation index
+	- pertinent negative for Bcl-2 , which sets it apart from follicular lymphoma which is poz for bcl-2 
+- genetics (8;14) - MYC oncogene chromosome 8, and IgH gene chromosome 14 
+	- very responsive to chemo, 80-90% survival! good at curing this! 
+
+lymphoplasmacytic lymphoma - 
+- proliferation of **clonal b lymph with plasmacytic differentiation**
+	- more plasmacytoid ones + clonal plasma cells
+- protein electrophoresis is crucial - ppl have monolonal gammopathy in serum 
+	- igM is very big, and can stick together - **hyperviscocity of blood**
+	- visual, neuro impairment, renal dysfunction 
+- peripheral smear/aspirate - bone marrow - involved usually!!! more leukemic presentation
+	- small lymphocytes w/ minimal cyt
+	- plasmacytoid lymphocytes = eccentric nuc, more cytoplasm
+	- plasma cells = eccentric nuc + basophilic cytoplasm 
+	- bone marrow core biopsy - usually same cells in nodular, loose or interstitial pattern with inc mast cells
+- when there's rarely lymph node involvement- in paracortical, sinusoid, or diffuse, variable pattern. 
+- splenic - white pulp expansion mostly 
+- similar phenotype to marginal zone lymphomas - CD19, cd20, cd22, cd79a, pax5 all normal
+	- negative for cd5, cd10 so nonspecific
+	- plasma cells = CD138, CD38 , mum-1 
+	- light chain restriction 
+- genetics = myd88 mutation!!! - essential to differentiate from marginal zone lymphoma 
+- prognosis - indolent, median survival is 5-10 yrs 
+
+hairy cell leukemia - uncommon, older men, unique!!! 
+- massive splenomegaly abdominal discomfort
+- **cytopenia/pancytopenia uniquely!** - fatigue + recurrent infections! 
+- peripheral blood - larger than lymphocytes
+	- oval to bean shaped nuclei 
+	- disperse chromatin ; more cytoplasm than others have - fried egg appearance. 
+	- pale blue cytoplasm with hairs!!!
+- spleens - have **red** pulp expansion , white pulp regression + blood lakes
+- livers - have small lymphocyte clusters in sinuses + portals + blood lakes 
+	- immunophenotype - all have cd19,20, 22, 79a, pax-5
+	- **pertinent poz - traid of CD11c, CD25, CD103**
+	- also poz for cyclin d1, annexin a1
+	- pertinent negs cd5, cd10 
+	- cytochemistry - **TRAP marker - here - red staining in cyt of hairy cells**
+	- BRAF mutation. - activates this with downstream mapk, proliferation etc. **therapy with BRAF inhibitors**
+- cellularity is variable in these. some people can have ***aplastic* marrow + we only see it when staining cyclin d1 or cd20**
+	- also reticulin fibrosis possible 
+- prognosis - responds good to BRAF inhibitors + chemotherapies 
 
 ![[Neoplastic WBC IV-Large BCell Neoplasms, Plasma Cell Neoplasms, Mature TCell Neoplasms, Hstiocytic Disorders_Rinker_PPT (1).pdf]]
+"rest of the lymphomas"
+diffuse large b-cell lymphomas 
+- some of the smaller ones can transform into this 
+- most common non-hodgekin lymphoma
+- most commonly in adults, nucleus same size or larger than a macrophage nucleus; 3x the size of normal lymphocytes
+	- open/clear chromatin, visible nucleoli 
+- might be de novo 
+- clinically very aggro, rapidly fatal if untreated
+	- chemo + rituximab anti CD20 in about 50% of cases treatable 
+- mature b cell - CD19,20,22,79a, pax5
+- more heterogenous than the small cell b lymphomas
+	- some have germinal center differentiation cd10, bcl-6
+	- or activated b-cell/non-germinal center difff = mum-1 
+	- variable genetic proifle too - bcl6,2, myc too commonly trasnlocated 
+
+hodgkin lymphoma - b cell origin
+- classic hodgkin lymphoma - b cell lymphoma full of hodgkin like or HL cells and some reed-sternberg cells - scattered within a bgd of **inflammatory infiltrate - reactive/non-neoplastic**
+		- HL = large, single nuc, prominent eosinophilic nucleolis 
+		- reed-sternberg RS cells = subtype of hodgkin cell; inclusion like bi/multinuc, prominent eosinophilic nucleoli 
+		- lacunar cells = HL/RS cell sitting in an empty space (retraction artifact)
+		- mummified cell = degenerated HL/RS cell with nucleus appearing **smudgey**
+	- nodular sclerosis - we have dense fibrotic bands dividing the lymph node into diffuse areas. ; **typically presents with slow growing, painless lymphadenopathy with a mediastinal mass**
+	- mixed cellularity - relatively few large hodgkin cells with a bgd of rich eosinophils and cells with a lot of pink cytoplasm 
+	- note- cervical lymphadenopathy slow grower mainly 
+	- lymphocyte rich 
+	- lymphocyte depleted 
+	- they pertinent poz = cd30, cd15, pax-5 , +/- EBV. 
+		- pertinent negatives = CD45, CD20, CD79a
+	- prognosis: favorable, related to age + stage
+	- TREAT: chemo + rad 
+- nodular lymphocyte-predominant hodgkin/b-cell lymphoma - not biologically relatted to hodgkin lymphoma, just visually 
+	- neoplastic cells = large b cells with multilobated nuclei = has **popcorn cells** + lymphocyte predominant cells .... **constituting a minority of cellular material**  similar to classic hodgkins 
+	- notably mediastinal involvement less common than classic hodgkins
+		- still slow growing isolated lymphadenopathy 
+		- rarely : b symptoms and bone marrow invovlement + cervical mostly 
+		- vaguely nodular growth pattern - we can draw some lines around some non-normal looking follicules 
+	- bgd = small lymphocytes. + histiocytes
+	- less common than classic, more males, 
+	- prognosis: VERY good esp just one lymph node involved, but recurrence is common 
+		- poor factors = diffuse growth pattern, spleen involvement, high stage
+	- immunophenotype - LH 
+		- RETAIN expression for normal b-cell markers CD20, 79a, 22, pax5, 
+			- also poz for cd45, Bcl-6
+			- neg : CD30, CD15, EBV
+
+plasma cell neoplasms - final type of b cell malignancy 
+- small number of abnormal plasma cells = monoclonal gammopathy of unknown significance = MGUS ; prognosis good, risk of getting myeloma is 1% / yr, monitor it 
+- higher numbers = with or without organ dysfunction = multiple/plasma cell myeloma 
+	- prognosis - incurable + hard to treat bc it's mature cells. median survival 3-4 yrs... use chemo +/- stem cell transplant 
+	- have evidence of monoclonal protein in sr or urine,bad plasma cells in bone marrow 
+		- CRAB criteria = need to have multi organ impairment
+		- hypercalcemia, renal insufficiency, anemia, bone lesions 
+		- or 60%+ abnormal plasma clonal cells in bone marrow 
+	- **smoldering** myeloma. - monoclonal protein, <60% clonal plasma cells in bone marrow/no CRAB criteria. 
+	- MGUS - when we have way less, like <10% of clonal plasma cells in bone marrow 
+- localized plasmacytoma formation - tumors happening outside of the bone marrow. 
+- AL amyloid - abnormal amyloid is from the plasma cells which make that abnormal protein, which then are deposited = recall congo red stain apple green 
+	- median survival 2 yrs 
+- plasmas = eccentric nucleus normally, clock fae chromatin, perinuclear hoff/clear space. 
+- abnormal morphology 
+	- large size, prominent nucleolus, multinucleated
+	- ducher bodies = intranuclear inclusions
+	- russell bodies - IG containing cytomasmic vesicles
+	- mott cell - having too many russell bodies in the cell 
+- labs: peripheral blood smear - we see rouleaux formation - stack of coins of rbcs sticking togther bc of inc immunoglobuins 
+	- electrophoresis shows monoclonal protein M-spike, immunofixation to characterize that abnormal monoclonal protein 
+- plasmacytoma - solitary plasmacytoma of bone = up to 2/3 get myeloma 
+- extraosseos plasmacytoma, some get myeloma 15% 
+
+---
+mature t cell lymphomas - less common 
+most common = mycosis fungoides - involve the skin 
+t cell lymphomas - lose expression of normal antigens! while b cells gain antigen expressions
+pan t cell antigens = CD3, cD2, CD5, CD7, CD4/CD8
+- cd7 is most commonly lost; we don't have ez / reliable marker of monoclonality 
+mycosis fungoides - abnormal t cells involve the epidermis 
+- ppl get erythemitous cutaneous patches then evolving into plaques which inc infiltration with clusters called pautrier microabsesses then to the lymph nodes nodular stage
+- abnormal lymphocytes = small to medium sized with cerebriform nuclei 
+- little brain like cells , = pautrier microabsesses = **collections of malignant cells of epidermis**
+- most likely CD3,CD2,CD4+, negative for CD7 
+- prognosis - depends on extent or stage of the disease; usually indolent. in rash-like stage, often missed. 
+
+sezary syndrome- mycosis fungoides which progresses to systemic involvement 
+- diffuse triad of erythroderma - reddening of skin 
+- generalized ymphadenopathy 
+- sezary cells = **abnormal lymphocytes cerebriform nuclei WHEN it moves outside of skin1**
+- - most likely CD3,CD2,CD4+, negative for CD7 
+- poor prognosis - very poor, 5 yr survival 10-20% 
+
+adult t cell leukemia/lymphoma = ATLL
+- unique biology + can overlap
+- viral association with HTLV-1 virus - south western JP, caribbean, central africa - spread thru blood/sex etc 
+	- infection alone doesn't cause malignancy 
+- signs - lymphadenopathy, rash, hypercalcemia, lytic bone lesions 
+	- huge: high WBC, skin rash, etc. 
+- irregularly shaped lobular nuclei - **flower cells!**
+	- in the peripheral blood we see too many lymphocytes with flower cells
+	- lymph nodes = architectural effacement 
+	- skin = dermal lymphocytic infiltrate with epidermotorpism 
+	- **pautrier like microabsesses too**
+	- bone marrow - fewer neoplastic cells = but extensive osteoClastic activity = boney breakdown leads to hypercalcemia 
+- poor prognosis 
+- poz = CD4,CD3
+- pertinent poz = CD25 expressed strongly , HTLV-1; negative CD7 
+
+---
+
+langerhans cell histiocytosis - LCH 
+- accessory cells that mainly present antigen to lymphocytes - they have an elongated nuclei with grooves , might be multinucleated, pale eosinophilic cytoplasm,
+	- usually have birbeck granules = granules shaped like tennis rackets in e-microscopy 
+- this disease = abnormal prolif of these
+- - happens in any age, mainly in kids/adolescents 
+- solitary or multiple lesions, or involving single/multiple 
+- might be disseminated and can happen with other neoplasms. 
+	- **acute disseminated LCH - letterer-siwe disease**
+	- triad = **hand-schuller-christian triad = calvarial bone lesions, diabetes insipidus, exophthalmos**
+- lymph nodes - we see distended **sinuses** filled with langerhans cells + eosinophils 
+- treat: surgery, steroids, chemo 
+-

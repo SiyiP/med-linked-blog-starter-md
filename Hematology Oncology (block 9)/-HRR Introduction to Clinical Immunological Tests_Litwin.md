@@ -51,7 +51,7 @@ serum protein electrophoresis - serum is applied, electrophoresis + protein band
 	- monoclonal proteins - found in multiple myeloma - **sharp peak seen**
 	- nephrotic syndromes + losing enteropathy - see a decrease in proteins 
 
-![[Screenshot 2025-07-20 at 1.54.00 AM.png]]
+![[SPEP patterns.png]]
 immunofixation - used to determine the actual composition of the monoclonal spike 
 - 6 lanes overlayed with anti-sera 
 
