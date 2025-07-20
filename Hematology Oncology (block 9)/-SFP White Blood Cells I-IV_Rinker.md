@@ -190,7 +190,7 @@ THE BEST WAY TO TELL APART IN ACUTE LEUKEMIAS
 T-ALL t lymphoblastic leukemias
 - 15% of childhood ALLs = more common in adolescents 
 - 20+% blasts in peripheral and/or bone marrow - can happen in both lymph nodes (**lymphomas**) and bone marrow
-	- maeks mediastinal mass with thymus involvement - 
+	- makes mediastinal mass with thymus involvement - 
 - leukocytosis w/ lymphoblasts, anemia, neutropenia, thrombocytopenia all in periphery 
 - flow cyt
 	- markers; CD34, TdT imaturity 
@@ -199,7 +199,87 @@ T-ALL t lymphoblastic leukemias
 - cytogenetics - no major associations 
 
 ![[Neoplastic White Blood Cells III-Mature Small B-Cell Neoplasms_Rinker_PPT (1).pdf]]
-gap
+lymphomas - they are all clonal - from a genetically aberrant common cell that duplicates
+- lymphadenopathy/or mass formation - mediastinum, gi tract, and skin. 
+- some spill out into the bone marrow and are detected in peripheral blood = "leukemic phase"
+- b cell lymphomas are more!!! 
+- cell surface markers. = **critical for diagnosis! and flow cyt + immunohistochem**
+- anything that disrupts immune system predisposes to lymphomas - like immunosuppressive drugs + HIV/AIDs
 
+normal b cell dev
+- they all progenitors happen from lymphoblasts of bone marrow = VDJ recomb
+- leave bone marrow - mature but naive b-cells ; just igM 
+- enter germinal center of lymph nodes - get clonal expansion, somatic hypermutation, class switching from igM to IgG/A, differentiation into memory and plasma cells
+	- should undergo apoptosis here if any hang ups happen
+- leave follicles and going to marginal zone or whatever other part of body
+normally - mature b lymphocytes - have **kappa or lamda proteins, normal kappa:lambda ratio: 2-3:1**
+- normally we have a mix of kappa poz and lambda poz cells - seen in flow cytometry 
+- **b cell neoplasms are IDENTICAL - light chain restriction, monotypic, all kappa or all lambda**
+	- they also show aberrant antigen expression - like antigens that normal b cells don't: in mantle cell lymphoma, CD5(typically on t cells), cyclin D1 
+
+mature b-cell neoplasms - a ton of these
+low grade ones: 
+chronic lymphocytic leukemia - CLL - leukocytosis w/ lymphocytosis **in peripheral blood** ; inc. mature monotypic b cells with CLL immunophenotype 
+small lymphocytic lymphoma - SLL - lymphadenopathy/extranodal tumor formation, more confined to lymph node - mature monotypic b cells still, with CLL 
+- these both - usually male, middle to elderly 
+- asymptomatic might be, b-symptoms, lymphadenopathy, splenomegaly, hypogammaglobulinemia ... see lymphocytosis , anemia, thrombocytopenia
+- see: **small lymphocytes, scant, agranular cyt, round nuclei, exagerrated heterogenous appearance: SOCCER BALLs, cracked earth appearance.**
+	- also smudge cells. - fragililty here, squashed lymphocytes 
+	- soccer ball/cracked earth 
+- in lymph nodes - when there's SLL
+	- diffuse effacement of norm lymph node architecture - basically we don't see germinal centers etc folliles, just homogenous mix... sheets of small lymphocytes w same appearance as CLL 
+	- "pale areas" = proliferation centers, bsically these lymphocytes with more cytoplasm, **bc mitotic activity is taking place**
+- involvement of bone marrow
+	- aspirate smear - small lymphocytes similar to periphery 
+	- core biopsy - **nodular ymphoid aggregates or diffuse sheets of lymphocytes**
+- immunophenotype - poz for mature b cell normal markers - CD19, 20, 22, Pax-5, CD79 
+- monotypic surface immunoglobulin (weak) - like kappa and lambda
+- usually pertinent poz - CD5/CD23 for the CLL/SLL
+- pert. negative - CD10, cyclin-D1, FMC7 
+- genetic standpoint - no dx translation, but there's common mutations
+	- prognosis good with deletion 13q 
+	- prognosis bad with deletion 11, 17p
+- can be managed, but canonot be cured. unless people are monitored for disease 
+- prognosis very bad when it transforms into large cell diffuse lymphoma 
+
+mantle cell lymphoma - more aggro than CLL
+- mature b cell lymphoma = translocation - (11;14) - basically IGH gene on chromosome 14 , and bcl1/cyclin d1 on 11,, leading to **upregulation of cyclin d1**
+- median age 60 yrs, male>female
+- asymptomatic, lymph, etc, **GI mucosal involvement, we see polyps.... lymphomatoid polyposis - little nodules of lymphoma LOOKs like polyps**
+	- regular small lymphocytes 
+	- nodular, expanded (with preservation of germinal centers)
+	- diffuse,
+	- pwith some bone marrow involvement in aggresvie dz  
+- same b cell markers - cd19, cd20, cd22, cd79a, pax-5
+	- **monotypic surface strong immunoglobulin; basically expresses above ones stronger**
+	- aberrant poz - cd5, cyclin-d1, fmc7 
+	- pertinent neg - cd10 
+	- lambda restricted profile 
+- genetics - (11;14) ;; and detect with fluorescence i nsitu, fish 
+- more aggro than cll/sll, but doesn't transform into dlbcl 
+
+folllicular lymphoma - comprised of germinal center derived b cells
+- (14;18) - the immunoglobulin heavy gene is changed, 
+- BCL:2 (apoptotic protein) gene on 18 and IGH gene on 14... 
+- median age 60 yrs both gender
+- asymptomatic, b symptoms, lymphadenopathy - 
+- we see paleness
+- nodular pattern, folliular - **back to back foollicles with expanded germinal centers**
+	- in middle - we see lack of macrophages - they are filled with centroocytes (small) and centroblasts
+	- grade lymphomas = more centroblasts = worse
+- only 30% bone marrow invovelemnt - hugs surface of bone
+- markers -  cd19, cd20, cd22, cd79a, pax-5
+	- expressed poz: CD10, BCL6, BCL2 (aberrant , recall this is anti-apoptotic protein, can't express)
+	- we can also do a stain for bcl-2 - shows up as yellow signals in these FISH
+- prognosis: lower grade = longer survival, but not curable bc mature b cells (not as chemosensitive, harder to eradicate)
+	- similar to CLL, might progress to diffuse large b cell lymphomas 
+
+higher grade mature b lyphomas
+burkitt lymphomas - 
+- endemically - large jaw mass, malarial distribution in africa, brazil , new guinea, kids, 
+- sporadic form - kids/young adults immunodef like HIV, we see ileocecal valve + gonads 
+- lymph node architecture - loss of this, monotonous sheets of tumor cells + high prolif
+	- **starry sky appearance bc inc tangible body macrophages** that are trying to clean up the other cells! 
+	- avg lymphocytes - 
 
 ![[Neoplastic WBC IV-Large BCell Neoplasms, Plasma Cell Neoplasms, Mature TCell Neoplasms, Hstiocytic Disorders_Rinker_PPT (1).pdf]]
