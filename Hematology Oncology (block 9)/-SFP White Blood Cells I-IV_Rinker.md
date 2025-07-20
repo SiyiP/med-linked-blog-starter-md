@@ -197,3 +197,7 @@ T-ALL t lymphoblastic leukemias
 	- T lineage - CD3, CD2, CD5, CD7 = **in the thymus they get CD4 and CD8... this is why we might have these! or both or neither!!!!**
 - cytochem stains = lymphoblasts - PAS 
 - cytogenetics - no major associations 
+
+![[Neoplastic White Blood Cells III-Mature Small B-Cell Neoplasms_Rinker_PPT (1).pdf]]
+gap
+![[Neoplastic WBC IV-Large BCell Neoplasms, Plasma Cell Neoplasms, Mature TCell Neoplasms, Hstiocytic Disorders_Rinker_PPT (1).pdf]]

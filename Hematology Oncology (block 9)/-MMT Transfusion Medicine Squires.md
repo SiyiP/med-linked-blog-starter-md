@@ -59,11 +59,11 @@ weak subgroups - there's multiple variants of A
 - A2 - more weakly , might even make an antiA1 antibody 
 	- some people with this can occasionally be kidney donors. 
 
-bombay phenotype 
-- recall - first step is to add fucose... to terminal galactose of precursor... **this requires functional H gene... but if this is non functional**
+==bombay phenotype== 
+- ==recall - first step of blood is to add fucose... to terminal galactose of precursor... **this requires functional H gene... but if this is non functional**==
 	- h/h instead of H/H , no H substance is made. 
 	- we cannot add anything that'll make you A or B ... happens in very rare type - Oh deonated. 
-	- clinically significant anti-A, anti-B and anti-H is made, causing hemolysis = **can't get O blood!**
+	- ==clinically significant anti-A, anti-B and anti-H is made, causing hemolysis = **can't get O blood!**==
 	- bombay can only be transfused with another bombay person 
 
 Rh - rhesus - protein is a big thing, along it it projects ot the external surface of the red cell 
@@ -142,7 +142,7 @@ platelet transfusions
 - or collected by apheresis (300 mL and each is a full adult dose)
 - given to pts who are thrombocytopenic (dysfunction of platelets to prevent/stop bleeding)
 - <10k transfuse... <50k transfuse for invasive procedure
-- post transfusion platlet increment... - transfusion of 1 apheresis platelet to non-bleeding normal patient with norm spleen should increase platelet count from 30k to 40k 
+- post transfusion platlet increment... - ==transfusion of 1 apheresis platelet to non-bleeding normal patient with norm spleen should increase platelet count from 30k to 40k== 
 	- **we should make it go up by 1 gram!!!**
 	- or by **10k**
 - refractory pts to platelets
