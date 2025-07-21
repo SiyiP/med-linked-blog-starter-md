@@ -219,7 +219,9 @@ normally - mature b lymphocytes - have **kappa or lamda proteins, normal kappa:l
 
 mature b-cell neoplasms - a ton of these
 low grade ones: 
-chronic lymphocytic leukemia - CLL - leukocytosis w/ lymphocytosis **in peripheral blood** ; inc. mature monotypic b cells with CLL immunophenotype 
+
+chronic lymphocytic leukemia - CLL - leukocytosis w/ lymphocytosis **in peripheral blood** ; inc. mature monotypic b cells with CLL immunophenotype  ; cracked earth snickerdoodle 
+
 small lymphocytic lymphoma - SLL - lymphadenopathy/extranodal tumor formation, more confined to lymph node - mature monotypic b cells still, with CLL 
 - these both - usually male, middle to elderly 
 - asymptomatic might be, b-symptoms, lymphadenopathy, splenomegaly, hypogammaglobulinemia ... see lymphocytosis , anemia, thrombocytopenia
@@ -258,9 +260,9 @@ mantle cell lymphoma - more aggro than CLL
 - genetics - (11;14) ;; and detect with fluorescence i nsitu, fish 
 - more aggro than cll/sll, but doesn't transform into dlbcl 
 
-folllicular lymphoma - comprised of germinal center derived b cells
-- (14;18) - the immunoglobulin heavy gene is changed, 
-- BCL:2 (apoptotic protein) gene on 18 and IGH gene on 14... 
+**follicular lymphoma** - comprised of germinal center derived b cells
+- **(14;18) - the immunoglobulin heavy gene is changed,** 
+- **BCL-2** overexpression (apoptotic protein) gene on 18 and IGH gene on 14... 
 - median age 60 yrs both gender
 - asymptomatic, b symptoms, lymphadenopathy - 
 - we see paleness
@@ -295,9 +297,9 @@ burkitt lymphomas -
 	- **starry sky appearance bc inc tangible body macrophages** that are trying to clean up the other cells! 
 	- avg lymphocytes - basophilic cytoplasm, cytoplasmic vacuoles, inconspicuous nucleoli
 	- bone marrow involvement is frequent in immunodeficiency cases 
-- germinal center differentiation - similar to follicular lymphoma - poz for CD10.... 
-	- also poz for Ki-67 - meaning very high proliferation index
-	- pertinent negative for Bcl-2 , which sets it apart from follicular lymphoma which is poz for bcl-2 
+- germinal center differentiation - similar to follicular lymphoma - **poz for CD10**.... 
+	- also poz for **Ki-67** - meaning very high proliferation index
+	- **pertinent negative for Bcl-2** , which sets it apart from **follicular lymphoma which is poz for bcl-2 = this is (14;18) mutation** 
 - genetics (8;14) - MYC oncogene chromosome 8, and IgH gene chromosome 14 
 	- very responsive to chemo, 80-90% survival! good at curing this! 
 
@@ -318,7 +320,7 @@ lymphoplasmacytic lymphoma -
 	- negative for cd5, cd10 so nonspecific
 	- plasma cells = CD138, CD38 , mum-1 
 	- light chain restriction 
-- genetics = myd88 mutation!!! - essential to differentiate from marginal zone lymphoma 
+- **genetics = myd88 mutation!!! - essential to differentiate from marginal zone lymphoma** 
 - prognosis - indolent, median survival is 5-10 yrs 
 
 hairy cell leukemia - uncommon, older men, unique!!! 
