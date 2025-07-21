@@ -10,6 +10,12 @@ vector borne dz - caused by parasites, bacteria or viruses
 biggest killer - malaria - 219 mil cases globally mostly kids before 5 
 most are preventable - neglected tropical dz
 
+in malaria - Synchronized lysis of red blood cells by a new generation of merozoites is what causes the classic symptomatic paroxysms of malaria. The liver infection stage does not cause symptoms to the human host.|
+
+|                                                                                                                                                      |     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Diethylcarbazine (DEC) is recommended for _Wuchereria bancrofti_ and _Brugia sp_. Albendazole or DEC are DOC for Loa Loa, Ivermectin for Onchocerca. |     |
+
 parasites - euk, humans aren't the primary hosts. acquired by ingestion, bites or skin penetration 
 - ==reproduction feeding form - trophozoite==
 - ==protective/dormant form - cysts== 
@@ -86,13 +92,13 @@ erythematous plaque - central clearing, crusted papule - bulls eye appearance.
 ==leishmania -> leishmaniasis -== 
 - ==nocturnal, phlebotomine sandfly bites==
 - ==tropical + subtropical regions including south america==
-- ==cutaneous ulcer/visceral (kala azar) form wks after bite; many rough dots on face==
+- ==painless cutaneous ulcer/visceral (kala azar) form wks after bite; many rough dots on face==
 	- we see - ==obligate intracellular parasites of macrophages== + tissues
 	- diffuse cutaneous - ==disseminated infection of subq nodules up to 20 yrs in immunocompromised ppl==
 	- ==mucocutaneous - destructive ulcer of skin + mucous memb==
 	- ==kala azar - **black illness** - hyperpigmented skin lesions - irregular bouts of fever, significant weight loss, lymphadenopathy, hepatosplenomegaly, anemia, high mortality if not treated== 
 	- slinder body + polar flagellum when extracellular 
-	- ==loose flagellum dark dots in host cell = **leishman-donovan bodies**==
+	- ==loose flagellum dark dots in host cell = **leishman-donovan bodies =  intracellular amastigotes in macrophages**==
 	- ![[leishman-donovan bodies.png]]
 - DX - parasite in biospy or pcr 
 - ==TREAT: cutaneous: pentavalent antimonials,== 
@@ -116,6 +122,7 @@ nematolds "NOW ATTT SALE" - roundworms thru gi tract
 ==wuchereria bancrofti -->nighttime; elephantiasis - lypmhatic filariasis - neglected tropical dz in africa, latam, pacific islands, asia.== 
 - culex mosquitos anopheles
 - ==fever lymphatic blockage, lymphedema, elephantiasis affects humans only== 
+- reasoning for edema: ==Adult filariae blocking afferent lymphatic ducts|==
 - ==3-4 cm filariae in blood collected at ***NIGHT***==
 - ==TREAT: diethylcarbazine/DEC or doxycycline== 
 

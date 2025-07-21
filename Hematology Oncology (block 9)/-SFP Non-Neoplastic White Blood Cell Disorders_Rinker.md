@@ -22,11 +22,12 @@ wbcs
 
 bone marrow biopsy - eval hematopoiesis as a source
 - posterior iliac crest is seen 
-- - first component - aspirate the liquid marrow components
+- first component - aspirate the liquid marrow components
 - 2nd  - core biopsy, taking the calcified bone and intervening non bone structures
-less preferable is sternal aspirate only biopsy - if posterior iliac crest isn't seen - only in emergent setttings 
+less preferable is sternal aspirate only biopsy - if posterior iliac crest isn't seen - only in emergent settings 
+
 wbc development 
-- focusing on white cell maturaiton - all these arise from same lymphoid stem cell (remain in bone marrow for shorter while, then ) -> lymphocytes - (t cells mature in the thymus, b cells mature in lymph nodes)
+- focusing on white cell maturation - all these arise from same lymphoid stem cell (remain in bone marrow for shorter while, then ) -> lymphocytes - (t cells mature in the thymus, b cells mature in lymph nodes)
 - myeloid stem cells = everything other than lymphocytes. 
 
 leukocytosis - numerical inc in wbc count 

@@ -2,11 +2,20 @@
 ![[Neoplastic White Blood Cells I-Acute Myeloid Leukemia, Myelodysplastic Syndrome_Rinker_PPT (1).pdf]]
 
 WBC-related notes from test:
+potential helpful: 
+CD 1920s = think Bs 
+CD 5,7,4,8 single numbers = think Ts 
+Myeloid numbers are in 3s, 13,30,etc
+
 - polycythemia vera (markedly elevated hematocrit, suppressed erythropoietin. Most cases of polycythemia demonstrate a JAK2 mutation. 
 - LAP score measures the activity of alkaline phosphatase in leukocytes; 
 	- a low score was historically indicative of CML and higher score consistent with leukemoid reactions. 
 - Howell Jolly bodies are nuclear remnants in erythrocytes, often seen in aplenic patients (spleen normally would remove red cells with   
 - The TRAP stain (tartrate-resistant acid phosphatase) stains the TRAP enzyme causing the cytoplasm to be red and granular; it is relatively unique to hairy cell leukemia vs. other leukemias.
+
+multiple myeloma
+rouleaux formation of the RBC's, and the clinical history documents multiple "CRAB" criteria (hypercalcemia, renal insufficiency, anemia, bone lesions), highly suspicious for plasma cell myeloma. 
+- Serum protein electrophoresis will detect monoclonal immunoglobulin produced by the neoplastic plasma cells.
 
 A 4-year-old female presents abruptly with petechiae, bruising, fatigue, and bone pain.  The white blood cell count is elevated with 60% blasts.  By flow cytometry the blasts are positive for CD19 and CD10.  The lineage of the blasts is: - precursor b cells
 - This is a case of B‐ALL. 
@@ -21,8 +30,8 @@ for testing:
 - Myeloperoxidase stains mark a **myeloid** lineage of cell type. 
 - Coombs testing detects antibodies that can cause hemolysis of red cells.
 
-mantle cell lymphoma (CD5+, CD23‐) -  protein overexpressed is cyclin D1. 
-- usually results from t(11;14),  which connects the cyclin D1 gene with the immunoglobulin heavy chain gene segments. Cyclin D1 regulates the progression of the cell cycle from G1 to the S phase.
+mantle cell lymphoma (CD5+, CD23‐) -  **protein overexpressed is cyclin D1.** 
+- usually results from **t(11;14)**,  which connects the cyclin D1 gene with the immunoglobulin heavy chain gene segments. Cyclin D1 regulates the progression of the cell cycle from G1 to the S phase.
 
 Burkitt lymphomas have a high proliferative index as manifested by high Ki‐67. The starry sky appearance results from pale macrophages containing tumor debris ('tingible body macrophages') scattered amongst the dark lymphoma tumor cell background.
 Reactive germinal centers have tangible body macrophages, polarization, follicular dendritic cells, numerous mitotic figures, and cellular polymorphism.
@@ -31,7 +40,8 @@ Reactive germinal centers have tangible body macrophages, polarization, follicul
 
 - but follicular lymphoma has no tingible body macrophages
 - Normal germinal cells **do not express BCL2,** an anti‐apoptotic protein. *In follicular lymphoma, the immunoglobulin heavy chain gene is translocated next to the BCL2 gene*, resulting in overexpression and inhibition of apoptosis.
-- follicular lymphoma - (14;18)
+- follicular lymphoma - (14;18), paratrabecular aggregates of CD20+ B cells
+|Benign, reactive germinal centers show polarization (separation of dark and light-staining areas) and contain tingible body macrophages. Normal germinal center B cells are positive for CD10 and negative for bcl-2. Follicular lymphoma shows absent polarization and decreased/absent tingible body macrophages; neoplastic B cells are positive for CD10 and aberrantly express bcl-2.|   
 
 Hemophagocytic Lymphohistiocytosis - we see fever, pancytopenia, splenomegaly, and DIC after a viral infection
 - Very high serum ferritin levels are seen in HLH. 
@@ -43,6 +53,7 @@ Auer rods are seen in AML.
 A bone marrow biopsy in an older patient showing a hypercellular marrow with dysplasia in all three hematopoietic cell lines (erythroid, myeloid, and megakaryocytic) strongly supports the diagnosis of MDS.  Patients with MDS are at higher risk of developing acute myeloid leukemia
 
 a classic presentation of CML - Left shifted granulocytes indicated the presence of immature granulocytes (myeloid lineage) in the peripheral blood. This can be seen in infections, but a 150,000 white cell count is a leukemic process.  Demonstration of the Philadelphia chromosome t(9;22) confirms the diagnosis. splenomegaly and a white count of 150,000. The granulocytes are left shifted and there is a basophilia. 2% blasts are present.
+- chronic myeloid leukemia (CML) which is characterized by t(9;22) which produces the BCR-ABL1 fusion protein, which is a constitutively active tyrosine kinase. First-line treatment for CML utilizes a tyrosine kinase inhibitor that targets BCR-ABL1 (imatinib).
 
 The lymphocytes in CLL look very much like normal lymphocytes. One can determine clonality by surface immunoglobulin light chain restriction. Expression of CD5 and CD23 on the clonal B-cells is classic for CLL.
 
@@ -267,10 +278,13 @@ normally - mature b lymphocytes - have **kappa or lamda proteins, normal kappa:l
 - normally we have a mix of kappa poz and lambda poz cells - seen in flow cytometry 
 - **b cell neoplasms are IDENTICAL - light chain restriction, monotypic, all kappa or all lambda**
 	- they also show aberrant antigen expression - like antigens that normal b cells don't: in mantle cell lymphoma, CD5(typically on t cells), cyclin D1 
+	- Kappa light chain restriction , meaning distribution of kappa/lamda is polyploidal ... Basically green stays one side, other color stays on other side etc
+		- there's a cutoff, above the line and below , we can see if it's CD10 poz or below the line.
+		- we keep that in green = the cells we've isolated and we're checking for. 
+
 
 mature b-cell neoplasms - a ton of these
 low grade ones: 
-
 chronic lymphocytic leukemia - CLL - leukocytosis w/ lymphocytosis **in peripheral blood** ; inc. mature monotypic b cells with CLL immunophenotype  ; cracked earth snickerdoodle 
 
 small lymphocytic lymphoma - SLL - lymphadenopathy/extranodal tumor formation, more confined to lymph node - mature monotypic b cells still, with CLL 
@@ -322,7 +336,7 @@ mantle cell lymphoma - more aggro than CLL
 	- grade lymphomas = more centroblasts = worse
 - only 30% bone marrow invovelemnt - hugs surface of bone
 - markers -  cd19, cd20, cd22, cd79a, pax-5
-	- expressed poz: CD10, BCL6, BCL2 (aberrant , recall this is anti-apoptotic protein, can't express)
+	- expressed poz: CD10, BCL6, **BCL2** (aberrant , recall this is anti-apoptotic protein, can't express)
 	- we can also do a stain for bcl-2 - shows up as yellow signals in these FISH
 - prognosis: lower grade = longer survival, but not curable bc mature b cells (not as chemosensitive, harder to eradicate)
 	- similar to CLL, might progress to diffuse large b cell lymphomas 
@@ -441,7 +455,7 @@ hodgkin lymphoma - b cell origin
 			- neg : CD30, CD15, EBV
 
 plasma cell neoplasms - final type of b cell malignancy 
-- small number of abnormal plasma cells = monoclonal gammopathy of unknown significance = MGUS ; prognosis good, risk of getting myeloma is 1% / yr, monitor it 
+- small number of **abnormal plasma cells** = monoclonal gammopathy of unknown significance = MGUS ; prognosis good, risk of getting myeloma is 1% / yr, monitor it 
 - higher numbers = with or without organ dysfunction = multiple/plasma cell myeloma 
 	- prognosis - incurable + hard to treat bc it's mature cells. median survival 3-4 yrs... use chemo +/- stem cell transplant 
 	- have evidence of monoclonal protein in sr or urine,bad plasma cells in bone marrow 

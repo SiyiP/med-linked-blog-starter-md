@@ -1,5 +1,38 @@
 #hemonc 
 ![[Immunological Tolerance and Autoimmunity_Baker-Frost_PPT (1).pdf]]
+test taking notes
+ Deletion and receptor editing in response to self-antigen recognition only occurs in the primary lymphoid tissue (bone marrow for B-cells) and result in central tolerance. 
+ 
+ If a self-reactive B-cell is not deleted by those central tolerance mechanisms and is released into the periphery (circulatory system, or secondary lymphoid tissues), if it encounters any antigen that crosslinks its antigen receptors in the presence o**f PAMPs or DAMPs (second signal)** it will be **activated**. This is how autoimmune disease is initiated.
+
+CTLA-4 is a checkpoint inhibition molecule expressed by T-cells only (CTL is in the name - so easy to remember). It's expression is **induced on T-cells after activation** by **antigen (effector T-cells)**, so it acts in the ***periphery***. It is also expressed constitutively on Tregs, which are an effector of peripheral tolerance.|
+
+- All T-cells are CD3+ so that is not a helpful marker.  
+- TH1, TH2 and Tregs are CD4 +, 
+- IFN-gamma expression is a marker of TH1 cells. 
+- FoxP3 is a transcription factor unique to Tregs, so they are in Lane C **Another marker of Tregs is high expression of CD25, the alpha-chain of IL-2 R, but that will also be expressed to a lesser degree on all antigen activated T-cells, and so it is not a unique marker.**
+
+
+immature B-cells are capable of activating unused alleles of Ig light chains when a heavy chain - light chain combination results in a BCR with strong affinity for self antigens. = this is reeptor editing 
+
+AIRE - autoimmune polyendocrine syndrome. 
+Complement - lupus and other immune complex disorders. 
+FoxP3 - X-linked polyendocrinopathy and enteropathy (IPEX). 
+NOD2 - Crohns disease, Blau syndrome. It encodes a protein expressed in monocytes, macrophage, dendritic cells and some intestinal epithelial cells that activates NF-kappaB in response to bacterial PAMPS.  Over 30 different mutations have been associated with increased risk for Crohn's.
+
+why do some moms get Rh antibody when they're Rh- with Rh+ baby? =  breakdown of immune privilege - The fetus is normally protected by passive and active immune privilege such that the mother's immune system is not exposed to fetal antigens via the placenta during pregnancy. However, the physical trauma of parturition almost always results in some fetal blood entering skin tears or incisions, sensitizing the mother's immune system to fetal blood antigens, most commonly Rh.
+
+PD-1 binding to PD-L1 or B7 on APC is primarily a mechanism producing anergy in effector T-cells in peripheral tissues, including tumors. In fact, many malignant cells express PD-L1 in order to evade being killed by T-cells.
+
+ An enterovirus protein has antigenic similarity to an antigen expressed on beta islet cells.
+ An immune response to the virus (in those with genetic predisposing factors) results in an immune response that also attacks the person's beta islet cells leading to Type I diabetes. 
+ - Bystander activation or epitope spreading (these are related mechanisms) would be possible if the enterovirus replicated in the pancreas, but it didn't. 
+ - In either case, central tolerance failed to delete all self-reactive lymphocytes, allowing them to be activated in the periphery when co-stimulatory molecules were being expressed. The pancreas is not an immune privileged tissue.
+ 
+---
+
+
+
 
 lymphocyte maturation
 common lymphoid progen (has multiple b/t receptors) -> pro-b/t cells -> we can become an immature b/t cells
