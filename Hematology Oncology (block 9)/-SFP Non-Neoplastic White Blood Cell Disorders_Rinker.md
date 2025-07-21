@@ -128,7 +128,7 @@ sinusoidal hyperplasia - expanded sinuses + most often histiocytes(macrophages/d
 mixed pattern - granulomas where we might get pink necrosis in the middle 
 - non-necrotizing granulomas - sarcoidosis + nonspecific rxn to malignancy 
 - necrotizing ganulomas - fungal, tb, cat scratch dz 
-	- cat scratch - caused by bartonella henselae - g-negative
+	- ==cat scratch - caused by bartonella henselae - g-negative==
 	- stellate or serpentine necrotizing granulomas with central neutrophils !!
 	- regional lymphadenopathy - most common in kids, 2-4 mon spontaneous rec 
 

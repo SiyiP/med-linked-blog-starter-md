@@ -30,73 +30,75 @@ protozoa - bloodborne infections
 	- no clinical signs of infections associated with liver phase - ==liver phase - it's in the liver, if you don't biopsy you don't find it, no clinical signs== 
 	- ==DX: parasitology thick and thin blood smears - thick smear requires skilled observer and then thin one for species id== 
 		- ==bloodwork - low hb, anemia== 
-		- rapid tests - paraSight F - detects HRP2 excreted by P falaciparum 
-		- optimal too - detects lactate dehydrogenase + distinguish between p falciparum + vivax. 
+		- ==rapid tests - paraSight F - detects **HRP2 excreted by P falciparum**== 
+		- ==optimal too - detects lactate dehydrogenase + distinguish between p falciparum + vivax.== 
 know these ring forms. gametosite forms and ring forms as the exems
-![[plasmodium ring forms and gametocyte.png|435x300]]
-PROTECTIVE - sickle cell trait of heterozygous HbS makes rbc less hospitable to falciparum - 
-thalassemias similar protection to sickle cell
-duffy antigens on rbcs - absent in many west africans protective against vivax 
-- TREAT: depends on geographic region of infection .... queen = drugs that end in quine ; just pharm stuff might look at later. 
-	- color queen chloroquine - All plasmodia except falciparum; Common resistances except caribbean, west panama and middle east 
-	- me fly queen mefloquine - For chloroquine resistant plasmodia; strong drug, prophylactic, one a week 
-	- Ato-vampire-queen atovaquone proguanil - All plasmodia ; prophylactic, better tolerated, **G6PD deficient NO "queen**" 
-	- primal queen primaquine - P. vivax, P. ovale (targets liver stage) 
-	- Art (queen) Artemisinin - P. falciparium 
+==![[plasmodium ring forms and gametocyte.png|628x433]]==
+bananas - micro/macrogametocytes = in falciparum - these are going back into the mosquito afterwards. 
+
+==PROTECTIVE - sickle cell trait of heterozygous HbS makes rbc less hospitable to falciparum -== 
+==thalassemias similar protection to sickle cell==
+==duffy antigens on rbcs - absent in many west africans, protective against vivax== 
+- TREAT: depends on geographic region of infection .... queen = drugs that end in quine ; just pharm stuff might look at later.  [[-MMT Antimalarial Drugs+Therapies for Other Blood-Borne Parasites Blumer]]
+	- ==color queen chloroquine - All plasmodia except falciparum; Common resistances except caribbean, west panama and middle east== 
+	- ==me fly queen mefloquine - For chloroquine resistant plasmodia; strong drug, prophylactic, one a week== 
+	- Ato-vampire-queen ==atovaquone== proguanil - All plasmodia ; ==prophylactic, better tolerated, **G6PD deficient NO "queen**"== 
+	- primal queen ==primaquine - P. vivax, P. ovale (targets liver stage)== 
+	- Art (queen) ==Artemisinin - P. falciparium== 
 	- Dining queen quinine-  vivax and malariae ; headaches, teniti
 
 APIcomplexa
-lyme dz, anaplasmosis, babesiosis, rocky mt spotted fever(northeast), etc - all tick borne dz rising co infections happening - nantucket fever - babesiosis
-- babesia microti - deer tick, hemolytic anemia, fatigue, myalgia, fever 
-- NE america, 
-- DX parasitized rbc on blood smear/pcr 
-- TREAT: azithromycin + atovaquone 
-	- binary fission - gametocytes rplicate in mice, then will go into tick, -> ray bodies -> zygoute sexual production ->kinetes which invade salivay glands 
-	- multinucleated sporoblast and sporozoites can go into humans and invade rbcs, binary fission in us to make merozoites and so on 
-		- the human becomes the mouse 
-		- maltese cross ring form 
+==lyme dz, anaplasmosis, babesiosis, rocky mt spotted fever(northeast), etc - all tick borne dz rising co infections happening - nantucket fever - babesiosis==
+- ==babesia microti - deer tick, hemolytic anemia, fatigue, myalgia, fever== 
+- ==NE america,== 
+- ==DX parasitized rbc on blood smear/pcr== 
+- ==TREAT: azithromycin + atovaquone== 
+	- ==binary fission== - ==gametocytes replicate in mice, then will go into tick==, -> ==ray bodies== -> ==zygoute sexual production -> kinetes which invade salivary glands== 
+	- ==multinucleated sporoblast and sporozoites can go into humans and invade rbcs, binary fission in us to make merozoites and so on== 
+		- ==the human becomes the mouse== 
+		- ==***maltese cross ring form***== 
 ![[babesiosis maltese cross.png]]
-
 tenessee- bulls eye, rash 1 day ago, tick removed , denies symptoms just itchy red rash. 
 erythematous plaque - central clearing, crusted papule - bulls eye appearance. 
-southern-tick associate rash illness - **this lone star tick in the southern us - no test due to uknown agent**
-TREAT: topical glucocorticoids 2 wks, rash will resolve copmletely 
-- in places where lyme + STARI southern tick associated rash illness coexist, **doxycycline can be used while ruling borrelia burgdorferi out** 
-- these lone star ticks aren't vectors of lyme but are getting expanded. monitor for systemic symptoms 
+==southern-tick associate rash illness - **this lone star tick in the southern us - no test due to uknown agent, in tenessee!**==
+==TREAT: topical glucocorticoids 2 wks, rash will resolve completely== 
+- ==in places where lyme + STARI southern tick associated rash illness coexist, **doxycycline can be used while ruling borrelia burgdorferi out**== 
+- ==these lone star ticks aren't vectors of lyme but are getting expanded.== monitor for systemic symptoms 
 
 ---
-flagellated = asexual repro, binary fission "TTriGLycerides"
-trypanosoma cruzi - kissing bug -> chagas disease
-- bug bites, food contaminated with reduviid feces
-- central/south am; leading cause of chronic heart dz , most ppl don't know - hard to keep it outta blood supply. only 1/3 of new infections are symptomatic but chronic infections are still scary 
-- DX - blood smear in early, hard in chronic 
-- clinical : romaña sign(swelling of one eye), fever, cardiomyopathy, megacolon 
-	- we see host tissue cell about to burst and release, a ton of purple dots buildup 
-	- ![[Trypanosoma brucei and cruzi.png]]
+==flagellated = asexual repro, binary fission "TTriGLycerides"==
+- trypanosoma ; leishmania 
+==trypanosoma cruzi - kissing bug -> chagas disease==
+- ==bug bites, food contaminated with reduviid feces==
+- ==central/south am; leading cause of chronic heart dz, ppl don't know they got it beforehand.== , most ppl don't know - hard to keep it outta blood supply. ==only 1/3 of new infections are symptomatic but chronic infections are still scary== 
+- ==DX - blood smear in early, hard in chronic== 
+- clinical : ==romaña sign(swelling of one eye), fever, cardiomyopathy, megacolon== 
+	- we see ==host tissue cell about to burst and release, a ton of purple dots buildup== 
+	- ==![[Trypanosoma brucei and cruzi.png]]==
 	- ruffling moves for locomotion
-- TREAT: benznidazole 
-trypanosoma brucei -> 'sleeping sickness'
-- tsetse fly bites, central africa
-- sleepiness from cns vasculitis, heart failure
+- ==TREAT: benznidazole== 
+==trypanosoma brucei -> 'sleeping sickness'==
+- ==tsetse fly bites, central africa==
+- ==sleepiness from cns vasculitis, heart failure==
 - parasites seen in blood smear early + then ab tests
 - TREAT: suramin or melarsoprol 
 
-leishmania -> leishmaniasis - 
-- nocturnal, phlebotomine sandfly bites
-- tropical + subtropical regions including south america
-- cutaneous ulcer/visceral (kala azar) form wks after bite
-	- we see - obligate intracellular parasites of macrophages + tissues
-	- difuse cutaneous - disseminated infection of subq nodules up to 20 yrs in immunocomp
-	- mucocutaneous - destructive ulcer of skin + mucous memb
-	- kala azar - **black illness** - hyperpigmented skin lesions - irregular bouts of fever, significant weight loss, lymphadenopathy, hepatosplenomegaly, anemia, high mortality if not treated 
+==leishmania -> leishmaniasis -== 
+- ==nocturnal, phlebotomine sandfly bites==
+- ==tropical + subtropical regions including south america==
+- ==cutaneous ulcer/visceral (kala azar) form wks after bite; many rough dots on face==
+	- we see - ==obligate intracellular parasites of macrophages== + tissues
+	- diffuse cutaneous - ==disseminated infection of subq nodules up to 20 yrs in immunocompromised ppl==
+	- ==mucocutaneous - destructive ulcer of skin + mucous memb==
+	- ==kala azar - **black illness** - hyperpigmented skin lesions - irregular bouts of fever, significant weight loss, lymphadenopathy, hepatosplenomegaly, anemia, high mortality if not treated== 
 	- slinder body + polar flagellum when extracellular 
-	- loose flagellum in host cell = **leishman-donovan bodies**
+	- ==loose flagellum dark dots in host cell = **leishman-donovan bodies**==
 	- ![[leishman-donovan bodies.png]]
-- DXparasite in biospy or pcr 
-- TREAT: cutaneuous: pentavalent antimonials, 
-	- visceral: liposomal amphotericin B 
+- DX - parasite in biospy or pcr 
+- ==TREAT: cutaneous: pentavalent antimonials,== 
+	- ==visceral: liposomal amphotericin B== 
 	- 28 day course of oral miltefosine antiprotozoal agent. 
-	- prognosis - resolves most of the time, but chronic ulceration does disfiguring scars 
+	- prognosis - resolves most of the time, but ==chronic ulceration does disfiguring scars== 
 
 ---
 parasites - helminths - cause peripheral eosinophilia 
@@ -105,30 +107,32 @@ Cestodes "TED" - tapeworms
 trematodes "frames per second"- flukes
 
 nematolds "NOW ATTT SALE" - roundworms thru gi tract 
-loa loa. - eye worm - bites of deer flies in W. africa
-- calabar swellings  w fever, itching, pain worm moving in eye 
-	- adult worm migrates thru host, benign form of it moving in eye 
-- we see 2 cm filariae in blood collected in daylight or from conjunctiva
-- TREAT: albendazole or diethylcarbazine 
-wuchereria bancrofti - elephantiasis - lypmhatic filariasis - neglected tropical dz in africa, latam, pacific islands, asia. 
+==**loa loa** - daylight; eye worm - **bites of deer flies** in W. africa== -  
+- ==calabar swellings, itchy edemas around the body. w fever, itching, pain worm moving in eye== 
+	- adult worm migrates thru host, ==benign form of it moving in eye== 
+- ==we see 2 cm filariae in blood collected in ***daylight*** or from conjunctiva==
+- ==TREAT: albendazole or diethylcarbazine== 
+
+==wuchereria bancrofti -->nighttime; elephantiasis - lypmhatic filariasis - neglected tropical dz in africa, latam, pacific islands, asia.== 
 - culex mosquitos anopheles
-- fever lymphatic blockage, lymphedema, elephantiasis affects humans only 
-- 3-4 cm filariae in blood collected at NIGHT
-- TREAT: diethylcarbazine/DEC or doxycycline 
-brugia malayi - lymphatic filariasis 
-mansonia mosquitos- coastal+SE asia
-- fever, lymphatic blockage, lymphedema and elephantiasis which also INFECTS animals!
-- 2 cm filariae in blood collected at NIGHT
-- - TREAT: diethylcarbazine/DEC or doxycycline 
-- pathogen - microfilariae / juvenile worms delivered by mosquito, which then migrate to lymph nodes, mature and then block these vessels to birth more, migrating to the blood
-- early infeciton - fever + eosinophilia  etc - some spontaneously cleared
-- issue - **dead worms  = inflammation and coarseness in vessels + skin**
-- microscopic image: note all the fibrous tissue and eyes seen in the lymphatic vessels ![[brugia malayi eggs micro.png|220x214]]
+- ==fever lymphatic blockage, lymphedema, elephantiasis affects humans only== 
+- ==3-4 cm filariae in blood collected at ***NIGHT***==
+- ==TREAT: diethylcarbazine/DEC or doxycycline== 
+
+==brugia malayi - lymphatic filariasis== 
+==mansonia mosquitos- coastal + SE asia==
+- ==fever, lymphatic blockage, lymphedema and ELEPHANTITIS which also INFECTS ANIMALS!==
+- ==2 cm filariae in blood collected at ***NIGHT***==
+- ==- TREAT: diethylcarbazine/DEC or doxycycline== 
+- ==pathogen - microfilariae/juvenile worms delivered by mosquito, which then migrate to lymph nodes, mature and then block these vessels to birth more, migrating to the blood==
+- early infection - fever + eosinophilia etc-some spontaneously cleared
+- ==issue - **dead worms  = inflammation and coarseness in vessels + skin**==
+- microscopic image: ==note all the fibrous tissue and eyes seen in the lymphatic vessels== ![[brugia malayi eggs micro.png|220x214]]
 -
 
-onchocera volvulus - river blindness, black flies in equator climates worldwide
-- subq nodules, pruritic skin, blindness; skitchy scratching seen - little patches 
-- filariae seen in skin snip- basically huge worm like things 
-- TREAT: ivermectin +/- doxy
+==onchocera volvulus - river blindness, black flies in equator climates worldwide==
+- ==subq nodules, pruritic skin, blindness; skitchy scratching seen - little patches== 
+- ==filariae seen in skin snip- basically huge worm like things== 
+- ==TREAT: ivermectin +/- doxy==
 
 
