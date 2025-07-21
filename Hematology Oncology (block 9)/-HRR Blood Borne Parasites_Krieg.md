@@ -10,28 +10,26 @@ vector borne dz - caused by parasites, bacteria or viruses
 biggest killer - malaria - 219 mil cases globally mostly kids before 5 
 most are preventable - neglected tropical dz
 
-parasites - euk, humans aren't hte primary hosts. acquired by ingestion, bites or skin penetration 
-- reproduction feeding form - trophozoite
-- protective/dormant form - cysts 
+parasites - euk, humans aren't the primary hosts. acquired by ingestion, bites or skin penetration 
+- ==reproduction feeding form - trophozoite==
+- ==protective/dormant form - cysts== 
 protozoa - bloodborne infections 
-apicomplexa = sexual reproduction, life cycles, multiple hosts "BP to CT"- all has different forms ring forms and stuff to see early trophs 
+==apicomplexa = sexual reproduction, life cycles, multiple hosts "BP to CT", babesia plasmodium- all has different forms ring forms and stuff to see early trophs== 
 - barbesia
-- plasmodium -  2 cycles
-	- asexual cycle - taking place in human, basically gets transferred inthe form of oocysts -> sporozoites (cyst form hard to dz) -> merozoites in the blood (ring form, can be diagnosed thru its development to diff forms) -> trophozoites -> gametozoites (goes back into mosquito when they bite into a person)
-	- sexual - in the mosquito, replication in here. this is how it's spread!
-	- vivax(latam + india), ovale(africa), malariae(africa + asia), falciparum(africa + asia). hard bc it typically takes 2-3 wks for rbcs to sync with the timer. 
-		- vivax. + ovale - they have perodicicity - when the parasized rbc are killed, anemia - direct parasite lysis -> products phagocyzed by reticuloendothelial system "black water fever" bc they have lyzed rbcs in urine. 
-			- fever periodicitiy - paroxicisms - this is a tertian fever. fever, pause, fever. 
-			- vivax - only infect reticulocyts via duffy ag
-			- ovale - only infects reticulocytes 
-	-  malariae + falciparum - quartan fever, fever, pause pause, and fever. **periodicity is rare in falciparum infections**
-		- p falciparum - infects rbcs of all ages; this alters cell membrane causing it to adhere to endothelial cells, causing **capillary congestion-> cerebral malaria in kids, pulm edema + renal failure**
-		- malariae attacks only senescent cells (cells that have permanently stopped dividing but don't die off as they should) 
-	- see: seizures, coma, organ failure, anemia, splenomegaly, cerebral malaria ; paroxysm lasts hours - cold, hot, wet stages 
-	- disease takes 2-3 wks, but may be months if they take suppressant drugs... 
-	- no clinical signs of infectins associated with liver phase - it's in the liver, if you don't biopsy you don't find it 
-	- DX: parasitology thick and thin blood smears - thick smear requires skilled observer and then thin one for species id 
-		- bloodwork - low hb 
+- ==plasmodium -  2 cycles==
+	- ==asexual cycle - taking place in human==, basically gets ==transferred in the form of oocysts -> sporozoites (cyst form hard to dz) -> merozoites in the blood (ring form, can be diagnosed thru its development to diff forms) -> trophozoites -> gametozoites (goes back into mosquito when they bite into a person)==
+	- ==sexual - in the mosquito, replication in here.== this is how it's spread!
+	- ==vivax(latam + india), ovale(africa), malariae(africa + asia), falciparum(africa + asia)==. hard bc it typically takes 2-3 wks for rbcs to sync with the timer. 
+		- ==vivax. + ovale - they have periodicity== - when the parasitized rbc are killed, anemia - direct parasite lysis -> ==RBC products phagocyzed by reticuloendothelial system "black water fever" bc they have lyzed rbcs in urine.== 
+			- ==fever periodicity - paroxicisms - this is a tertian fever. fever, pause, fever.== 
+	-  ==malariae + falciparum - quartan fever, fever, pause pause, and fever. **periodicity is rare in falciparum infections**==
+		- p ==falciparum - infects rbcs of all ages==; this ==alters cell membrane causing it to adhere to endothelial cells, causing **capillary congestion-> cerebral malaria in kids, pulm edema + renal failure**==
+		- ==malariae attacks only senescent cells== (cells that have permanently stopped dividing but don't die off as they should) 
+	- ==see: seizures, coma, organ failure, anemia, splenomegaly, cerebral malaria ; paroxysm lasts hours - cold, hot, wet stages== 
+	- ==disease takes 2-3 wks, but may be months if they take suppressant drugs...== 
+	- no clinical signs of infections associated with liver phase - ==liver phase - it's in the liver, if you don't biopsy you don't find it, no clinical signs== 
+	- ==DX: parasitology thick and thin blood smears - thick smear requires skilled observer and then thin one for species id== 
+		- ==bloodwork - low hb, anemia== 
 		- rapid tests - paraSight F - detects HRP2 excreted by P falaciparum 
 		- optimal too - detects lactate dehydrogenase + distinguish between p falciparum + vivax. 
 know these ring forms. gametosite forms and ring forms as the exems

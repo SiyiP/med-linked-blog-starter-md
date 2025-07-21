@@ -51,7 +51,7 @@ the cell can use these 2 oxidative v non-ox phases depending on biomolecular req
 - if we NEED to just replicate DNA, we need both nadph + RIBOSE-6-P
 	- oxidative phase, and then just stop it at ribose 5P, no non-ox phase 
 		- enzymes that needed nadph in the nucleotide metabolism pathway: ribonucleotide reductase(makes it deoxyribose), dihydorfolate reductase(regenerates the TMP, folate derivative)
-		- [[*MMT Nucleotide Metabolism I+II_Dalton]]
+		- [[-MMT Nucleotide Metabolism I+II_Dalton]]
 - if we need to biosyn cholesterol or FAs... 
 	- we would make oxidative phase and then non-ox, with a focus on **glycolysis, to push to pyruvate and then ATP**
 - RNA synthesis - we would only need ribose-5P, so no need for nadph

@@ -50,7 +50,7 @@ cyclic neutropenia- regular fluctuations in number of neutrophils in peripheral 
 lymphopenia - less common than neutropenia, 
 - mild decrease doesn't have as high of a risk of infections - but mainly viral
 - acquired - **HIV/AIDs + COVID** - earlier signs of ppl who have covid is decreased lymphocyte counts
-- congenital - severe combined immunodef- SCID affects both b and t cells [[*MMT Nucleotide Metabolism I+II_Dalton]] [[Chunking - Inborn Genetic Disorders]]
+- congenital - severe combined immunodef- SCID affects both b and t cells [[-MMT Nucleotide Metabolism I+II_Dalton]] [[Chunking - Inborn Genetic Disorders]]
 - digeorge - microdel in chromosome 22 - thymic aplasia  [[Chunking - Inborn Genetic Disorders]]
 
 what is a "left shift?"

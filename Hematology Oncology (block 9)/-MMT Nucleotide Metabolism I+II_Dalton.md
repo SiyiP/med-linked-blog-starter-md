@@ -1,7 +1,7 @@
 #hemonc 
 ![[2. Nucleotide Metabolism I and II_Dalton_NOTES (1).pdf]]
 
-DMARDS
+DMARDS - disease modifying anti-rheumatic drugs
 - Azathioprine 3 purine synthesis inhibitor - inhibit the GPAT *not testable*
 - ==**Leflunomide** 3 pyrimidine synthesis inhibitor== 
 - ==**Methotrexate** 3 nucleotide metabolism inhibitor through dihydrofolate reductase inhibition (DNA synthesis); stops making it at the tetrahydrofolate level==
@@ -25,10 +25,10 @@ base -nine, uracil
 ribonucleoSIDE - -sine for purines, -idine for the pyrimidines
 ribonucleotide - -dylate for pyrimidines, -nylate for purines
 
-majority of ADULT cells don't need de novo and just salvage is fine. but majority of fetus or cancer cells or immune cells (B+T cells) = they do de novo!!! 
-1. De novo biosynthesis: Purine and Pyrimidine - building from very small building blocks; **PRPP + amino acids + ATP + CO2** -> nucleotide. **this is a chemo target as well as a target for over-active immune systems**
+majority of ADULT cells don't need de novo and just salvage is fine. but ==majority of fetus or cancer cells or immune cells (B+T cells) = they do de novo!!!== 
+1. De novo biosynthesis: Purine and Pyrimidine - building from very small building blocks; ==**PRPP + amino acids + ATP + CO2** -> nucleotide==. **this is a chemo target as well as a target for over-active immune systems**
 	1. a. Commonalities and differences between purine and pyrimidine synthesis 
-		- they have many common blocks, like gettting the ==nitrogen from glutamine== 
+		- they have many common blocks, like getting the ==nitrogen from glutamine== 
 		- ==bicarbonate, and aspartate too. also ATP== needed
 		- ==PRPP== is also a commonality, activated form of ribose molecule. 
 			- purines are larger, a few more structures needed! 
@@ -39,7 +39,7 @@ majority of ADULT cells don't need de novo and just salvage is fine. but majorit
 		1. key precursors - bicarb, ammonia from glutamine and aspartate 
 ![[de novo pyrimidine]]
 note - the only enzyme that's in the mt and not the cytoplasm is dihydroorotate dehydrogenase. inner mt membrane
-![[pyrimidine biosynthesis pathway.png|432x335]]
+![[pyrimidine biosynthesis pathway.png|593x460]]
 CPS-2 = a multi step rxn 
 - located in the cytoplasm 
 - taking bicarb -> carboxyphosphate (activated w/ ATP) -> Carbamic acid when ammonia replace phosphate group -> carbamoyl phosphate at 2nd phosphorylation ATP
@@ -57,7 +57,7 @@ UMPS = **another fusion enzyme in mammals!!!**
 			1. note - DMARD **leflunomide** inhibits the synthesis by targeting dihydroorotate dehydrogenase!!! binding to a tunnel leading there... 
 				- treatment of severe or mod rheumatoid arthritis + psoriatic arthritis; t cell expansion stopped.
 				- overall the class can treat inflammatory diseases... but not all do target this nucleotide metabolism.
-			2. high levels of orotic acid due to defects in UMPs, the fusion enzyme. basically megaloblastic anemia, severe mental/physical delays 
+			2. high levels of orotic acid due to defects in UMPs, the fusion enzyme. basically megaloblastic anemia, severe mental/physical delays = ==**hereditary orotic aciduria**==
 				1. Autosomal recessive
 				2. treat with *uridine* UMP to bypass this lock (will make UMP automatically thru the salvage pathway)
 				3. orotic aciduria - can also be due to blockage of urea cycle... like with this your carbamoyl phosphate in mitochondria will leak out, making high levels of orotic acid. 
@@ -93,8 +93,8 @@ purine
 			1. not gonna be fully inhibited if only AMP is abundant, requires both. 
 	5. f. Balancing nucleotide synthesis  - basically prpp synthetase, inhibited by amp, adp, etc.
 ---
-1. Deoxyribonucleotide biosynthesis - not a separate pathway, simply convert them to the deoxy form 
-	1. a. Ribonucleotide reductase function and regulation 
+1. Deoxyribonucleotide biosynthesis - not a separate pathway, ==simply convert them to the deoxy form== 
+	1. a. ==Ribonucleotide reductase function== and regulation 
 		1. generally the only enzyme we realy use, we would turn the ribonucleotide to deoxyribonucleotide. 
 		2. reduction of ribonucleotides, 2-hydroxyl reduced by **thioredoxin -> dNDP**
 		3. reduced thioredoxin regen by NADPH from PPP 
@@ -130,7 +130,7 @@ purine
 			1. you build up a lot when you break down most of the nucleotides. 
 			2. treatment - **allopurinol - start several weeks after acute gout attack** - memetic for xanthine oxidase
 
-3. Salvage pathway nucleotide synthesis - most cells use to pick up bases free floating available from cell turnover to regenerate nucleotides - if we just break off phosphate and riboses and just leave those free bases, these can be in the bloodstream
+3. ==Salvage pathway nucleotide synthesis - most cells use to pick up bases free floating available from cell turnover to regenerate nucleotides== - if we just break off phosphate and riboses and just leave those free bases, these can be in the bloodstream
 	- **this is activated ribose PRPP + base**-> nucleotide 
 	1. a. Purine and pyrimidine salvage pathway enzymes 
 		1. purines - adenine/guanine + PRPP -> adenylate/guanylate + PPi 
@@ -143,7 +143,7 @@ purine
 			3. also thymine + deoxyribose 1-phosphate -> thymidine. + Pi (**thymine phosphorylase**)
 				1. **thymine is the exception that doesn't use PRPP**
 	2. b. Genetic defects in salvage pathway enzymes
-LNS - lesch-nyhan syndrome - mutation in HGPRT
+==LNS - lesch-nyhan syndrome - mutation in HGPRT==
 - this is the purine salvage enzyme for guanine and hypoxanthine. 
 - X linkd recessive, mostly males except females might get gout 
 - buildup uric acid 
@@ -158,11 +158,11 @@ LNS - lesch-nyhan syndrome - mutation in HGPRT
 	- lower levels of GMP = stop inhibition of IMP dehydrogenase, excessive **purine synthesis, no more inhibition of GPAT**
 allopurinol will treat this ... 
 
-kelley-seegmiller 
+==kelley-seegmiller== 
 - partial def of HGPRT, more de novo purine 
 - gout + kidney stones, less neuro involvement
 
-hyperactivity mutants of PRPP synthetase , more PRPP production 
+==hyperactivity mutants of PRPP synthetase , more PRPP production== 
 - rare X linked, severe/mild form
 - PRPP higher = GPAT and CPS2 activation more de novo purine synthesis 
 - hyperuricemia, hyperuricosuria, gout 
