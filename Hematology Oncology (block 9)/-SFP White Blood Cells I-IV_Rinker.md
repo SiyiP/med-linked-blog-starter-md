@@ -1,6 +1,57 @@
 #hemonc #patho 
 ![[Neoplastic White Blood Cells I-Acute Myeloid Leukemia, Myelodysplastic Syndrome_Rinker_PPT (1).pdf]]
 
+WBC-related notes from test:
+- polycythemia vera (markedly elevated hematocrit, suppressed erythropoietin. Most cases of polycythemia demonstrate a JAK2 mutation. 
+- LAP score measures the activity of alkaline phosphatase in leukocytes; 
+	- a low score was historically indicative of CML and higher score consistent with leukemoid reactions. 
+- Howell Jolly bodies are nuclear remnants in erythrocytes, often seen in aplenic patients (spleen normally would remove red cells with   
+- The TRAP stain (tartrate-resistant acid phosphatase) stains the TRAP enzyme causing the cytoplasm to be red and granular; it is relatively unique to hairy cell leukemia vs. other leukemias.
+
+A 4-year-old female presents abruptly with petechiae, bruising, fatigue, and bone pain.  The white blood cell count is elevated with 60% blasts.  By flow cytometry the blasts are positive for CD19 and CD10.  The lineage of the blasts is: - precursor b cells
+- This is a case of B‐ALL. 
+- B‐lymphoblasts express **CD19 and CD10 (also known at CALLA – common acute lymphoblastic leukemia antigen)**. 
+- Classic T cell markers are CD3, 4, and 8. 
+- Myeloid markers include CD13 and 33 
+- classic monocytic markers are CD14, 64, 68 
+
+for testing: 
+- Flow cytometry can easily discriminate the clonal CD5, CD23 positive B‐ cells with immunoglobulin light chain restriction of CLL from non‐ neoplastic lymphocytes. 
+- TdT staining screens for T-cell **lymphoblastic** lymphoma. 
+- Myeloperoxidase stains mark a **myeloid** lineage of cell type. 
+- Coombs testing detects antibodies that can cause hemolysis of red cells.
+
+mantle cell lymphoma (CD5+, CD23‐) -  protein overexpressed is cyclin D1. 
+- usually results from t(11;14),  which connects the cyclin D1 gene with the immunoglobulin heavy chain gene segments. Cyclin D1 regulates the progression of the cell cycle from G1 to the S phase.
+
+Burkitt lymphomas have a high proliferative index as manifested by high Ki‐67. The starry sky appearance results from pale macrophages containing tumor debris ('tingible body macrophages') scattered amongst the dark lymphoma tumor cell background.
+Reactive germinal centers have tangible body macrophages, polarization, follicular dendritic cells, numerous mitotic figures, and cellular polymorphism.
+- (8;14) translocation (involving the myc). 
+- positive for CD10 (CALLA) but not CD5 (which is commonly positive in chronic lymphocytic lymphoma (CLL) and mantle cell lymphoma).
+
+- but follicular lymphoma has no tingible body macrophages
+- Normal germinal cells **do not express BCL2,** an anti‐apoptotic protein. *In follicular lymphoma, the immunoglobulin heavy chain gene is translocated next to the BCL2 gene*, resulting in overexpression and inhibition of apoptosis.
+- follicular lymphoma - (14;18)
+
+Hemophagocytic Lymphohistiocytosis - we see fever, pancytopenia, splenomegaly, and DIC after a viral infection
+- Very high serum ferritin levels are seen in HLH. 
+- hyperviscocity syndrome
+
+Auer rods are seen in AML.
+- acute promyelocytic leukemia - DIC and a white count of 150,000. The white blood cells are immature and have numerous Auer rods. This diagnosis is confirmed by FISH for t(15;17). If positive, the patient should be treated with ATRA (all-trans retinoic acid) as it induces the maturation of the immature promyelocytes, reducing the leukemic burden, targets the PML/RAR fusion protein and resolves coagulopathy.
+
+A bone marrow biopsy in an older patient showing a hypercellular marrow with dysplasia in all three hematopoietic cell lines (erythroid, myeloid, and megakaryocytic) strongly supports the diagnosis of MDS.  Patients with MDS are at higher risk of developing acute myeloid leukemia
+
+a classic presentation of CML - Left shifted granulocytes indicated the presence of immature granulocytes (myeloid lineage) in the peripheral blood. This can be seen in infections, but a 150,000 white cell count is a leukemic process.  Demonstration of the Philadelphia chromosome t(9;22) confirms the diagnosis. splenomegaly and a white count of 150,000. The granulocytes are left shifted and there is a basophilia. 2% blasts are present.
+
+The lymphocytes in CLL look very much like normal lymphocytes. One can determine clonality by surface immunoglobulin light chain restriction. Expression of CD5 and CD23 on the clonal B-cells is classic for CLL.
+
+
+
+
+
+---
+
 framework
 ![[WBC neoplasm framework]]
 leukemia - from the bone marrow - progression marked by abnormal cells in blood + bone marrow- extended to peripheral blood - 
@@ -361,7 +412,7 @@ diffuse large b-cell lymphomas
 hodgkin lymphoma - b cell origin
 - classic hodgkin lymphoma - b cell lymphoma full of hodgkin like or HL cells and some reed-sternberg cells - scattered within a bgd of **inflammatory infiltrate - reactive/non-neoplastic**
 		- HL = large, single nuc, prominent eosinophilic nucleolis 
-		- reed-sternberg RS cells = subtype of hodgkin cell; inclusion like bi/multinuc, prominent eosinophilic nucleoli 
+		- **reed-sternberg RS** cells = subtype of hodgkin cell; inclusion like bi/multinuc, prominent eosinophilic nucleoli 
 		- lacunar cells = HL/RS cell sitting in an empty space (retraction artifact)
 		- mummified cell = degenerated HL/RS cell with nucleus appearing **smudgey**
 	- nodular sclerosis - we have dense fibrotic bands dividing the lymph node into diffuse areas. ; **typically presents with slow growing, painless lymphadenopathy with a mediastinal mass**
@@ -373,7 +424,8 @@ hodgkin lymphoma - b cell origin
 		- pertinent negatives = CD45, CD20, CD79a
 	- prognosis: favorable, related to age + stage
 	- TREAT: chemo + rad 
-- nodular lymphocyte-predominant hodgkin/b-cell lymphoma - not biologically relatted to hodgkin lymphoma, just visually 
+ 
+- **nodular lymphocyte**-predominant hodgkin/b-cell lymphoma - not biologically relatted to hodgkin lymphoma, just visually 
 	- neoplastic cells = large b cells with multilobated nuclei = has **popcorn cells** + lymphocyte predominant cells .... **constituting a minority of cellular material**  similar to classic hodgkins 
 	- notably mediastinal involvement less common than classic hodgkins
 		- still slow growing isolated lymphadenopathy 
@@ -428,7 +480,7 @@ mycosis fungoides - abnormal t cells involve the epidermis
 sezary syndrome- mycosis fungoides which progresses to systemic involvement 
 - diffuse triad of erythroderma - reddening of skin 
 - generalized ymphadenopathy 
-- sezary cells = **abnormal lymphocytes cerebriform nuclei WHEN it moves outside of skin1**
+- sezary cells = **abnormal lymphocytes *cerebriform* nuclei WHEN it moves outside of skin1**
 - - most likely CD3,CD2,CD4+, negative for CD7 
 - poor prognosis - very poor, 5 yr survival 10-20% 
 
