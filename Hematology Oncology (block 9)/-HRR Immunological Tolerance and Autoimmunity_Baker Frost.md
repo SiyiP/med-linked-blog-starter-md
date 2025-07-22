@@ -17,6 +17,7 @@ immature B-cells are capable of activating unused alleles of Ig light chains whe
 
 AIRE - autoimmune polyendocrine syndrome. 
 Complement - lupus and other immune complex disorders. 
+
 FoxP3 - X-linked polyendocrinopathy and enteropathy (IPEX). 
 NOD2 - Crohns disease, Blau syndrome. It encodes a protein expressed in monocytes, macrophage, dendritic cells and some intestinal epithelial cells that activates NF-kappaB in response to bacterial PAMPS.  Over 30 different mutations have been associated with increased risk for Crohn's.
 
