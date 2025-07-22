@@ -24,6 +24,7 @@ NOD2 - Crohns disease, Blau syndrome. It encodes a protein expressed in monocyte
 why do some moms get Rh antibody when they're Rh- with Rh+ baby? =  breakdown of immune privilege - The fetus is normally protected by passive and active immune privilege such that the mother's immune system is not exposed to fetal antigens via the placenta during pregnancy. However, the physical trauma of parturition almost always results in some fetal blood entering skin tears or incisions, sensitizing the mother's immune system to fetal blood antigens, most commonly Rh.
 
 PD-1 binding to PD-L1 or B7 on APC is primarily a mechanism producing anergy in effector T-cells in peripheral tissues, including tumors. In fact, many malignant cells express PD-L1 in order to evade being killed by T-cells.
+-  PD-1 = > anergy in effector t cells 
 
  An enterovirus protein has antigenic similarity to an antigen expressed on beta islet cells.
  An immune response to the virus (in those with genetic predisposing factors) results in an immune response that also attacks the person's beta islet cells leading to Type I diabetes. 
