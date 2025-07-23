@@ -1,46 +1,17 @@
 #pharm #hemonc 
 ![[Chemotherapeutic Agents I and II_Tew_PPT (1).pdf]]
 this will be on the TBL 
-- know moa + AEs to be fully prepared 
-type of anticancer drugs, some antibodies (newer drugs) 
-dose limiting toxicities 
+- **know moa + AEs to be fully prepared** 
+AES: just memorize CHEMO TOX MAN? 
+![[Chemo AES.png]]
+
 therapeutic ratio - how many cancer cells are you killing vs normal cells? 
-checkpoint inhibition like PD1 underlies advances in immunotherapy - activation of immune response to the host 
 gene therapies - CAR-T therapies make an impact. = using host immune system against cancers 
-
-antimetabolites
-pyrumidine analog
-5-fluorouracil
-floxuridine 
-purine analogs [[-MMT Nucleotide Metabolism I+II_Dalton]]
-6-mercaptopurines 
-6-thioguanines 
-cladribine
-Deoxycytidine analogues
-gemcitabine
-cytosine arabinoside/cytarabine
-folic Acid analogue: Methotrexate 
-“Rescue” compound: Leucovorin
-
-Antitumor antibiotics: Bleomycin, Dactinomycin, 
-Anthracyclines: Doxorubicin, Daunorubicin 
-
-alkylating agents - big groups: nitrogen mustards, nitroureas, imidazoles, triazenes
-
-Antimitotic drugs: 
-Vinca alkaloids: Vinblastine, Vincristine, 
-Taxanes: Paclitaxel 
-
-Antitumor monoclonal antibodies: Bevacizumab, Cetuximab, Rituximab, Trastuzumab, Denosumab, Pembrolizumab 
-
-Miscellaneous: 
-Platinum compounds: Cisplatin, Carboplatin. 
-Topisomerase inhibitors: Etoposide, Irinotecan, Topotecan. 
-Tyrosine Kinase Inhibitors: Gefitinib, Imatinib, Lapatinib, Sorafenib, Bortezomib. Asparaginase; Procarbazine
-
+- gene therapy is hard: complexity depends on gene plasticity, rarely monogenic event leads to cancer! 
+- very invasive, time-consuming, etc. 
 ---
 common terms of chemo
-Debulking: surgical removal of large tumors prior to drug treatment. 
+   Debulking: surgical removal of large tumors prior to drug treatment. 
 • Neoadjuvant therapy: treatments given before surgery to shrink primary tumor. if it's infiltrating tissues or hard to do therapy we wanna shrink it. 
 • Maintenance therapy: low dose therapies to prolong remission. 
 • Growth fraction: proportion of cells in cell cycle (usually more susceptible). dividing cells vs latent ones 
@@ -53,37 +24,36 @@ Debulking: surgical removal of large tumors prior to drug treatment.
 Minimizing adverse effects: toxicities that may be ameliorated by interventions usually cotreatment with drugs 
 • T cell exhaustion: arises during chronic infections and cancer, defined by poor effector function, sustained expression of inhibitory receptors. **poor t cell effector function**
 • PD-1: protein on T cells that keeps immune responses in check. When PD-1 is bound to PD-L1, it keeps T cells from killing cancer cells. Immune checkpoint inhibitors can block PD-1.  huge in t cell activation, if you mess around with it, **you can activate t cells to attack cancers**
+	FYI: to stop the pain of the toxicities, you have to modulate the dose, unless there's something specific you can add to it 
 
 ---
 target nucleic acid pathways 
-- antimetabolites - synthesis and incorperation of many drugs into dna - they mimic them and stop production 
-	- anti
+- antimetabolites - synthesis and incorporation of many drugs into dna - they mimic them and stop production 
 - alkylating agents +  antibiotics = these **bind directly** to DNA instead of interfering with the precursors. 
 	-**stop it from unwinding or going thru replication / division again**
-
 cell cycle specific drugs = 
 - antimetabolites
 - bleomycin peptide antibiotics
 - vinca alkaloids
 - etoposide  
-
 cell cycle non-specific drugs = these all impact things outside of the cell cycle, nonspecific. 
 - alkylating agents
 - antibiotics = which bind to the DNA. 
 
+---
 7 classes of agents - ROYGBIV... recall **- MOA + dose limiting toxicities** 
 1. antimetabolites - mimic nucleotides + bases , interfere with synthesis - vast majority can also be great viral agents bc they work well on reducing the nucleic acid supply - most normal ESSENTIAL TOX: n/v, diarrhea, myelosuppression 
 	- *pyrimidine analog*
-		- **5-fluorouracil** = colon , breast, ovarian, pancreatic, gastric, skin treatment topically 
+		1. **5-fluorouracil** = colon , breast, ovarian, pancreatic, gastric, skin treatment topically 
 			- basically, 5-FU is given then turned into 5-fDUMP, w/ phosphoriboxyl transferase, uridine phosphorylase and uridine kinase.  
 			- 5-fdUMP trapped with **thymidylate synthesase, reducing the amount of thymine** w/ N5,N10 methyl tetrahyrofolate + thymidylate synthase in tert complex. 
 				- CELL dies from **NO THYMINE!!! = base imbalance and interference**
 			- ESSENTIAL toxicities - ulcers in oral mucosa 
-		- capecitabine - *converted* into 5-FU as a prodrug orally. 
-		- floxuridine = GI tumor metastasis to liver? 
+		2. capecitabine - *converted* into 5-FU as a prodrug orally. 
+		3. floxuridine = GI tumor metastasis to liver? 
 			- ESSENTIAL toxicities - enteritis/stomatitis local erythema 
 	- *purine analogs*
-		- **6-mercaptopurines** = leukemias
+		1. **6-mercaptopurines** = leukemias
 			- purine structure except with an SH group
 			- acted upon by the **hypoxanthine-guanine phosphoribosyl transferase** -> making the 6-thioinosinic acid, which inhibits any IMP to AMP/XMP (nucleotide formation), phosphoribosylamine synthesis (purine synthesis) 
 				- inhibits nucleotide formation 
@@ -92,23 +62,24 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 			- hypoxanthine-guanine phosphoribosyl transferase can have differences between ppl and those genetic differences impact how well the drug works 
 				- >[!drug interactions] 6-mercaptopurine + allopurinol: xanthine oxidase is inhibited by allopurinol but the liver's xanthine oxidase first pass converts 6-MP -> thiouric acid. 
 			- TOXICITIES: liver
-		- 6-thioguanines = leukemias
+		2. 6-thioguanines = leukemias
 			- TOXICITIES: liver
-		- cladribine = leukemias+lymphomas 
+		3. cladribine = leukemias+lymphomas 
 			- TOXICITIES: neuropathy 
 			- inhibits adenosine deaminase 
 	- *Deoxycytidine analogues*
-		- **gemcitabine** = pancreas+lung - 
+		1. **gemcitabine** = pancreas+lung - 
 			- fluorine groups in it, gets processed y deoxycytidine kinase -> mimic of **cytidine**, so dCTP down! 
 			- TOXICITIES: flu symptoms 
-		- cytosine arabinoside/cytarabine. = leukemias 
+		2. cytosine arabinoside/cytarabine. = leukemias 
 			- TOX: common 
 	- folic Acid analogue: 
-		- **Methotrexate** = leukemias/lymphomas
+		1. **Methotrexate** = leukemias/lymphomas
 			- targets **dihydrofolate reductase**, reducing the amount of **thymidine** available, stops the production of N5N10-methylene-FH4. 
 				- stuck at folate bc doesn't make FH2, and stuck at FH2 bc doesn't make FH4
 			- "Rescue” compound: Leucovorin  - administration of precursor base N5-formyl-FH4, converted to **N5N10-methylene-FH4** - **rescue bc taken up preferentially by normal cells**
 			- TOXICITIES: stomatitis, alopecia, rash 
+
 2. Antitumor antibiotics  - causes DNA dmg , and cells can repair it or not, many come from natural products. **all given IV, non cross BBB**. ESSENTIAL TOX: dmg associated with free radicals
 	1. bleomycin = testicular cancers, squamous cell carcinoma, lymphomas
 		- makes an iron complex that causes strand breaks via free radicals
@@ -121,11 +92,13 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 			- TOX: cardiotoxicity, myelosuppression/GI
 		2. daunorubicin = leukemias
 			- TOX: cardiotoxicity, myelosuppression/GI, alopecia
+
 3. Alkylating agents  - bind covalently to DNA, messing up bases ; adducting to the DNA itself, adding to the helix structure, causing steric issues + issues with the 3d structure 	- always given IV, always crosses BBB
 	- these all have chlorines on them, which will attach to ethyl groups, making carbonium ions -> nitrogen mustards. **these chlorines are leaving groups, which will leave a + charge (carbonium ions)**. VERY reactive to nucleophiles + bases etc. 
 	- **bifunctionality** - when we have 2 chlorine groups, we can have 2nd reactive site, ***crosslinking*** 2 bases together = more toxic!
 		- the toxicity is reduced by a repair factor which effeciently removes the chloroethyl monoadduct 
-	- NITROGEN MUSTARDS: TOX: myelosuppression, immune suppression, alopecia, mutagenic/carcinogenic, teratogenic, n/v + diarrhea 
+	- ALL TOX: myelosuppression, immune suppression, alopecia, mutagenic/carcinogenic, teratogenic, n/v + diarrhea... super toxic in general, think about how development of another cancer can occur, etc. 
+	- NITROGEN MUSTARDS: 
 		1. melphalan = chronic lymphocytic leukemia
 			- tox: extravasation @ site 
 		2. cyclophosphamide = lymphomas; breast
@@ -138,18 +111,88 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 			- TOX: bladder hemorrhagic cystitis, neurotox, veno-occlusive dz, siadh 
 		4. busulfan = chronic myelogenous leukemias, bone marrow transplants 
 			- TOX: pulm fibrosis 
-	- NITROSOUREAS: very lipid soluble; but brain tumors are hard to treat ): 
+	- NITROSOUREAS: very lipid soluble; but brain tumors are hard to treat ):
 		1. carmustine = brain + CNS
+			- TOX: *delayed* myelosuppression (renal, pulm fibrosis)
+			- delayed bc they attack the stem cells that produce the precursor blood types. 
 		2. lomustine = brain + CNS
-	- IMIDAZOLE:
+			- TOX: *delayed* myelosuppression (renal, pulm fibrosis)
+	- IMIDAZOLE: 
 		1. dacarbazine = lymphomas (melanoma, sarcoma, pancreas); used sparingly 
+			- TOX: hepatotoxicity
 	- TRIAZENE: brain tumors are hard to treat ): 
 		1. temozolomide = brain + CNS 
-4. Antimitotic agents  - interfere with mitosis - the way that chromosomes  lay out and divide 
-5. Monoclonal antibodies- interfere with tumor surface cell specific proteins 
-6. Kinase inhibitors - target kinases **inside** cells which regulate pathways 
-7. Miscellaneous - like 8-9 of those. 
+
+4. Antimitotic agents  - interfere with microtubule spindles. cannot go to anaphase+cytokinesis. all: IV drugs, excreted in bile not BBB 
+	- TAXANES: cause aggregations/stabilization of the **tubulin molecules**; cell stuck in metaphase. 
+		- TOX: neutropenia, peripheral neuropathy, asymptomatic bradycardia, hypersensitivity 
+			- pre-med with dexamethasone 
+		1. Docetaxel = ovarian, breast, lung 
+		2. Paclitaxel = ovarian, breast, lung 
+	- VINCA ALKALOIDS: **bind to tubulin, stopping polymerization** in the first place + stopping the spindles from forming. no anaphase+cytokinesis too 
+		1. Vinblastine = testicular, lymphomas 
+			- TOX: phlebitis, cellulitis, n/v, myelosuppression
+		2. vincristine = leukemias/lymphomas 
+			- TOX: **peripheral neuropathy**, constipation 
+
+5. Monoclonal antibodies- interfere with tumor surface cell specific proteins; gonna end in "-mab"; they all target specific proteins. all IV except sq for denosumab, essentially none cross BBB
+	1. bevacizumab = VEGF to prevent new BV formation, metastatic colorectal 
+		- TOX: htn, stomatitis, diarrhea, perforated bowel/bleeding dz 
+	2. cetuximab = EGF interferes with growth signaling, colorectal 
+		- TOX: difficulty breathing, hypotension, interstitial lung dz 
+	3. rituximab = against CD20 antigen, regulates cell cycle/self-differentiation; leukemias/lymphomas 
+		- TOX: hypotension, bronchospasm, angioedema, card arrhythmias, tumor lysis syndrome -> kidney failure 
+	4. daratumumab = CD38 in **multiple myeloma**. killing directly 
+	5. tratuzumab/herceptin = HER2 (EGFR protein 2) and inhibits *tyrosine kinase* activities; metastatic breast cancer 
+		- TOX: congestive HF, infusion related flue 
+	6. denosumab = RANKL protein in osteoclasts, stopping bone resorption and preventing fractures in a lot of older women/men as an adjuvant. prostate/breast 
+		- TOX: use Ca + D supplements 
+	7. pembrolizumab / keytruda = blocks PD1 checkpoint inhibitor, melanoma, nsclc, lymphomas, bladder, head+neck, microsatellite high mutators 
+		- activate T cells to activate immune response! overcoming the "tiredness" of the T cells, re-activating them again 
+		- TOX: immune issues 
+
+6. Kinase inhibitors - target kinases **inside** cells which regulate pathways. ends in "-nib", all given orally. also in terms of tox, not that srs, acne is used more as a marker to see if its working 
+	1. gefitinib = lung, non-small cell lung carcinomas
+		- inhibits BCR-ABL tyrosine kinase, making it more manageable! 
+		- DRUG RESISTANCE: reduced efficacy in mutations of kinase binding domain ; resistance happens 
+		- TOX: diarrhea, acne syndrome. liver metabolism heavy  
+	2. imatinib = CML blast crisis, GI stroma
+		- TOX: fluid retention , edema, hepatotox 
+	3. lapatinib = breast 
+		- TOX: diarrhea 
+	4. sorafenib = kidney/liver
+		- TOX: rash/other skin issues 
+	5. tucatinib = previously treated breast cancers, in combination with **trastuzumab + capecitibine**
+
+7. Miscellaneous - like 8-9 of those. most poorly cross the BBB 
+- PLATINUM DRUGS: "-platin"; given IV , kidney metabolism
+	- similar to **alkylating agents** - they got **chlorine groups** that act as leaving, which then makes adducts/crosslinks. 
+	1. Cisplatin/carboplatin = testicular, ovarian, bladder
+		- TOX: nephrotox, ototox, some neurotox ; some skin rash 
+- TOPOisomerase + PARP inhibitors (DNA targeting)
+	- DNA repair targeting drug, like poly ADP ribose polymerase = similar to some kinase drugs, **comparable to kinase inhibitors**
+	1. etoposide = lung; testicular ; given IV or oral 
+		- TOX myelosuppression + alopecia 
+	2. Irinotecan (not rlly in lecture) - single strand breaks, colorectal caricinoma
+		- TOX myelosuppression + diarrhea 
+	3. topotecan = ovarian (second line), lung, colon, rectal ; given IV 
+		- TOX myelosuppression  
+	- Olaparib (not rlly talked much in lecture) = impairs DNA dmg, ovarian, breast + pancreatic cancer
+		- TOX: myelosuppression + mutagen 
+- PROTEASOME INHIBITORS: interference with breakdown of drugs, proteins, etc 
+	- when protein's not made properly, cell recognizes it based on hydrophobicity surfaces.... proteosome meant to break this down (critical bc we recycle these AAs)
+	- "makes the tumor cell less efficient, bogged down by bad proteins"
+	1. bortezomib = multiple myeloma 
+- VARIOUS MECHANISMS
+	1. asparaginase = childhood leukemia 
+		- breaks down amino acid "**asparatate**", which fucks up the tumor cells 
+		- normal cells have a lot of **asparagine synthetase, tumor cells dont have!!!**; thats why therapeutic index is good
+		- TOX: hypersensitivity, ammonia tox, coma, seizures 
+	2. thalidomide = multiple myeloma 
+	3. filgrastim = CSF transplant 
+	4. procarbazine = hodgkins ; given orval or IV, kidney metabolism 
+		- mutagen + teratogen 
+		- **he didn't talk about this**
 
 
-
-
+---
