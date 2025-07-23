@@ -55,7 +55,8 @@ complement activation:
 
 rejection - what we try to combat are t-cell mediated b cell rejection 
 - hyperacute rejection = when all the bullets are ALREADY out of the gun. minutes to hours; **non-treatable and pre-formed antibody**. very uncommon here
-	- dx via visual + labs. on the table it turns dark purple and black. this is a crossmatch test
+	- dx via visual + labs. on the table it turns dark purple and black. **this is a crossmatch test: HLA matching**
+	- in positive crossmatches - class 2 antigens lead to these things 
 - acute rejection = happens any time past the transplant like within the year.... 
 	- generates an acute response. t cell or antibody mediated - frequently treatable 
 	- dx via labs + biospy 
@@ -73,12 +74,15 @@ transplant drugs - has different classes 3 categories
 	- calcineurin inhibitor = workhorse agent for transplant rejection 
 		- **most important drug to know: tacrolimus** - maintenance immunosuppression 
 		- most important drug for rejection prevention!!! this changed the world in terms of transplants 
+		- most AE: kidney failure!!! from this 
 	- antimetabolites
 	- steroids
-	- costimulatory blockade
+	- **costimulatory blockade- belatacept - does NOT have nephrotoxicity**, can be used instead of tacrolimus/other calcineurin inhibitors - but rate of rejection is higher  
 	- mTOR inhibitors 
 - salvage therapy - 
 	- steroids
 	- t cell agents
 	- b cell agents 
 
+"allotolerance - teaching ur organs to accept non-self"
+- **adding the t cell components of the donor to the recipient**
