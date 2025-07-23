@@ -39,9 +39,18 @@ arthropod virus  = arboviruses - hundreds of them, divided into 3 arbitrary clin
 		- 1-3 day = infection of liver, abrupt flu like symptoms onset, then **relative bradycardia = faget's sign** => leukopenia + proteinuria 
 		- remission day 
 		- 4-10 = intoxication = fever, prostration, **GI bleeding black vomit**, delirium, **JAUNDICE**, petechiae, hypotension, shock 
-		- 10 - 21 = death or convalescence = fatigue, secondary pneumonia, full hepatic recovery 
-3. chikungunya virus 
-4. lassa virus 
+		- 10 - 21 = death or convalescence if survived = fatigue, secondary pneumonia, full hepatic recovery 
+	- THERE IS A VACCINE! check on the CDC for travel = one dose = lifelong protection, give it 9+ months of age 
+3. chikungunya virus = ppl infected mostly become symptomatic. 
+	- acute onset of fever + polyarthralgia, joint symptoms bilateral/symmetric but severe and debilitating 
+	- **cannot differentiate from dengue unless we take these labs/PCR test:** lymphopenia , thrombocytopenia, elevated creatinine, hepatic transaminases
+	- mortality is rare tho 
+4. Zika virus - 
+	- asymptomatic/nonspecific fever w/ maculopapular rash, headache, conunctivitis, arthralgias, rarely severe
+	- **guillain barre syndrome inc incidence**
+	- congenital infection = severe = **microcephaly, blindness, death**
+	- transmission by sexual contact as well as blood transfusion = documented 
+5. lassa virus - 
 
 arthropod bacterial 
 1. Yersinia pestis – 
