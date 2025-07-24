@@ -50,16 +50,37 @@ arthropod virus  = arboviruses - hundreds of them, divided into 3 arbitrary clin
 	- **guillain barre syndrome inc incidence**
 	- congenital infection = severe = **microcephaly, blindness, death**
 	- transmission by sexual contact as well as blood transfusion = documented 
-5. lassa virus - 
+TREATMENT: no antivirals, all symptomatic. only one vaccine for yellow fever + prevention via mosquito repellants + control w/ community 
 
-arthropod bacterial 
-1. Yersinia pestis – 
-2. Rickettsiae rickettsii – 
-3. Rickettsiae prowazekii – 
-4. Rickettsiae typhi –
-5. Ehrlichia chaffeensis 
-6. Anaplasma phagocytophilium – 
-7. Bartonella quintana
-8. recurrent: borrelia recurrentis + burgdorferi spirochetes from block 6 
+
+arthropod bacterial - many have unusual animal reservoir.  
+1. Yersinia pestis – "black death"
+	- human is accidental host, if they're close to rats, fleas that are on the rats go to bite you, transmitting it to you. 
+	- reservir/host = small mammals. humans accidentally... 
+	- Fever, acute, chills, then varied symptoms 
+	- TREAT: gentamycin/streptomycin 
+	- **YOPs** = outer proteins of yersinia inhibits phagocytosis, inducing macrophage apoptosis = disarm of innate immune system 
+		- **type 3 secretion** = insertion of yops into phagocytes
+		- **F1** = anti-phagocytic capsular protein 
+	- if bubonic vers - buboes = massively enlarged **lymph nodes** , full of bacteria + gram-neg stained 
+	- if pneumonic version - **airborne, infects the lungs** -> pneumonic plague. 
+		- 100% mortality if not treated!! person-person and it's hypoxia of extremities 
+		- majorly concentrated in the west called four corners, mostly bubonic, but can be accompanied by dyspnea + nonproductive cough. 
+	Rickettsia overview 
+	- **small gram-neg poorly staining**
+	- obligate intracellular parasites of endothelial cells in humans, require living cells as hosts so no agar, hard to grow. 
+	- OMP + phospholipase mediate entry into the endothelial cells of microvessels at site of bite/scratch - > **cause endotheilial injury , vascular perm, loss of fluids = shock!**
+	- CDC - tick bite bot = helps you remove them + helps you decide where to find care - helpful resource! 
+- body louse + flea + hard tick  = transmitters 
+1. Rickettsiae rickettsii – tocky mountain spotted fever 
+	- infected (hard body) tick bite 
+2. Rickettsiae prowazekii – primary louse-borne typhus + brill-zinsser disease 
+	- infected LOUSE feces scratched into skin/inhaled 
+3. Rickettsiae typhi – murine typhus 
+	- infected FLEA bite 
+4. Ehrlichia chaffeensis 
+5. Anaplasma phagocytophilium – 
+6. Bartonella quintana = 
+7. recurrent: borrelia recurrentis + burgdorferi spirochetes from block 6 
 
 
