@@ -72,12 +72,21 @@ arthropod bacterial - many have unusual animal reservoir.
 	- OMP + phospholipase mediate entry into the endothelial cells of microvessels at site of bite/scratch - > **cause endotheilial injury , vascular perm, loss of fluids = shock!**
 	- CDC - tick bite bot = helps you remove them + helps you decide where to find care - helpful resource! 
 - body louse + flea + hard tick  = transmitters 
-1. Rickettsiae rickettsii – tocky mountain spotted fever 
+1. Rickettsiae rickettsii – rocky mountain spotted fever 
 	- infected (hard body) tick bite 
+	- more common <19 yrs, in summertime, more east 
+	- non-specific flu-like symptoms can progress to life threatening, **one of only a few that causes a rash on palms+soles**
+	- TREAT: petechial rash is a late symptom, but if you're suspicious, get doxycycline immediately 
 2. Rickettsiae prowazekii – primary louse-borne typhus + brill-zinsser disease 
-	- infected LOUSE feces scratched into skin/inhaled 
+	- infected LOUSE feces scratched into skin/inhaled, rare, but in the US associated with pet flying squirrels 
+	- **epidemic typhus** + sudden spread ; symptoms such as RMSF but **no rashes on palms/hands/face**
+	- latent infection = **brill zinsser dz**
+	- TREAT: tetracycline 
 3. Rickettsiae typhi – murine typhus 
+	- **endemic typhus** - rat flea, cat flea, mouse flea. reservoir opossums, dogs, cats + fleas get infected when they bite those **reservoir animals** 
+		- endemic to socal, tx, hawaii 
 	- infected FLEA bite 
+	- TREAT: doxycycline 
 4. Ehrlichia chaffeensis 
 5. Anaplasma phagocytophilium – 
 6. Bartonella quintana = 
