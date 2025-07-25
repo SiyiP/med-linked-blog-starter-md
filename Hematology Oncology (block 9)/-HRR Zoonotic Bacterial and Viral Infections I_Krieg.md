@@ -84,16 +84,98 @@ arthropod bacterial - many have unusual animal reservoir.
 	- TREAT: tetracycline 
 3. Rickettsiae typhi – murine typhus 
 	- **endemic typhus** - rat flea, cat flea, mouse flea. reservoir opossums, dogs, cats + fleas get infected when they bite those **reservoir animals** 
-		- endemic to socal, tx, hawaii 
+		- endemic to so-cal, tx, hawaii 
 	- infected FLEA bite 
 	- TREAT: doxycycline 
 4. Ehrlichia chaffeensis - "rickettsia-like"
 	- transmitted by ixodes tick 
+	-  high fever, headache, malaise, sometimes rash 
+	- replication in: cytoplasmic vacuoles of granulocytes, monocytes, erythrocytes + platelets
+		- **infected cell: monocytes**
+	- TREAT: tetracyclines 
+	- reservoir in: dogs, deer
+	- host in: humans + dogs 
+	- DX: serology or visualization of **morulae - berrylike inclusions in smears = small round clusters**
+![[ehrilichia and anaplasma morulae.png]]
 5. Anaplasma phagocytophilium – "rickettsia-like"
 	- transmitted by lonestar tick 
 	- high fever, headache, malaise, sometimes rash 
-	- replic
-6. Bartonella quintana = 
+	- replication in: cytoplasmic vacuoles of granulocytes, monocytes, erythrocytes + platelets 
+		- **infected cell: granulocytes**
+	- TREAT: tetracyclines 
+	- reservoir in: mice, deer, sheep 
+	- host in: humans, dogs, ruminants, horses 
+6. Bartonella quintana = "trench fever"
+	- host/reservoir in humans - transmitted by **human body louse**, **intracellular growth inside erythrocytes**
+	- fever, headache, rash on **trunk/abdomen**, bone pain mainly in shins, neck, back, with **recovery in 5 days then relapse**
+	- g-neg coccobacilli, fastidious microaerophillic but 21 days to grow
+	- DX: pcr/antibodies bc culture too slow 
+	- TREAT: azithromycin/erythromycin 
 7. recurrent: borrelia recurrentis + burgdorferi spirochetes from block 6 
 
-
+---
+zoonotic bacterial infections transmitted by animal bites/body fluids
+1. bartonella henselae- "cat scratch dz"
+	- gram neg coccobaccili **related by brucella**
+	- domestic + feral housecats infected by fleabites = host/reservoir. transmission by scratches of infected cats 
+	- enlarged, tender lymph nodes that develop 1-3 wks after exposure, and scab/pustule at scratch site 
+	- g-neg coccobacilli, fastidious microaerophillic but 21 days to grow like the other in its family + intracellular erythrocyte growth 
+	- TREAT: Azithromycin but CSD resolves without treatment 
+2. Brucella abortus – 
+	- cattle , pigs, goats hold it, but transmitted by unpasteurized milk/infected carcasses 
+		- abortis = cattle
+		- suis = pigs
+		- melitensis = goats/sheep = found in most ppl commonly 
+		- canis = dogs 
+	- DX: hard bc blood culture takes 3 days- 4 wks to be poz  
+	- gradual onset of symptoms 2-4 wks post exposure, undulant fevers, fatigue, myalgias, arthralgias, headache, backpain, anorexia. **classically have malodorous sweat** 
+	- g-neg coccobacilli, fastigdious aeroobic 
+	- TREAT: tetracyclines 
+	- virulence: smooth LPS  allows for intracellular growth, survives macrocytic vesicle in attack + replicates in lymph nodes  or cleared or seeds chronic infection in nearly any tissue. 
+3. Pasteurella multocida – "soft tissue infection/bite wound"
+	- cat/dog oral cavities reservoir + transmission by bites/scratches - normal oral flora 
+	- rapidly prog cellulitis + lymphangitis within 24 hrs of the bite, pneumonia also possible ; erythematous streaks up the arm 
+	- g-neg coccobacilus, facultative anaerobe, might exhibit bipolar staining 
+	- DX: culture but start empriric therapy 
+	- TREAT: penicillins AMOXicillin-clavulonic acid
+	- virulence: capsule inhib phagocytosis, LPS, **siderophores(iron scavenging) against innate immunity** 
+4. Coxiella burnettii – "q fever"
+	- cattle/sheep goats reservoir but transmission via contaminated **dust**/aerosols 
+	- usually mild systemic infection without rash; chronic pneumonia + myocarditis possible 
+	- g-neg bacillus , hard to get it out of the soil 
+	- DX: serology, BSL3 org
+	- TREAT: doxycycline + chloramphenicol 
+	- virulence: intracllular replication in phagolysosomes of macrophage 
+5. Francisella tularensis
+	- cattle/sheep/goats/rabbits/wild mammals - transmission by infected carcasses + ticks/deer flies or inhalation or ingestion or trauma 
+	- fever, chills, malaise 2-5 days post exposure + **necrosis, abscess + granulomas**
+		- ulceroglandular = papule -> painful ulcer + regional lymphadenopathy 
+		- oculoglandular - painful purulent conjunctivitis
+		- typhoidal = from ingesting large dose - typhoid fever mimic
+		- pneumonic - if inhaled / hematogenous spread
+		- septicemic - if it reaches the blood 
+	- g-neg coccobacilli, facultative anaerobe, fails on routine media 
+	- DX: clinical sus + special medium or serology 
+	- TREAT: gentamycin/streptomycin IV 
+	- virulence: low infectious dose + **polysach capsule/intracellular growth in macrophages + hepatocytes**
+		- LPS not recognized by human's TLR. hides inside immune cells 
+	- natural infection = long lasting immunity -
+zoonotic viral infections transmitted by animal bites/body fluids
+6. Filoviruses (Ebola and Marburg) – 
+	- reservoir host - like a fruit bat natural host pre-outbreak, then they get the fruits, which get to the small mammal population, and then humans eat them.
+		- human to human spread = physical contact or troplets 
+	- much can be contained by training ppl to recognize symptoms and isolate ppl early 
+	- enveloped, filamentous, helical neg-sense ssRNA 
+	- 60% mortality rate from hemorrhagic fever + shock 
+	- TREAT: single dose ebola virus vaccine, monoclonal abx against spike protein 
+	1. ebola - 
+	2. marburg - 
+7. Hantavirus - 
+	- in the us, -ssRNA
+	- rodent reservoir + transmission thru inhaling rodent exreta/direct skin contact 
+	- old world species = hemorrhagic fever v. new world = hantavirua pulmonary syndrome in the us = high mortality 
+		- "sin nombre virus" in the four corners region 
+		- we got black creek hantavirus with the mice here 
+		- pulm syndrome - **non specific flu like symptomes then 4-10 days later SOB + resp failure. only supportive care available**
+			- no human to human transmission reported. 
+	- prevention - mask+gloves , ventilation be4 and during work, avoid aerosols, use water + disinfectants. 

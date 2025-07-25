@@ -48,10 +48,10 @@ transplant immunology - what mechanism does **alloreactive/rejection** occur?
 > 7. ab-mediated complement activation pathway - 
 
 T cell activation: 
-![[Screenshot 2025-07-22 at 8.07.00 PM.png]]
+![[t cell activation path.png]]
 
 complement activation: 
-![[Screenshot 2025-07-22 at 8.10.36 PM.png]]
+![[complement pathway.png]]
 
 rejection - what we try to combat are t-cell mediated b cell rejection 
 - hyperacute rejection = when all the bullets are ALREADY out of the gun. minutes to hours; **non-treatable and pre-formed antibody**. very uncommon here
