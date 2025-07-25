@@ -139,7 +139,7 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 		2. vincristine = leukemias/lymphomas 
 			- TOX: **peripheral neuropathy**, constipation 
 
-![[image-1.png|311x304]]
+![[trastuzumab pathway.png|311x304]]
 how monoclonal antibodies work ^^ 
 5. Monoclonal antibodies- interfere with tumor surface cell specific proteins; gonna end in "-mab"; they all target specific proteins. all IV except sq for denosumab, essentially none cross BBB
 	1. bevacizumab = VEGF to prevent new BV formation, metastatic colorectal 
