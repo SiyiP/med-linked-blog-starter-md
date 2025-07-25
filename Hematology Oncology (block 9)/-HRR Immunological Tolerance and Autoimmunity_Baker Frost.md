@@ -1,5 +1,8 @@
 #hemonc 
 ![[Immunological Tolerance and Autoimmunity_Baker-Frost_PPT (1).pdf]]
+
+**"Immunological Tolerance and Autoimmunity lecture; no need to know the MHC (HLA) genes.  When you say non-MHC genes, you should know the markers for T-cells and B-cells"** !!!!!
+
 test taking notes
  Deletion and receptor editing in response to self-antigen recognition only occurs in the primary lymphoid tissue (bone marrow for B-cells) and result in central tolerance. 
  
