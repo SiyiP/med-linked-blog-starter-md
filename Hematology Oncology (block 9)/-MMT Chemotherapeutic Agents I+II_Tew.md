@@ -48,6 +48,9 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 			- basically, 5-FU is given then turned into 5-fDUMP, w/ phosphoriboxyl transferase, uridine phosphorylase and uridine kinase.  
 			- 5-fdUMP trapped with **thymidylate synthesase, reducing the amount of thymine** w/ N5,N10 methyl tetrahyrofolate + thymidylate synthase in tert complex. 
 				- CELL dies from **NO THYMINE!!! = base imbalance and interference**
+				- **leucovorin can be paired with 5-FU to ENHANCE the inhibition of thymidylate synthase! - it makes 5-FU bind better to thymidylate synthase much better, making a tighter complex + inhibiting the synthase better.**
+					- leucovorin = precursor base N5-formyl-FH4 - inc the effects of 5-FU !!! **make N5,N10-CH2THF, recall it's the rescue effect** 
+					- compare this with using it as a rescue for methotrexate 
 			- ESSENTIAL toxicities - ulcers in oral mucosa 
 		2. capecitabine - *converted* into 5-FU as a prodrug orally. 
 		3. floxuridine = GI tumor metastasis to liver? 
@@ -135,11 +138,15 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 		2. vincristine = leukemias/lymphomas 
 			- TOX: **peripheral neuropathy**, constipation 
 
+![[image-1.png|311x304]]
+how monoclonal antibodies work ^^ 
 5. Monoclonal antibodies- interfere with tumor surface cell specific proteins; gonna end in "-mab"; they all target specific proteins. all IV except sq for denosumab, essentially none cross BBB
 	1. bevacizumab = VEGF to prevent new BV formation, metastatic colorectal 
 		- TOX: htn, stomatitis, diarrhea, perforated bowel/bleeding dz 
+		- **thrombosis is massive SE**
 	2. cetuximab = EGF interferes with growth signaling, colorectal 
 		- TOX: difficulty breathing, hypotension, interstitial lung dz 
+		- **also you get a RASH = EGFR = E = epidermal; you see donstream Ras**
 	3. rituximab = against CD20 antigen, regulates cell cycle/self-differentiation; leukemias/lymphomas 
 		- TOX: hypotension, bronchospasm, angioedema, card arrhythmias, tumor lysis syndrome -> kidney failure 
 	4. daratumumab = CD38 in **multiple myeloma**. killing directly 
@@ -151,6 +158,8 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 		- activate T cells to activate immune response! overcoming the "tiredness" of the T cells, re-activating them again 
 		- TOX: immune issues 
 
+![[image.png]]
+
 6. Kinase inhibitors - target kinases **inside** cells which regulate pathways. ends in "-nib", all given orally. also **in terms of tox, not that srs, acne is used more as a marker to see if its working** 
 	1. gefitinib = lung, non-small cell lung carcinomas
 		- inhibits BCR-ABL tyrosine kinase, making it more manageable! 
@@ -160,22 +169,29 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 		- TOX: fluid retention , edema, hepatotox 
 	3. lapatinib = breast 
 		- TOX: diarrhea 
-	4. sorafenib = kidney/liver
+	4. sorafenib = kidney/liver = inhibition of **Raf, which is downstream of Ras**
 		- TOX: rash/other skin issues 
 	5. tucatinib = previously treated breast cancers, in combination with **trastuzumab + capecitibine**
+
+
 
 7. Miscellaneous - like 8-9 of those. most poorly cross the BBB 
 - PLATINUM DRUGS: "-platin"; given IV , kidney metabolism
 	- similar to **alkylating agents** - they got **chlorine groups** that act as leaving, which then makes adducts/crosslinks. 
 	1. Cisplatin/carboplatin = testicular, ovarian, bladder
-		- TOX: nephrotox, ototox, some neurotox ; some skin rash 
+		- TOX: nephrotox, **ototox**, some neurotox ; some skin rash 
 - TOPOisomerase + PARP inhibitors (DNA targeting)
 	- DNA repair targeting drug, like poly ADP ribose polymerase = similar to some kinase drugs, **comparable to kinase inhibitors**
+	- ***parp inhibitors used** a lot for **BRCA1/2** mutations* 
 	1. etoposide = lung; testicular ; given IV or oral 
 		- TOX myelosuppression + alopecia 
-	2. Irinotecan (not rlly in lecture) - single strand breaks, colorectal caricinoma
+		- **etop-both-sides, double strand breaks - topoisomerase 2 inhibitor**
+	2. **Irinotecan - single strand breaks**, colorectal caricinoma
+		- **inhibition of topoisomerase 1 = single strand**
 		- TOX myelosuppression + diarrhea 
-	3. topotecan = ovarian (second line), lung, colon, rectal ; given IV 
+		- can get re-absorbed by intestinal flora via glucoronidase activity, as detailed more in [[TBL Chemo drug]]
+	3. **topotecan** = **single strand break** ovarian (second line), lung, colon, rectal ; given IV 
+		- **inhibition of topoisomerase 1 = single strand, inhibition for religating**
 		- TOX myelosuppression  
 	- Olaparib (not rlly talked much in lecture) = impairs DNA dmg, ovarian, breast + pancreatic cancer
 		- TOX: myelosuppression + mutagen 
