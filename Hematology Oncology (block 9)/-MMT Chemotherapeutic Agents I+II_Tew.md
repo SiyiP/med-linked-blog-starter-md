@@ -85,7 +85,7 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 		- makes an iron complex that causes strand breaks via free radicals
 		- single strand breaks can be repaired, but this causes double strand breaks 
 		- TOX: **pulm fibrosis** via iron fenton rxn; hydroxyl radicals 
-	2. dactinomycin = sarcomas (kids)
+	2. dactinomycin = sarcomas (kids) - binds **DNA!**
 		- TOX: immunosuppression/myelosuppression/GI
 	- ANTHRACYCLINES:
 		1. doxorubicin = sarcomas
@@ -151,7 +151,7 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 		- activate T cells to activate immune response! overcoming the "tiredness" of the T cells, re-activating them again 
 		- TOX: immune issues 
 
-6. Kinase inhibitors - target kinases **inside** cells which regulate pathways. ends in "-nib", all given orally. also in terms of tox, not that srs, acne is used more as a marker to see if its working 
+6. Kinase inhibitors - target kinases **inside** cells which regulate pathways. ends in "-nib", all given orally. also **in terms of tox, not that srs, acne is used more as a marker to see if its working** 
 	1. gefitinib = lung, non-small cell lung carcinomas
 		- inhibits BCR-ABL tyrosine kinase, making it more manageable! 
 		- DRUG RESISTANCE: reduced efficacy in mutations of kinase binding domain ; resistance happens 
