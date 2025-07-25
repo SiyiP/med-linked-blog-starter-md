@@ -29,7 +29,7 @@ Minimizing adverse effects: toxicities that may be ameliorated by interventions 
 ---
 target nucleic acid pathways 
 - antimetabolites - synthesis and incorporation of many drugs into dna - they mimic them and stop production 
-- alkylating agents +  antibiotics = these **bind directly** to DNA instead of interfering with the precursors. 
+- alkylating agents +  antibiotics = these **bind directly** to DNA instead of interfering with the precursors. **highest 2ndary malignancy risk**
 	-**stop it from unwinding or going thru replication / division again**
 cell cycle specific drugs = 
 - antimetabolites
@@ -64,6 +64,7 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 				- 6-thioinosinic acid incorporates INTO DNA/RNA 
 			- hypoxanthine-guanine phosphoribosyl transferase can have differences between ppl and those genetic differences impact how well the drug works 
 				- >[!drug interactions] 6-mercaptopurine + allopurinol: xanthine oxidase is inhibited by allopurinol but the liver's xanthine oxidase first pass converts 6-MP -> thiouric acid. 
+			- >[!genetic testing]**thiopurine 5-methyltransferase** - know that there are many polymorphisms in this!!!! so we need to check for mutations in this 
 			- TOXICITIES: liver
 		2. 6-thioguanines = leukemias
 			- TOXICITIES: liver
@@ -105,7 +106,7 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 		1. melphalan = chronic lymphocytic leukemia
 			- tox: extravasation @ site 
 		2. cyclophosphamide = lymphomas; breast
-			- makes acrolein, causing bladder tox. 
+			- makes acrolein, causing bladder tox. **highest 2ndary malignancy risk**
 				- this can be detoxified by **mercaptoethanesulfonate/MENSA**
 			- TOX: bladder hemorrhagic cystitis, neurotox, veno-occlusive dz, siadh 
 		3. ifosfamide = lymphomas; breast 
@@ -157,7 +158,8 @@ how monoclonal antibodies work ^^
 	7. pembrolizumab / keytruda = blocks PD1 checkpoint inhibitor, melanoma, nsclc, lymphomas, bladder, head+neck, microsatellite high mutators 
 		- activate T cells to activate immune response! overcoming the "tiredness" of the T cells, re-activating them again 
 		- TOX: immune issues 
-
+		- >[!microsatellite]**microsatellite instability - multiple repeats of something = basically dna replication makes a ton of mistakes = this is microsatellites. instability means some of those are repeats in coding sequences or mutations = now new proteins that are made with some in the cell surface.** 
+		- >you will get more NEOANTIGENS = **most common in colorectal cancer - you get numerous neoantigens, which can be recognized by the host immune system, like CYTOTOXIC T CELLS!!! TO AVOID THIS, CANCER CELLS WILL OVEREXPRESS PD-L1!!!!! SO YOU NEED TO GIVE PEMBROLIZUMAB**
 ![[image.png]]
 
 6. Kinase inhibitors - target kinases **inside** cells which regulate pathways. ends in "-nib", all given orally. also **in terms of tox, not that srs, acne is used more as a marker to see if its working** 

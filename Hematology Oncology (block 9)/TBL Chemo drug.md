@@ -60,8 +60,16 @@ sometimes Ras or Raf are mutated.
 - Raf = melanoma mainly 
 
 **microsatellite instability - multiple repeats of something = basically dna replication makes a ton of mistakes = this is microsatellites. instability means some of those are repeats in coding sequences or mutations = now new proteins that are made with some in the cell surface.** 
-- 
+- you will get more NEOANTIGENS = **most common in colorectal cancer - you get numerous neoantigens, which can be recognized by the host immune system, like CYTOTOXIC T CELLS!!! TO AVOID THIS, CANCER CELLS WILL OVEREXPRESS PD-L1!!!!! SO YOU NEED TO GIVE PEMBROLIZUMAB**
 
+---
+case 3 
+13 yo male, acute lymphoblastic leukemia. given mercaptopurine 
+- **thiopurine 5-methyltransferase** - know that there are many polymorphisms in this!!!! 
+
+- watch out for assigning allopurinol + 6-mercaptopurine at the same time
+- ==**specifically tumor lysis syndrome = hyperkalemia, hyperphosphatemia, hyperuricemia, elevated sr creatinine**== 
+failure of 2+ agents with different moa - think of transporter resistance = efflux happens 
 ---
 chemo terms
 - neoadjuvant chemo - chemo given be4 surg 
