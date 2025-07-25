@@ -87,8 +87,12 @@ arthropod bacterial - many have unusual animal reservoir.
 		- endemic to socal, tx, hawaii 
 	- infected FLEA bite 
 	- TREAT: doxycycline 
-4. Ehrlichia chaffeensis 
-5. Anaplasma phagocytophilium – 
+4. Ehrlichia chaffeensis - "rickettsia-like"
+	- transmitted by ixodes tick 
+5. Anaplasma phagocytophilium – "rickettsia-like"
+	- transmitted by lonestar tick 
+	- high fever, headache, malaise, sometimes rash 
+	- replic
 6. Bartonella quintana = 
 7. recurrent: borrelia recurrentis + burgdorferi spirochetes from block 6 
 
