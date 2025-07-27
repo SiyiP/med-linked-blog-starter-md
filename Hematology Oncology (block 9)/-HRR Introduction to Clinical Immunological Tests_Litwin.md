@@ -1,6 +1,11 @@
 #hemonc #clinics 
 ![[3. Introduction to Clinical Immunological Tests_Litwin_NOTES (1).pdf]]
 
+this is on the TBL
+- general approaches to management and treatment of these
+- - interpretation of appropriate lab tests for some immune disorders 
+
+
 basic tests we'd order every day for inflammation , etc 
 erythrocyte sedimentation rate ESR and CRP = very sensitive but not specific, they're just acute phase reactants and can be elevated in many diseases 
 - ESR - how fast RSCs settle to bottom of tube in 1 hr? faster it settles = higher the ESR. so acute phase reactants would negate that charge and make cells sequester. 

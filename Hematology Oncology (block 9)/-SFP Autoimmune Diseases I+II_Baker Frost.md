@@ -1,6 +1,28 @@
 #hemonc #patho 
 ![[Autoimmune Diseases I and II_Baker Frost_PPT (1).pdf]]
 
+
+TBL:
+risk factors, hx, phys ex, lab eval : 
+develop illness scripts for: 
+- SLE, RA, seronegative spondyloarthropathies
+- sjogren syndrome
+- scleroderma - SS
+- inflammatory myopathies
+	- dermatomysitis + inflam. myositis
+- mixed CT disease 
+- IgG4 related disease 
+
+differentials for raynauds' 
+- limited sleroderma + mixed CT disease! 
+differentials for joint pain 
+- SLE without deformation 
+- RA with deformation 
+- if larger bones = think arthritis 
+- men affected with seronegative + joint fusion 
+- juvenile idiopathic arthritis fewer and larger bones affected
+- scleroderma too but it's more interested in calcium depots 
+
 autoimmune dz = 5-8% of us population, mainly females 
 - organ-specific or systemic. either or! 
 - single organ - hashimotos, pernicious anemia, good pasture's 
@@ -53,21 +75,21 @@ another pov: [[-HRR Introduction to Clinical Immunological Tests_Litwin]]
 sometimes there's more than one pattern but note we always use the disease presentation to truly dx the disease. no lab tests are 100% sensitive/specific + treatment modalities are controversial and not always effective
 
 For the following diseases know the pathogenesis (as far as it is known), the clinical presentation(s) and diagnostic criteria, and the end organ complications: 
-1. Systemic lupus erythematosus (Introduction - dedicated lecture tomorrow)  
+1. ==Systemic lupus erythematosus== (Introduction - dedicated lecture tomorrow)  
 	- ANA , Anti-dsDNA, anti-SMith
 	- drug induced = anti-histone antibody 
 	- autoimmune + multi system, vast array of autoantibodies, typical manifestations but very unpredictable and variable in behavior. acute or insidious as well, virutally involves every organ in body 
 	- note - we have clinical criteria and immunologic criteria ... we need both for the full picture
 		- prototypical: young woman with butterfly rash - reddish area on cheeks + nose. fever , pain **in joints *without* deformity.** - difference from RA... and pleuritic chest pain   + photosensitivity with the rash. also **positive aNA test but just bc it's poz doesn't mean its necessarily lupus**
 		- MARKER: we can follow the complement cascade too = C3 + 4 is low bc it's activated and being deposited in the organs if we have an active flare-up 
-2. Rheumatoid arthritis  seronegative spondyloarthropathies 
+2. ==Rheumatoid arthritis==   
 	- RA = anti-CCP(more specific), rheumatoid factor 
 	- joint fixed deformities; also can develop **subcutaneous nodules on the forearm, which might improve** ; nonsuppurative proliferative synovitis / pannus leading to articular cartilage . bilateral + polyarticular too ): 
 	- **we get inflammation in the synovium**
 	- systemic - other organs are involved, very common women > men. at any age
 	- joint pain **worse in the morning**, MORNING STIFFNESS IS HUGE!!! typically smaller joints are involved, not typically hip/knee/shoulder (usually other arthritis)
 	- inflammatory markers CRP + ESR are elevated 
-3. seronegative spondyloarthropathies 
+3. ==seronegative spondyloarthropathies== 
 	- kinda grouped in with RA but not rlly? 
 	- happens to mostly MEN!! younger male too 
 	- umbrella term like JIA = **several chronic inflammatory arthritid dz affecting the vertebral column**
@@ -91,7 +113,7 @@ For the following diseases know the pathogenesis (as far as it is known), the cl
 		- oligoarticular JIA = most common! asymmetric(one joint involved) involvement of **up to 4 joints** like knee
 			- associated with anterior uvelitis = **eye inflammation!!!**
 		- ==do we have to know the rest....== 
-5. Sjogren syndrome 
+5. ==Sjogren syndrome== 
 	- anti-ro, anti-la 
 	- 50-60 older females, dry mouth(xerostomia), dry eyes(keratoconjunctivitis sicca), rhuematoid arthritis, but dryness can happen to any and all mucous membranes though. 
 	- can cause MALT lymphomas with time [[-SFP White Blood Cells I-IV_Rinker]] - if their lymph nodes are enlarged, send for biopsy immediately 
@@ -102,7 +124,7 @@ For the following diseases know the pathogenesis (as far as it is known), the cl
 		- primary SS = sicca syndrome = isolated disorder
 		- secondary SS = associated w/ another autoimmune dz like RA most commonly 
 	- we can see **inc lymphocytes in the salivary tissue in biopsies**(lots of blue cells, a huge amount, focus score >1) + swelling of parotid glands ! 
-6. Systemic Sclerosis (Scleroderma)  
+6. ==Systemic Sclerosis (Scleroderma)==  
 	- typical autoantibodies RNA POL III, centromere, Scl-70 
 	- typically 30-50 yr female... this WILL lead to fibrosis! due to uncontrolled inflammation... proliferative obliterative vasculopathy = **basically BVs are gone. making more ischemia, fibrosis, inflammatory stuff that contributes to autoantibodies etc** 
 	- raynaud's phenomenon = vasospasm of aa in hands/feet etc... furthest from internal organs, color changes from white -> blue -> red. 
@@ -120,24 +142,24 @@ For the following diseases know the pathogenesis (as far as it is known), the cl
 			- sclerodactyly
 			- telangiectasis 
 		- diffuse form = trunk and abdomen are affected **Scl-70 antibodies**
-7. Inflammatory myopathies 
+7. ==Inflammatory myopathies== 
 	- group term, there are different types
 	- polymyositis - dx of exclusion, getting away from this term? 
-	- dermatomyositis - most common in children isolated, inflammation of both skin + muscle. 
+	- ==dermatomyositis - most common in children isolated, inflammation of both skin + muscle.== 
 		- in adults = **paraneoplastic disorder**, see inc risk of visceral cancer - lung/ovary/stomach... or malignancies would drive the development of these myopathies 
 		- skin manifestations associated with interstitial lung dz; heliotrope eyelids = **purpleish color**
 		- ESR+, **creatine kinase up AKA muscle breakdown!!!!**, ANA+  -> and we can test myositis antibody specifically. but muscle biopsy gold standard  
-	- inclusion body myositis - MC inflammatory myopathy in pts 60+ yrs , older population 
+	- ==inclusion body myositis - MC inflammatory myopathy in pts 60+ yrs , older population== 
 		- can have vacuoles/holes in the muscle fibers, "**rimmed vacuoles**" 
 	- all get muscle weakness - **large proximal msucles of shoulders/hips, like difficulty in rising from chair or climbing stairs** any muscle can be involved. 
 	- **insidious onset = slowly over time until they can't compensate anymore**
 	- infiltration of lymphocyts into muscles + degen/regen myocytes. 
-8. Mixed Connective Tissue Disease 
+8. ==Mixed Connective Tissue Disease== 
 	- overlapping clinical feat of SLE, sclerosis, polymyositis 
 	- synovitis of fingers, raynaud phenomenon, mild myositis
 	- **autoantibodies to RNP , anti-u1 RNP**!!!!!!!!
 	- little renal dz, but excellent response to steroids!
-9. IgG4 related disease
+9. ==IgG4 related disease==
 	- basically IgG4 producing plasma cells in tissue can be overrepresented
 	- involved the pancreas (autoimmune pancretitis), biliary tree, salivary glands, periorbital tissue, etc etc 
 	- histologically - **MIXED infiltrate of t/b and plasma cells**
