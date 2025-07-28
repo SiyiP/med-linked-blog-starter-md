@@ -14,7 +14,7 @@ develop illness scripts for:
 - IgG4 related disease 
 
 differentials for raynauds' 
-- limited sleroderma + mixed CT disease! 
+- limited scleroderma + mixed CT disease! 
 differentials for joint pain 
 - SLE without deformation 
 - RA with deformation 
@@ -41,7 +41,7 @@ mechanisms of tolerance
 
 recall your tolerance breaking mutations(very rare): 
 - AIRE mutation => autoimmune polyglandular syndrome when your self antigen's dont' appear and get presented in the thymus , manifestations of several autoimmune dz
-- FOXP3 = improper dev + activity of Tregs if mutated. -> IPEX - immune dysregulation, polyendocrinopathy, enteropathy, Xlinked 
+- FOXP3 = improper dev + activity of Tregs if mutated. -> IPEX - immune dysregulation, polyendocrinopathy, enteropathy, Xlinked XLAS
 - FAs/Fas L mutations -> no proper apoptosis + you get a lot of representation of self lymphocytes => autoimmune lymphoproliferative syndrome 
 
 no simple answers to why MOST ppl have autoimmune dz tho - combo of genetic and epigenetic factors possibly 
@@ -67,20 +67,20 @@ when your body makes autoantibodies, they're made up of nucleus
 
 ANA patterns!!! - anti-nuclear antibody = **we don't know which component of the nucleus it is yet (:**
 - homogenous = dsDNA with nucleosomes + histones = common with SLE 
-- speckled => least specific, nuclear antigens to smith antigen (anti-smith antibody), ribonucleoproteins - RNPs = also seen with SLE
-- centormeres inside the nucleus - think systemic sclerosis 
-- nucleolar pattern = systemic sclerosis 
+- speckled => least specific, nuclear antigens to smith antigen (anti-smith antibody), ribonucleoproteins - RNPs = also seen with SLE; just "nonspecific" and possibly normal in older patients 
+- centormeres inside the nucleus - think systemic sclerosis, mostly the limited version
+- nucleolar pattern = systemic sclerosis, the nonlimited version basically 
 ![[Screenshot 2025-07-25 at 4.21.07 PM.png]]
 another pov: [[-HRR Introduction to Clinical Immunological Tests_Litwin]]
 sometimes there's more than one pattern but note we always use the disease presentation to truly dx the disease. no lab tests are 100% sensitive/specific + treatment modalities are controversial and not always effective
 
 For the following diseases know the pathogenesis (as far as it is known), the clinical presentation(s) and diagnostic criteria, and the end organ complications: 
 1. ==Systemic lupus erythematosus== (Introduction - dedicated lecture tomorrow)  
-	- ANA , Anti-dsDNA, anti-SMith
-	- drug induced = anti-histone antibody 
+	- ANA , Anti-dsDNA, anti-Smith
+	- drug induced = **anti-histone antibody** => translates to homogenous pattern  
 	- autoimmune + multi system, vast array of autoantibodies, typical manifestations but very unpredictable and variable in behavior. acute or insidious as well, virutally involves every organ in body 
 	- note - we have clinical criteria and immunologic criteria ... we need both for the full picture
-		- prototypical: young woman with butterfly rash - reddish area on cheeks + nose. fever , pain **in joints *without* deformity.** - difference from RA... and pleuritic chest pain   + photosensitivity with the rash. also **positive aNA test but just bc it's poz doesn't mean its necessarily lupus**
+		- prototypical: young woman with butterfly rash - reddish area on cheeks + nose. fever , pain **in joints *without* deformity.** - difference from RA... and pleuritic chest pain   + photosensitivity with the rash. also **positive ANA test but just bc it's poz doesn't mean its necessarily lupus**
 		- MARKER: we can follow the complement cascade too = C3 + 4 is low bc it's activated and being deposited in the organs if we have an active flare-up 
 2. ==Rheumatoid arthritis==   
 	- RA = anti-CCP(more specific), rheumatoid factor 

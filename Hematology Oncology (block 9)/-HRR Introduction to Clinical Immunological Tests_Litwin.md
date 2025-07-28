@@ -11,13 +11,13 @@ erythrocyte sedimentation rate ESR and CRP = very sensitive but not specific, th
 - ESR - how fast RSCs settle to bottom of tube in 1 hr? faster it settles = higher the ESR. so acute phase reactants would negate that charge and make cells sequester. 
 C3 - classic + alt pathways
 C4 - classic pathway only 
-- any activations of complement cascade, C3/4 decreases with complement activation secondary to immune complex disease - like HIV, autoantibody dz, vasculitis, SLE, 
+- any activations of complement cascade, C3/4 **decreases** with complement activation secondary to immune complex disease bc it gets cleaved - like HIV, autoantibody dz, vasculitis, SLE, 
 
 rheumatoid arthritis
-- rheumatoid factor - typically IgM against Fc portion of igG 
+- rheumatoid factor - typically **IgM** against Fc portion of igG 
 - can also rarely be IgG/IgA = more severe dz
-- not specific, and can interfere with ELISA testing
-newer test - anti-cyclic citrullinated peptide - auto-antibodies directed against endogenous citrullinated peptides, highly sensitive + specific 
+- **not specific, and can interfere with ELISA testing**
+newer test - anti-cyclic citrullinated peptide  **Anti-CCP wayyy better-** auto-antibodies directed against endogenous citrullinated peptides, highly sensitive + specific 
 
 connective tissue diseases - anti nuclear antibody testing - antibodies to specific parts of nucleus of cell
 - they order something when there's any inflammatory disease. we can have very specific patterns that correspond to different diseases 
@@ -25,8 +25,8 @@ connective tissue diseases - anti nuclear antibody testing - antibodies to speci
 - and then we can look into any extracted antigens, to get more and more speicific things 
 - speckled pattern - the most nonspecific, can be caused by infections too
 
-ANA - antinuclear antibody - we do a cell line on slide, then serum of patient on it, then look at the fluoresence as the antibodies stick on tags
-- homogenous pattern of fluoresence - anti-DNA antibodies/anti-histone - seen in drug induced lupus 
+ANA - antinuclear antibody - we do a cell line on slide, then serum of patient on it, then look at the fluorescence as the antibodies stick on tags
+- homogenous pattern of fluorescence - anti-DNA antibodies/anti-histone - seen in drug induced lupus 
 - speckled - most common least specific 
 - nucleolar pattern - scleroderma
 - centromere pattern - CREST variant of scleroderma 
