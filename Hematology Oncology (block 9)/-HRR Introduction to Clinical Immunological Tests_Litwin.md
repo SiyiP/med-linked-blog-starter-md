@@ -29,51 +29,53 @@ ANA - antinuclear antibody - we do a cell line on slide, then serum of patient o
 - homogenous pattern of fluorescence - anti-DNA antibodies/anti-histone - seen in drug induced lupus 
 - speckled - most common least specific 
 - nucleolar pattern - scleroderma
-- centromere pattern - CREST variant of scleroderma 
+- centromere pattern - CREST/limited variant of scleroderma 
 
 Extractable nuclear antigens ENAs - can be done with the ANA, coat cells with extractable nuclei and extract all separate parts of nucleus
-- then add the patient antibodies to see if it sticks
+- then add the patient antibodies to see if it sticks - shows a certain pattern or glow 
 
-ANCA - anti-neutrophil cytoplasmic antibodies - mostly for any ANCA-associated vasculitis
+ANCA - anti-neutrophil cytoplasmic antibodies - mostly for any **ANCA-associated vasculitis**
 - anca target + attack neutrophil cytoplasm 
-- renal dysfunction in patient - do this stat. 
-- can be peripheral in cytoplasm and cANCA - granulomatosis
+- **renal dysfunction in patient - do this stat.** 
+- can be **peripheral** in cytoplasm and cANCA - granulomatosis
 - micropolyangiititis etc
-- p-ANCA = lobulated nucleas, perinuclear - myeloperoxidase is seen 
-- C-ANCA - cytoplasmic dye around the cytoplasm ; proteinase 3 is there
+- **p-ANCA = lobulated nucleas, perinuclear - myeloperoxidase is seen** 
+- ==**C-ANCA - cytoplasmic dye around the cytoplasm ; proteinase 3 is there**==
 
 antiphospholipid antibodies - either IgG/M antibodies seen in abt 1/2 of  SLE
 - react in wide variety - anticardiolipin antibodies, lupus anticoagulant
-- false poz test for syphilis due to these anticardiolipin
-- **antiphospholipid syndrome**- women lose many pregnancies due to abortions - this is the cause, venous and/or arterial thromboses 
+- **false poz test for syphilis due to these anticardiolipin**
+- ==**antiphospholipid syndrome**- women lose many pregnancies due to abortions - this is the cause, venous and/or arterial thromboses== 
+- **we only test for antiphospholipids when we have women having abortions/miscarriages** = **for coagulopathies and stuff causing thrombi/distal embolisms**
 
-serum protein electrophoresis - serum is applied, electrophoresis + protein bands visuzlied 
+serum protein electrophoresis - serum is applied, electrophoresis + protein bands visualized 
 - different peaks represent the weight of elements in the gel 
 - SPEP patterns - these have different peaks associated with what was going on. 
-- 1st peak = albumin, 2nd = alpha -1, 3rd alpha-2, 4th peak = b-globulin(complement, fibrinogens, clotting etc) , 5th peak is gamma (immunoglobulins)
-	- alpha 2 inc when gamma's not = acute inflammatory 
-	- chronic infalmmatory - when gamma starts to increase too bc this time you're making antibodies
-	- monoclonal proteins - found in multiple myeloma - **sharp peak seen**
-	- nephrotic syndromes + losing enteropathy - see a decrease in proteins 
+- **1st peak = albumin, 2nd = alpha -1, 3rd alpha-2, 4th peak = b-globulin(complement, fibrinogens, clotting etc) , 5th peak is gamma (immunoglobulins)**
+	- ==alpha 2 inc when gamma's not = acute inflammatory== 
+	- ==chronic inflammatory - when gamma starts to increase too bc this time you're making antibodies==
+	- ==**monoclonal proteins - found in multiple myeloma - sharp peak seen**==
+	- ==nephrotic syndromes + losing enteropathy - see a decrease in proteins== 
+	- we would worry most about something when we see the peak that's BIGGER or equal to the very first one???
 
 ![[SPEP patterns.png]]
 immunofixation - used to determine the actual composition of the monoclonal spike 
 - 6 lanes overlayed with anti-sera 
 
-capillary electrophoresis - run thru copper tubes, highr resolution, distinct peaks with more uv tests etc. 
+capillary electrophoresis - run thru copper tubes, higher resolution, distinct peaks with more uv tests etc. 
 - automated too 
 - issue - no solid format for immunofixation so immunosubtraction is done instead. where you mix it with whatever. - harder to do. more time to look at it 
 
-to dx tb infeciton - Tuberculin skin test, interferon gamma release assays
+to dx tb infection - Tuberculin skin test, interferon gamma release assays
 - type 4 - t cells - skin test , 2-3 days to see rxn 
 - PPD - crude protein used to detect the tb. grew the mycobacteria in huge patch and then the proteins ... 
 - you can get false poz to bcg, some immune reactivity to non tb mycobacteria ntms
 - in us born individuals some can have responses due to NTMs 
 - false neg = improper intradermal injection, malnuourishment, disseminated tb disease!!!, immunocompromised 
 iGRAs
-- we isolate the t cells and check for memory t cell responsiveness to release gamma interferon 
+- ==we isolate the t cells and check for memory t cell responsiveness to release gamma interferon== 
 	- quantiferon tb, and t spot - 
-- these are speific for tb- these are not false poz. 
+- these are specific for tb- these are not false poz. 
 - m. marinum, szulgai, and kansasii - these are the only false poz on the test. 
 - QFT -
 	- neg control - look for bgd IFN-g, bc u can have that with uncontrolled hiv etc. 

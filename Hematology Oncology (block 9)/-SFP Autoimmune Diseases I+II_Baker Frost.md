@@ -70,7 +70,7 @@ ANA patterns!!! - anti-nuclear antibody = **we don't know which component of the
 - speckled => least specific, nuclear antigens to smith antigen (anti-smith antibody), ribonucleoproteins - RNPs = also seen with SLE; just "nonspecific" and possibly normal in older patients 
 - centormeres inside the nucleus - think systemic sclerosis, mostly the limited version
 - nucleolar pattern = systemic sclerosis, the nonlimited version basically 
-![[Screenshot 2025-07-25 at 4.21.07 PM.png]]
+![[anca patterns.png]]
 another pov: [[-HRR Introduction to Clinical Immunological Tests_Litwin]]
 sometimes there's more than one pattern but note we always use the disease presentation to truly dx the disease. no lab tests are 100% sensitive/specific + treatment modalities are controversial and not always effective
 
@@ -81,9 +81,12 @@ For the following diseases know the pathogenesis (as far as it is known), the cl
 	- autoimmune + multi system, vast array of autoantibodies, typical manifestations but very unpredictable and variable in behavior. acute or insidious as well, virutally involves every organ in body 
 	- note - we have clinical criteria and immunologic criteria ... we need both for the full picture
 		- prototypical: young woman with butterfly rash - reddish area on cheeks + nose. fever , pain **in joints *without* deformity.** - difference from RA... and pleuritic chest pain   + photosensitivity with the rash. also **positive ANA test but just bc it's poz doesn't mean its necessarily lupus**
-		- MARKER: we can follow the complement cascade too = C3 + 4 is low bc it's activated and being deposited in the organs if we have an active flare-up 
+		- MARKER: ==we can follow the complement cascade too to check for FLAREUPs = C3 + 4 is low bc it's activated and being deposited in the organs if we have an active flare-up== 
+	- **seizures = the most frequent neurologic abnormalities in SLE, might have a cns vasculitis, microthrombi, small vessle vasculopathy, metabolic encephalopathy etc.**
+	- skin abnormalities of rashes - **common manifestations of immune complex dz, uv light inducing widespread breaks in DNA, so release of this is a starting point of making immune complexes form, but they're dysfunctional or not able to act up right, staying deposited in the joints.**
+	- lupus nephritis = one of the highest concerns about this with protein creatinine + prot
 2. ==Rheumatoid arthritis==   
-	- RA = anti-CCP(more specific), rheumatoid factor 
+	- RA = ==anti-CCP(more specific)==, rheumatoid factor 
 	- joint fixed deformities; also can develop **subcutaneous nodules on the forearm, which might improve** ; nonsuppurative proliferative synovitis / pannus leading to articular cartilage . bilateral + polyarticular too ): 
 	- **we get inflammation in the synovium**
 	- systemic - other organs are involved, very common women > men. at any age
@@ -92,17 +95,17 @@ For the following diseases know the pathogenesis (as far as it is known), the cl
 3. ==seronegative spondyloarthropathies== 
 	- kinda grouped in with RA but not rlly? 
 	- happens to mostly MEN!! younger male too 
-	- umbrella term like JIA = **several chronic inflammatory arthritid dz affecting the vertebral column**
-		- we get changes in ligamentous attachment to BONE rather than synovium (enthesitis) unlike RA 
-		- no RF, antiCCP
+	- umbrella term like JIA = **several chronic inflammatory arthritis dz affecting the vertebral column**
+		- ==we get changes in ligamentous attachment to BONE rather than synovium (enthesitis) unlike RA== 
+		- no RF, ==antiCCP==
 		- **hallmark achilles tendon happens inflammation** 
-	- strong association with HLA-B27 
+	- strong association with ==HLA-B27== 
 	- **bony proliferation can lead to ankyloses - which is fusion of joints in the end ):** -> inc risk of osteoporosis;; **you get loss of lumbar lordosis, fusion of vertebral bodies and hunching over with time** 
 	- pain worse in the morning + might wake them up from their sleep. 
-	- eye inflammation too like anterior uvelitits. 
+	- ==eye inflammation too like anterior uvelitits.== 
 	1. Reactive arthritis - **within seronegative group**
-		- classic triad = conjunctivitis, urethritis, asymmetric arthritis - can't see, can't pee, can't climb a tree
-		- history is fundamental: if someone gets dx w viral infection like chlamydia/GI bug they might get this!!! within wks of urethritis/diarrhea pts get **low back pain** -> pain in ankles, knees, feet
+		- classic triad = ==conjunctivitis, urethritis, asymmetric arthritis== - can't see, can't pee, can't climb a tree
+		- history is fundamental: if someone gets dx w ==viral infection like chlamydia/GI bug== they might get this!!! within wks of urethritis/diarrhea pts get **low back pain** -> pain in ankles, knees, feet
 		- HLA-B27 
 		- self-limiting but some might need longterm immunosuppressive help  
 4. Juvenile idiopathic arthritis 
@@ -114,26 +117,27 @@ For the following diseases know the pathogenesis (as far as it is known), the cl
 			- associated with anterior uvelitis = **eye inflammation!!!**
 		- ==do we have to know the rest....== 
 5. ==Sjogren syndrome== 
-	- anti-ro, anti-la 
+	- ==**anti-ro, anti-la**== 
 	- 50-60 older females, dry mouth(xerostomia), dry eyes(keratoconjunctivitis sicca), rhuematoid arthritis, but dryness can happen to any and all mucous membranes though. 
-	- can cause MALT lymphomas with time [[-SFP White Blood Cells I-IV_Rinker]] - if their lymph nodes are enlarged, send for biopsy immediately 
+	- can cause ==MALT lymphomas, paraneoplastic== with time [[-SFP White Blood Cells I-IV_Rinker]] - if their lymph nodes are enlarged, send for biopsy immediately 
 	- note - internal organs can be impacted too, vasculitis as well ... tease out what they mean by mouth dryness - does the dentist comment on that? there's test
-		- cavities = bc the mouth is super dry, caries might occur too with decay/crumbling of a tooth/bone... also tongue fissures and a lack of salivary pooling when they press their tongue to the top of their mouths 
-		- in women - transplacental transmission -> **passed onto the fetus, causing fetal heartblock!!! to ensure safe delivery + development**
+		- ==cavities== = bc the mouth is super dry, caries might occur too with decay/crumbling of a tooth/bone... also tongue fissures and a lack of salivary pooling when they press their tongue to the top of their mouths 
+		- in women - ==transplacental transmission -> **passed onto the fetus, causing fetal heartblock!!! to ensure safe delivery + development**==
 	- this can occur in other diseases too, primary and secondary exist!! 
 		- primary SS = sicca syndrome = isolated disorder
 		- secondary SS = associated w/ another autoimmune dz like RA most commonly 
 	- we can see **inc lymphocytes in the salivary tissue in biopsies**(lots of blue cells, a huge amount, focus score >1) + swelling of parotid glands ! 
 6. ==Systemic Sclerosis (Scleroderma)==  
-	- typical autoantibodies RNA POL III, centromere, Scl-70 
+	- typical ==autoantibodies RNA POL III, centromere, Scl-70== 
 	- typically 30-50 yr female... this WILL lead to fibrosis! due to uncontrolled inflammation... proliferative obliterative vasculopathy = **basically BVs are gone. making more ischemia, fibrosis, inflammatory stuff that contributes to autoantibodies etc** 
-	- raynaud's phenomenon = vasospasm of aa in hands/feet etc... furthest from internal organs, color changes from white -> blue -> red. 
-		- this can happen in many different reasons like adhd meds, vibrating tools etc, but we should look at nail folds caplliroscopy to determine if it's truly an autoimmune pathology 
-	- tightness of skin, specifically of the fingers, so tight can't open/close hands + telangiectasias = widened blood vessels near surface of skin, visible, blanchable. and can also be an indicator of pulm htn  
+	- ==raynaud=='s phenomenon = vasospasm of aa in hands/feet etc... furthest from internal organs, color changes from white -> blue -> red. 
+		- this can happen in many different reasons like a==dhd meds, vibrating tools etc, but we should look at nail folds caplliroscopy== to determine if it's truly an autoimmune pathology 
+		- cold agglutinations might be indicated 
+	- tightness of skin, specifically of the fingers, so tight can't open/close hands + ==telangiectasias== = widened blood vessels near surface of skin, visible, blanchable. and can also be an indicator of ==pulm htn==  
 		- basically endothelial cell dysfunction, so you have **shunting of blood into small blood vessels, and eventually get telangiectasias to occur**
 		- calcium deposits can develop due to uncontrolled inflammation in the fingers + literally every part of body 
 	- difficulty , dysphagia/GERD(most ppl with the entire GI tract involved) + dyspnea, chronic cough, -> pulm fibrosis + pulm htn... also renal vascular dz . sometimes microstomia - skin so tight around the mouth we can't open it 
-		- scleroderma renal crisis - an emergency, concentric intimal proliferation in small arteries, htn, anemia, thrombocytopenia at home for a few days !! **onion skinning of artery, no immune deposition bc not immune mediated!** 
+		- ==scleroderma renal crisis== - an emergency, concentric intimal proliferation in small arteries, htn, anemia, thrombocytopenia at home for a few days !! ==**onion skinning of artery, no immune deposition bc not immune mediated!**== 
 	- limited form vs diffuse form 
 		- limited form used to be called CREST syndrome - good acronym for remembering scleroderma syndromes but can be generalized to any scleroderma; **anticentromere antibodies**
 			- C = calcionosis cutis; calcium buildup in the joints or any soft tissue of the body 
@@ -141,28 +145,28 @@ For the following diseases know the pathogenesis (as far as it is known), the cl
 			- esophageal hypo motility 
 			- sclerodactyly
 			- telangiectasis 
-		- diffuse form = trunk and abdomen are affected **Scl-70 antibodies**
+		- ==diffuse form = trunk and abdomen are affected **Scl-70 antibodies**==
 7. ==Inflammatory myopathies== 
 	- group term, there are different types
 	- polymyositis - dx of exclusion, getting away from this term? 
 	- ==dermatomyositis - most common in children isolated, inflammation of both skin + muscle.== 
-		- in adults = **paraneoplastic disorder**, see inc risk of visceral cancer - lung/ovary/stomach... or malignancies would drive the development of these myopathies 
-		- skin manifestations associated with interstitial lung dz; heliotrope eyelids = **purpleish color**
-		- ESR+, **creatine kinase up AKA muscle breakdown!!!!**, ANA+  -> and we can test myositis antibody specifically. but muscle biopsy gold standard  
+		- ==**paraneoplastic disorder in adults**, see inc risk of visceral cancer - lung/ovary/stomach==... or malignancies would drive the development of these myopathies 
+		- skin manifestations associated with interstitial lung dz; ==heliotrope eyelids = **purpleish color**==
+		- ESR+, **creatine kinase up AKA muscle breakdown!!!!**, ANA+  -> and we can test myositis antibody specifically. but ==muscle biopsy gold standard==  
 	- ==inclusion body myositis - MC inflammatory myopathy in pts 60+ yrs , older population== 
-		- can have vacuoles/holes in the muscle fibers, "**rimmed vacuoles**" 
-	- all get muscle weakness - **large proximal msucles of shoulders/hips, like difficulty in rising from chair or climbing stairs** any muscle can be involved. 
+		- can have ==vacuoles/holes in the muscle fibers, "**rimmed vacuoles**"== 
+	- all get muscle weakness - **large proximal muscles of shoulders/hips, like difficulty in rising from chair or climbing stairs** any muscle can be involved. 
 	- **insidious onset = slowly over time until they can't compensate anymore**
 	- infiltration of lymphocyts into muscles + degen/regen myocytes. 
 8. ==Mixed Connective Tissue Disease== 
 	- overlapping clinical feat of SLE, sclerosis, polymyositis 
 	- synovitis of fingers, raynaud phenomenon, mild myositis
-	- **autoantibodies to RNP , anti-u1 RNP**!!!!!!!!
-	- little renal dz, but excellent response to steroids!
+	- ==**autoantibodies to RNP , anti-u1 RNP**!!!!!!!!==
+	- little renal dz, but ==excellent response to steroids!==
 9. ==IgG4 related disease==
 	- basically IgG4 producing plasma cells in tissue can be overrepresented
 	- involved the pancreas (autoimmune pancretitis), biliary tree, salivary glands, periorbital tissue, etc etc 
-	- histologically - **MIXED infiltrate of t/b and plasma cells**
-		- **storiform fibrosis - swirling around!!!** + obliterative phlebitis/destruction 
+	- ==histologically - **MIXED infiltrate of t/b and plasma cells**==
+		- ==**storiform fibrosis - swirling around!!!** + obliterative phlebitis/destruction== 
 		- spiral form 
 	- pathogen not well understood ): but **respond well to immunosuppression + B-cell depletion!**
