@@ -186,4 +186,7 @@ steroids might reduce seizures bc it would
 - reduce immune system inflammation as a result of the vascular leak 
 **seizures = the most frequent neurologic abnormalities in SLE, might have a cns vasculitis, microthrombi, small vessle vasculopathy, metabolic encephalopathy etc.**
 her skin abnormalities of rashes - **common manifestations of immune complex dz, uv light inducing widespread breaks in DNA, so release of this is a starting point of making immune complexes form, but they're dysfunctional or not able to act up right, staying deposited in the joints.**
-
+- lumpy dumpy deposits of the full house is on the basement membrane of most glomeruli 
+- C3 is low and consumed. and UA see active proteisn + RBCs too 
+SLE relapse manifested by glomerulonephritis secondary to the depo of immune complexes ): very common 
+- now in addition to neuro lupus she now has the sle nephritis - 

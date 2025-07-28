@@ -82,9 +82,9 @@ For the following diseases know the pathogenesis (as far as it is known), the cl
 	- note - we have clinical criteria and immunologic criteria ... we need both for the full picture
 		- prototypical: young woman with butterfly rash - reddish area on cheeks + nose. fever , pain **in joints *without* deformity.** - difference from RA... and pleuritic chest pain   + photosensitivity with the rash. also **positive ANA test but just bc it's poz doesn't mean its necessarily lupus**
 		- MARKER: ==we can follow the complement cascade too to check for FLAREUPs = C3 + 4 is low bc it's activated and being deposited in the organs if we have an active flare-up== 
-	- **seizures = the most frequent neurologic abnormalities in SLE, might have a cns vasculitis, microthrombi, small vessle vasculopathy, metabolic encephalopathy etc.**
+	- **seizures = the most frequent neurologic abnormalities in SLE, might have a cns vasculitis, microthrombi, small vessel vasculopathy, metabolic encephalopathy etc.**
 	- skin abnormalities of rashes - **common manifestations of immune complex dz, uv light inducing widespread breaks in DNA, so release of this is a starting point of making immune complexes form, but they're dysfunctional or not able to act up right, staying deposited in the joints.**
-	- lupus nephritis = one of the highest concerns about this with protein creatinine + prot
+	- lupus nephritis = one of the highest concerns about this with protein creatinine + proteinuria 
 2. ==Rheumatoid arthritis==   
 	- RA = ==anti-CCP(more specific)==, rheumatoid factor 
 	- joint fixed deformities; also can develop **subcutaneous nodules on the forearm, which might improve** ; nonsuppurative proliferative synovitis / pannus leading to articular cartilage . bilateral + polyarticular too ): 
