@@ -31,7 +31,7 @@ different skin layers = more used to choose what biopsy to choose?
 large vessel vasculitis - think aorta 
 ---
 - chronic granulomatous arteritis in ppl!!!!
-- young , <50 = takayasu 
+1. young , <50 = takayasu 
 	- more female, younger asian female>male 
 	- 10-30 yrs , classically **aorta + the branching arteries**
 	- pulseless dz = upper exremity claudication, you feel no pulse! + htn, carotidynia, dizziness, visual abnormalities 
@@ -41,7 +41,7 @@ large vessel vasculitis - think aorta
 	- TREAT: 1 mg/kg/day prednisone with gradual taper
 		- ESR is not always suppressed, so not a good guide 
 	- they have some continuation with vessel stenosis in spite of therapy ): might need some surgery ... otherwise good prognosis 
-- 50+ in ppl with giant cell arteritis 
+2. 50+ in ppl with giant cell arteritis 
 	- aka temporal arteritis / cranial arteritis, women > men 
 	- we see large thickening of **temporal arteries classically, also in vertebral arteries, opthalamic and posterior ciliary arteries**
 		- we see a thick cord temporal artery cord in the patient, on the side of their head. that's where you should biopsy 
@@ -64,7 +64,7 @@ large vessel vasculitis - think aorta
 
 medium vessel vasculitis
 ---
-- polyarteritis nodosa - necrotizing arteritis without Mucocutaneous lymph node syndrome 
+1. polyarteritis nodosa - necrotizing arteritis without Mucocutaneous lymph node syndrome 
 	- any age affected, mainly male>female, peak age 50-60 yrs
 	- hep b association!!! questions might give you q stem with other hep b-associated diseases! 
 	- insidious onset
@@ -87,8 +87,68 @@ medium vessel vasculitis
 		- hep b sero
 		- angiography 
 	- TREAT: death in 1-2 yrs, but prednisone 1 mg, and give pulse dose of iv pred if fulminant. 2nd line ? - 
-- kawasaki dz - necrotizing arteritis with MCLN syndrome 
-	- aka mucocutaneous lymph node dz = meaning conjunctiva involved, soetimes you have lymphadenopathy 
+2. kawasaki dz - necrotizing arteritis with MCLN syndrome 
+	- aka mucocutaneous lymph node dz = meaning conjunctiva involved, soetimes you have lymphadenopathy - we see some red inflammation around mouth mucous membrane 
+		- also desquamation in it, came up in **desquamated rASH**
 	- acute fetal illness of infancy + early childhood 
 	- antiendothelial antibodies
-	- self limitied, but **can cause vasculitis of coronary a and lead to MI in a kid! **
+	- self limited, but **can cause vasculitis of coronary a and lead to MI in a kid!**
+	- **TREAT: iv immunoglobulins + aspirin to reduce CV** sequelae 
+	- coronary artery aneurysms -> MI and death 
+
+small vessel vasculitis
+---
+- all have the petechial hemorrhage dots picture, happening everywhere 
+- palpable purpura/petechia = more associated in small vessel vasculitis! similar to polyarteritis nodosa 
+- anca associated
+	- antineutrophil cytoplasmic antibodies = bc of some trigger, ur body made these , and these would hyperactivate neutrophils, which then cause them to mediate a vasculitic attack to small capillarities
+	- glomerulonephritis picture bc of that attack on small cpaillaries!! 
+	- P-anca = **perinuclear = MPO association**
+	- C-ANCA = cytoplasmic, 90% is due to proteinase 3... PR3 
+	- must confirm these with antigen specific pr3 and mpo tests
+![[Screenshot 2025-07-29 at 7.23.10 PM.png]]
+c-anca on the left, and then the perinuclear ones on the right "hug" the neutrophil lobes 
+	1. granulomatosis with polyangitis
+		- 30-50 yr old, male female 1:1 
+		**- more in caucasian groups, c-ANCA and PR3 poz in 85% of these cases!** 
+		- upper resp tract, "**saddle nose" deformity!!!** 
+		- tracheal stenosis, mass lesions that are invasive, so **many ENT symptoms** like otitis media, proptosis, sinusitis, and some Lower resp nodular lesions + **cavitary lesions (mimic TB)**
+		- insidious until suddenly you get **pauci-immune crescentic glomerulonephritis**  
+		- some skin + ocular manifestations, **unilateral one eye popping out** possibly
+		- elastin highlights black part of vessel - shows **discontinuity in elastin of the vessels**
+		- granulomas + giant cells can form in GPA, distinguish from large cell vasculitises with ANCA poz, renal involvement, and lower resp tract 
+		- TREAT: high mortality ): initial immunosuppressive of prednisone, then cyclophosphamide or rituximab IV ;;; **maintenance immunosuppression after achieving remission** ; 
+		**- pneumocystis carinii / jiroveci pneumonia prophalyxis** bc of care to lungs! 
+		- 
+	2. MPA - microscopic polyangiitis 
+		- renal + lung heavy involvement!!!!
+		- similar to GPA, but does NOT have upper resp tract involvement 
+		**- P-ANCA is poz most of the time**
+		- necrotizing vasculitis in small vessels with little to no immune depos 
+		- necrotizing glomerulonephritis + pulm capillaritis 
+		- hyperacute = rapidly prog glomerulonephritis, pulm hemorrhage
+		- insidious = intermittent constitutional symptms, purpura, mild renal + hemoptysis sometimes 
+		- **SEGMENTAL necrosis = same cresent as GPA**
+		- more **HEMORRHAGIC PICTURE** - not a huge amount of cavitary lesions nor are there a lot of giant cells .... hemorrahgic in CXRAY is more fuzzy or fluffy 
+		- TREAT: steroids + cyclophosphamide  if need
+	3. eosinophilic granulomatosis with polyangiitis EGPA 
+		- insidious prodrome: 
+			- **allergic prodrome , with ASTHMA adult onset!!!**
+			- eosinophilic pneumonia + gasteroenteritis
+		- prodrome may abate with vasculitis onset 
+		**- ANCA+ MPO P anca mainly** 
+		there can be a neuro involvement with peripheral neuropathy 
+		- but in vasculitis phase there's mainly a pulm dz, fleeting but lobar, interstitial, and nodular patterns on xray 
+		- sometimes we see pulm hemorrhage **without renal dz** 
+		- poor out come with azotemia, **CNS involvement,** cardio , proteinuria + GI involvement unless treated 
+
+---
+- non-anca-associated
+	1. IGA vasculitis 
+		- HSP , palpable purpura in **children**, 50% less than 5 yrs 
+		- igA depo on histopath
+		- leukocytoclastic vasculitis + arthritis + abd pain
+		- **igA nephropathy and igA vasculitis look exactly the same. it's just that IgA vasculitis doesnt HAVE to involve the kidney**
+		- where does igA deposit? just realize that IgA vasculitis can be renal, but igA nephropathy is renal-limited 
+	2. f
+
