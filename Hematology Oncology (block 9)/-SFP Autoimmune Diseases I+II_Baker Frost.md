@@ -92,7 +92,7 @@ For the following diseases know the pathogenesis (as far as it is known), the cl
 	- systemic - other organs are involved, very common women > men. at any age
 	- joint pain **worse in the morning**, MORNING STIFFNESS IS HUGE!!! typically smaller joints are involved, not typically hip/knee/shoulder (usually other arthritis)
 	- inflammatory markers CRP + ESR are elevated 
-3. ==seronegative spondyloarthropathies== 
+3. ==seronegative spondyloarthropathies== [[-SFP History and Clinical Manifestations of Rheumatological Disorders_Baker Frost]]
 	- kinda grouped in with RA but not rlly? 
 	- happens to mostly MEN!! younger male too 
 	- umbrella term like JIA = **several chronic inflammatory arthritis dz affecting the vertebral column**
