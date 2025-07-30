@@ -19,14 +19,14 @@ classification
 - Medium vessels = B
 - small Vessels 
 
-![[Screenshot 2025-07-29 at 5.24.52 PM.png]]
+![[vasculitis size groups.png]]
 - large vessel vasculitities = takayasu + giant cell arteritis
 - medium vessels affect vessels at organs 
 - anca-associated small vessel vasculitis - 
 - immune complex stuff etc 
 
 different skin layers = more used to choose what biopsy to choose? 
-![[Screenshot 2025-07-29 at 5.26.15 PM.png]]
+![[skin biopsy levels.png]]
 
 
 large vessel vasculitis - think aorta 
@@ -107,7 +107,7 @@ small vessel vasculitis
 	- P-anca = **perinuclear = MPO association**
 	- C-ANCA = cytoplasmic, 90% is due to proteinase 3... PR3 
 	- must confirm these with antigen specific pr3 and mpo tests
-![[Screenshot 2025-07-29 at 7.23.10 PM.png]]
+![[p anca vs c anca.png]]
 c-anca on the left, and then the perinuclear ones on the right "hug" the neutrophil lobes 
 	1. granulomatosis with polyangitis
 		- 30-50 yr old, male female 1:1 
