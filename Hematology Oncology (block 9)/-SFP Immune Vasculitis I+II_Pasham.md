@@ -145,10 +145,49 @@ c-anca on the left, and then the perinuclear ones on the right "hug" the neutrop
 ---
 - non-anca-associated
 	1. IGA vasculitis 
-		- HSP , palpable purpura in **children**, 50% less than 5 yrs 
-		- igA depo on histopath
-		- leukocytoclastic vasculitis + arthritis + abd pain
+		- HSP , palpable purpura in **children**, 50% less than 5 yrs ; slight bumpiness to it 
+		- igA depo on histopath 
+		- leukocytoclastic vasculitis + arthritis + abd pain+ skin lesions 
 		- **igA nephropathy and igA vasculitis look exactly the same. it's just that IgA vasculitis doesnt HAVE to involve the kidney**
 		- where does igA deposit? just realize that IgA vasculitis can be renal, but igA nephropathy is renal-limited 
-	2. f
+		- better prognosis in kids, spontaneously resolves. but in adults and older kids, 10-30% go to chronic renal dz and end stage renal failure 
+		- TREAT: no controlled studies, but success with early corticosteroids if renal involved. 
+	2. hypersensitivity vasculitis - small vessel cutaneous vasculitis
+		- similar pic to above , just has more association with serum sickness and drug rxns : fever, arthralgia, malaise
+		- distinguished by **IgG deposition**
+		- can also be in older ppl 
+		- often: abrupt onset of rash, **arthus rxn or type 3 hypersensitivity, = COMPLEMENT** papular eruption more in dependent areas, discrete or coalescent lesions 
+		- TREAT: remove offender + give steroids 
+
+3. Behcet disease = outside the box 
+	- systemic vasculitis = involving vessels of all sizes on both arteries + venous sides; pulm + neuro has large morbidity 
+	- more freq seen in jp, ME, and mediterranean region 
+	- usually young adults 20-40, men 
+	- **oral + genital ulcers for years!!!!**
+		- recurrent oral thing , painful- many lesions 
+		- buccal mucosa on gingiva, lips tongue
+	- followed by ocular + neuro manifestations 
+		- blindness, anterior uveitis, some conjunctivitis too 
+		- hypopyon iritis = eye fill with pus 
+	- other cutaneous lesions 
+		- erythema nodosum , pyoderma gangrenosum
+		- acneiform lesions, and 
+		- pustular lesions = including pathergy lesion - **if you puncture their skin sterily they still get a pustular lesion = this is called a pathergy phenomenon**
+	- involving all diff areas of body including arthritis, seizures, HA, GI 
+	- relapsing + remitting course with more aggressive in men 
+	- HLA-B51 association 
+	- DIFFERENTIALS: IBD, SLE, Reactive arthritis, herpetic infections = **all ulcer causing things**
+	- TREAT: steroids 
+	- systemic = more steroids 
+
+4. Thromboangiitis obliterans -= buerger's disease
+	- male smokers = age 25-50 
+	- HLA association
+	- vasculitis + thrmobosis of MEDIUM vessels
+	- israel, jp, india 
+	- raynaud's phenomenon, vascular insufficiency, pain , chronic ulcerations 
+	- see very intense vascular occlusions 
+	- pathology - we see complete fibrinoid completely sealing off the vessel - autoamputation of finger tips! 
+	- TREAT: stop smoking 
+
 
