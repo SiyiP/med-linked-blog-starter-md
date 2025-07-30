@@ -1,5 +1,6 @@
 #hemonc #patho 
 ![[Immune Vasculitis I and II_Pasham_PPT (1).pdf]]
+
 notes about this  - probably don't have to know 2nd line therapies 
 immune mediated vasculitis 
 for the most part - first line is TREATMENT: corticosteroids 
