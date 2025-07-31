@@ -407,4 +407,130 @@ bullous pemphigoid
 
 
 dermatitis herpetiformis
-- small grouped excoriated papules - we can't really 
+- small grouped excoriated papules - we can't really tell they're blistered most the time bc pt's itched them off already ; small/tiny red dots 
+- bilateral, symmetric, extensor surfaces, elbows, knees, butts
+- intense pruritis 
+- **celiac dz !!! responds to gluten free diet** 
+- MICRO: neutrophil microabscesses in TIPs of dermal papillae - subepidermal vesicle 
+- ![[dermatitis herpetiformis.png]]
+- DIF: granular igA deposition 
+
+---
+skin pathology IV- neoplasms and malignancies
+---
+benign epidermal neoplasms + Non melanoma skin Cancer (NMSC, some kind of skin cancer but not pigmented)
+1. seborrheic keratosis - benign "barnacles/age spots"
+	- tan, brown, black;
+	- oval, stuck on, waxy papule or plaque
+	- any location except groin, palms, soles, 
+	- for adults, onset 4th or 5th decade
+	- TREAT: liquid nitrogen, curettage, shave removal
+	- MICRO: "waxy or stuck-on," caused by **acanthosis and hyperkeratosis (shredded wheat, too much of the normal basket weave structure)** 
+		- papillomatosis - undullating bumpiness to the region +
+		- pseudohorn cysts! little cysts of keratin connecting to surface. 
+		- and a variable pigment inside bland basaloid cells 
+		- ![[seborrheic keratosis.png]]
+	- sometimes - patients can get **HUNDREDS of these!!! on their trunk** - this is sign of Leser-trelat = paraneoplastic syndrome due to internal malignancy, like **GI carcinomas**
+2. actinic keratosis - actinic = sun .... so keratosis mediated by UV exposure- *dysplasia*
+	- ill-defined scaly lesions of various colors, can be flat or elevated, usually small 
+	- begin in 6th decade, onset can be with younger fair skinned ppl 
+	- **premalignant lesion -> small risk of progressing to carcionma per year**
+	- TREAT: liquid nitrogen, topical chemo 
+	- MICRO: "scaley, ill-defined" = **parakeratosis**, cytologic ATYPIA in lower portion of epidermis "dysplasia" , solar elastosis 
+	- ![[actinic keratosis.png]]
+	-  we would biopsy this long poke-y thing of keratin, hard like a nail -> **cutaneous horn, jsut a lot of hyperkeratosis** (this is nonspecific, warts can make it and carcinomas make it too)
+
+3. squamous cell carcinoma in situ 
+- **very very similar to actinic keratosis, but full thickness of cytologic atypia**
+- paget's like appearance of it 
+
+4. invasive squamous cell carcinoma - 
+- scaley or ulcerated nodule 
+- sun exposure; UV mediated 
+- older adults, M>F
+- TREAT: excision 
+- other predisposing factors than sun dmg
+	- immunosuppressant - like HPV 
+	- industrial / hcem exposures = tars, oils, **arsenic, like in the peedee region of tobacco farming**
+	- ionizing radiation 
+	- marjolin ulcers = long standing scar/wound , we see worsening suddenly then we check for that!
+- MICRO: nest and clusters of very different squamous cells invading dermis with desmoplastic rxn, very nice and pink + poorly differentiated. can also be seen in lungs, esophagus , penis, vulva, anus etc 
+- hard to tell where it comes from 
+
+5. basal cell carcinoma 
+- variable, but classically **pearly papule with telangiectatic vessels**
+- very common, UV exposure, very slow growing with very low rate of metastasis
+- TREAT: excisino, hedgehog pathway inhibitors in metastatic cases 
+- MICROI: nests and islands of **basaloid cells with peripheral palisading(single layer of long cells) set in fibromyxoid stroma with *clefting***
+	- many growth patterns 
+	- ulcerations or focal squamous differentiation - hard to tell difference between squamous and basal cell. 
+	![[basal cell carcinoma.png]]
+
+5. merkel Cell carcinoma 
+- rapidly enlaging non -tender red violaceous nodules
+- sun exposed skin of ELDERLY ; looks small and discountable, but the worst of it all
+	- regional lymph node + distant metastasis 
+	- looks like a big blue block: sheets + ribbons of hyperchromatic cells with scant cytoplasm and smudged chromatins 
+- due to : merkel cell polyoma virus MCPyV and UV exposure
+
+---
+melanocytic proliferations 
+1. melanocytic nevi
+	- benign proliferation of melanocytes - can see them anywhere
+	- inc. amount of melanocytes can make a nest - this is congenital or acquired in childhood - young adulthood, occuring anywhere skin and mucosa 
+		- junctional nevus - when it's on the EDJ, **flat and small**
+		- compound nevus - when we have both epidermal and dermal next **we see circumscribed small lesion + nests in dermis too**
+		- intradermal nevus - when it's just in the dermis layer **more PAPULAR!!! microscopically we see a raised papule with nests of melanocytes**
+	- melanocytes = **are from neural crest cells- sometimes they can differentiate to look like nerves**
+	- look for - **circumscribed + symmetric, uniform color <5 mm macule + papule**
+	- no treatment necessary - angela's ear ! -
+	- MICRO: well circumscribed, **we can see the nests so easily at tips and sides of rete or in the dermis!!**
+		- nest + melanocytes get smaller and lose pigment as they break into smaller nests - so they almost look like lymphocytes in the dermis layer -> scatter into single melanocytes dispersed in the deeper skin 
+2. atypical melanocytic nevus
+	- clarks/dysplastic - what some ppl call it 
+	- larger, >5 mm, might be macule and or plaque, irregular borders , sporadic or inherited 
+	- **no inc risk of turning into melanomas** - just "funny looking nevi"
+	- variegated, macule, plaque with **irregular borders**, on either sun or covered skin 
+	- a larger amt might mean more worry for family hx 
+	- micro - horizontally oriented **juncitonal nets with BRIDGING between rete**
+		- lamellar fibroplasia - we see **extra pink looking stroma right under nest of melanocytes in the papillary dermis**
+		- we can see a junctional component extending beyond the dermal component = like an overhang in rock climbing 
+		- sparse lympohcytic inflammation in dermis too  ![[atypical melanocytic nevus.png]]
+3. Blue nevus - an **exception!! you can get them any time of your life**
+	- very heavily pigmented, blue black color, lots of pigment, wedge-shaped dermal proliferation of heavily pigmented **spindled melanocytes**
+	- don't mature 
+4. halo nevus - basically a dark dot. + hypopigmented lighter rim around it 
+	- immune system making melanocytes regress around it 
+	- benign in children but can also be harbinger of vitiligo
+	- but adult - need full check + removal .... bc make sure it's completely removed. 
+	- MICRO: huge amount of **dense lymphocyte inflammation** 
+5. recurrent nevus - if they get a biopsy and don't remove the whole thing
+	- brownish dot, deep residual left over in the scar, then you can see recurrence/repopulation
+	- looks like a melanoma so you have to tell the derm ppl about removal of nevus
+6. congenital nevus
+7. spitz nevus - benign, are very very dark/erythematous - **we see big heavily pigmented spindled EPITHELIOID MELANOCYTES IN VERTICAL nests**
+	- similar to spitz melanoma, keep an eye out 
+8. **malignant: melanoma** 
+	- majority - de novo but some come within melanocytic nevi ; can be anywhere ! 
+	- mainly UV induced dmg + stepwise mutations build-up in mutations 
+	- melanoma in situ - confined to epidermis, lacks metastatic potential
+	- invasive = prognosis associated with DEPTH 
+	- ABCs of it
+		- asymmetry 
+		- irregular Border
+		- color - multiple or changing 
+		- Diameter larger than pencil eraser 
+		- evolution - any change clinically 
+	-"ugly duckling sign"- lesion looks different than the rest 
+	-any new picgmented lesion in adult might be this
+	TREAT: local wide excision. close clinical surveillence
+	- sentinel lymph node biopsy - put dye inside, then trace to whatever lymph nodes
+	- radiation
+	- BRAF/CKIT(mucosal stuff) inhib
+	- immunotherapy 
+	- MICRO: abnrmal or lack of unctional nests, no circumscription 
+		- melanocytes holding hands all across the basal layer, or they are extending into **upper parts of epidermis = pagetoid scatter**; you see melanocytes as greyish blue color 
+		- lack of maturation in dermis, so they retain pigment, and nests don't get smaller with depth 
+		- mitosis + nuc pleomorphism ![[pagetoid scatter melanoma.png]]
+- note - spindle melanomas - can look like sarcomas or neurofibromas 
+- cutaneous metastases = in small parts of skin, all around, or regional lymph nodes, **visceral organs like the brain where they might get hemorrhages**
