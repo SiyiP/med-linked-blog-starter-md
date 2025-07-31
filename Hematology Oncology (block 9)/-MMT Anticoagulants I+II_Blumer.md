@@ -68,7 +68,7 @@ cAMP PDE inhibitors
 
 coagulation phase
 - recall intrinsic system - contact exposure of vessels
-- extrinsic - tissue factor pathway , more dmg to tissue
+- extrinsic - tissue factor pathway , more dmg to tissue -> usually DIC 
 
 natural anticoagulation mechs -
 - PGI2 = made by cox-2 in endothelial cells + inhibits platelet aggregation. in opposition to activity of cox-1 (makes TXA2), **so with some cox-2 inhibitors we might see inc risk of stroke**

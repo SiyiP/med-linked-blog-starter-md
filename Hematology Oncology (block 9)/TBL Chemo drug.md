@@ -69,6 +69,11 @@ case 3
 
 - watch out for assigning allopurinol + 6-mercaptopurine at the same time
 - ==**specifically tumor lysis syndrome = hyperkalemia, hyperphosphatemia, hyperuricemia, elevated sr creatinine**== 
+- - PUK-calcium from tumor lysis syndrome = Phosphate Uremia K+ up, all go up; and calcium goes down 
+			- biggest thing is to give fluid to keep the kidneys safe, IVF
+			- hyperkalemia = insulin (give w sugar)
+			- phosphate binders
+			- allopurinol for prevention, and rasburicase for treatment -> prevention of gout 
 failure of 2+ agents with different moa - think of transporter resistance = efflux happens 
 ---
 chemo terms

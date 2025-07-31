@@ -162,6 +162,7 @@ c-anca on the left, and then the perinuclear ones on the right "hug" the neutrop
 
 3. Behcet disease = outside the box 
 	- systemic vasculitis = involving vessels of all sizes on both arteries + venous sides; pulm + neuro has large morbidity 
+	- has pathergy - smallest trauma can result in abnormal ulcerations , similar to pyoderma gangrenosum 
 	- more freq seen in jp, ME, and mediterranean region 
 	- usually young adults 20-40, men 
 	- **oral + genital ulcers for years!!!!**

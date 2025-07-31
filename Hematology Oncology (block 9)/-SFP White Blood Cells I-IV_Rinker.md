@@ -88,10 +88,13 @@ myeloid blast. - **larger than lymphoid blasts, 3-4x size of rbc** more common -
 	- APL - acute promyelocytic leukemia with PML::RARA fusion - **both have bilobed folded kidney/butterfly shaped nuclei!** - this translocation is present -> automatically APL 
 		- hypergranular form - a lot of cyt and a ton of granules and auer rods
 		- microgranular - fewer and sometimes no visible cyt granules and few rods 
-		- ***this causes DIC!*** they all express tissue factor + annexin to breakdown fibrin 
+		- ***this causes DIC!*** they all express **tissue factor to induce coagulation + annexin** , generates plasmin to breakdown fibrin 
+		- DIC etiology - STOP making trouble. sepsis/snakebites, trauma, obsterics, liver/pancreatitis, Malignancy , 
 		- this hybrid protein PML/RARA will block transcription/diff of granulocytes and stops it from getting mature. 
+			- cells get stuck in that immature phase , so if you give ATRA, they continue to mature and stuff. 
 		- poz - CD117, CD33, CD13, neg for CD34, HLA-DR
 		- TREAT: **with all-trans retinoic acid ATRA EARLY!!!! = good prognosis** to induce differentiation + reducing DIC risk. also arsenic 
+			- differentiation syndrome = happens after treatment as a complication
 	- monocytic lineage - 80% of leukemic cells in AML: acute monocytic leukemia 
 		- monoblasts - round neucleus, visible/proominent nucleosis 
 		- promonocytes - indented/folded nuc + less prominent nucleoli 

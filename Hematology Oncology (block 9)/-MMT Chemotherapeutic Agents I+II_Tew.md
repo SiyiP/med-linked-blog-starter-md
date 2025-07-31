@@ -150,6 +150,9 @@ how monoclonal antibodies work ^^
 		- **also you get a RASH = EGFR = E = epidermal; you see donstream Ras**
 	3. rituximab = against CD20 antigen, regulates cell cycle/self-differentiation; leukemias/lymphomas 
 		- TOX: hypotension, bronchospasm, angioedema, card arrhythmias, tumor lysis syndrome -> kidney failure 
+		- PUK-calcium from tumor lysis syndrome = Phosphate Uremia K+ up, all go up; and calcium goes down 
+			- biggest thing is to give fluid to keep the kidneys safe, 
+			- hyperkalemia = insulin (give w sugar)
 	4. daratumumab = CD38 in **multiple myeloma**. killing directly 
 	5. tratuzumab/herceptin = HER2 (EGFR protein 2) and inhibits *tyrosine kinase* activities; metastatic breast cancer 
 		- TOX: congestive HF, infusion related flue 

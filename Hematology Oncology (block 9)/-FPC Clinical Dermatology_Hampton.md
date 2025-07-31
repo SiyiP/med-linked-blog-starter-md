@@ -7,13 +7,14 @@ recall:
 - make sure you memorize "BUZZWORDS"
 primary lesions - original lesion 
 - macule, flat like a mole(<1.0 cm) =>>>> patch (1.0+)
-- papule, solid and firm, **raised**!!!! (<1.0 cm)-?>>> plaque(1+ cm), like contact derm or skin cancer 
+- papule, solid and firm, **raised, dome shaped**!!!! (<1.0 cm)-?>>> plaque(1+ cm), like contact derm or skin cancer , but this is **flat top lesion**
 - vesicle- clear fluid filled (<1.0 cm) ->>> bulla (1+ cm)
 	- take a q tip and hit the vesicle to get fluid out  
-- nodule (>1.0 cm), very firm; epidermal/derma/SQ ->>> tumor (2+ cm), this is elevated/deep-seated or pedunculated
+- nodule (>1.0 cm), very firm; epidermal/derma/SQ ; **dome shaped**->>> tumor (2+ cm), this is elevated/deep-seated or pedunculated
 - pustule - same like vesicle but neutrophil/pus-filled, <1 cm 
 - wheal = hive = urticaria = serous fluid coming out of blood vessels into the interstitium, causing swelling!!
 	- "washed out" = evanescent
+	- variable blanching !!! bgd erethema
 
 secondary lesions - result of extraneous factor like trauma; **what happens to the primary that you see** 
 - scale - dead epidermal cells that don't slough off. 
