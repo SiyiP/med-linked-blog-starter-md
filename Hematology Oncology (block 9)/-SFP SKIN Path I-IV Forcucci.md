@@ -348,4 +348,63 @@ lichen planus
 	- hyperorthokeratosis - a little bit of thickened stratum corneum 
 	- pigment incontinence
 - ![[lichen planus.png]]
-- 
+
+sarcoidosis
+- the great mimicers, very variable, papules, plaques, nodules, can localize to scars/tattoos. 
+- micro: **non-caseating, naked granulomas in dermis, they don't have lymphocytes surrounding the granulomas!!!!!** [[-SFP Non-Neoplastic White Blood Cell Disorders_Rinker]]
+
+lichen simplex chronicus or prurigo nodularis
+- secondary change due to repetitive trauma - rubbing or scratching
+	- lichen  simplex chronicus - like rough, plaque scaley - picking or rubbing or something 
+	- prurigo nodularis - scaly nodule 
+- micro: hyperorthokeratosis - very thickened stratum cornea, like acral skin.... hypergranulosis(thickened granular layer), irregular acanthosis, **vertical streaking of papillary dermal collagen** papillae shooting up basically 
+
+post-inflammatory pigment alteration 
+- hyper/hypo pigmentation after inflammatory condition 
+- might take significantly more time to resolve post-resolution of inflammatory process = 
+- MICRO: **melanophages are in the dermis**
+	- APCs will go into the lymph nodes, so they get swollen. 
+
+---
+blistering disorders; 
+small blister = vesicle 
+big one = bullae 
+also, where's the split that CAUSES that bilster?
+- subcorneal 
+- suprabasal 
+- subepidermal - expect it to be tense, entire roof is the epidermis, so it's pretty strong 
+
+pemphigus vulgaris
+- flaccid bullae, easily ruptured -> crusted, painful erosions 
+- mucosa, scalp, fac, neck, axilla, groin 
+- 5-6th decade
+- **IgG antibodies desmoglein 1 and 3(3 is for mucosal involvement).... morbidity due to infection + fluid imbalances**
+- we see a huge suprabasilar splits,  with acantholysis , which causes this split - tombstones
+	- epidermis is lifted up, and then the white space in between is the blister
+	- keratinocytes = tombstones in this split 
+	- we can do Direct immunofluorescne for IgG and C3 
+	- ![[pemphigus vulgaris IF pattern.png]]
+	- we get a "net-like immunofloresence pattern" between keratinocytes..
+	![[pemphigus vulgaris.png]]
+
+pemphigus foliaceus
+- flaccid bullae, this time with a **cornflake crust**, very thin and exfoliations too
+- antibody IgG to desmoglein-1 , **rarely on any mucosa bc of this**
+- subcorneal split; more superficial with neutrophils + acantholytic cells
+- DIF: intercellular net-like igG + C3 more prominent superficially
+- ![[pemphigus foliaceus.png|310x243]]
+
+bullous pemphigoid
+- large tense bullae -> erythematous patches + urticarial plaques 
+- pruritus; I am soo itchy but sometimes we don't see anything yet 
+- groin, axilla, trunk, thighs, forearms 
+- ELDERYLY 
+- **IgG antibodies to basement membrane BPA1 and BPA2**
+- MICRO: subepidermal split w **eosinophils** -
+- this time we have a **linear deposition** of IgG + C3 along dermoepidermal junction 
+- ![[bullous pemphigoid.png|279x226]]
+	![[bullous pemphigoid if.png|288x215]] - linear
+
+
+dermatitis herpetiformis
+- small grouped excoriated papules - we can't really 
