@@ -1,11 +1,11 @@
  #derm #patho 
  
-skin appendix notes/study guide: 
-
+skin appendix notes/study guide (not tested, just fyi?): 
 ![[11. Skin_Forcucci_NOTES (1).pdf]]
 big notesheet up there 
 ![[Skin I-Terminology and Structure_Forcucci_PPT (1).pdf]]
-
+skin 1
+---
 note - study all the slides in the presentation for the basis 
 - epidermis then dermis then subcutis fat under skin 
 	- cornified layers = topmost, stratum corneum, shedding basket weave dead keratin
@@ -80,6 +80,7 @@ subcutis = subcutaneous tissue = deepest layer inflammation is **panniculitis**
 	- hyperkeratosis 
 ---
 SKIN 2!!!!
+---
 urticaria - hives
 - erythematous, edematous plaques which are wheals, anywhere
 - pruritic, come and go = evanescent, only been there a couple of hours,,, itchyness, but episode lengths vary 
@@ -206,3 +207,145 @@ tinea versicolor
 - spaghetti + meatballs seen in stratum corneum 
 
 dermatophytosis 
+- erythematous 
+- **circular, sharp circumscribed, dry-scaly patches** - 
+- these are entire body 
+- trichophyton species + microsporum species 
+- TREAT: topicals 
+- tinea ___ ; corporis (ringworm) = arm... pedis feet, capitis scalp, barbae (beard), cruris (genitals), faciei (face / cheek), manuum (hands)- 
+- we see : **hyperkeratosis, parakeratosis w/ neutrophils + fungal stain with everything else green and fungi pink, it pops out!**
+![[dermatophytosis micro.png]]
+fungal hyphae in cornified layers seen . we can do a skin scraping for this too 
+
+---
+deep fungal infections - can be scary 
+- nodules, plaques, ulcers, ESCHARS
+- entire body 
+- in immunosuppressed
+- etiology - primary inoculation, hematogenous spread
+	- aspergillus, fusarium, mucorales, alternaria, dimorphic fungi 
+- TREAT: systemic anti-fungals 
+- MICRO: variable inflammatory infiltrate + necrosis , fungal hyphae in dermis + subcutis, often invading **blood vessels**
+![[fungal hyphae filling vessel - deep fungal infection.png|268x208]]
+
+onychomycosis= **fungal infection of nail**
+- yellow discoloration
+- subungual hyperkeratosis 
+- brittle nails, keratin debris under nail causing it 
+- common - trichophyton rubrum
+- TREAT: oral terbinafine 
+- DX: nail clipping
+
+---
+viruses
+verruca vulgaris
+- papule with rough, verrucous surface with **tiny black dots**, very small + most common on hands
+- HPV mediated ... 
+- TREAT: spontaneous resolutino, cryotherapy, salicylic acid, cantharidin, etc
+- might be more in immunosuppressed 
+- MICRO scaley - we see **hyperkeratosis with spires of parakeratosis + hemorrhage**
+	- also papillomatous + inward rete bending
+	- hypergranulosis + hpv cytopathic effect (**koilocytes with raisinoid nucleus**)![[verruca vulgaris micro.png]]
+	- ![[verruca vulgaris micro closeup.png|366x272]]
+
+verruca plana - flat wart
+- flat, **tan** macules, 2-4 mm, on face + dorsla hands 
+- HPV mediated - 
+- TREAT: spontaneous resolution, topical retinoids, imiquimod 
+- MICRO: see some granulosa. +  koilocytes but no hyperkeratosis and church spires 
+
+condyloma
+- gray, yellow, pink verrucous papules ,,, 
+- groin, penis, vulva, anus 
+- HPV6/11 
+- TREAT: observation, cryotherapy, podophyllin, imiquimod, excision 
+- MICRO: less pointy and church spire, but they have **more blunt shaped papillomatosis, parakeratosis, koilocytes**
+
+herpetic vesiles
+HSV 1 + 2 
+- orolabial herpes "cold sore"
+- genital herpes
+VZV - variclla chickenpox + shingles/zoster (involving dermatomes, and unilateral)
+- we can see similar features ith each other, esp on tzanck smear
+- pcr can help 
+- TREAT: acyclovir + VZV vaccine
+- MICRO: 3 ms/ 
+	- **molding - nuclei in multinucleated cell will mold together!** 
+	- **margination - chromatin marginates to edge, making a type of pencil rim around** 
+	- **multinucleation** 
+	- ![[herpetic vesicles.png|262x219]]
+- see acantholysis + intraepidermal vesicle 
+
+molluscum contagiosum 
+- umbilicated, pearly papules
+- 3-5 mm 
+- anywhere on body 
+- young kids, sexually active adults, immunosuppressed
+- TREAT: spontaneously resolve, local irritation, cryotherapy, cantharidin 
+- micro: umbilications filled with **henderson-paterson bodies** - bright pink viruses hanging out inside it 
+
+scabies
+- pruritic papules, super itchy, vesciles, pustules, and burrows of mites
+- excoriations
+- **finger webs**, write, axilla, groin, areolas etc. 
+- crusted variant in immunosuppressed or debilitated patients - means diffusely inovlved. 
+- TREAT: permethrin cream, oral ivermectin ... super contagious treat everyone and launder everything 
+- **MICRO: inside the corneum we can see mites, eggs, scybala!!**
+---
+skin 3 - chronic + blistering dermatoses 
+--- 
+chronic inflammatory dermatoses 
+[[-SFP Systemic Lupus Erythmatosus_Kamen]]
+- chronic cutaneous LE 
+	- discoid - start as erythematous macules and **plaques with scale** -> atrophy, scarring, pigmentary changes (darkening or something); alopecia
+		- onset with sun exposure, in young adulthood mainly women 
+		- TREAT: **photoprotection**, steroids, antimalarials, immunosuppression 
+		- MICRO: hyperkeratosis, **follicular plugging, the follicle filled with all this keratin**, pigment incontenence, dmg to melanocytes.... and superficial/deep perivascular + periadnexal inflammation with plasma cells
+		- ![[LE discoid.png]]
+	- verrucous/hypertrophic
+	- chilblain - "covid toes"
+	- tumid
+	- panniculitis - subq tissue involvement. profundus if going all the way down 
+- subq cutaneous LE 
+	- annular
+	- papulosquamous
+- systemic LE with cutaneous involveemnt 
+
+morphea - 
+- cutaneous localized scleroderma [[-SFP Autoimmune Diseases I+II_Baker Frost]][[-SFP History and Clinical Manifestations of Rheumatological Disorders_Baker Frost]]
+- erythematous-violaceus macules/plaques -> eventually we get **smooth, depressed white ivory lesions, loss of skin elasticity**
+- more palpable - skin's too tight, limit mobility ; **end state sclerosis doesn't really get treated ):**
+	- MICRO: "**square punch**" - where we get dense dermal sclerosis with **homogenized pink collagen**, loss of adnexal fat structures, plasma rich infiltrate at Dermal subq interface... 
+- children + adults, mainly female
+- TREAT: topical/intralesional steroids, phototherapy, immunosuppression 
+
+psoriasis - very common 
+- well-demarkated, PINK plaques with silver-white scale
+- symmetric distribution, scalp, etc. 
+- **nail pits + oil spots or wavy white parts on nails**, geographic tongue(white stuff looking like a map on it)
+	- treat for psoriatic arthritis if tey have it ): 
+- TREAT: topical/intralesional steroids, phototherapy, methotrexate
+- plaques - white well demarkated
+- linear variety 
+- guttate = like dewdrops / raindrops
+- inverse - pattern opposite to where it is 
+- erythrodermic - most body is red and kinda scaley 
+- MICRO: **mound like *parakeratosis* with *neutrophil* microabscesses**
+	- psoriasiform acanthosis - **meaning it's REGULAR with its undulations** - causing the plaque to form 
+	- diminished granular layer 
+	- dilated, tortuous papillary dermal vessels
+	- ![[psoriasis.png]]
+
+lichen planus
+- 5-6 Ps
+	- pruritic, purple, polygonal aka varied shape, planar papules + plaques
+- wickham striae = white puncta or streaks 
+- symmetrically distributed 
+- majority spontaneously resolve in 1-2 yrs but if not, 
+- association with hep C 
+- TREAT: topical steroids , phototherapy, oral retinoids, antimalarials 
+- MICROSCOPE: **lychenoid inflammation *civatte bodies*= band-like infiltration with wedge shaped hypergranulosis, SAW-tooth acanthosis; epidermis thickened like a sawtooth**
+	- hyperorthokeratosis - a little bit of thickened stratum corneum 
+	- pigment incontinence
+- ![[lichen planus.png]]
+- 
