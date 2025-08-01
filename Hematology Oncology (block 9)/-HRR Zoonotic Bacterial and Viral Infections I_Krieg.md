@@ -1,9 +1,9 @@
 #bugs #hemonc 
 
 ![[4. Zoonotic Bacterial & Viral Infections I and II_Krieg_NOTES (1).pdf]]
-zoonosis - has global pandemic impact! 
+
 zoonotic viruses are transmitted by arthropods = arboviruses 
-infections transmitted into humans + frmo animals - spread between animals + ppl 
+infections transmitted into humans + from animals - spread between animals + ppl 
 - rural + semi-urban settings 
 - expansion too into closeness to wildlife. 
 modes of transmission 
@@ -12,20 +12,20 @@ modes of transmission
 – Ingestion (ie listeriosis, brucellosis) 
 – By a vector (fleas, ticks, mosquitoes, lice) leading to infection (ie plague)
 
-for the flaviviridae
-- the human. = dead-end host
-- all are ==flaviviruses (+ssRNA) spread by aedes mosquitos==, which are mostly limited to tropical/sub-tropical zones + feed in daylight hours
+for the ==flaviviridae==
+- ==the human. = "dead-end host"==
+- all are ==flaviviruses (+ssRNA) spread by aedes mosquitos==, which are mostly limited to ==tropical/sub-tropical zones + feed in daylight hours==
 	- range of the mosquito = in the south; but the us has largely eraticated it unless it's in the caribbean travels 
 
-arthropod virus  = ==arboviruses - hundreds of them, divided into 3 arbitrary clinical syndromes = **all are flaviviruses**==
+==arthropod virus  = arboviruses, all got 3 symptoms== - hundreds of them, divided into 3 arbitrary clinical syndromes = **all are flaviviruses**
 - ==fevers +/- maculopapular rash + benign==
 - ==encephalitis , high case fatality rate==
 - ==hemorrhagic fevers ; severe + fatal== 
-1. dengue virus = a lot in florida. "breakbone fevers - high fevers w headache/retro-orbital pain."
-	- acute phase 3-6 days post-infection = can get shock, bleeding etc. 
-	- **severe muscle+joint pain** for 2-10 days w/ prolonged convalescence 
-	- rarely fatal + treatment symptomatic (: 
-	- note ANTIbody enhanced infection: **mild febrile illness = antibody response to type 1 , and recovery**
+1. ==dengue virus = a lot in florida. "breakbone fevers"== - high fevers w headache/retro-orbital pain."
+	- ==acute phase 3-6 days post-infection = can get shock, bleeding== etc. 
+	- ==**severe muscle+joint pain** for 2-10 days w/ prolonged convalescence/ercovery== 
+	- ==rarely fatal + treatment symptomatic (:== 
+	- note ANTIbody enhanced infection: ==Type 1 first transmission Dengue: **mild febrile illness = antibody response and recovery**==
 		- after recovery, what can happen is dengue type 2 => basically antibody enhances infection, inc type 2 infection of **monocytes**, inc cytokines
 		- **that's how we get hemorrhagic fever shock syndromes + severe illness**
 			- DHF = **dengue hemorrhagic fever**

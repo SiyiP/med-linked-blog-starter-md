@@ -16,8 +16,10 @@ Dermis - there's capillaries, and then melanophages[^5]
 - Hyperkeratosis - lots of keratin[^5]
 	- We might see rashes that are SCALEY!!!![^5]
 - Orthokeratosis - thicken cornified layer ***without*** retention of nuclei - loss of basket weave top layer[^5]
+	- an example can be lichen related things, but with hyperorthokeratosis 
 - Parakeratosis - basket weaves with ***retained*** nuclei , still cornified layer!!![^5]
-- Acanthosis - thickening of epidermis, hyperplasia[^5]
+	- dermatophytosis example 
+- Acanthosis - thickening of epidermis, hyperplasia[^5]; usually flat 
 - Acantholysis - lysis/disruption of intercellular keratinocyte adhesive junctions[^5]
 - Papillomatosis - surface elevation , bumpy surface like warts caused by hyperplasia + enlargement of dermal papillae[^5]
 - Spongiosis - intracellular edema - spines very prominent and visible - this is in very wet eruptions ![^5]
@@ -70,11 +72,17 @@ pathology / dz:
 Papulosquamous dz = papules + scales , most common[^3]
 1. Psoriasis (prototype)[^3]
 	- Scalp/elbows, knees palms, soles[^3]
-	- Symmetrical[^3]
-	- Very well-circumscribed borders[^3]
-	- *Silver* scale rather than greasy scale[^3]
+	- Symmetrical[^3]  
+	- different types can be linear variety, guttate (dewdrops), inverse pattern, or erythrodermic where most of the body is red + scaley 
+	- Very well-circumscribed borders[^3]; PINK plaques, *Silver* scale rather than greasy scale[^3]
 	- Family hx, drug induced b-blocker/lithium, idiopathic[^3]
 	- Nail pits, notches in nails + koebner phenomenon - new lesions appearing on healthy skin after injury or trauma[^3]
+	- TREAT: topical/intralesional steroids, phototherapy, methotrexate
+	- MICRO: **mound like *parakeratosis* with *neutrophil* microabscesses**
+		- psoriasiform acanthosis - **meaning it's REGULAR with its undulations** - causing the plaque to form 
+		-  diminished granular layer 
+		- dilated, tortuous papillary dermal vessels
+		- ![[psoriasis.png]]
 2. Seborrheic dermatitis [^3]
 	- Scalp/ears/mid-chest/central face - loves the eyebrows, nasolabial folds, glabella(skin between eyebrows)[^3]
 	- Greasy scaley and pink ![^3] + Bimodal[^3]
@@ -83,7 +91,8 @@ Papulosquamous dz = papules + scales , most common[^3]
 	- Very flat but raised papules still![^3]
 	- Trunk/upper extremities[^3] - oily skin, more common in the summer. 
 	- Light/very brown, versatile, flat scale; scaley macuole[^3]
-	- **Spaghetti + meatballs** in stratum corneum = both spores and hyphae!!! pitrysporum ovale.[^3]
+	- **Spaghetti + meatballs** in **stratum corneum** = both spores and hyphae!!! pitrysporum ovale.[^3]
+		- recall - stratum corneum is the most superficial layer! the corn wheat things 
 	- TREAT: topical selenium sulfide, imidazoles, etc. 
 4. Secondary syphilis [^3]
 	- Trunk/palms/soles[^3]
@@ -107,9 +116,15 @@ Papulosquamous dz = papules + scales , most common[^3]
 	- **7-14 days later burst of lesions all over the body "salmon-colored" ovale papules with a collarette of scales trailing; Christmas tree**[^3]
 	- **12 wks resolved**, slow resolving[^3]
 8. Lichen planus[^3]
-	- Oral cavity has **wickham's striae**, on **volar wrist, male genitalia + lower back, whiteish streak[^3]**
+	- Oral cavity has **wickham's striae**(white puncta or streaks), on **volar wrist, male genitalia + lower back, whiteish streak[^3]**
+	- symmetrically distributed 
 	- Flat topped, violaceous, polygonal pruritic papules **"Polygonal" - big and small different sizes**[^3]
 	- **Koebner phenomenon[^3]**
+	- TREAT: majority spontaneously resolve in 1-2 yrs  but if not, topical steroids , phototherapy, oral retinoids, antimalarials 
+	- MICROSCOPE: ==**lychenoid inflammation *civatte bodies with necrotic keratinocytes*=== band-like infiltration with wedge shaped hypergranulosis, SAW-tooth acanthosis; epidermis thickened like a sawtooth**
+		- ***hyperorthokeratosis*** - a little bit of thickened stratum corneum 
+		- pigment incontinence
+		- ![[lichen planus.png]]
 
  Eczematous dermatitis[^3]
 - Erythematous / red[^3] + very itchy 
@@ -126,9 +141,9 @@ Papulosquamous dz = papules + scales , most common[^3]
 		- **type 4 hypersensitivity**
 	Noncontact derm: atopic(allergy-causing), nonatopic groups[^3]
 	1. Atopic dermatitis = on face with sparing the center. eventually ends up on extremities[^3]
-		- Children[^3]
+		- Children[^3]  
 		- Hx of asthma, hay fever in pt or in family[^3] - **and leads to these too!!!**
-		- due to defect in: ==keratinocyte barrier function + inc sensitivity to antigens-> sensitivity... variable age==
+		- due to defect in: ==keratinocyte barrier function + inc sensitivity to antigens-> sensitivity... variable age -> Th2 response==
 		- **Dennie-morgan folds beneath eye**, **hyperlinear palms - extra lines** in the palms, or inc **IgE**[^3]
 		- for subacute, we see **changes in the cornified layer like parakeratosis + sr crust, spongiosis, acanthosis, exocytosis of lymphocytes**
 		- ![[subacute eczema micro.png]]
@@ -148,14 +163,18 @@ Papulosquamous dz = papules + scales , most common[^3]
 		- **Coin shaped plaques[^3]**
 	- TREAT all eczemas:  lifestyle mods, topical steroids, phototherapy, immunosuppression (if super diffuse)
 
-Vesiculobullous dz[^3]
+Vesiculobullous dz[^3] = blistering disorders!!!
+**note: where is the split that causes the blister???** 
+- subcorneal 
+- suprabasal 
+- subepidermal - expect it to be tense, entire roof is the epidermis, so it's pretty strong 
 1. Erythema multiforme[^3]; entire body but usually acral + mucosas 
 	1. GENERAL: erythematous, macules/papules/vesicles/bullae, **"targetoid lesions" - have a dusky or necrotic center!**
 		- **normal cornified layers, scattered NECROTIC keratinocytes** -> dusky center of targetoid
 		- BAND-like infiltrate at DEJ
-		- **T-cell mediated hypersensitivity response; type 4; HSV/MYCOPLASMA and drugs cause this**
+		- **T-cell mediated hypersensitivity response; type 4; ==HSV/MYCOPLASMA and drugs cause this**==
 		- ![[erythema multiforme micro.png]]
-	- Minor[^3] = Kids, pink/light pink of "target/iris lesions" = on palms/soles[^3]
+	- Minor[^3] = Kids, pink/light pink of "target/iris lesions" = on palms/soles[^3]... Erythema multiform can prgress to Steven-johnsons syndrome. 
 	- Major. =stevens-johnson syndrome = now with mucosal membranes, usually adults[^3]
 		- secondary to drug usually 
 		- micro: we see a huge white gap between dermis + epidermis due to necrosis = **no inflammatory rxn with band like infiltrate at dermoepidermal junction**
@@ -163,11 +182,30 @@ Vesiculobullous dz[^3]
 		- fixed drug rxns - quickly get post-exposure, coming back at the same place -> progress to genitals 
 			- **chemotherapy fixed rxns** - red painful hands + sweat gland inflammation; **flagellate like, someone whipped you and you see linearity on the skins**
 		- DRESS rxns = **eosinophilia + end organ involvement going on**
-	- TEN = toxic epidermal necrolysis - like when you burn ur skin off, 50% mortality[^3]
+	- TEN = toxic epidermal necrolysis **when SJS involves more than 30% of your body surface!**- like when you burn ur skin off, 50% mortality[^3]
 		- - micro: we see a huge white gap between dermis + epidermis due to necrosis = **no inflammatory rxn with band like infiltrate at dermoepidermal junction**
 	- TREAT: supportive + stop the underlying thing 
-2. Bullous pemphigoid - tense blister[^3]
-3. Pemphigus vulgaris - flaccid blisters[^3]
+2. Bullous pemphigoid - tense blister(autoimmune)[^3]
+	- erythematous patches + urticarial plaques 
+	- pruritis!! super itchy, sometimes even when it doesn't develp yet 
+	- no mucosal involvement
+	- ELDERLY 
+	- - **IgG antibodies to basement membrane BPA1 and BPA2** - the hemidesmosomes of the collagen specifically 
+	- MICRO: ==subepidermal== split w **eosinophils** -
+	- ==LINEAR depo of IgG + C3 along DEJ== 
+	- ![[bullous pemphigoid.png|279x226]]
+3. Pemphigus vulgaris (autoimmune) - flaccid blisters[^3]
+	-  crusted, painful erosions  after rupturing 
+	- on **mucosa**, etc 
+	- older,5-6 decades
+	- IgG autoantibodies desmoglein 1+3. **both IgG and C3 are net-like immunofloresence pattern**
+	- huge **suprabasilar splits**,  with acantholysis , which causes this split - tombstones which are the kertinocytes in the split!;; 	- epidermis is lifted up, and then the white space in between is the blister
+	- ![[pemphigus vulgaris.png]]
+4. pemphigus foliaceus (autoimmune) = flaccid but with a **cornflake crust!!! very thin with exfoliation**
+	- antibody IgG to desmoglein-1 , **rarely on any mucosa bc of this**
+	- ==**subcorneal** split in the middle of epidermis top laye==r; more superficial with neutrophils + acantholytic cells
+	- DIF: **intercellular net-like** igG + C3 more prominent superficially
+	- ![[pemphigus foliaceus.png|310x243]]
 
 Acneiform eruptions[^3]
 1. Prototype acne vulgaris; all ages[^3]
@@ -187,7 +225,8 @@ Acneiform eruptions[^3]
 	- Upper trunk , not the face; sudden eruption + hard to treat and up to a year to get better[^3]
 Morbiliform eruptions - measle-like, penicillin like, little reddish flat things surrounded by normal skin[^3]
 	- Neck, trunk, extermities - bilateral/symmetrical[^3]
-	- Viral cause, and drug induced mainly[^3]
+	==- **these start proximally and then spare the face!**==
+	- Viral cause, and drug induced mainly: **antibiotics**[^3]
 	- Onset in 1-2 wks, and then if re-exposed, 1-3 days[^3]
 
 Disorders of pigmentation[^3]
@@ -202,7 +241,10 @@ Disorders of pigmentation[^3]
 	- Check for other autoimmune dz = hashimoto's, graves, pernicious anemia[^3]
 3. Postinflammatory pigment alteration PIPA or postinflammatory hyper/hypopigmentation PIH[^3]
 	- Anywhere, totally from hx of inflammatory event, skin trauma, acne, etc[^3]
-	- Hyper/hypopigmented macules/patches -> uneven tone[^3]
+	- - might take significantly more time to resolve post-resolution of inflammatory process 
+	- Hyper/hypopigmented macules/patches -> uneven tone[^3] - > **melanophages eat the melanin**
+	- MICRO:  **melanophages are in the dermis**
+		- APCs will go into the lymph nodes, so they get swollen. 
 [^3]: [[-FPC Clinical Dermatology_Hampton]]
 
 infectious dz 
@@ -223,8 +265,9 @@ infectious dz
 	- TREAT: empiric antibiotics[^6]
 4. Necrotizing fascilitis[^6]
 	- Very painful erythema/edema "dusky or hemorrhage"; gangrene[^6]
+	- **by anaerobic flesh-eating bacteria: S. pyogenes** 
 	- TREAT: surg debridement + IV antibiotics[^6]
-5. Pyoderma gangernosum - not infectious but really mistaken for it a lot, a r**eactive neutrophilic dermatitis**[^6]
+5. ==Pyoderma gangernosum== - not infectious but really mistaken for it a lot, a r**eactive neutrophilic dermatitis** ; basically a big painful ulcer after a minor trauma -> healing as cribiform scar[^6]
 	- Dx of exclusion - exclude all infections then get this[^6]
 	- Inflammatory pustules -> large, painful ulcers with undetermined violaceous border = *cribriform* scar[^6]
 	- Pathergy -  abnormal response to trauma, ulcerations!!!. another thing with pathergy is behcets[^6]
@@ -251,7 +294,7 @@ infectious dz
 
 Viruses[^6]
 1. Verruca vulgaris[^6]
-	- Papule with rough, verrucous surface with tiny black dots, very small + most common on hands[^6]
+	- Papule with rough, verrucous surface with tiny black dots, very small + most common on hands[^6]; and on mucosa
 	- HPV[^6]
 	- TREAT: spontaneous resolution, cryotherapy, salicylic acid, cantharidin, etc[^6]
 	- MICRO scaley - we see hyperkeratosis with spires of parakeratosis + hemorrhage[^6]
@@ -278,9 +321,9 @@ Viruses[^6]
 		- Margination - chromatin marginates to edge, making a type of pencil rim around[^6]
 		- Multinucleation[^6]
 		- ![[herpetic vesicles.png|262x219]][^6]
-		- Acantholysis + *intraepidermal* vesicle[^6]
+		- Acantholysis + ***intraepidermal*** vesicle[^6]
 5. Molluscum contagiosum[^6]
-	- Umbilicated, pearly papules[^6]
+	- **Umbilicated**, pearly papules; **these are flesh-colored + dome-shaped**[^6]
 	- Anywhere on body[^6]
 	- TREAT: spontaneously resolve, local irritation, cryotherapy, cantharidin[^6]
 	- Micro: umbilications filled with henderson-paterson bodies - bright pink viruses hanging out inside it[^6]
@@ -291,6 +334,144 @@ Viruses[^6]
 	- TREAT: permethrin cream, oral ivermectin ... super contagious treat everyone and launder everything[^6]
 	- MICRO: inside the corneum we can see mites, eggs, scybala!![^6]
 
-Chronic 
+Chronic / autoimmune 
+Chronic inflammatory dermatoses[^7]
+Chronic cutaneous LE[^7]
+1. Discoid - start as erythematous macules and plaques with scale[^7]
+	- Atrophy, scarring, pigmentary changes (darkening or something); alopecia[^7]
+	- Onset with sun exposure[^7]
+	- TREAT: photoprotection, steroids, antimalarials, immunosuppression[^7]
+	- MICRO: **hyperkeratosis, follicular plugging**, the follicle filled with all this keratin, pigment incontenence (dmg to melanocytes).... + superficial/deep perivascular + periadnexal inflammation with plasma cells[^7]
+	- ![[LE discoid.png]]
+	- Chilblain - "covid toes", dark toes seen on clinical exam?[^7]
+	- Edema[^7]
+	- Panniculitis - subq tissue involvement. profundus if going all the way down[^7]
+
+2. Morphea - cutaneous localized **scleroderma**[^7]
+	- Erythematous-violaceus macules/plaques -> eventually we get smooth, depressed white ivory lesions, loss of skin elasticity[^7]
+	- Skin's too tight, limit mobility ; end state sclerosis doesn't really get treated ):[^7]
+	- MICRO: "square punch" - where we get dense dermal sclerosis with homogenized pink collagen, loss of adnexal fat structures, plasma rich infiltrate at Dermal subq interface...[^7]
+	- TREAT: topical/intralesional steroids, phototherapy, immunosuppression[^7]
+
+3. Sarcoidosis[^7]
+	- Great mimicers, very variable, papules, plaques, nodules, can localize to scars/tattoos.[^7]
+	- Micro: non-caseating, naked granulomas in dermis, they don't have lymphocytes surrounding the granulomas!!!!![^7]
+
+CHRONIC: - note lichen stuff seem to have hyperorthokeratosis as a common thing 
+1.  Lichen simplex chronicus or prurigo nodularis[^7]
+	- Lichen simplex chronicus - like rough, plaque scaley[^7]
+	- Prurigo nodularis - scaly nodule[^7]
+	- Micro: ***hyperorthokeratosis* - very thickened stratum corneum.**.. hypergranulosis(thickened granular layer), irregular acanthosis, **vertical streaking of papillary dermal collagen papillae** shooting up basically[^7]
+	- 
+
+ 2. Dermatitis herpetiformis- chronic autoimmune[^7]
+	- Small/tiny grouped red dots[^7]
+	- Bilateral, symmetric, extensor surfaces, elbows, knees, butts[^7]
+	- Intense pruritis[^7]
+	- Celiac dz !!! responds to gluten free diet[^7]
+	- MICRO: neutrophil microabscesses in TIPs of dermal papillae - ==subepidermal== vesicle[^7]
+	- ![[dermatitis herpetiformis.png]]
+	- ==DIF: granular igA deposition[^7]==
+
+---
+neoplasms + malignancies 
+Benign epidermal neoplasms + Non melanoma skin Cancer (NMSC)
+1. Seborrheic keratosis - benign "barnacles/age spots"[^7]
+	- Oval, stuck on, waxy papule or plaque[^7]
+	- Onset 4th or 5th decade[^7]
+	- TREAT: liquid nitrogen, curettage, shave removal[^7]
+	- MICRO: "waxy or stuck-on," caused by acanthosis and hyperkeratosis (shredded wheat, too much of the normal basket weave structure)[^7]
+	- Papillomatosis - undullating bumpiness to the region +[^7]
+	- Pseudohorn cysts! little cysts of keratin connecting to surface.[^7]
+	- ![[seborrheic keratosis.png]]
+	- ==Leser-trelat = paraneoplastic syndrome due to internal malignancy==, like GI carcinomas, when patients get too many SUDDENLY![^7]
+2. Actinic keratosis - actinic = sun .... so keratosis mediated by UV exposure- *dysplasia*[^7]
+	- Ill-defined scaly lesions of various colors, can be flat or elevated, usually small[^7]
+	- 6th decade, onset can be with younger fair skinned ppl[^7]
+	- *premalignant lesion -> small risk of progressing to carcionma[^7]
+	- TREAT: liquid nitrogen, topical chemo[^7]
+	- MICRO: "scaley, ill-defined" = parakeratosis, cytologic ATYPIA in lower portion of epidermis "dysplasia" , solar elastosis[^7]
+	- ![[actinic keratosis.png]][^7]
+	- Biopsy: keratin =cutaneous horn, just a lot of hyperkeratosis[^7]
+
+3. Squamous cell carcinoma in situ[^7]
+	- Very very similar to actinic keratosis, but full thickness of cytologic atypia[^7]
+	- Paget-like[^7]
+	- Invasive squamous cell carcinoma -[^7]
+	- Scaley or ulcerated nodule[^7]
+	- UV mediated[^7]
+	- Older adults, M>F[^7]
+	- Excision[^7]
+	- Other predisposing factors than sun dmg[^7]
+		- Immunosuppressant - like HPV[^7]
+		- Industrial / chem exposures = tars, oils, arsenic, like in the peedee region of tobacco farming[^7]
+		- Ionizing radiation[^7]
+		- ==Marjolin ulcers = long standing scar/wound== , we see worsening suddenly then we check for that![^7]
+	- MICRO: nest and clusters of very different squamous cells invading dermis with desmoplastic rxn, very nice and pink + poorly differentiated. can also be seen in lungs, esophagus , penis, vulva, anus etc[^7]
+
+ 4. Basal cell carcinoma[^7]
+	- Pearly papule with telangiectatic vessels[^7]
+	- UV; very slow growing with very low rate of metastasis[^7]
+	- TREAT: excision, hedgehog pathway inhibitors in metastatic cases[^7]
+	- MICRO: nests and islands of basaloid cells with ==peripheral palisading(single layer of long cells)== set in fibromyxoid stroma with *==clefting==*[^7]
+	- ![[basal cell carcinoma.png]][^7]
+
+5. Merkel Cell carcinoma[^7]
+	- Rapidly enlaging non -tender red violaceous nodules[^7]
+	- ELDERLY[^7]
+	- Looks small and discountable, but the worst of it all[^7]
+	- Looks like a big blue block: sheets + ribbons of hyperchromatic cells with scant cytoplasm and smudged chromatins[^7]
+	- Due to : merkel cell polyoma virus MCPV and UV exposure[^7]
+
+---
+Melanocytic proliferations[^7]
+Melanocytic nevi[^7]
+- Benign[^7]
+- Melanocytes can make a nest - this is congenital or acquired in childhood - young adulthood, occuring anywhere skin and mucosa[^7]
+1. Junctional nevus - when it's on the EDJ, flat and small[^7]
+	- Compound nevus - both epidermal and dermal nests we see circumscribed small lesion + nests in dermis too[^7]
+	- Intradermal nevus - when it's just in the dermis layer more PAPULAR!!! microscopically we see a raised papule with nests of melanocytes[^7]
+	- Melanocytes = are from neural crest cells. look like nerves sometimes[^7]
+	- MICRO: well circumscribed, we can see the nests so easily at tips and sides of rete or in the dermis!![^7]
+	- Melanocytes get smaller and lose pigment as they break into smaller nests while they go deeper into the skin[^7]
+2. Atypical melanocytic nevus[^7]
+	- Larger, >5 mm, might be macule and or plaque, irregular borders , sporadic or inherited[^7]
+	- No inc risk of turning into melanomas - just "funny looking nevi"[^7]
+	- Plaque with irregular borders[^7]
+	- A larger amt might mean more worry for family hx[^7]
+	- Micro - *horizontally* oriented junctional nets with BRIDGING between rete[^7]
+	- **Lamellar fibroplasia - we see extra pink looking stroma right under nest of melanocytes in the papillary dermis**[^7]
+	- Overhang in rock climbing = junctional component extends beyond dermal[^7]
+	- ![[atypical melanocytic nevus.png]][^7]
+3. Blue nevus - an exception!! you can get them any time of your life[^7]
+	- Heavily pigmented, blue black color, lots of pigment, **wedge-shaped** dermal proliferation of heavily pigmented **spindled** melanocytes[^7]
+4.  Halo nevus - a dark dot. + hypopigmented lighter rim around it[^7]
+	- Immune system making melanocytes regress around it[^7]
+	- Benign *in* *children* but can also be harbinger of vitiligo[^7]
+	- MICRO: huge amount of dense lymphocyte inflammation[^7]
+5. Recurrent nevus - if they get a biopsy and don't remove the whole thing[^7]
+6. Congenital nevus[^7]
+7.  Spitz nevus - benign, are very very dark/erythematous - we see big heavily pigmented spindled EPITHELIOID MELANOCYTES IN VERTICAL nests[^7]
+--
+ 8. **Malignant: melanoma[^7]**
+	- Majority - de novo but some come within melanocytic nevi ; can be anywhere ![^7]
+	- UV induced dmg + stepwise mutations build-up[^7]
+	- Melanoma in situ - confined to epidermis, lacks metastatic potential[^7]
+	- Prognosis associated with DEPTH[^7]
+	- -"ugly duckling sign"- lesion looks different than the rest[^7]
+	- TREAT: local wide excision. close clinical surveillence[^7]
+		- Sentinel lymph node biopsy - put dye inside, then trace to whatever lymph nodes[^7]
+		- Radiation[^7]
+		- BRAF/CKIT(mucosal stuff) inhib[^7]
+		- Immunotherapy[^7]
+	- MICRO: abnormal or lack of functional nests, no circumscription[^7]
+		- Melanocytes holding hands all across the basal layer, or they are extending into upper parts of epidermis = paget scatter[^7]
+		- Lack of maturation in dermis, so they retain pigment, and nests don't get smaller with depth[^7]
+	- ![[pagetoid scatter melanoma.png]][^7]
+9. Spindle melanomas - can look like sarcomas or neurofibromas[^7]
+10. Cutaneous metastases = in small parts of skin, all around, or regional lymph nodes, visceral organs like the brain where they might get hemorrhages[^7]
+
+[^7]: [[-SFP SKIN Path I-IV Forcucci]]
+
 
 
