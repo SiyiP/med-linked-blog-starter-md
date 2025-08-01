@@ -14,13 +14,13 @@ modes of transmission
 
 for the flaviviridae
 - the human. = dead-end host
-- all are flaviviruses (+ssRNA) spread by aedes mosquitos, which are mostly limited to tropical/sub-tropical zones + feed in daylight hours
+- all are ==flaviviruses (+ssRNA) spread by aedes mosquitos==, which are mostly limited to tropical/sub-tropical zones + feed in daylight hours
 	- range of the mosquito = in the south; but the us has largely eraticated it unless it's in the caribbean travels 
 
-arthropod virus  = arboviruses - hundreds of them, divided into 3 arbitrary clinical syndromes = **all are flaviviruses**
-- fevers +/- maculopapular rash + benign
-- encephalitis , high case fatality rate
-- hemorrhagic fevers ; severe + fatal 
+arthropod virus  = ==arboviruses - hundreds of them, divided into 3 arbitrary clinical syndromes = **all are flaviviruses**==
+- ==fevers +/- maculopapular rash + benign==
+- ==encephalitis , high case fatality rate==
+- ==hemorrhagic fevers ; severe + fatal== 
 1. dengue virus = a lot in florida. "breakbone fevers - high fevers w headache/retro-orbital pain."
 	- acute phase 3-6 days post-infection = can get shock, bleeding etc. 
 	- **severe muscle+joint pain** for 2-10 days w/ prolonged convalescence 
@@ -35,8 +35,8 @@ arthropod virus  = arboviruses - hundreds of them, divided into 3 arbitrary clin
 2. yellow fever virus 
 	- issue with diagnosis - we only detect the top 5% with symptoms like jaundice, fever, hemorrhage etc BUT 85% are asymptomatic!!! still **transmit via blood transfusion.**
 	- incubation 2-6 days in humans, 7-10 in mosquito 
-	- 2 phase ilness
-		- 1-3 day = infection of liver, abrupt flu like symptoms onset, then **relative bradycardia = faget's sign** => leukopenia + proteinuria 
+	- 2 phase illness
+		- 1-3 day = infection of liver, abrupt flu like symptoms onset, then **relative bradycardia = faget's sign(bradycardia + fever)** => leukopenia + proteinuria 
 		- remission day 
 		- 4-10 = intoxication = fever, prostration, **GI bleeding black vomit**, delirium, **JAUNDICE**, petechiae, hypotension, shock 
 		- 10 - 21 = death or convalescence if survived = fatigue, secondary pneumonia, full hepatic recovery 
@@ -46,8 +46,8 @@ arthropod virus  = arboviruses - hundreds of them, divided into 3 arbitrary clin
 	- **cannot differentiate from dengue unless we take these labs/PCR test:** lymphopenia , thrombocytopenia, elevated creatinine, hepatic transaminases
 	- mortality is rare tho 
 4. Zika virus - 
-	- asymptomatic/nonspecific fever w/ maculopapular rash, headache, conunctivitis, arthralgias, rarely severe
-	- **guillain barre syndrome inc incidence**
+	- asymptomatic/nonspecific fever w/ maculopapular rash, headache, conjunctivitis, arthralgia, rarely severe
+	- **Guillain barre syndrome(ascending paralysis) inc incidence**
 	- congenital infection = severe = **microcephaly, blindness, death**
 	- transmission by sexual contact as well as blood transfusion = documented 
 TREATMENT: no antivirals, all symptomatic. only one vaccine for yellow fever + prevention via mosquito repellants + control w/ community 
@@ -56,22 +56,23 @@ TREATMENT: no antivirals, all symptomatic. only one vaccine for yellow fever + p
 arthropod bacterial - many have unusual animal reservoir.  
 1. Yersinia pestis – "black death"
 	- human is accidental host, if they're close to rats, fleas that are on the rats go to bite you, transmitting it to you. 
-	- reservir/host = small mammals. humans accidentally... 
+	- reservoir/host = small mammals. humans accidentally... 
 	- Fever, acute, chills, then varied symptoms 
 	- TREAT: gentamycin/streptomycin 
 	- **YOPs** = outer proteins of yersinia inhibits phagocytosis, inducing macrophage apoptosis = disarm of innate immune system 
-		- **type 3 secretion** = insertion of yops into phagocytes
-		- **F1** = anti-phagocytic capsular protein 
+		- ==**type 3 secretion** = insertion of yops into phagocytes==
+		- ==**F1** = anti-phagocytic capsular protein== 
 	- if bubonic vers - buboes = massively enlarged **lymph nodes** , full of bacteria + gram-neg stained 
 	- if pneumonic version - **airborne, infects the lungs** -> pneumonic plague. 
-		- 100% mortality if not treated!! person-person and it's hypoxia of extremities 
+		- ==100% mortality if not treated!! person-person and it's hypoxia of extremities== 
 		- majorly concentrated in the west called four corners, mostly bubonic, but can be accompanied by dyspnea + nonproductive cough. 
-	Rickettsia overview 
+	
+Rickettsia overview 
 	- **small gram-neg poorly staining**
 	- obligate intracellular parasites of endothelial cells in humans, require living cells as hosts so no agar, hard to grow. 
-	- OMP + phospholipase mediate entry into the endothelial cells of microvessels at site of bite/scratch - > **cause endotheilial injury , vascular perm, loss of fluids = shock!**
+	- ==OMP + phospholipase mediate entry into the endothelial cells of microvessels at site of bite/scratch - > **cause endothelial injury , vascular perm, loss of fluids = shock!**==
 	- CDC - tick bite bot = helps you remove them + helps you decide where to find care - helpful resource! 
-- body louse + flea + hard tick  = transmitters 
+- ==body louse + flea + hard tick  = transmitters== 
 1. Rickettsiae rickettsii – rocky mountain spotted fever 
 	- infected (hard body) tick bite 
 	- more common <19 yrs, in summertime, more east 
@@ -138,7 +139,7 @@ zoonotic bacterial infections transmitted by animal bites/body fluids
 	- g-neg coccobacilus, facultative anaerobe, might exhibit bipolar staining 
 	- DX: culture but start empriric therapy 
 	- TREAT: penicillins AMOXicillin-clavulonic acid
-	- virulence: capsule inhib phagocytosis, LPS, **siderophores(iron scavenging) against innate immunity** 
+	- virulence: capsule inhibits phagocytosis, LPS, **siderophores(iron scavenging) against innate immunity** 
 4. Coxiella burnettii – "q fever"
 	- cattle/sheep goats reservoir but transmission via contaminated **dust**/aerosols 
 	- usually mild systemic infection without rash; chronic pneumonia + myocarditis possible 
