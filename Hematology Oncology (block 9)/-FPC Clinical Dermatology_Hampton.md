@@ -89,93 +89,95 @@ how can we think?
 		- body = corporis
 		- ==groin = cruris== 
 		- feet = pedis "dry feet"
-	7. ==Pityriasis rosea   more history - driven== 
+	7. ==Pityriasis rosea   more history - driven+seasonal== 
 		- ==trunk/upper extremities==
-		- ==initial = herald patch, like ringworm== 
-		- ==7-14 days later burst of lesions all over the body "salmon-colored" ovale papules with a collarette of scales trailing==
-		- looks like a christmas tree - in fall, winter, spring ;; will go thru the world 
-		- very pruritic, 12 wks resolved, slow resolving 
-	8. Lichen planus
-		- oral cavity has wickham's striae, on volar wrist, male genitalia + lower back, whiteish streak 
-		- flat topped, violaceous, polygonal pruritic papules "Polygonal - big and small different sizes, flat"
-		- koebner phenomenon - similar to psoriasis, wherever you have trauma or scratching, lesions develop 
-2. eczematous dermatitis - different morhpological groups = **please do derm rotation!** , we see "oozy weepy a lot", in comparison to psoriasis
-	- erythematous  / red
-	- ill defined borders
-	- acute phase is oozey weepy -> use cream
-	- later become dry + scaley (chronic) = use ointment 
+		- ==initial = herald patch, like ringworm; pruritic== 
+		- ==7-14 days later burst of lesions all over the body "salmon-colored" ovale papules with a collarette of scales trailing; Christmas tree==
+		- looks like a Christmas tree - in fall, winter, spring ;; will go thru the world 
+		- very pruritic, ==12 wks resolved, slow resolving== 
+	8. ==Lichen planus==
+		- ==oral cavity has wickham's striae, on volar wrist, male genitalia + lower back, whiteish streak== 
+		- ==flat topped, violaceous, polygonal pruritic papules "Polygonal" - big and small different sizes==, flat"
+		- ==koebner phenomenon== - similar to psoriasis, wherever you have trauma or scratching, lesions develop 
+2. ==eczematous dermatitis== - different morhpological groups = **please do derm rotation!** , we see "oozy weepy a lot", in comparison to psoriasis
+	- ==erythematous  / red==
+	- ==ill defined borders==
+	- ==acute phase is oozey weepy -> use cream==
+	- ==later become dry + scaley (chronic) = use ointment== 
 	- contact derm
-		- irritant vs allergic
-		1. irritant = no memory t cells, you get the rash, then if you get exposed to same thing, no more rash like diaper stufff
-		2. allergic = memory t cells like poison ivy, you get it again and again 
-	- noncontact derm
-		1. atopic derm = on **face with sparing the center**. eventually ends up on extremities
-			- this affects many children as early as 6 wks
-			- hx of asthma, hay fever in pt or in family 
-			- look for **dennie-morgan folds beneath eye, hyperlinear palms - extra lines in the palms, or inc IgE**
-		- nonatopic derm
-			1. lichen simplex chronicus - ankle/nape of neck, very localized + pruritic, you **rub and rub, inc the skin lines = lichenified!!! chronic + ongoing**
-				- inciting incident usually bug bite 
-			2. dyshidrotic eczema - pompholyx, recurrent **crops of vesicles, usually on digits**
-				- hx of hyperhidrosis or excessive sweating, usually worsen in summer 
-			3. stasis derm - from everybody 
-				- on lower extremities, from leg swelling + occlusion of lymphatics = sclerosis of small BVs 
+		- ==contact derm: irritant vs allergic==
+		1. ==irritant = no memory t cells, you get the rash, then if you get exposed to same thing, no more rash like diaper stuff==
+		2. ==allergic = memory t cells like poison ivy, you get it again and again== 
+	- ==noncontact derm: atopic(allergy-causing), nonatopic groups==
+		1. ==atopic dermatitis = on **face with sparing the center**. eventually ends up on extremities==
+			- this affects many ==children== as early as 6 wks
+			- ==hx of asthma, hay fever in pt or in family== 
+			- look for ==**dennie-morgan folds beneath eye, hyperlinear palms - extra lines in the palms, or inc IgE**==
+		- ==nonatopic derm: lichen simplex chronicus, dyshidrotic eczema, stasis dermatitis, nummular eczema==
+			1. ==lichen simplex chronicus== - ankle/nape of neck, very localized + pruritic, you ==**rub and rub, inc the skin lines = lichenified!!! chronic + ongoing**==
+				- inciting incident ==usually bug bite== 
+			2. ==dyshidrotic eczema - pompholyx, recurrent **crops of vesicles, usually on digits+feet**==
+				- ==hx of hyperhidrosis or excessive sweating==, usually worsen in summer 
+			3. ==stasis derm== - from everybody 
+				- on ==lower extremities, from leg swelling + occlusion of lymphatics = sclerosis of small BVs== 
 				- you get oozy eczema and later hyperpigmentation of yellow-brown 
-				- purutic = **bilateral!!!**
-				- etiology - idk but there's venous insufficiency, knee surgery, or drug induced , or CHF, pulm htn etc. 
-			4.  nummular eczema 
-				- basically anywhere - "super dry skin"
-				- coin shaped plaques, oozy weepy and later dry and scaley 
+				- ==purutic = **bilateral!!!**==
+				- etiology - idk but there's ==venous insufficiency, knee surgery, or drug induced , or CHF, pulm htn== etc. 
+			4.  ==nummular eczema== 
+				- basically ==anywhere - "super dry skin"==
+				- ==coin shaped plaques==, oozy weepy and later dry and scaley 
 				- give steroid + moisturizer 
-3. vesiculobullous dz
-	1. erythema multiforme
-		- minor - in kids, pink/light pink of "target/iris lesions" = on palms/soles
-		- major. =stevens-johnson syndrome = now in skin AND MOUTH, usually adults and some kids 
-		- TEN - toxic epidermal necrolysis - like when you can take your total skin off, 50% mortality 
+
+3. ==vesiculobullous dz==
+	1. ==erythema multiforme==
+		- ==minor== - in ==kids, pink/light pink of "target/iris lesions" = on palms/soles==
+		- ==major. =stevens-johnson syndrome = now with mucosal membranes, usually adults== and some kids 
+		- ==TEN - toxic epidermal necrolysis - like when you burn ur skin off, 50% mortality== 
 			- all internal organ mucosal linings sloughing off, like you die actually, 3rd degree burns in and out 
 			- from drugs
-	2. bullous pemphigoid - tense, if it's a blister that stays 
-	3. pemphigus vulgaris - flaccid blisters - if it breaks down very easily 
-4. acneiform eruptions - acne is the basic, with 
-	1. prototype acne vulgaris  - everything else is not acne but look like acne 
-		- face/chest/**upper** back/shoulder , so upper parts of body 
+	2. ==bullous pemphigoid - tense blister==, if it's a blister that stays 
+	3. ==pemphigus vulgaris - flaccid blisters== - if it breaks down very easily 
+4. ==acneiform eruptions ==- acne is the basic, with 
+	1. ==prototype acne vulgaris; all ages==  - everything else is not acne but look like acne 
+		- ==face/chest/**upper** back/shoulder , so upper parts of body== 
 		- newborn - adulthood , all throughout  
-		- hair follicule occlusion -> bacteria -> **comedone(whitehead/blackheads)/papule(adding in the bacteria)/pustule/nodule(rupture below the skin)/cyst**
-		- treatable, not curable. this is multifactoral but this is genetics mostly , family hx, and oily environment. stress plays roles too 
-	2. rosacea-  
-		- **central face**!! red 
+		- ==hair follicule occlusion -> bacteria -> **comedone(whitehead/blackheads)/papule(adding in the bacteria)/pustule/nodule(rupture below the skin)/cyst**==
+		- ==treatable, not curable==. this is ==multifactoral== but this is genetics mostly , family hx, and oily environment. stress plays roles too 
+	2. ==rosacea-==  
+		- ==**central face**!! red, conjunctiva, ocular rosacea== 
 			- conjunctiva = ocular rosacea 
 		- no comedones = no whitehead/backheads
-		- **hereditary + blush easily etc. in ADULTs**
-		- many triggers like sun, spicy foods, red wine, blood vessels open; treatable but not curable
-		- **rhinophyma - end stage rosacea, lumpy bumpy + very oily if not treated**
-	3. perioral dermatitis POD 
-		- this is just rosacea but **in the lower face!!**
+		- **==hereditary + blush easily etc. in ADULTs**==
+		- many ==triggers like sun, spicy foods, red wine, blood vessels open; treatable but not curable==
+		- ==**rhinophyma - end stage rosacea, lumpy bumpy + very oily if not treated**==
+	3. ==perioral dermatitis POD== 
+		- this is just ==rosacea but **in the lower face!!**==
 		- same triggers etc 
-		- **hx of sensitive skin , make sure you use chem free sunscreens**
-	4. steroid acne 
-		- **upper trunk , not the face**
+		- ==**hx of sensitive skin , make sure you use chem free sunscreens**==
+	4. ==steroid acne== 
+		- ==**upper trunk , not the face**; sudden eruption + hard to treat and up to a year to get better==
 		- sudden eruption + hard to treat and up to a year to get better. 
 		- https://pmc.ncbi.nlm.nih.gov/articles/PMC6793974/ - careful with this bc steroid psychosis 
-5. morbiliform eruptions - measle-like, penicillin like 
-	- neck, trunk, extermities - **bilateral/symmetrical**
+5. ==morbiliform eruptions - measle-like, penicillin like, little reddish flat things surrounded by normal skin== 
+	- ==neck, trunk, extermities - **bilateral/symmetrical**==
 	- 1-3 cm lesions surrounded by normal skin 
 	- exanthem!!! 
-	- viral cause, and drug induced mainly (antibiotics, allopurinol, anti-epileptic, nsaids, herbal/natural therapies) - onset in 1-2 wks, and then re-exposure 1-3 days bc these are memorized 
-6. disorders of pigmentation 
-	1. melasma - central face, and sun-exposed. 
-		- 'mask of pregnancy - seen in pregnant women'
-		- hyperpigmented patches 
-		- genetic, hormone, sun exposure, meds - prevent tis with sunscreen basically ! 
-	 2. vitilligo - face/trunk/extremities
-		- bilateral
-		- symmetrical
-		- depigmented macules/patches
+	- ==viral cause, and drug induced mainly== (antibiotics, allopurinol, anti-epileptic, nsaids, herbal/natural therapies) - ==onset in 1-2 wks, and then if re-exposed, 1-3 days== bc these are memorized 
+
+6. ==disorders of pigmentation== 
+	1. ==melasma - central face, and sun-exposed.== 
+		- 'mask of pregnancy - ==seen in pregnant women'==
+		- ==hyperpigmented little patches grouped together== 
+		- genetic, hormone, sun exposure, meds - ==prevent tis with sunscreen basically !== 
+	 2. ==vitilligo - face/trunk/extremities==
+		- ==bilateral==
+		- ==symmetrical==
+		- ==depigmented macules/patches==
 		- seen mainly in darker skin groups
-		- **check for other autoimmune dz = hashimoto's, graves, pernicious anemia**
-	3. postinflammatory pigment alteration PIPA or postinflammatory hyper/hypopigmentation PIH 
-		- anywhere, totally from hx of inflammatory event, skin trauma, acne, etc 
-		- hyper/hypopigmented macules/patches -> **uneven tone**
+		- ==**check for other autoimmune dz = hashimoto's, graves, pernicious anemia**==
+	3. ==postinflammatory pigment alteration PIPA or postinflammatory hyper/hypopigmentation PIH== 
+		- ==anywhere, totally from hx of inflammatory event, skin trauma, acne, etc== 
+		- ==hyper/hypopigmented macules/patches -> **uneven tone**==
 
 biopsy - to confirm dx and not make the dx 
 

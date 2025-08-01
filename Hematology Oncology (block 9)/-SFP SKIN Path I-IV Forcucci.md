@@ -8,55 +8,55 @@ skin 1
 ---
 note - study all the slides in the presentation for the basis 
 - epidermis then dermis then subcutis fat under skin 
-	- cornified layers = topmost, stratum corneum, shedding basket weave dead keratin
-		- **changes to this will never happen unless it's subacute or chronic**
-	- granular layer / granulosum = hyaline matured keratinocytes, 
-	- spinous layers - keratinocytes, all connected by **desmosomes** and **hemidesmosome spines**
-	- basal layer = where melanocytes live,, and basal keratinocytes. same amt of melanocytes (bigger density in eyelids/nipples), but clinically different skin tones are amt of melanin made and type of melanin 
-	- undulating pattern due to **rete pegs of the epidermis** and then dermal papillae which is upward projections of the dermis - interdigitation to give skin strength 
-	- in dermis - there's capillaries, and then melanophages = 
-		- these are keratinocytes that are damaged, causing melanocytes to fall in dermis, and get eaten up - > **manifest as HYPER/HYPOPIGMENTATION!**
-- solar elastosis - dermis blue gray color sun dmg, wrinkles 
+	- ==cornified layers = topmost, stratum corneum, shedding basket weave dead keratin==
+		- ==**changes to this will never happen unless it's subacute or chronic**==
+	- ==granular layer / granulosum = hyaline matured keratinocytes,== 
+	- ==spinous layers - keratinocytes, all connected by **desmosomes** and **hemidesmosome spines**==
+	- ==basal layer = where melanocytes live==,, and ==basal keratinocytes==. same amt of melanocytes (bigger density in eyelids/nipples), but clinically different skin tones are amt of melanin made and type of melanin 
+	- ==undulating pattern to give strength: due to **rete pegs of the epidermis** and then dermal papillae which is upward projections of the dermis== - interdigitation to give skin strength 
+	- in ==dermis - there's capillaries, and then melanophages== = 
+		- these are ==keratinocytes that are damaged, causing melanocytes to fall in dermis, and get eaten up - > **manifest as HYPER/HYPOPIGMENTATION!**==
+- ==solar elastosis - dermis blue gray color sun dmg==, wrinkles 
 - arrector pili - gives us goosebumps 
-- hair follicles and shafts - if it goes pretty deep down, they're terminal hairs, so they keep growing in some areas like scalp ....
-- no hair follicles in palms + soles. so if you see something kinda resembling one, know that it's bc of rubbing or something 
+- ==hair follicles and shafts - if it goes pretty deep down, they're terminal hairs==, so they keep growing in some areas like scalp ....
+- ==no hair follicles in palms + soles==. so ==if you see something kinda resembling one, know that it's bc of rubbing or something== 
 - sebacious glands in face and stuff
 - thick collagen/dermis = the back , the trunk
 - thinnest = eyelids 
 ---
 histo/microscopic vocab 
-hyperkeratosis - lots of keratin; never normal, mainly neoplastic manifestations or inflammatory ... we might see **rashes that are SCALEY!!!!**  
-- orthokeratosis - thicken cornified layer without retention of nuclei - loss of basket weave top layer
+==hyperkeratosis - lots of keratin==; never normal, mainly neoplastic manifestations or inflammatory ... ==we might see **rashes that are SCALEY!!!!**==  
+- ==orthokeratosis - thicken cornified layer **without** retention of nuclei - loss of basket weave top layer==
 	- only thing that it might be normal at is palms + soles with thick cornosum , some rubbing 
-- parakeratosis - basket weaves with retained nuclei , still cornified layer!!! 
+- ==parakeratosis - basket weaves with **retained** nuclei , still cornified layer!!!== 
 
-acanthosis - thickening of epidermis, hyperplasia 
+==acanthosis - thickening of epidermis, hyperplasia== 
 
-papillomatosis - surface elevation , bumpy surface caused by **hyperplasia + enlargement of dermal papillae, which is where the dermal papillae are too tall**
+==papillomatosis - surface elevation , bumpy surface like warts caused by **hyperplasia + enlargement of dermal papillae==, which is where the dermal papillae are too tall**
 - classically - warts ,bumpy surface
 
-spongiosis - intracellular edema - **spines very prominent and visible** - this is in very wet eruptions ! 
+==spongiosis - intracellular edema - **spines very prominent and visible** - this is in very wet eruptions !== 
 
-acantholysis - lysis/disruption of intercellular keratinocyte adhesive junctions - **normal spinous layers all disrupted - seen in inflammatory, neoplastic, an hereditary conditions**
+==acantholysis - lysis/disruption of intercellular keratinocyte adhesive junctions== - **==normal spinous layers all disrupted== - seen in ==inflammatory, neoplastic, an hereditary== conditions**
 
-dyskeratosis - abnormal, premture keratinization - basically weird and sworly strange histology - **cells get super pink and super small**
+==dyskeratosis - abnormal, premature keratinization, cells very pink and small - basically weird and sworly strange histology== - **cells get super pink and super small**
 
-exocytosis - lymphocytes that migrate into epidermis, looks like = pinkish things in the dark kerotincytes, paired with spongiosis often enough 
+==exocytosis - lymphocytes that migrate into epidermis==, looks like = pinkish things in the dark kerotinocytes, ==paired with spongiosis often enough== 
 
 dermis - 
-inflammation = dermatitis 
-- papillary dermis = the dermal papille
-- reticular dermis = right below the papillary dermis, slightly darker and goes all the way down to the subq tissue. gives all the structure to it, protection 
+inflammation = dermatitis ; ==dermis== 
+- ==papillary dermis = the dermal papillae==
+- ==reticular dermis = right below the papillary dermis, slightly darker and goes all the way down to the subq tissue. gives all the structure to it, protection== 
 - vessels in it 
-- adnexal structures like hair follicle, eccrine gland + duct
+- ==adnexal structures like hair follicle, eccrine gland + duct==
 	- sweat! heat regulation 
 	- sexual functions like pheremones 
 	- hair - keep skin safe, helps with rubbing etc. 
 - we can also see scars in it!!
-	- **we can have a keloid or hypertrophic scar = dermal reparative reaction, basically where layers of dermis + ADNEXAL STRUCTURES GONE, all replaced by bubble gum pink collagen.**
+	- **we can have a ==keloid or hypertrophic scar = dermal reparative reaction, basically where layers of dermis + ADNEXAL STRUCTURES GONE, all replaced by bubble gum pink collagen==.**
  
-subcutis = subcutaneous tissue = deepest layer inflammation is **panniculitis**
-- fibroadipose tissues - deep to the dermis - 
+==subcutis = subcutaneous tissue = deepest layer inflammation is **panniculitis**==
+- ==fibroadipose tissues - deep to the dermis -== 
 - we would need a deep biopsy to get to this 
 ---
 [[-FPC Clinical Dermatology_Hampton]]
@@ -154,48 +154,48 @@ note: erythema multiforme secondary to ***drug* is on a spectrum with Stevens-jo
 
 ---
 infectious derm
-impetigo - **honey-colored crust**
-- erythematous macules, face + extremities, bullous form 
-- mainly kids; "school sores" 
-- MICRO: we see subcorneal collection of neutrophils, staph etc , note a lot of purple in chunks in the upper layers 
-- TREAT: topical antibiotics
-- subcorneal collection = neutrophils, serum crust, g-poz cocci 
+==impetigo - **honey-colored crust**==
+- ==erythematous macules, face + extremities, bullous form== 
+- mainly kids; =="school sores"== 
+- ==MICRO: we see *subcorneal* collection of neutrophils, staph etc , note a lot of purple in chunks in the upper layers== 
+- ==TREAT: topical antibiotics==
+- ==subcorneal collection = neutrophils, serum crust, g-poz cocci== 
 - s. aureus/strep pyogenes 
 
-folliculitis - inflammation of the **follicules!**
-- crops of follicular red pustules + hairy skin 
+==folliculitis - inflammation of the **follicules!**==
+- ==crops of follicular red pustules + hairy skin== 
 - s. aureus mostly 
-- TREAT: topical antibiotics, antibacterial washes
-- MICRO: acute inflammation around hair follicule -> rupture + **granulomatous inflammation, so you see some neutrophils + circles**
+- ==TREAT: topical antibiotics, antibacterial washes==
+- ==MICRO: acute inflammation around hair follicule -> rupture + **granulomatous inflammation, so you see some neutrophils + circles**==
 
-cellulitis
-- erythematous, edematous, tender 'warm to touch'
-- abscess / lymphangitis, 
-- wound or other portal of entry that gets cells into it 
-- TREAT: empiric antibiotics
+==cellulitis==
+- ==erythematous, edematous, tender 'warm to touch'==
+- ==abscess / lymphangitis,== 
+- ==caused by longstanding wound or other portal of entry that gets cells into it== 
+- ==TREAT: empiric antibiotics==
 
-necrotizing fasciiitis
-- very painful erythema/edema "dusky or hemorrhage"
+==necrotizing fascilitis==
+- ==very painful erythema/edema "dusky or hemorrhage"; gangrene==
 	- necrotic/gangrene!!!
-- TREAT: surg debridement + IV antibiotics 
+- ==TREAT: surg debridement + IV antibiotics== 
 
-pyoderma gangernosum - **not infectious but really mistaken for it a lot**
-- dx of exclusion - exclude all infections then get this 
-- reactive neutrophilic derm... 
-- inflamatory pustules -> **large, painful ulcers with undetermined violaceous border = cribriform scar**
-- pathergy -  **abnormal response to trauma, ulcerations!!!**. **another thing with pathergy is behcets** [[-SFP Immune Vasculitis I+II_Pasham]]
+==pyoderma gangernosum - **not infectious but really mistaken for it a lot,  a reactive neutrophilic dermatitis**==
+- ==dx of exclusion - exclude all infections then get this== 
+- reactive neutrophilic dermatitis... 
+- ==inflammatory pustules -> **large, painful ulcers with undetermined violaceous border = *cribriform* scar**==
+- ==pathergy -  **abnormal response to trauma, ulcerations!!!**. **another thing with pathergy is behcets**== [[-SFP Immune Vasculitis I+II_Pasham]]
  ![[pyoderma gangrenosum.png|84x135]]
-- TREAT: Wound care + immunosuppression 
+- ==TREAT: Wound care + immunosuppression== 
 
 candidiasis 
 - mostly caused by c. albicans
-- normal flora but become path when you get immunosuppressed, warm/moister, high skin pH 
-- TREAT: topical antifungals liek fluconazole 
-- perleche - mouth outside, we also got chronic paronychia - skin around nails ... sepsis - depos in the skin 
-- intertrigo - reddish hanging off underbreast 
+- ==candida normal flora but become path when you get immunosuppressed, warm/moister, high skin pH== 
+- ==TREAT: topical antifungals liek fluconazole== 
+- ==*perleche* - mouth outside, we also got chronic paronychia - skin around nails ... sepsis - depos in the skin== 
+- ==intertrigo - reddish hanging off underbreast== 
 - erthematous, macerated, desquamated plaques with gray white membrane
-	- **daughter or satellite lesions hanging off the bigger erythema**
-- MICRO: yeast(round guys) + pseudohyphae (long boys) hangs in the cornified layers / upper epidermis 
+	- ==**daughter or satellite lesions hanging off the bigger erythema**==
+- ==MICRO: yeast(round guys) + pseudohyphae (long boys) hangs in the cornified layers / upper epidermis== 
 
 tinea versicolor
 - very common 
@@ -218,85 +218,85 @@ dermatophytosis
 fungal hyphae in cornified layers seen . we can do a skin scraping for this too 
 
 ---
-deep fungal infections - can be scary 
-- nodules, plaques, ulcers, ESCHARS
+==deep fungal infections - can be scary== 
+- ==nodules, plaques, ulcers, ESCHARS==
 - entire body 
-- in immunosuppressed
-- etiology - primary inoculation, hematogenous spread
+- in ==immunosuppressed==
+- etiology - ==primary inoculation, hematogenous spread==
 	- aspergillus, fusarium, mucorales, alternaria, dimorphic fungi 
-- TREAT: systemic anti-fungals 
-- MICRO: variable inflammatory infiltrate + necrosis , fungal hyphae in dermis + subcutis, often invading **blood vessels**
-![[fungal hyphae filling vessel - deep fungal infection.png|268x208]]
+- ==TREAT: systemic anti-fungals== 
+- ==MICRO: variable inflammatory infiltrate + necrosis , fungal hyphae in dermis + subcutis, often invading **blood vessels**==
+==![[fungal hyphae filling vessel - deep fungal infection.png|268x208]]==
 
-onychomycosis= **fungal infection of nail**
+==onychomycosis= **fungal infection of nail**==
 - yellow discoloration
-- subungual hyperkeratosis 
-- brittle nails, keratin debris under nail causing it 
+- ==subungual hyperkeratosis== 
+- ==brittle nails, keratin debris under nail causing it== 
 - common - trichophyton rubrum
-- TREAT: oral terbinafine 
-- DX: nail clipping
+- ==TREAT: oral terbinafine== 
+- ==DX: nail clipping==
 
 ---
-viruses
-verruca vulgaris
-- papule with rough, verrucous surface with **tiny black dots**, very small + most common on hands
-- HPV mediated ... 
-- TREAT: spontaneous resolutino, cryotherapy, salicylic acid, cantharidin, etc
+==viruses==
+==verruca vulgaris==
+- ==papule with rough, verrucous surface with **tiny black dots**, very small + most common on hands==
+- ==HPV== mediated ... 
+- ==TREAT: spontaneous resolution, cryotherapy, salicylic acid, cantharidin, etc==
 - might be more in immunosuppressed 
-- MICRO scaley - we see **hyperkeratosis with spires of parakeratosis + hemorrhage**
-	- also papillomatous + inward rete bending
-	- hypergranulosis + hpv cytopathic effect (**koilocytes with raisinoid nucleus**)![[verruca vulgaris micro.png]]
+- ==MICRO scaley - we see **hyperkeratosis with spires of parakeratosis + hemorrhage**==
+	- ==also papillomatous + inward rete bending==
+	- ==hypergranulosis + hpv cytopathic effect (**koilocytes with raisinoid nucleus**)![[verruca vulgaris micro.png]]==
 	- ![[verruca vulgaris micro closeup.png|366x272]]
 
-verruca plana - flat wart
-- flat, **tan** macules, 2-4 mm, on face + dorsla hands 
-- HPV mediated - 
-- TREAT: spontaneous resolution, topical retinoids, imiquimod 
-- MICRO: see some granulosa. +  koilocytes but no hyperkeratosis and church spires 
+==verruca plana - flat wart==
+- ==flat, **tan** macules, 2-4 mm, on face + dorsal hands== 
+- ==HPV== mediated - 
+- ==TREAT: spontaneous resolution, topical retinoids, imiquimod== 
+- ==MICRO: see some granulosa. +  koilocytes but *no hyperkeratosis and church spires*== 
 
-condyloma
-- gray, yellow, pink verrucous papules ,,, 
+==condyloma==
+- ==gray, yellow, pink verrucous papules ,,,== 
 - groin, penis, vulva, anus 
-- HPV6/11 
+- ==HPV6/11== 
 - TREAT: observation, cryotherapy, podophyllin, imiquimod, excision 
-- MICRO: less pointy and church spire, but they have **more blunt shaped papillomatosis, parakeratosis, koilocytes**
+- ==MICRO: less pointy and church spire, but they have **more blunt shaped papillomatosis, parakeratosis, koilocytes**==
 
-herpetic vesiles
-HSV 1 + 2 
-- orolabial herpes "cold sore"
-- genital herpes
-VZV - variclla chickenpox + shingles/zoster (involving dermatomes, and unilateral)
-- we can see similar features ith each other, esp on tzanck smear
+==herpetic vesicles==
+==HSV 1 + 2== 
+- ==orolabial herpes "cold sore"==
+- ==genital herpes==
+==VZV - variclla chickenpox + shingles/zoster (involving dermatomes, and unilateral)==
+- we can see similar features with each other, esp on ==tzanck smear==
 - pcr can help 
-- TREAT: acyclovir + VZV vaccine
-- MICRO: 3 ms/ 
-	- **molding - nuclei in multinucleated cell will mold together!** 
-	- **margination - chromatin marginates to edge, making a type of pencil rim around** 
-	- **multinucleation** 
-	- ![[herpetic vesicles.png|262x219]]
-- see acantholysis + intraepidermal vesicle 
+- ==TREAT: acyclovir + VZV vaccine==
+- ==MICRO: 3 ms/== 
+	- ==**molding - nuclei in multinucleated cell will mold together!**== 
+	- ==**margination - chromatin marginates to edge, making a type of pencil rim around**== 
+	- ==**multinucleation**== 
+	- ==![[herpetic vesicles.png|262x219]]==
+- see ==acantholysis + *intraepidermal* vesicle== 
 
-molluscum contagiosum 
-- umbilicated, pearly papules
+==molluscum contagiosum== 
+- ==umbilicated, pearly papules==
 - 3-5 mm 
-- anywhere on body 
+- ==anywhere on body== 
 - young kids, sexually active adults, immunosuppressed
-- TREAT: spontaneously resolve, local irritation, cryotherapy, cantharidin 
-- micro: umbilications filled with **henderson-paterson bodies** - bright pink viruses hanging out inside it 
+- ==TREAT: spontaneously resolve, local irritation, cryotherapy, cantharidin== 
+- ==micro: umbilications filled with **henderson-paterson bodies** - bright pink viruses hanging out inside it== 
 
-scabies
-- pruritic papules, super itchy, vesciles, pustules, and burrows of mites
-- excoriations
-- **finger webs**, write, axilla, groin, areolas etc. 
+==scabies==
+- ==pruritic papules, super itchy, vesciles, pustules, and burrows of mites==
+- ==excoriations==
+- ==***finger webs***, write, axilla, groin, areolas etc.== 
 - crusted variant in immunosuppressed or debilitated patients - means diffusely inovlved. 
-- TREAT: permethrin cream, oral ivermectin ... super contagious treat everyone and launder everything 
-- **MICRO: inside the corneum we can see mites, eggs, scybala!!**
+- ==TREAT: permethrin cream, oral ivermectin ... super contagious treat everyone and launder everything== 
+- ==**MICRO: inside the corneum we can see mites, eggs, scybala!!**==
 ---
 skin 3 - chronic + blistering dermatoses 
 --- 
-chronic inflammatory dermatoses 
+==chronic inflammatory dermatoses== 
 [[-SFP Systemic Lupus Erythmatosus_Kamen]]
-- chronic cutaneous LE 
+- ==chronic cutaneous LE== 
 	- discoid - start as erythematous macules and **plaques with scale** -> atrophy, scarring, pigmentary changes (darkening or something); alopecia
 		- onset with sun exposure, in young adulthood mainly women 
 		- TREAT: **photoprotection**, steroids, antimalarials, immunosuppression 
