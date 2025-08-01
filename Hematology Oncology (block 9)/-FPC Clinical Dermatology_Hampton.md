@@ -1,29 +1,29 @@
 #clinics #derm  
 ![[Clinical Dermatology_Hampton_PPT (1).pdf]]
 
-special senquanon - eveyr dz has 3 feat that make it synchroonous and that's it and nothing else 
+special senquanon - every dz has 3 feat that make it synchroonous and that's it and nothing else 
 learn the verbage from the phone when consulting derm
 recall: 
 - make sure you memorize "BUZZWORDS"
-primary lesions - original lesion 
-- macule, flat like a mole(<1.0 cm) =>>>> patch (1.0+)
-- papule, solid and firm, **raised, dome shaped**!!!! (<1.0 cm)-?>>> plaque(1+ cm), like contact derm or skin cancer , but this is **flat top lesion**
-- vesicle- clear fluid filled (<1.0 cm) ->>> bulla (1+ cm)
+==primary lesions - original lesion== 
+- ==macule, flat like a mole(<1.0 cm) =>>>> patch (1.0+)==
+- ==papule, solid and firm, **raised, dome shaped**!!!! (<1.0 cm); and then plaque(1+ cm)==, like contact derm or skin cancer , ==but this is **flat top lesion**==
+- ==vesicle- clear fluid filled (<1.0 cm) ->>> bullae (1+ cm)==
 	- take a q tip and hit the vesicle to get fluid out  
-- nodule (>1.0 cm), very firm; epidermal/derma/SQ ; **dome shaped**->>> tumor (2+ cm), this is elevated/deep-seated or pedunculated
-- pustule - same like vesicle but neutrophil/pus-filled, <1 cm 
-- wheal = hive = urticaria = serous fluid coming out of blood vessels into the interstitium, causing swelling!!
+- ==nodule (>1.0 cm), very firm; epidermal/derma/SQ ; **dome shaped**->>> tumor (2+ cm), this is elevated/deep-seated or pedunculated==
+- ==pustule - same like vesicle but neutrophil/pus-filled, <1 cm== 
+- ==wheal = hive = urticaria = serous fluid coming out of blood vessels into the interstitium, causing swelling!!==
 	- "washed out" = evanescent
-	- variable blanching !!! bgd erethema
+	- ==variable blanching !!! bgd erethema==
 
-secondary lesions - result of extraneous factor like trauma; **what happens to the primary that you see** 
-- scale - dead epidermal cells that don't slough off. 
-- crust- scab of dead cells + serum , like adding some fluid to the scale! 
-- erosion - loss of epidermis, no penetration of dermal epidermal junction meaning no scarring 
-- ulceration - a deep ulcer loss of epidermis going thru Dermal epidermal junction = scarring! 
-- fissure = fine split/crack in skin, like eczema craquele
-- excoriation = focal shallow erosion with scale and crust sticking to it , like skin digging  
-- scar = new CT that replaces lost substance in dermis or subq, **inflammation** replacement with scar tissue  
+==secondary lesions== - result of extraneous factor like trauma; ==**what happens to the primary that you see**== 
+- ==scale - dead epidermal cells that don't slough off.== 
+- ==crust- scab of dead cells + serum , like adding some **fluid** to the scale!== 
+- ==erosion - loss of epidermis, no penetration of dermal epidermal junction meaning no scarring== 
+- ==ulceration - a deep ulcer loss of epidermis going thru **Dermal epidermal junction** = scarring!== 
+- ==fissure = fine split/crack in skin==, like eczema craquele
+- ==excoriation = focal shallow erosion with **scale and crust** sticking to it , like skin digging==  
+- ==scar = new CT that replaces lost substance in dermis or subq, **inflammation** replacement with scar tissue==  
 
 doing a derm exam
 - skin
@@ -33,14 +33,14 @@ doing a derm exam
 - nails 
 
 ---
-most important = DISTRIBUTION
+==most important = DISTRIBUTION==
 - diffuse/widespread = think viral exanthem 
 - photodistributed = photodermatitis , v neck area and arms 
-configuration 
-- linear = poison ivy 
-- annular = oval , granuloma annulare not uncommon on hands + feet
-- grouped = vesicles on a pink base think HSV
-- serpiginous - creeping/snakelike, cutaneous larva migrans on feet 
+==configuration== 
+- ==linear = poison ivy== 
+- ==annular = oval , granuloma annulare not uncommon on hands + feet==
+- ==grouped = vesicles on a pink base think HSV==
+- ==serpiginous - creeping/snakelike, cutaneous larva migrans on feet== 
 ---
 derm hx + derm exam = definitive dx (what we mostly explains what im seeing)
 - DD = what else can it be 
@@ -57,42 +57,42 @@ how can we think?
 	- morbiliform eruptions
 	- disorders of pigmentation 
 
-1. papulosquamous dz = papules + scales , most common 
-	1. Psoriasis (prototype)  very common 2% of population
-		- scalp/elbows, knees palms, soles
-		- **symmetrical = one side macthes the others**
-		- **very well-circumscribed borders, so the pen marks surrounding it- which is what separates it from eczema**
-		- silver scale rather than greasy scale like in seborrheic dermatitis 
-		- caused by: family hx, **drug induced b-blocker/lithium**, idiopathic 
-		- nail pits, notches in nails + **koebner phenomenon - new lesions appearing on healthy skin after injury or trauma**
-	2. Seborrheic dermatitis  
-		- scalp/ears/midchest/central fact - **loves the eyebrows, nasolabial folds, glabella(skin between eyebrows)**
-		- greasy scaley and pink ! 
-		- bimodal skin dz = show up a birth "cradle cap", then only after 40 yrs old 
+1. ==papulosquamous dz = papules + scales , most common== 
+	1. ==Psoriasis (prototype)==  very common 2% of population
+		- ==scalp/elbows, knees palms, soles==
+		- **==symmetrical== = one side matches the others**
+		- ==**very well-circumscribed borders==, so the pen marks surrounding it- which is what separates it from eczema**
+		- ==silver scale rather than greasy scale== like in seborrheic dermatitis 
+		- caused by: ==family hx, **drug induced b-blocker/lithium**, idiopathic== 
+		- ==nail pits, notches in nails + **koebner phenomenon - new lesions appearing on healthy skin after injury or trauma**==
+	2. ==Seborrheic dermatitis == 
+		- ==scalp/ears/mid-chest/central face - **loves the eyebrows, nasolabial folds, glabella(skin between eyebrows)**==
+		- ==greasy scaley and pink !== 
+		- ==bimodal== skin dz = show up ==at birth "cradle cap", then only after 40== yrs old 
 			- if younger than that check for HIV 
-	3. Tinea versicolor  
-		- very flat but raised papules still!
-		- trunk/upper extremities
-		- light/very brown, versitile, flat scale 
-		- spaghetti + meatballs looks like a hybrid fungus - **both spores and hyphae** : **pitrysporum ovale**
-	4. Secondary syphilis  
-		- trunk/palms/soles
-		- young mostly , non-pururitic 
-		- 'ham spots' =papules that are scaley, contagious and loaded with spirochetes!
-	5. Candida intertrigo  
-		- body folds
-		- very painful - trigger complement system
-		- **bright red, satellite pinpoint papules/pustules**
-	6. Tinea capitis/corporis/cruris/pedis  
-		- fungal infection due to **dermatophytes** - gonna be thin pencil like breaking into a branch (microsporum, trichophyton, epidermophyton)
+	3. ==Tinea versicolor == 
+		- ==very flat but raised papules still!==
+		- ==trunk/upper extremities==
+		- ==light/very brown, versatile, flat scale== 
+		- ==spaghetti + meatballs = both spores and hyphae!!! pitrysporum ovale.== looks like a hybrid fungus - **both spores and hyphae** : **pitrysporum ovale**
+	4. ==Secondary syphilis == 
+		- ==trunk/palms/soles==
+		- young mostly , ==non-pruritic== 
+		- =='ham spots' = papules that are scaley, contagious and loaded with spirochetes!==
+	5. ==Candida *intertrigo* == 
+		- ==body folds==
+		- very ==painful== - trigger ==complement system==
+		- ==**bright red, satellite pinpoint papules/pustules**==
+	6. ==Tinea capitis/corporis/cruris/pedis == 
+		- fungal infection due to **==dermatophytes==** - gonna be ==thin pencil like breaking into a branch (microsporum, trichophyton, epidermophyton)==
 		- scalp = capitis
 		- body = corporis
-		- groin = cruris 
+		- ==groin = cruris== 
 		- feet = pedis "dry feet"
-	7. Pityriasis rosea   more history - driven 
-		- trunk/upper extremities
-		- initial = herald patch, like ringworm 
-		- 7-14 days later burst of lesions all over the body "salmon-colored" ovale papules with a collarette of scales trailing
+	7. ==Pityriasis rosea   more history - driven== 
+		- ==trunk/upper extremities==
+		- ==initial = herald patch, like ringworm== 
+		- ==7-14 days later burst of lesions all over the body "salmon-colored" ovale papules with a collarette of scales trailing==
 		- looks like a christmas tree - in fall, winter, spring ;; will go thru the world 
 		- very pruritic, 12 wks resolved, slow resolving 
 	8. Lichen planus

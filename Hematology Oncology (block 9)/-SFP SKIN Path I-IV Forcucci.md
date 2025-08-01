@@ -366,7 +366,7 @@ post-inflammatory pigment alteration
 	- APCs will go into the lymph nodes, so they get swollen. 
 
 ---
-blistering disorders; 
+blistering disorders; make side-by-sides later on 
 small blister = vesicle 
 big one = bullae 
 also, where's the split that CAUSES that bilster?
