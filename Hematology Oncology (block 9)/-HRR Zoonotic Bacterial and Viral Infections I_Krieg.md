@@ -147,8 +147,7 @@ zoonotic bacterial infections transmitted by animal bites/body fluids
 	- DX: serology, BSL3 org
 	- TREAT: doxycycline + chloramphenicol 
 	- virulence: intracllular replication in phagolysosomes of macrophage 
-5. Francisella tularensis
-	- cattle/sheep/goats/rabbits/wild mammals - transmission by infected carcasses + ticks/deer flies or inhalation or ingestion or trauma 
+5. Francisella tularensis - cattle/sheep/goats/rabbits/wild mammals - transmission by infected carcasses + ticks/deer flies or inhalation or ingestion or trauma 
 	- fever, chills, malaise 2-5 days post exposure + **necrosis, abscess + granulomas**
 		- ulceroglandular = papule -> painful ulcer + regional lymphadenopathy 
 		- oculoglandular - painful purulent conjunctivitis

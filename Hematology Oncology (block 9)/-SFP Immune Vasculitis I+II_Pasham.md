@@ -48,7 +48,7 @@ large vessel vasculitis - think aorta
 		- we see a thick cord temporal artery cord in the patient, on the side of their head. that's where you should biopsy 
 		- thickened intima on histo, and then we see **giant cell = with elastin cords, eating up the elastica of the vessel!**
 	- less common = internal/ext carotids, central retinal, subclavian etc. 
-	- insidious onset: insidious, perm blindness, fatigue, anorexia, fever, **polymyalgia rheumatica** - many areas of joint pain 
+	- insidious onset: insidious, perm **blindness**, fatigue, anorexia, fever, **polymyalgia rheumatica** - many areas of joint pain 
 		- ESR + CRP elevated 
 		- anemia of chronic dz 
 	- abrupt onset: headaches, unilateral, scalp tenderness, 
