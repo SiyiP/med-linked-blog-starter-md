@@ -2,7 +2,7 @@
 ![[Systemic Lupus Erythematosus_Kamen_PPT-Updated (1).pdf]]
 
 prototype autoimmune dz - with a vast array of autoantibodies, protean manifestations, variable behavior
-this is clinically unpreditable with flares + remissions, high health disparities, presenting with constitutional symptoms 
+this is clinically unpredictable with flares + remissions, high health disparities, presenting with constitutional symptoms 
 - this causes delayed dx ): can be 6-7 yrs after onset of symptoms 
 and in virtually any body in the body 
 
@@ -48,7 +48,7 @@ dx of SLE is complex with classification rules
 clinically - we mainly have hematologic menifestations + 80=90% of ppl have arhtritis/inflammatory joing involvement
 - small joints, bilateral, symmetrical similar to rheumatoid arthritis. worse in the morning / period of rest, **gets better with movement**
 - but myalgia is on there too, joint involvement is very common + tendonitis common too in sle. 
-- in rheumatoid = we have lack of fixed deformities + erosions in Xrays!!! [[-SFP Autoimmune Diseases I+II_Baker Frost]]
+-  = we have lack of fixed deformities + erosions in Xrays!!! [[-SFP Autoimmune Diseases I+II_Baker Frost]]
 - in sle = we have non-erosive arthritis
 - also hair / skin manifestations are huge - photosensitivity + alopecia , malar butterfly rash + preferential involvement of sun exposed areas. 
 	- spares the nasolabial folds + doesn't get in them = this is what separates it from eczema 

@@ -2,24 +2,24 @@
 ![[Immune Vasculitis I and II_Pasham_PPT (1).pdf]]
 
 notes about this  - probably don't have to know 2nd line therapies 
-immune mediated vasculitis 
-for the most part - first line is TREATMENT: corticosteroids 
+==immune mediated vasculitis== 
+==for the most part - first line is TREATMENT: corticosteroids== 
 
-vasculitis - heterogenous grp of disorders based on blood vessel inflammation with necrosis and clinically a diverse set of signs and symptoms 
+==vasculitis - heterogenous grp of disorders based on blood vessel inflammation with necrosis== and clinically a diverse set of signs and symptoms 
 
 mechanisms - all tissues have vessels, can target anything 
-- immune mediated like lupus 
-- fungal infections/other infectious orgs from direct vascular invasion, aspergillious and stuff = 
+- ==immune mediated like lupus== 
+- ==fungal infections/other infectious orgs from direct vascular invasion, aspergillious and stuff === 
 	- they can also precipitate immune mediated vasculitis like thru cross rxns or immune complex formation. 
 	- always rule this out before giving immunosuppression for immune mediated stuff 
-- other: rad, trauma, toxins 
+- ==other: rad, trauma, toxins== 
 
 classification 
 - large vessels = A 
 - Medium vessels = B
 - small Vessels 
 
-![[vasculitis size groups.png]]
+==![[vasculitis size groups.png]]==
 - large vessel vasculitities = takayasu + giant cell arteritis
 - medium vessels affect vessels at organs 
 - anca-associated small vessel vasculitis - 
@@ -29,51 +29,51 @@ different skin layers = more used to choose what biopsy to choose?
 ![[skin biopsy levels.png]]
 
 
-large vessel vasculitis - think aorta 
+==large vessel vasculitis - think aorta== 
 ---
-- chronic granulomatous arteritis in ppl!!!!
-1. young , <50 = takayasu 
-	- more female, younger asian female>male 
+- ==chronic granulomatous arteritis, we'll see giant cells in all of these== in ppl!!!!
+1. ==young , <50 = takayasu== 
+	- more ==female, younger asian female>male== 
 	- 10-30 yrs , classically **aorta + the branching arteries**
-	- pulseless dz = upper exremity claudication, you feel no pulse! + htn, carotidynia, dizziness, visual abnormalities 
-	- DX: **angiography is good = conventional + MRI** high index of suspicion - bowel pain with claudication, CVA, MI, renovasc htn, absent/dec pulses in extremities, systemic symptoms + ESR up, **low albumin, high globulin** , 
-		- we see characteristic narrowing of white. 
+	- ==pulseless dz = upper exremity claudication, you feel no pulse! + htn, carotidynia, dizziness, visual abnormalities==
+	- ==DX: **angiography is good = conventional + MRI**== high index of suspicion - bowel pain with claudication, CVA, MI, renovasc htn, absent/dec pulses in extremities, systemic symptoms + ESR up, **low albumin, high globulin** , 
+		- ==we see characteristic narrowing of white on xray.== 
 	- histo looks different, with the same types of giant cells 
 	- TREAT: 1 mg/kg/day prednisone with gradual taper
 		- ESR is not always suppressed, so not a good guide 
-	- they have some continuation with vessel stenosis in spite of therapy ): might need some surgery ... otherwise good prognosis 
-2. 50+ in ppl with giant cell arteritis 
+	- ==they have some continuation with vessel stenosis in spite of therapy ): might need some surgery ... otherwise good prognosis== 
+2. ==50+ in ppl with giant cell arteritis== 
 	- aka temporal arteritis / cranial arteritis, women > men 
-	- we see large thickening of **temporal arteries classically, also in vertebral arteries, opthalamic and posterior ciliary arteries**
-		- we see a thick cord temporal artery cord in the patient, on the side of their head. that's where you should biopsy 
-		- thickened intima on histo, and then we see **giant cell = with elastin cords, eating up the elastica of the vessel!**
+	- ==we see large thickening of **temporal arteries classically, also in vertebral arteries, opthalamic and posterior ciliary arteries**==
+		- we see a ==thick cord temporal artery cord== in the patient, on the side of their head. that's where you should biopsy 
+		- ==thickened intima on histo, and then we see **giant cell = with elastin cords, eating up the elastica of the vessel!**==
 	- less common = internal/ext carotids, central retinal, subclavian etc. 
-	- insidious onset: insidious, perm **blindness**, fatigue, anorexia, fever, **polymyalgia rheumatica** - many areas of joint pain 
-		- ESR + CRP elevated 
-		- anemia of chronic dz 
-	- abrupt onset: headaches, unilateral, scalp tenderness, 
-		- visually: diplopia, ptosis, transient or perm blindness, ischemic optic neuritis with pallor / edema of optic disk 
-		- tongue hang or jaw claudition/hang 
+	- ==insidious onset: insidious, perm **blindness**, fatigue, anorexia, fever, **polymyalgia rheumatica** - many areas of joint pain== 
+		- ==ESR + CRP elevated== 
+		- ==anemia of chronic dz== 
+	- ==abrupt onset: headaches, unilateral, scalp tenderness,== 
+		- ==visually: diplopia, ptosis, transient or perm blindness, ischemic optic neuritis with pallor / edema of optic disk== 
+		- ==tongue hang or jaw claudition/hang== 
 	- DX: temporal artery biopsy and vascular ultrasound to help guide that!! 
-		- aside, don't wait for the biopsy results just start steroids and don't delay treatment. 
+		- aside, ==don't wait for the biopsy results just start steroids and don't delay treatment.== 
 		- might be poz for up to 2 weeks of steroid therapy 
 	- TREAT: 40-60mg prednisone, inc IV dose if visual loss, reduce dose by 10% every 2 wks... 
 		- follow symptoms + ESR/CRP too 
 		- might slow down, stop or reverse taper if ESR rises / symptoms return 
-		- do well but treated cases remit in 1-2 years. 
+		- ==do well but treated cases remit in 1-2 years.== 
 	- steroid sparing agents = methotrexate, tocilizumab (anti-il6R monoclonal antibody )
 
-medium vessel vasculitis
+==medium vessel vasculitis==
 ---
-1. polyarteritis nodosa - necrotizing arteritis without Mucocutaneous lymph node syndrome 
-	- any age affected, mainly male>female, peak age 50-60 yrs
-	- hep b association!!! questions might give you q stem with other hep b-associated diseases! 
-	- insidious onset
-		- nonspecific - weight loss, fever, arthralgias
-		- peripheral sensory neuropathy bc these nerves are also destroyed 
-	- abrupt onset - 
-		- palpable purpura, new onset htn with renal artery involvement - red patches with slight bump 
-		- intestinal ischemia, abd pain + bloody in stool 
+1. ==polyarteritis nodosa - necrotizing arteritis without Mucocutaneous lymph node syndrome== 
+	- any age affected, ==mainly male>female, peak age 50-60 yrs==
+	- ==hep b association!==!! questions might give you q stem with other hep b-associated diseases! 
+	- ==insidious onset==
+		- ==nonspecific - weight loss, fever, arthralgias==
+		- ==peripheral sensory neuropathy== bc these nerves are also destroyed 
+	- ==abrupt onset -== 
+		- ==palpable purpura, new onset htn with renal artery involvement - red patches with slight bump== 
+		- ==intestinal ischemia, abd pain + bloody in stool== 
 		- **mononeuritis mutliplex** - nerves not working, loss of them!!! this is classically a wrist drop! many nerves affected bc of vasculature, **so the distribution of nerves aren't rlly making sense in terms of grouping**
 		- livedo reticularis - beaming patterns, white and red microhemorrhage patterns, circles everywhere
 		- splinter hemorrhages + digital gangrene(looks red + some stuff)

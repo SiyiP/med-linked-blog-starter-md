@@ -12,6 +12,46 @@ Differentials for joint pain[^9]
 - Men affected with seronegative + joint fusion[^9]
 - Juvenile idiopathic arthritis fewer and larger bones affected[^9]
 - Scleroderma too but it's more interested in calcium depots[^9]
+
+non-inflammatory Arthritis 
+- brief stiffness after rest (gel phenomenon)
+- pain worsened w use 
+- early - joint effusion (cold feeling in spite of effusion), then later we eventually get bony enlargement , replacement of joint with this bones - osteophytes. 
+- loss of function 
+- asymmetrical most likely 
+- osteoarthritis =  "wear and tear" still there's a bit of inflammatory responses
+	1. degenerative joint disease - DJD , **NONSYMMETRIC** destruction + regen of joints and bones - most common disability cause 
+		- **cartilage fragmenting and narrowing w/ bony overgrowth afterwards** 
+		- outer areas of it we see inflammatory mediators
+		- crepitus sensation with movement 
+- "nodal form" ![[nodal arthritis.png]]
+	- DIPs = heberden nodes- tip of finger be4 nail, hard and this is bony overgrowth.  
+	- PIPs = bouchard's nodes - one middle joint below the dip, hard and this is bony overgrowth.  
+	- first CMC joint = base of thumb, can see squaring of the thumb base,  hard and this is bony overgrowth.  
+- JSN = joint space narrowing, seen in bright white! JSN worsens and gets more narrow with time in asymmetric wear! and then we see **osteophyte outpocketing formation on the bone xray**
+
+Gout - exquisitely painful/tender 
+-  abrupt + acute, often at night, which is typically due to monosodium urate crystals precipitating from **colder** temps in synovial fluid -> **a lot leads to *tophi*, similar to calcionosis but different** 
+	- these crystals will activate the TLRs, innate immune system, making **IL-1 beta**, which leads to inflammatory response in gout!!!
+- 3-10 days episodic flare time 
+- 75% first attacks in the first MTP joint ; red and swollen + sooo much pain ): 
+-  monoarticular but can become poly and more frequent
+- gout on XRAY: soft tissue swelling on edges + destruction on joint, ==**"RAT BITE erosion, like a bite mark with an overhang"**==, different from RA erosion 
+
+psoriatic arthritis
+- arthritis can precede rash in 20%  cases 
+	- DIP joints, dactylitis (sausage digits uniform swelling + inflammation)/**enthesitis, where tendons and ligaments attach to bones,** 
+	- oligoarthritis, but might present with rheumatoid presentation 
+- pitting in nails 
+
+arthritis temporal pattern 
+- migratory = gonococcal arthritis, rheumatic fever
+- episodic - gout, pseudogout, palendromic rheumatism 
+quantitiative
+- monoarticular - septic arthritis or gout 
+
+
+
 ---
 Autoimmune dz = 5-8% of us population, mainly females[^9]
 Single organ - hashimotos, pernicious anemia, good pasture's[^9]
@@ -46,46 +86,105 @@ ANAs - antinuclear antibodies, like autoantibodies made up of nucleus![^9]
 - ![[anca patterns.png]][^9]
 
 1. Systemic lupus erythematosus[^9]
-	- ANA , Anti-dsDNA, anti-Smith[^9]
-	- Drug induced = anti-histone antibody => translates to homogenous pattern[^9]
-	- Acute or insidious as well, virtually involves every organ in body[^9]	- Pleuritic chest pain + photosensitivity[^9] - Seizures = the most frequent neurologic abnormalities in SLE, might have a cns vasculitis, microthrombi, small vessel vasculopathy, metabolic encephalopathy etc.[^9]
-	- Young woman with butterfly rash - reddish area on cheeks + nose. fever , pain in joints *without* deformity.[^9]
+	- ANA titer >1:80 as entry criteria (homogenous pattern), Anti-dsDNA, anti-Smith[^9]
+		- like 1/2 patients have IgG/M that reacts with antiphospholipins like anticardiolipin, which gives a **false poz for syphillis**
+	- Drug induced = anti-histone antibody => translates to homogenous pattern[^9]procainamide + hydralazine
+		- non genetic other things might be - smoking, pollutants, stress, epigenetics, estrogen 
+	- CAUSE can also be years of **lupus-specific autoantibody production or immune dysregulation before symptoms onset**
+		- immune complex deposition (type 3 hypersensitvitiy)
+		- antibodies against cells (type 2 hypersensitivity / autoantibody mediated)
+		- **antiphospholipid syndrome** - venous + arterial thrombosis 
+			- lupus anticoagulant - we see in vitro prolonging of clotting that is associated with hypercoag state!!! 
+			- pulm embolisms are more common bc of this 
+			- atherosclerosis is way higher too so CAD + MI is more high 
+			- **libman-sacks endocarditis vegetations on the mitral valve is more common too!!!**
+	- Acute or insidious as well, virtually involves every organ in body[^9]	- Pleuritic chest pain [^9] - Seizures = the most frequent neurologic abnormalities in SLE, might have a cns vasculitis, microthrombi, small vessel vasculopathy, metabolic encephalopathy etc.[^9]
+		- many ppl have small joint pain like rheumatoid + myalgia + tendonitis , ==no erosions in xrays== 
+		- basically serocitis = accumulation of fluid around organs is super common 
+	- Young black woman with butterfly rash - reddish area on cheeks + nose. fever , pain in joints *without* fixed deformity.[^9]
+		- typically women reproductive age, and family hx inc 14-20x risk factor. (incomplete penetrance even with HLA associations and inherited complement things)
+		- common in black, asian, hispanic + indigenous ppl, esp in severity and higher incidence 
+		- ==RASH: **spares the neolabial folds, which separates it from eczema**==
+			- interface dermatitis - **immunoglobulin deposit along dermal epidermal junction + basal layer of epidermis degenerates**
+			- discoid rash - scarring with chronic cutaneous SLE
+			- gangrene of toes, secondary to **lupus vasculitis!!!**
 	- We can follow the complement cascade too to check for FLAREUPs = C3 + 4 is low bc it's activated and being deposited in the organs if we have an active flare-up[^9]
 		- deficiency in the CLASSICAL Complement pathway = C1a,C2,C4 deficient etc bc cannot clear out large insoluble immune complexes, which desposit into the joints
-	- Uv light inducing widespread breaks in DNA, so release of this is a starting point of making immune complexes form, but they're dysfunctional or not able to act up right, staying deposited in the joints[^9]
-	- Lupus nephritis = one of the highest concerns about this with protein creatinine + proteinuria[^9]
+	pathways of getting it:
+	- Cellular homeostasis related: Uv light inducing widespread breaks in DNA, so release of this is a starting point of making immune complexes form, but they're dysfunctional or not able to act up right, staying deposited in the joints[^9]
+	- Innate immunity: TLRs + IFNs to viruses 
+		- **upreg IFN inducible genes "IFN signature"**
+	- adaptive immunity - b cell targets can be hyperproliferative and stuff 
+	death caused by
+		1. Infection 
+		2. Renal failure(LN) - 	- Lupus nephritis = one of the highest concerns about this with protein creatinine + proteinuria "foamy urine" [^9]
+			- more common in young AA males 
+			- proliferative glomerulonephritis common 
+			- see subepithelial (podocyte injury), subendothelial deposits, and immune expansion to basement membrane
+			- classes of LN classification
+				1. normal 
+				2. mesangial proliferative, inc in mesangium, black immune complexes are in there and in the interglomerular cells
+				3. focal proliferative<50%, inc BP, clots, both subepithelial (podocyte injury), ==subendothelial (WIRE LOOPS)== deposits, -> **segmental proliferative lesions show some karyorrhetic necrosis, shown by masson's stain showing the fibrin**
+					- crecents are seen 
+					- full house 
+				4. diffuse proliferative, 50+% , even more worsening of symptoms as class 3 
+				5. membranous - podocytes impacted with higher subepithelial deposits, leaky proteinuria even more, seen on **silver stain SPIKES on basement membrane!**
+				6. diffuse sclerosing 90+% of glomeruli sclerotic and super scarred. 
+		3. Cardiovascular disease  
+		4. Diffuse central nervous system involvement
+	- TREAT: hydroxychloroquine -antimalarial to target TLRs, innate immune system, to dampen it down!!!
+		- also corticosteroids - **only as a bridge between other therapies at lowest effective dose**
+		- remove environmental triggers 
+		- screen bone diseases 
+		- get vaccines bc immune compromise 
 
- 2. Rheumatoid arthritis[^9]
+ 3. Rheumatoid arthritis[^9]
 	- Anti-CCP(more specific)+ RF[^9]
 	- Joint fixed deformities; also can develop subcutaneous nodules on the forearm, which might improve[^9]
-	- Bilateral + polyarticular+ small joints[^9]
-	- Inflammation in the synovium[^9]
+		- **we have erosions seen in xrays!** 
+		- non-reducible deformities in later stages** bc erosions in synovial spaces took place 
+		- Swelling of PIPs = looks like bouchards nodes, but **not the bony overgrowth ; they are squishy!!!**
+	- Bilateral + polyarticular+ small joints[^9] + temporal additive pattern 
+		- meaning 4+ joints ; excluding CMC joint and MTP joint (this is instead in gout + osteo)
+		- **symmetric like SLE**
+	- Inflammation in the synovium[^9] - much hypertrophy of these inflammatory cells eroding the bones 
 	- Worse in the morning,[^9]
+	- early DX: handshake/squeeze test at MCP (leads up to fingers) and then MTP joints (toes with foot bones) with squeeze  
+	- eye inflammation + interstitial lung dz ; we see holes poking thru the sclera 
 	- Inflammatory markers CRP + ESR are elevated[^9]
 
-3. Seronegative spondyloarthropathies[^9]
-	- Younger male[^9]
-	- Umbrella term like juvenile idiopathic arthritis = several chronic inflammatory arthritis dz affecting the vertebral column[^9]
+4. Seronegative spondyloarthropathies[^9]
+	- Younger male[^9], - ankylosing spondylitis
+		- morning BACK stiffness that loosens with activity 45+ min; this is diff from mechanical back pain that worsens with actiivty 
+	- Umbrella term = several chronic inflammatory arthritis dz affecting the vertebral column[^9]
 	- We get changes in ligamentous attachment to BONE rather than synovium (enthesitis) unlike RA[^9]; 	- Bony proliferation can lead to ankyloses[^9]
+	- typically oligoarticular = <4 joints associated!!!
 	- AntiCCP[^9]
-	- Hallmark achilles tendon happens inflammation[^9]	- Inc risk of osteoporosis[^9], - Loss of lumbar lordosis, fusion of vertebral bodies and hunching[^9]
+	- Hallmark achilles tendon happens inflammation
+		- DX: 
+			- diminished ability to reverse lumbar lordosis = SCHOBER test +
+			- inability to touch occiput to wall bc of sacroiliac joint + 
+			- lumbar spines fusion +  **FABER** test, flexion, abduction, external hip rotation all cause pain. basically iliac compression causes this pain too  
+			- bamboo spine = very hollow, str8, and joint space is fluffy overall, not as discrete on xray. 
 	- HLA-B27[^9]
 	- Eye inflammation too like anterior uvelitits.[^9]
 	1. Reactive arthritis - within seronegative group[^9]
-		- Conjunctivitis, urethritis, asymmetric arthritis[^9]
+		- Conjunctivitis, urethritis, ==**asymmetric arthritis**==[^9]
 		- Can't see, can't pee, can't climb a tree[^9]
 		- Viral infection like chlamydia/GI bug[^9]
 		- Urethritis/diarrhea pts get low back pain -> pain in ankles, knees, feet[^9]
+			- rash sometimes ; **keratoderma blenorrhagicum, dry, scaly itchy rash on soles of feet!**
 		- Self-limiting but some might need longterm immunosuppressive help[^9]
-4. Juvenile idiopathic arthritis[^9]- Umbrella[^9]
+
+5. Juvenile idiopathic arthritis[^9]- Umbrella[^9]
 	- ESR up, poz ANA common, neg RF.[^9]
 	- Symptoms for 6+ wks[^9]
 	- Onset before 16 yo[^9]
 	- Fewer + larger joints , systemic dz more frequent, RF + rheumatoid nodules absent.[^9]
-		- Oligoarticular JIA = most common! asymmetric(one joint involved) involvement of up to 4 joints like knee[^9]
+		- Oligoarticular JIA = most common! **asymmetric**(one joint involved) involvement of up to 4 joints like knee[^9]
 		- Anterior uvelitis = eye inflammation!!![^9]
 
-5. Sjogren syndrome[^9]
+6. Sjogren syndrome[^9]
 	- Anti-ro, anti-la[^9]
 	- 50-60 older females[^9]
 	- Rhuematoid arthritis .... **Dryness**[^9]
@@ -96,7 +195,7 @@ ANAs - antinuclear antibodies, like autoantibodies made up of nucleus![^9]
 	1. Primary SS = sicca syndrome = isolated disorder[^9]
 	2. Secondary SS = associated w/ another autoimmune dz like RA most commonly[^9]
 
-6. Systemic Sclerosis (Scleroderma)[^9]
+7. Systemic Sclerosis (Scleroderma)[^9]
 	- Autoantibodies RNA POL III, centromere, Scl-70[^9]
 	- 30-50 yr female... this WILL lead to fibrosis[^9]
 	- Proliferative obliterative vasculopathy = basically BVs are gone. making more ischemia, fibrosis, inflammatory stuff that contributes to autoantibodies etc[^9]
@@ -115,7 +214,7 @@ ANAs - antinuclear antibodies, like autoantibodies made up of nucleus![^9]
 		- Telangiectasis[^9]
 	2. Diffuse scleroderma = trunk and abdomen are affected Scl-70 antibodies[^9]
 
-7. Inflammatory myopathies group term, there are different types[^9]
+8. Inflammatory myopathies group term, there are different types[^9]
 	- Dermatomyositis - most common in children isolated, inflammation of both skin + muscle.[^9]
 		- Skin manifestations associated with interstitial lung dz[^9]
 	- ==Paraneoplastic disorder in adults, see inc risk of visceral cancer - lung/ovary/stomach[^9]==
@@ -127,12 +226,12 @@ ANAs - antinuclear antibodies, like autoantibodies made up of nucleus![^9]
 		- Large proximal muscles of shoulders/hips, like difficulty in rising from chair or climbing stairs[^9]
 		- *insidious onset[^9]
 
-8. Mixed Connective Tissue Disease[^9]
+9. Mixed Connective Tissue Disease[^9]
 	- Overlapping[^9]; Synovitis of fingers, raynaud phenomenon, mild myositis[^9]
 	- **Autoantibodies to RNP , anti-u1 RNP!!!!!!!!**[^9]
 	- Excellent response to steroids![^9]
 
-9. IgG4 related disease[^9]
+10. IgG4 related disease[^9]
 	- IgG4 producing plasma cells in tissue can be overrepresented[^9]
 	- Histologically - **MIXED infiltrate of t/b and plasma cells[^9]**
 	- **Storiform** fibrosis - swirling around!!! + obliterative phlebitis/destruction[^9]
@@ -186,122 +285,115 @@ types:
 [^10]: [[-SFP Amyloidosis_Pasham]]
 
 ---
-Complement 
-## Highlights for -HRR Disorders of Compliment_Pasham
-- ![[complement pathway.png]][^11]
-- Without an active one, you'd die[^11]
-- Hyperactive ones get passed on[^11]
-- Complement - many soluble proteins + membrane receptors, major ones C1-9[^11]
-- A = aren't directly involved, they go Away and do neutrophil chemotaxis/anaphylaxis stuff[^11]
-- B = larger Bind to the surface of bacteria[^11]
-- 3 pathways that go and make the C3b convertase, which frees the C3b![^11]
+ ## Highlights for -HRR Disorders of Compliment_Pasham
+- ![[Screenshot 2025-08-01 at 4.33.40 PM.png]]
+- Without an active one, you'd die but Hyperactive ones get passed on[^11]
+	- part A = aren't directly involved, they go Away and do neutrophil chemotaxis/anaphylaxis stuff[^11]
+	- part B = larger Bind to the surface of bacteria[^11]
+in terminal pathways:  
 - C3b will complex on surface of the pathogen[^11]
 - C3b can be recognized by phagocytes + engulfed[^11]
 - C3b can recruit MAC C5-9 to make a pore and lyse the microbe[^11]
 - Recruitment and activation of leukocytes[^11]
-- Classical pathway = immunoglobulin mediation[^11]
+Classical pathway = immunoglobulin mediation[^11]
 - Ig binds to antigens on the bacterial surface[^11]
-- C1q complex will become activated, making C2 and C4 into their C2b + C4b[^11]
-- C3b2b[^11]
-- Inhibits large insoluble immune complexes + CLEARS THEM OUT[^11]
-- Any deficiency in this is = SLE lupus[^11]
-- Lectin pathway -[^11]
+- C1q complex will become activated, making C2 and C4 into their C2b + C4b[^11] = C3b2b[^11]
+- **Classical pathway Inhibits large insoluble immune complexes + CLEARS THEM OUT[^11]**
+	1. deficiency in complement's classical C1q, C2/4 etc, causes deposit of these complexes, leading to **immune complex disease SLE**
+
+Lectin pathway -[^11]
 - Bind to exposed mannose + fucose residues on the bacterial or pathogen surface[^11]
 - C2 + C4 -> C3 convertase (C3b2b)[^11]
-- Alternative pathway[^11]
-- C3b starts as the first step (spill over from the other pathways possibly during an infection or something)[^11]
-- C3b attaches to bacterial surface , and then thru Factor B + D, it catalyzes into a slightly different C3 convertase (C3b with a b3)[^11]
+
+Alternative pathway[^11]
+- C3b starts as the first step (**spill over** from the other pathways possibly during an infection or something)[^11]
+	- C3b attaches to bacterial surface , and then thru **Factor B + D**, it catalyzes into a ==slightly different C3 convertase (C3b with a b3)[^11]==
 - Solubilizes large insoluble immune complexes[^11]
-- Deficiency in this causes pyogenic infections[^11]
-- Terminal pathway; common MAC[^11]
-- C3b will then attach back onto the C3 convertase -> C5 convertase[^11]
-- 2 C3bs with a Bb[^11]
-- Make C5 -> C5A and C5b(ready to make MAC)[^11]
-- C6,7,8, and then C9 as a whole bunch of columns that makes a pore!!!! and things will leak out.[^11]
-- Deficiency in this causes neisserial infections[^11]
-- You can inhibit C5 with eculizumab[^11]
-- Complement deficiencies[^11]
-- Immune complexes need to be cleared out in the phagocytes of the liver + spleen etc, usually by classical pathway[^11]
-- Parts of the classical pathway can be deficient, leading to these large immune complexes (C1q, C2/4 deficiency)[^11]
-- Deposit of these complexes, leading to immune complex disease SLE lupus[^11]
-- Alt pathway deficiency - if we don't have stabilizing factor of properdin(stabilizes C3bbb complex) + Factor D[^11]
-- Deficiency in all pathways - C3 affected[^11]
-- Pyogenic infections AND dense deposit disease[^11]
-- C3 + C5 nephritic factors = autoantibodies that stabilize their respective C3/5 convertase.[^11]
-- C3/5 will stay active forever, which means hyperactive complement system[^11]
-- C3-mediated globmeruloneprhtis[^11]
-- Deficiency in terminal pathways = C5-9 MAC components[^11]
-- Inc susceptiblity to neisserial (gonococcal + meningococcal infections); intracellular mechanisms[^11]
-- Dx by - measure C3 + C4, measured directly in nearly every biopsy[^11]
-- To measure whole (C1-9) function = CH50 test = total hemolytic complement, ability of serum to lyse sheep RBCs sensitized with rabbit IgM that activates complement[^11]
-- How to not attack SELF with the complement?[^11]
-- Complement enzymes are zymogens[^11]
-- Labile intermediates, especially reactive thioester active components don't last long[^11]
-- Regulatory steps controlled by plasma proteins[^11]
-- Attack of bystander host cells are prevented by inhibitory membrane proteins on them[^11]
-- Complement inhibitor deficiencies[^11]
-- C1 inhibitor (C1 INH) • HEREDITARY ANGIOEDEMA[^11]
-- Rapid onset swelling in skin + mucosal tissues of upper resp tract - no hives + itching[^11]
-- Swelling of larynx can kill you - asphyxiation[^11]
-- Dental surgery = a common inducer, associated with trauma/allergen[^11]
-- Overproduction of bradykinin, a vasodilator; bc this cascade is also inhibited by C1 INH bc it's a promiscuous one[^11]
-- TREAT: essentially you replace C1 INH, give them fresh frozen plasma or C1 INH concentrate[^11]
-- Factor I • - commonly have a mutation against this in atypical familial HUS!!! (Factor H, I, CD46)[^11]
-- Factor H • - commonly have an autoantibody against this in[^11]
-- Atypical acquired HUS!!! (Factor H, I, CD46)[^11]
-- Mutation in age related macular degeneration, damage to eye![^11]
-- Membrane-attack complex deficiencies •main thing is PIGA on the RBC which attaches these things![^11]
-- Decay Acceleration Factor (DAF, CD55) • -> paroxysmal nocturnal hemoglobinuria stops GPI synthesis of DAF + CD59[^11]
-- CD59 - MAC inhibitor - - paroxysmal nocturnal hemoglobinuria stops GPI synthesis of DAF + CD59[^11]
-- Membrane Cofactor Protein (CD46) - mac inhibitor - commonly have a mutation against this in atypical familial HUS!!!(Factor H, I, CD46)[^11]
-- Thrombic microangiopathies[^11]
-- Mediated by platelet activation + endothelial cell injury[^11]
-- ALL TMA LOOK THE SAME! in the tissues[^11]
-- Arteriole will get swollen + occluded with schistocytes that are stuffed inside the vessel[^11]
-- Glomeruli has PINK bright things stuffed in[^11]
-- Arterioles with gray mucoid things, and if it's chronic enough we see vascular remodding "onion skin"[^11]
-- Hemolytic - microangiopathic hemolytic anemia[^11]
-- Thrombocytopenia[^11]
-- Uremia - acute renal failure[^11]
-- "atypical HUS" = is more complement mediated!!!!![^11]
-- And TTP can be acquired with genetic ADAMTS13, or acquired with ADAMTS13 deficiency[^11]
-- Can be drug-mediated TMAS[^11]
-- Atypical HUS: can be acquired or hereditary, reducing complement activation by the alt pathway[^11]
-- Familial aHUS = disruption of *alt* pathway of complement system[^11]
-- Associated with mutations of factor H, I and CD46!!! there's a genetic panel[^11]
-- Acquired aHUS[^11]
-- Most commonly, an autoantibody against complement factor H[^11]
-- TREAT: eculizumab - monoclonal antibody acting against C5, preventing MAC[^11]
-- You need meningococcal vaccine before treating; bc you're turning off your MAC!![^11]
-- Secondary TMAs[^11]
-- Scleroderma, SLE, malignant htn, pregnancy , transplant rejection[^11]
-- CBC for TMAs[^11]
+2. **Deficiency in this causes pyogenic infections[^11]**
+
+Terminal pathway; common MAC[^11]
+- C3b will then attach back onto the C3 convertase -> C5 convertase[^11]...  2 C3bs with a Bb Make C5 -> C5A and C5b(ready to make MAC)[^11]
+	- C6,7,8, and then C9 as a whole bunch of columns that makes a pore!!!! and things will leak out.[^11]
+	3. **Deficiency in this causes neisserial infections[^11]** - like (gonococcal + meningococcal infections); intracellular mechanisms
+
+4. **Overactivation** in ALL pathways mean = C3 affected!!!
+- ==pyogenic infections AND **dense deposit disease== 
+ 
+5. C3 + C5 nephritic factors can form, which **permits overactivation** = autoantibodies that stabilize their respective C3/5 convertase; C3/5 will **stay active forever, which means hyperactive complement system
+	- will cause 5. ==C3-mediated globmeruloneprihtis== 
+
+Diagnosis: 
+- **measure C3 + C4, measured directly in nearly every biopsy**
+- ==to measure **whole (C1-9)** function = CH50 test = total hemolytic complement, ability of serum to lyse sheep RBCs sensitized with rabbit IgM that activates complement== 
+
+complement avoids attacking "self" by 
+- being zymogens
+- labile intermediates so active components don't last long 
+- regulatory steps controlled by plasma proteins 
+- attack of bystander host cells prevented by inhibitory membrane proteins on them. 
+
+pathology heavy section:
+1. hereditary angioedema
+	- C1 inhibitor (C1 INH) deficiency
+	- rapid onset swelling in skin + mucosal tissues of upper resp tract - **no hives + itching** - can kill via larynx swelling = asphyxiation 
+	- dental surg = common inducer , induced by any trauma/allergen
+	- **overproduction of bradykinin, a vasodilator**; bc this cascade is also inhibited by C1 INH bc it's a promiscuous one
+	- fam hx, check C4, measure C1 
+	- TREAT: C1 INH replacement with Frozen plasma or C1 INH concentrate 
+
+Thrombic microangiopathies[^11] = hemolytic anemia (destruction of red blood cells), low platelets, and organ damage due to the formation of microscopic blood clots
+- **Mediated by platelet activation + endothelial cell injury[^11]**
+- ALL TMA LOOK THE SAME! in the tissues; Arteriole will get swollen + occluded with **schistocytes** that are stuffed inside the vessel[^11]
+	- Glomeruli has PINK bright things stuffed in[^11]
+	- Arterioles with gray mucoid things, and if it's chronic enough we see vascular ==remodding "onion skin"==[^11]
+	Hemolytic - microangiopathic hemolytic anemia[^11]
+	Thrombocytopenia[^11]
+	Uremia - acute renal failure[^11]
+1. atypical HUS = can be acquired or hereditary, **reducing complement inhibitors**[^11] -> **complement overactive!!!!!!**
+	- TTP can be acquired with genetic ADAMTS13, or acquired with ADAMTS13 deficiency[^11]
+	1. Familial aHUS = disruption of *alt* pathway of complement system[^11] - (Factor H, I, CD46)
+		- **complement overactive from losing factor H+I inhibitor and CD46**
+		- ==Associated with mutations of factor H(**inhibitor** of **alt pathway+lectin)**, I (**Loss of this inhibitor of classical**) and CD46(**MAC inhibitor** **membrane cofactor protein**)/ !!! there's a genetic panel[^11]== 
+	2. Acquired aHUS[^11] - (Factor H, I, CD46)
+		- Most commonly, an *autoantibody* against **complement factor H** (inhibitor of alt pathway+lectin)
+		- **complement overactive from losing factor H inhibitor**
+	- TREAT: eculizumab - monoclonal antibody acting against C5, preventing MAC[^11]
+		- ==You need meningococcal vaccine before treating; bc you're turning off your MAC!![^11]==
+2. Secondary TMAs[^11]
+	- Scleroderma, SLE, malignant htn, pregnancy , transplant rejection[^11]
+
+CBC for GENERAL TMAs[^11]
 - Anemia, thrombocytopenia,[^11]
 - Sr chem and creatine shows acute renal failure, high creatinine[^11]
-- LDH inc bc of hemolysis[^11]
-- Haptoglobin dec bc it binds freed hemoglobin[^11]
+- **LDH inc bc of hemolysis[^11]**
+- **Haptoglobin decreases bc it binds freed hemoglobin[^11]**
 - Coag testing - normal, to distinguish against DIC[^11]
 - Direct antiglobuin test = negative[^11]
-- Paroxysmal nocturnal hemoglobuinuria[^11]
-- Complement induced hemolytic anemia[^11]
-- Acquired - membrane defect, these cells are clonal, somatic mutation that affects myeloid stem cells[^11]
-- Nocturnal bc our plasma get acidic at night, activating complement[^11]
-- Wake up with bloody urine[^11]
-- Anemia, thrombosis -> PROTHROMBOTIC bc the complement is activated, so you get portal and hepatic large vein blockage and death[^11]
-- *acquire MDS myelodysplastic syndrome or AML acute myelogenous leukemia bc this is clonal!!! you get mutate more!![^11]
-- Mutation in PIGA = will remove that GPI anchor in the myeloid stem cells (RBC's no longer have GPI anchor which are meant to attach CD55 + CD59)[^11]
-- CD55 = DAF[^11]
-- CD59 = inhibitor of MAC[^11]
-- Pathological RBCs (not all of them, just this one subset coming from the clone that's mutated) don't have that PGI anchor that will stop the complement MAC from attacking them, the self instead, so they'll get lysed.[^11]
-- TREAT: eculizumab treats it too - monoclonal antibody acting against C5, preventing MAC ... otherwise, give anticoag[^11]
-- DX: flow cytometry - see which cells express both CD55 AND 59[^11]
-- The pathological ones would have only one or none. (more to the left )[^11]
-- Age related macular degeneration[^11]
-- Dry = central geographic atropy[^11]
-- Wet = neovascular or exudate[^11]
-- Caused by aging, smoking, mutation ATP synthase gene, or mutations in FACTOR H[^11]
-- Inc ROS + inflammation[^11]
-- TREAT: nutritional supplements - vita E, o3 fatty acids, lutein, zeaxantin.... supportive therapy only /:[^11]
 
+3. Paroxysmal nocturnal hemoglobuinuria: complement overactive. [^11] from losing PIGA or complement MAC inhibitors
+	- Complement induced **hemolytic anemia**[^11]
+		- Nocturnal bc our plasma get acidic at night, activating complement[^11]
+		- Wake up with bloody urine[^11]
+	- Acquired - membrane defect, these cells are clonal, somatic mutation that affects myeloid stem cells[^11]
+		 - ==*acquire MDS myelodysplastic syndrome or AML acute myelogenous leukemia bc this is clonal!!! you get mutate more!![^11]==
+	- Anemia, thrombosis -> ==**prothrombotic** bc the **complement is activated**==, so you get portal and hepatic large vein blockage and death[^11]
+	- PIGA - protein that would make a GPI anchor onto the myeloid stem cells like RBC. 
+		- ==if you have a mutation or loss of PIGA, you can't attach CD55 or CD59!!==
+			- CD55 - meant to be a MAC inhibitor; AKA Decay Acceleration Factor =loss =  overactive complement 
+			- CD59- inhibitor of MAC, loss of this too = overactive complement 
+	- Pathological **RBCs** (not all of them, just this one subset coming from the clone that's mutated PIGA) **don't have that GPI anchor that will stop the complement MAC from attacking them**, so they'll get lysed.[^11]
+	- TREAT: eculizumab treats it too - monoclonal antibody acting against C5, preventing MAC ... otherwise, give anticoag[^11]
+	- **DX: flow cytometry - see which cells express both CD55 AND 59**[^11]
+		- The pathological ones would have only one or none. (more to the left )[^11]
+
+4. Age related macular degeneration[^11] = mutant in factor H, so overactive complement, from getting rid of factor H inhibitor 
+	- Dry = central geographic atropy[^11]
+	- Wet = neovascular or exudate[^11]
+	- Caused by aging, smoking, mutation ATP synthase gene, or **autoantibody against FACTOR H (inhibitor of alt pathway+lectin)**, so it's lost. [^11]
+	- Inc ROS + inflammation[^11]
+	- TREAT: nutritional supplements - vita E, o3 fatty acids, lutein, zeaxantin.... supportive therapy only /:[^11]
 [^11]: [[-HRR Disorders of Compliment_Pasham]]
 
+---
+
+steroid sparing agents = methotrexate, tocilizumab (anti-il6R monoclonal antibody )

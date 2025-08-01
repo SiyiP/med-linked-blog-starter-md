@@ -3,11 +3,11 @@ LO + review
 ARTHRITIS differences 
 associated with inflammatory dz
 - prolonged stiffness after rest (30+ minutes)
-- stiffness imrpoved w/ use
+- stiffness improved w/ use
 - warmth, erythema, loss of function + swelling 
 - symtpoms of systemic dz, something more widespread
 
-non-inflammatory 
+non-inflammatory Arthritis 
 - brief stiffness after rest (gel phenomenon)
 - pain worsened w use 
 - early - joint effusion
@@ -42,7 +42,7 @@ osteoarthritis - "wear and tear" still there's a bit of inflammatory responses
 	- isolated = weight bearing joint like knees 
 	- also in the spine, hips (has a way of grading it 1-3) , midfoot/ankle
 	- also obesity is a risk factor for development nad progression ; weight loss dec pain + work load on joints ... but if this narrowing already takes place, **weight loss only helps with pain management** 
-	- in the xtray below: JSN = joint space narrowing, seen in bright white! JSN worsens and gets more narrow with time in asymmetric wear!![[nodal arthritis.png]]
+	- in the xtray below: JSN = joint space narrowing, seen in bright white! JSN worsens and gets more narrow with time in asymmetric wear!![[nodal arthritis.png|365x273]]
 - **we SEE JOINT SPACE LOSS, asymmetric wear in the xray with bony overgrowth!**
 ![[joint space loss+osteophyte.png]]
 
@@ -54,7 +54,7 @@ rheumatoid arthritis - chronic inflammatory
 - morning stiffness, hours to loosen up 
 - fever + fatigue sometimes. 
 - early DX: handshake/squeeze test at MCP (leads up to fingers) and then MTP joints (toes with foot bones) with squeeze  
-- subq nodules + **non-reducible deformiteis in later stages** bc erosions in synovial spaces took place 
+- subq nodules + **non-reducible deformities in later stages** bc erosions in synovial spaces took place 
 	- hyperflexion of the PIP joints , where erosions happen, and then pulling of the lateral bands , which leads to deformities, even after it. "boutonniere deformity"
 	- swan neck deformity - DIP flexion, PIP extension 
 - swelling of PIPs = **looks like bouchard's nodes,** but NOT bony overgrowth, they are squishy!!!
