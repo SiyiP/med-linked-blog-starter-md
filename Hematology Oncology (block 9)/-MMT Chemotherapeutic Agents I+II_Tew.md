@@ -11,25 +11,25 @@ gene therapies - CAR-T therapies make an impact. = using host immune system agai
 - very invasive, time-consuming, etc. 
 ---
 common terms of chemo
-   Debulking: surgical removal of large tumors prior to drug treatment. 
-• Neoadjuvant therapy: treatments given before surgery to shrink primary tumor. if it's infiltrating tissues or hard to do therapy we wanna shrink it. 
+   ==Debulking: surgical removal of large tumors prior to drug treatment.== 
+• ==Neoadjuvant== therapy: treatments given ==before surgery to shrink primary tumor==. if it's infiltrating tissues or hard to do therapy we wanna shrink it. 
 • Maintenance therapy: low dose therapies to prolong remission. 
-• Growth fraction: proportion of cells in cell cycle (usually more susceptible). dividing cells vs latent ones 
+• Growth fraction: proportion of cells in cell cycle (usually more susceptible). ==dividing cells vs latent ones== 
 • Log cell kill: e.g. in a leukemic patient with 109 cells, a 4 log kill leaves 105. This induces remission but will require additional therapies for cure. **number of logs killed with chemo.** 
 • Treatment induced tumors: secondary latent neoplasms sometimes caused by drug-induced mutations. 
-• Pharmacologic sanctuaries: tumor cells may enter the CNS where drug access is limited. - **areas where cells can hide like the CNS** 
+• ==Pharmacologic sanctuaries: tumor cells may enter the CNS where drug access is limited. - **areas where cells can hide like the CNS**== 
 • Treatment protocols: drug combination therapies – frequently given acronyms. 
-**• Intermittent therapy: drugs administered at intervals to allow recovery of patient’s normal tissues.** 
+==**• Intermittent therapy: drugs administered at intervals to allow *recovery* of patient’s *normal* tissues.**== 
 • Multidrug resistance: patient non-response through drug resistance. big issue in cancer drugs - tumor cells will evolve darwinian, only a few can develop it and then populate the tumor 
 Minimizing adverse effects: toxicities that may be ameliorated by interventions usually cotreatment with drugs 
-• T cell exhaustion: arises during chronic infections and cancer, defined by poor effector function, sustained expression of inhibitory receptors. **poor t cell effector function**
-• PD-1: protein on T cells that keeps immune responses in check. When PD-1 is bound to PD-L1, it keeps T cells from killing cancer cells. Immune checkpoint inhibitors can block PD-1.  huge in t cell activation, if you mess around with it, **you can activate t cells to attack cancers**
+==• T cell exhaustion: arises during chronic infections and cancer, defined by poor effector function, sustained expression of inhibitory receptors. **poor t cell effector function**==
+==• PD-1: protein on T cells that keeps immune responses in check. When PD-1 is bound to PD-L1, it keeps T cells from killing cancer cells. Immune checkpoint inhibitors can block PD-1.  huge in t cell activation, if you mess around with it, **you can activate t cells to attack cancers**==
 	FYI: to stop the pain of the toxicities, you have to modulate the dose, unless there's something specific you can add to it 
 
 ---
 target nucleic acid pathways 
 - antimetabolites - synthesis and incorporation of many drugs into dna - they mimic them and stop production 
-- alkylating agents +  antibiotics = these **bind directly** to DNA instead of interfering with the precursors. **highest 2ndary malignancy risk**
+- alkylating agents +  antibiotics = these **bind directly** to DNA instead of interfering with the precursors. ==**highest 2ndary malignancy risk**==
 	-**stop it from unwinding or going thru replication / division again**
 cell cycle specific drugs = 
 - antimetabolites
@@ -48,8 +48,8 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 			- basically, 5-FU is given then turned into 5-fDUMP, w/ phosphoriboxyl transferase, uridine phosphorylase and uridine kinase.  
 			- 5-fdUMP trapped with **thymidylate synthesase, reducing the amount of thymine** w/ N5,N10 methyl tetrahyrofolate + thymidylate synthase in tert complex. 
 				- CELL dies from **NO THYMINE!!! = base imbalance and interference**
-				- **leucovorin can be paired with 5-FU to ENHANCE the inhibition of thymidylate synthase! - it makes 5-FU bind better to thymidylate synthase much better, making a tighter complex + inhibiting the synthase better.**
-					- leucovorin = precursor base N5-formyl-FH4 - inc the effects of 5-FU !!! **make N5,N10-CH2THF, recall it's the rescue effect** 
+				- **l==eucovorin can be paired with 5-FU to ENHANCE the inhibition of thymidylate synthase!== - it makes 5-FU bind better to thymidylate synthase much better, making a tighter complex + inhibiting the synthase better.**
+					- ==leucovorin = precursor base N5-formyl-FH4 - inc the effects of 5-FU !!! **make N5,N10-CH2THF, recall it's the rescue effect**== 
 					- compare this with using it as a rescue for methotrexate 
 			- ESSENTIAL toxicities - ulcers in oral mucosa 
 		2. capecitabine - *converted* into 5-FU as a prodrug orally. 
@@ -84,10 +84,11 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 			- "Rescue” compound: Leucovorin  - administration of precursor base N5-formyl-FH4, converted to **N5N10-methylene-FH4** - **rescue bc taken up preferentially by normal cells**
 			- TOXICITIES: stomatitis, alopecia, rash 
 
+
 2. Antitumor antibiotics  - causes DNA dmg , and cells can repair it or not, many come from natural products. **all given IV, non cross BBB**. ESSENTIAL TOX: dmg associated with free radicals
 	1. bleomycin = testicular cancers, squamous cell carcinoma, lymphomas
 		- makes an iron complex that causes strand breaks via free radicals
-		- single strand breaks can be repaired, but this causes double strand breaks 
+		- single strand breaks can be repaired, ==but this causes double strand breaks== 
 		- TOX: **pulm fibrosis** via iron fenton rxn; hydroxyl radicals 
 	2. dactinomycin = sarcomas (kids) - binds **DNA!**
 		- TOX: immunosuppression/myelosuppression/GI
@@ -150,7 +151,7 @@ how monoclonal antibodies work ^^
 		- **also you get a RASH = EGFR = E = epidermal; you see donstream Ras**
 	3. rituximab = against CD20 antigen, regulates cell cycle/self-differentiation; leukemias/lymphomas 
 		- TOX: hypotension, bronchospasm, angioedema, card arrhythmias, tumor lysis syndrome -> kidney failure 
-		- PUK-calcium from tumor lysis syndrome = Phosphate Uremia K+ up, all go up; and calcium goes down 
+		- ==PUK-calcium from tumor lysis syndrome = Phosphate Uremia K+ up, all go up; and calcium goes down== 
 			- biggest thing is to give fluid to keep the kidneys safe, 
 			- hyperkalemia = insulin (give w sugar)
 	4. daratumumab = CD38 in **multiple myeloma**. killing directly 

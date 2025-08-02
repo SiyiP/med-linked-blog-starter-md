@@ -149,3 +149,121 @@ Zoonotic viral infections transmitted by animal bites/body fluids[^8]
 - Prevention - mask+gloves , ventilation be4 and during work, avoid aerosols, use water + disinfectants.[^8]
 [^8]: [[-HRR Zoonotic Bacterial and Viral Infections I_Krieg]]
 
+---
+Blood borne Parasites
+
+in malaria - Synchronized lysis of red blood cells by a new generation of merozoites is what causes the classic symptomatic paroxysms of malaria. 
+The liver infection stage does not cause symptoms 
+## Highlights for -HRR Blood Borne Parasites_Krieg
+**Reproduction feeding form - trophozoite[^14]**
+Protective/dormant form - cysts[^14]
+Apicomplexa = sexual reproduction, life cycles, multiple hosts "BP to CT", ==babesia plasmodium==- all has different forms ring forms and stuff to see early trophs[^14]
+- Plasmodium - 2 cycles[^14]
+	- ==Asexual cycle - taking place in human[^14]==
+	- Transferred in the form of oocysts -> becomes sporozoites (cyst form hard to dz) -> ==merozoites in the blood (ring form, can be diagnosed thru its development to diff forms)== -> trophozoites -> **gametozoites** (goes back into mosquito when they bite into a person)[^14]
+- ==Sexual life cycle - in the mosquito.[^14]==
+P. Vivax(latam + india), ovale(africa), malariae(africa + asia), falciparum(africa + asia)[^14]
+1. Vivax. + ovale - they have periodicity[^14]
+	- RBC products phagocyzed by reticuloendothelial system =="black water fever" bc they have lyzed rbcs in urine==.[^14]
+	- Fever periodicity - paroxicisms - 
+		- ==this is a tertian fever. fever, pause, fever.[^14]==
+2. Malariae + falciparum - **quartan fever, fever, pause pause, and fever**. periodicity is rare in falciparum infections[^14]
+	- Falciparum - infects rbcs of all ages[^14]
+	- Alters cell membrane causing it to **adhere to endothelial cells, causing capillary congestion**-> ==cerebral malaria in kids, pulm edema + renal failure==[^14] - very serious 
+- Malariae attacks only senescent cells[^14]
+- See: seizures, coma, organ failure, anemia, splenomegaly, cerebral malaria ; paroxysm lasts hours - **cold, hot, wet stages[^14]**
+
+- Disease takes 2-3 wks, but may be months if they take suppressant drugs...[^14]
+- DX: parasitology thick and thin blood smears -
+	- thick smear requires skilled observer 
+	- thin one for species id[^14]
+- ==Bloodwork - low hb, anemia[^14]==
+- Rapid tests - ==paraSight F - detects HRP2 excreted by P falciparum[^14]==
+- Optimal too - detects lactate dehydrogenase LDH + distinguish between p falciparum + vivax.[^14]
+- ![[plasmodium ring forms and gametocyte.png|628x433]][^14] banana = p. falciparum in gametocyte form 
+		ring forms = early trophozoites, of them all. 
+- PROTECTIVE 
+	- ==sickle cell trait of heterozygous HbS makes rbc less hospitable to falciparum -[^14]==
+	- Thalassemias similar protection to sickle cell[^14]
+	- ==Duffy antigens on rbcs - absent in many west africans, protective against vivax==[^14]
+- Color queen chloroquine - All plasmodia except falciparum; Common resistances except caribbean, west panama and middle east[^14]
+- Me fly queen mefloquine - For chloroquine resistant plasmodia; strong drug, **prophylactic**, one a week[^14]
+- Atovaquone[^14]; 
+	- Prophylactic, better tolerated, G6PD deficient NO "queen"[^14]
+- Primaquine - **P. vivax, P. ovale (targets liver stage)[**^14]
+- ==Artemisinin - P. falciparium[^14]== 
+
+---
+ Lyme dz, anaplasmosis, babesiosis, rocky mt spotted fever(northeast), etc - all tick borne dz rising co infections happening - nantucket fever - babesiosis[^14]
+- Babesia microti - deer tick, hemolytic anemia, fatigue, myalgia, fever[^14]
+	- NE america,[^14]
+	- DX parasitized rbc on blood smear/pcr[^14]	- ==*maltese cross ring form*[^14]==
+	- TREAT: azithromycin + atovaquone[^14]
+	- Binary fission[^14]
+		- Gametocytes replicate in mice, then will go into tick[^14]
+		- Ray bodies made in ticks[^14]
+		- Zygote sexual production -> kinetes which invade salivary glands of tick[^14]
+		- Multinucleated sporoblast and sporozoites can go into humans and invade rbcs, binary fission happens us to make merozoites and so on[^14]
+			- basically the human becomes the mouse 
+	- in tenessee, we see the bulls eye and erythematous plaque with this appearance. 
+
+- Southern-tick associate rash illness - this lone star tick in the southern us - no test due to unknown agent, in tenessee![^14]
+	- TREAT: topical glucocorticoids 2 wks, rash will resolve completely[^14]
+	- In places where **lyme + STARI southern tick associated rash illness coexist, doxycycline can be used while ruling borrelia burgdorferi out[^14]**
+	- These lone star ticks aren't vectors of lyme but are getting expanded.[^14]
+
+the next few are very swirly worm-looking things 
+- Flagellated = asexual repro, binary fission "TTriGLycerides"[^14]
+	- Trypanosoma cruzi - kissing bug -> chagas disease[^14]
+		- Bug bites, food contaminated with reduviid feces[^14]
+		- Central/south am; leading cause of chronic heart dz, ppl don't know they got it beforehand.[^14]
+		- Only 1/3 of new infections are symptomatic but chronic infections are still scary[^14]
+		- DX - blood smear in early, hard in chronic[^14]
+		- Romaña sign(swelling of one eye), fever, cardiomyopathy, megacolon[^14]
+			- look at the head-related symptom, we imagine a dot as this one's head 
+		- **Host tissue cell about to burst and release, a ton of purple dots buildup[^14]**
+- ![[Trypanosoma brucei and cruzi.png]][^14]
+	- TREAT: benznidazole[^14]
+
+- Trypanosoma brucei -> 'sleeping sickness'[^14]
+	- Tsetse fly bites, central africa[^14]
+	- Sleepiness from cns vasculitis, heart failure[^14]
+
+
+- Leishmania -> leishmaniasis -[^14]
+	- Nocturnal, phlebotomine sandfly bites[^14]
+	- Tropical + subtropical regions including south america[^14]
+	- ==Painless cutaneous ulcer/visceral (kala azar)== form wks after bite; ==many rough dots on face==[^14]
+	- Obligate intracellular parasites of macrophages[^14]
+	- Disseminated infection of subq nodules up to 20 yrs in immunocompromised ppl[^14]
+- Mucocutaneous - destructive ulcer of skin + mucous memb[^14]
+- Kala azar - black illness - hyperpigmented skin lesions - irregular bouts of fever, significant weight loss, lymphadenopathy, hepatosplenomegaly, anemia, high mortality if not treated[^14]
+- Loose flagellum dark dots in host cell = leishman-donovan bodies =  intracellular amastigotes in macrophages[^14]
+- TREAT: cutaneous: pentavalent antimonials,[^14]
+- Visceral: liposomal amphotericin B[^14]
+- Chronic ulceration does disfiguring scars[^14]
+- Loa loa - daylight; eye worm - bites of deer flies in W. africa[^14]
+- Calabar swellings, itchy edemas around the body. w fever, itching, pain worm moving in eye[^14]
+- Benign form of it moving in eye[^14]
+- We see 2 cm filariae in blood collected in *daylight* or from conjunctiva[^14]
+- TREAT: albendazole or diethylcarbazine[^14]
+- Wuchereria bancrofti -->nighttime; elephantiasis - lypmhatic filariasis - neglected tropical dz in africa, latam, pacific islands, asia.[^14]
+- Fever lymphatic blockage, lymphedema, elephantiasis affects humans only[^14]
+- Adult filariae blocking afferent lymphatic ducts|[^14]
+- 3-4 cm filariae in blood collected at *NIGHT*[^14]
+- TREAT: diethylcarbazine/DEC or doxycycline[^14]
+- Brugia malayi - lymphatic filariasis[^14]
+- Mansonia mosquitos- coastal + SE asia[^14]
+- Fever, lymphatic blockage, lymphedema and ELEPHANTITIS which also INFECTS ANIMALS![^14]
+- 2 cm filariae in blood collected at *NIGHT*[^14]
+- - TREAT: diethylcarbazine/DEC or doxycycline[^14]
+- Pathogen - microfilariae/juvenile worms delivered by mosquito, which then migrate to lymph nodes, mature and then block these vessels to birth more, migrating to the blood[^14]
+- Issue - dead worms = inflammation and coarseness in vessels + skin[^14]
+- Note all the fibrous tissue and eyes seen in the lymphatic vessels[^14]
+- Onchocera volvulus - river blindness, black flies in equator climates worldwide[^14]
+- Subq nodules, pruritic skin, blindness; skitchy scratching seen - little patches[^14]
+- Filariae seen in skin snip- basically huge worm like things[^14]
+- TREAT: ivermectin +/- doxy[^14]
+[^14]: [[-HRR Blood Borne Parasites_Krieg]]
+
+

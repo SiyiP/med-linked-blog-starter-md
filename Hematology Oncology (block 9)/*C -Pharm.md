@@ -212,8 +212,8 @@ Vitamin K = if reduced, gamma-carboxylates the coagulation factors 2, **7**, 9, 
 	1. ==warfarin== - targets this enzyme, note that we still have to clear the fully prepped gamma-carboxylated factors in 4-5 days first, with ==enoxaparin== bridge therapy! monitor with PT bc it's an **extrinsic** pathway measure ; more than 2-3 INR = bleed risk, and less than that is clotting risk 
 		- USE: prevent DVT/PE after heparin therapies , longer terms? 
 		- interactions: food-drug, like inc of vitamin K decreases efficacy, and any disruption of intestinal flora(which makes K) like **antibiotics can inc warfarin efficacy = more GI bleeds**
-		- CYP2C9 gene polymorphisms can decrease warfarin clearance, inc bleed
-		- polymorphism in vitamin K epoxide reductase = warfarin RESISTANCE 
+		- **CYP2C9 gene polymorphisms can decrease warfarin clearance, inc bleed**
+		- **polymorphism in vitamin K epoxide reductase = warfarin RESISTANCE** 
 			- **we can get warfarin induced skin necrosis**
 			- protein C = highest turnover, so if we reduce this too fast, we can get more clots bc it will come together with protein S to degrade 5a, causing more **small vessel microthrombosis in skin** 
 			- CI: pregnant 
@@ -246,6 +246,13 @@ Antimalarials
 there's degrees of complicated v uncomplicated malaria 
 some locally acquired malaria - most likely vivax. 
 - drugs targetting asexual blood stages = to prevent/treat active dz 
+severe malaria - **almost always falciparum!!!**
+- hyperparasitemia, 3-5+% rbcs infected, cerebral malaria with coma, anemia, renal failure, resp failure, impaired conciousness, prostration, convulsions, acidosis, jaundice, pulm edema, shock - really sick pt
+- DOC: **IV ==artemesinin + doxycycline==** immediately 
+- monitor for parasitemia 
+p. vivax + ovale - ==chloroquine + primaquine== = basically chloroquine as initial therapy, then prophylaxis of doses thruout, and then primaquine post-partum to rid those latent ones from the liver. 
+p. malariae/knowlesi - sensitive to ==chloroquine== 
+best prophalaxis = ==atovaquone + proguanil==
 
 **heme is toxic to cells and parasites like malaria! it breaks the food vacuole and starves the cell to death**, so they try to convert it into hemozoin. 
 - blocking conversion of free heme to hemozoin - 
@@ -283,22 +290,91 @@ in the plasmodium, dihydrofolate reductase  DHFR will reduce DHF acid to THF, te
 1. inhibition of DHFR - by **==proguanil==** - 
 	- activity against primary liver stages + ***asexual* blood stages of falciparum + vivax** 
 	- doesn't kill gametocytes but can block normal dev of oocytes in the mosquito gut 
-	1. we combine this with ==atovaquone==, bc the resistance can happen super fast. 
+	1. we combine this with ==atovaquone==, bc the resistance can happen super fast. = for **prophylaxis** + uncomplicated malaria 
 
 note, in the ETC of the plasmodium, we have the ubiquinone aka coenzyme Q as an electron acceptor for the cytbc1 complex there 
-1. ==atovaquone== 
+1. ==atovaquone==  lipophilic analog of coenz q/ubiquinone. so inhibition of e-transport chain
+	- active against the **erythrocytic and tissue trophozoites/shizonts of all plasmodium species**
+	- right after the asexual stages basically 
+	1. we combine this with ==proguanil==, bc the resistance can happen super fast. = for **prophylaxis** + uncomplicated malaria 
 
+protein synthesis happens in the apicoplast (vestigial plastid, like chloroplast non-photosynthetic), basically chloroplast of the plasmodium, where ribosomes facilitate translation, similar to mitochondria
+1. ==doxycycline==, 1st line in severe malarias like falciparum!!!! 
+	- SE: photosensitivity, n/v, and don't give **children + CI in pregnancy**
+	- combo with ==artemesinin==
+2. clindamycin - inhibition of 50S ribosome unit on apicoblast... inhibiting it 
+	- safer in pregnancy 
 
-- inhibit protein synthesis in apicoplast (vestigial plastid, like chloroplast non-photosynthetic) - doxycycline, clindamycin
+blood-borne- protozoal parasites 
+leishmaniasis = parasite from a fly... cutaneous version is disfiguring and visceral form can be scary 
+1. ==sodium stibogluconate== - can be cutaneous or visceral form, inject into cutaneous lesions first choice 
+	- prodrug gets reduced to toxic Sb3+ species that kill amastigotes in the phagolysosomes, interfering with redox + loss of glutathione in the parasite 
+	- SE: panceratitis, LFTs up, bone marrow suppressin, long qt 
 
+Chagas/typanosoma disease of the kissing bug T. cruzi 
+1. ==Nifurtimox== - making nitroradical anions. = cellular dmg! 
+	-  n/v, myalgia, weakness , bone marrow suppression, peripheral neuropathy + gi 
+2. ==benznidazole== -  making nitroradical anions. = cellular dmg!
+	- better tolerated, but might see some urticarial dermatitis hives... manage with bone marrow suppression etc 
 
-quinolines - same mechanisms, a bit different with primaquine 
-- drugs that target primary + latent liver stages hypnozoites of vivax + ovale = primaquines 
-	- primoaquine
-artemesinins - arte- all similar with these
+bloodborne helminths will replicate with microtubules polymerization... which will help cell division related to mitosis 
+1. ==albendazoles== -  inhibit microtubule polymerization by binding b-tubulin and blocking division
+	- good safety but just avoid 1st trimester + longterm stuff 
+	- TARGET: **loa loa**
 
-lumefantrine/atovaquone - all combined commonly with artemesinins
+nematodes like **river blindness onchoceriasis + strongyloides too** have msucles that can move with Cl- channels
+1. ==ivermectin== - tonic paralysis by activating the Cl- channel , causing **hyperpolarization and death via paralysis
+2. good against **onchocerca!!!**
 
-antibiotics - species that carry vestigial organelles that we can target with these
+adult worms like lymphatic filariasis: brugia, wuchereria bancroft (lymphatic systems) and loa loa 
+1. ==diethylcarbamanzine== - has unknown MOA , but good for things that are very disfiguring of lymphatic systems 
+	1. _Wuchereria bancrofti_ and _Brugia sp_.
 
-- drugs targeting asexual erythrocytic forms of parasite and also liver stages  - atovaquones/proguanils 
+---
+chemo agents; paper only?? - memorize for sketchy: 
+
+kinase inhibitors sketchy 
+
+monoclonal antibx sketchy: 
+
+---
+pharmacogenetics - importance - now NGS testing is non-negotiable before prescribing 
+
+how small diff in gene products determine response - for more accurate dosing + new more targeted drugs + improved healthcare 
+we use a normal distribution drug curve to choose the doses - high and low responders are tails of bell curve, ppl you need to worry about 
+- monogenic. - due to allelic variation at one gene
+- polygenic - due to 2+ genes
+- polymorphic - frequently occuring monogenic variants at 1%+, like with SNPs, the maker of mnogenic variants  
+	-  if the SNPs vary for drug metabolism/efficacy, freq distributions should be bimodal or multi modal
+
+so **arrays of phase I + II metabolism genes** regulate pharm, like ADMET = absorption, distribution, metabolism, excretion, toxicity 
+	Phase I: Yields a polar, water-soluble, metabolite that is often still **active**. Many of the products in this phase can also become substrates for phase II.
+		- very common are p450s, 
+		- and p4502D6 - which demehtylates prozac.... huge for SSRIs, targetting this 
+			- if you dont't have this, prozac is active 
+			- if you have this, this drug is inactive 
+	Phase II: Yields a **large polar metabolite** by adding endogenous hydrophilic groups to form **water-soluble inactive compounds that can be *excreted* by the body.**
+codeine - a pro-drug that needs metabolism to morphine via CYP2D6... 
+- patients fall into 4 genetic subgroups and might have low levels of CYP2D6, which doesn't work 
+- 6-mercaptopurine - azathioprine - toxic in small part of population bc monogenic inheritance of **thiopurine methyltransferase TMPT activity**
+	- low activity = death 
+	- dec activity = severe toxicity .... bc we need to use this to EXCRETE it 
+
+ irinotecan - toxic effects in some patients = **UDP-glucuronosyltarnsferase 1A1 gene = the variant causes toxicity**
+ - basically UDP-glucuronosyltarnsferase 1A1 gene adds glucuronoyl group, making it more excretible. and then the bacteria can take that off in your intestines and reabsorb it 
+
+why are some gliomas resistant to nitrosurea alkylating agents
+- anyting that alters promoter seq of NGMT methylguanine DNA methyl transferase 
+- basically methylation of promoter region of ngmt might silence the genes. 
+
+red and blonde ppl need more anesthesia - 
+- red hair = associated with mutations on the **melanocortin-1 receptor gene MC1R** , used to be involved in melanogenesis
+- loss of MC1R function - decrease in eumelanin 
+- mc1r gene =  involved w complex neuromodulatory regulation in the CNS , so more anesthesia needed 
+
+glutathione s-transferase - used to detox ROS ... but some ppl who have the D genotype have difficulty getting it gone 
+
+KRAS G12C inhibitors in non small cell lung cancers 
+-  it's 13% of NSCLC
+-  - driver mutation = **kras is a GTPase, so constitutive activation of that leads to tumor proliferation**
+- mechanism of adagrasib - to bind that KRAS G12C mutant protein which traps it in inactive state = only effective w this one mutation! 

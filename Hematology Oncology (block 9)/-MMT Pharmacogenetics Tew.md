@@ -39,7 +39,7 @@ genetic polymorphisms in drug metabolizing enzymes - both of these are there to 
 - phase 2 enzymes = adding more bulky things - changing the drug to make it more diff from parent. 
 
 biochem pathways are key to get pharmacogenetic findings
-- irinotecan - toxic effects in some patients = **UDP-glucuronosyltarnsferase 1A1 gene = the variant causes toxicity** ; basically this will add that glucuronyl group to the drug, making it more excretable
+- ==irinotecan - toxic effects in some patients = **UDP-glucuronosyltarnsferase 1A1 gene = the variant causes toxicity**== ; basically this will add that glucuronyl group to the drug, making it more excretable
 	- some ppl don't have that capacity, so they don't end up excreting the product
 	- once you have that drug glucuronidated, those bacteria in your intestines can take off that glucuronyl group and reabsorb it 
 - pharmacogenic advances come from phase I/II clinical trials - 
