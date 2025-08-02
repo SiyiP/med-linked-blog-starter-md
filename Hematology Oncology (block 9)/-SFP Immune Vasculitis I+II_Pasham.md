@@ -74,122 +74,121 @@ different skin layers = more used to choose what biopsy to choose?
 	- ==abrupt onset -== 
 		- ==palpable purpura, new onset htn with renal artery involvement - red patches with slight bump== 
 		- ==intestinal ischemia, abd pain + bloody in stool== 
-		- **mononeuritis mutliplex** - nerves not working, loss of them!!! this is classically a wrist drop! many nerves affected bc of vasculature, **so the distribution of nerves aren't rlly making sense in terms of grouping**
-		- livedo reticularis - beaming patterns, white and red microhemorrhage patterns, circles everywhere
-		- splinter hemorrhages + digital gangrene(looks red + some stuff)
+		- ==**mononeuritis mutliplex** - nerves not working,== loss of them!!! ==this is classically a wrist drop! many nerves affected bc of vasculature, **so the distribution of nerves aren't rlly making sense in terms of grouping**==
+		- ==livedo reticularis - beaming patterns, white and red microhemorrhage patterns, circles everywhere==
+		- ==splinter hemorrhages + digital gangrene==(looks red + some stuff)
 		- testicular pain
-		- **lungs are fine suprisingly** 
-	- pathologically - **necrotizing inflammation will extend thru the vessel wall -> HEAL INTO FIBROSIS -> into the perivascular tissue, inflammatory aneurysms develop**
-		- if you heal into fibrosis, it canot handle the pulsatile nature of blood = we get blood pouching out with the "healed part of the wall" = **pseudo aneurysm**
-		- seen dramatically, with white circular thickening and strong random white dots of blood on the angiogram. 
+		- ==**lungs are fine suprisingly; they're spared**== 
+	- pathologically - ==**necrotizing inflammation will extend thru the vessel wall -> HEAL INTO FIBROSIS -> into the perivascular tissue, inflammatory aneurysms develop**==
+		- if you heal into fibrosis, it canot handle the pulsatile nature of blood = ==we get blood pouching out with the "healed part of the wall" = **pseudo aneurysm** bc fibrotic tissue can't handle the pulsatile nature of blood==
+		- seen dramatically, with ==white circular thickening and strong random white dots of blood on the angiogram, beads.== 
 		- there's a danger there. - healed process can't contain the blood flow, might rupture and cause hemorrhage everywhere
-	- DX: biopsy if skin involved, but target the organ while avoiding kidney biopsy 
+	- ==DX: biopsy if skin involved, but target the organ while avoiding kidney biopsy== 
 		- ESR
 		- hep b sero
 		- angiography 
-	- TREAT: death in 1-2 yrs, but prednisone 1 mg, and give pulse dose of iv pred if fulminant. 2nd line ? - 
-2. kawasaki dz - necrotizing arteritis with MCLN syndrome 
-	- aka mucocutaneous lymph node dz = meaning conjunctiva involved, soetimes you have lymphadenopathy - we see some red inflammation around mouth mucous membrane 
-		- also desquamation in it, came up in **desquamated rASH**
+	- ==TREAT: death in 1-2 yrs, but prednisone 1 mg, and give pulse dose of iv pred if fulminant.== 2nd line ? - 
+2. ==kawasaki dz - necrotizing arteritis with MCLN syndrome== 
+	- aka ==mucocutaneous lymph node dz = meaning conjunctiva involved==, soetimes you have ==lymphadenopathy - we see some red inflammation around mouth mucous membrane== 
+		- ==also desquamation in it, came up in **desquamated rASH/peeling skin**==
 	- acute fetal illness of infancy + early childhood 
-	- antiendothelial antibodies
-	- self limited, but **can cause vasculitis of coronary a and lead to MI in a kid!**
-	- **TREAT: iv immunoglobulins + aspirin to reduce CV** sequelae 
+	- ==antiendothelial antibodies==
+	- ==self limited, but **can cause vasculitis of coronary a and lead to MI in a kid!**==
+	- ==**TREAT: iv immunoglobulins + aspirin to reduce CV** sequelae bc of risk of CAD and MI== 
 	- coronary artery aneurysms -> MI and death 
 
-small vessel vasculitis
+==small vessel vasculitis==
 ---
-- all have the petechial hemorrhage dots picture, happening everywhere 
-- palpable purpura/petechia = more associated in small vessel vasculitis! similar to polyarteritis nodosa 
-- anca associated
-	- antineutrophil cytoplasmic antibodies = bc of some trigger, ur body made these , and these would hyperactivate neutrophils, which then cause them to mediate a vasculitic attack to small capillarities
-	- glomerulonephritis picture bc of that attack on small cpaillaries!! 
-	- P-anca = **perinuclear = MPO association**
-	- C-ANCA = cytoplasmic, 90% is due to proteinase 3... PR3 
+- ==all have the petechial hemorrhage dots picture, happening everywhere== 
+- ==palpable purpura/petechia = more associated in small vessel vasculitis! similar to polyarteritis nodosa== 
+- ==anca associated==
+	- ==antineutrophil cytoplasmic antibodies== = bc of some trigger, ur body made these , and these would ==hyperactivate neutrophils, which then cause them to mediate a vasculitic attack to small capillarities==
+	- ==glomerulonephritis== picture ==bc of that attack on small capillaries!!== 
+	- ==P-anca = **perinuclear = MPO association**==
+	- ==C-ANCA = cytoplasmic, 90% is due to proteinase 3... PR3== 
 	- must confirm these with antigen specific pr3 and mpo tests
-![[p anca vs c anca.png]]
+==![[p anca vs c anca.png]]==
 c-anca on the left, and then the perinuclear ones on the right "hug" the neutrophil lobes 
-	1. granulomatosis with polyangitis
-		- 30-50 yr old, male female 1:1 
-		**- more in caucasian groups, c-ANCA and PR3 poz in 85% of these cases!** 
-		- upper resp tract, "**saddle nose" deformity!!!** 
-		- tracheal stenosis, mass lesions that are invasive, so **many ENT symptoms** like otitis media, proptosis, sinusitis, and some Lower resp nodular lesions + **cavitary lesions (mimic TB)**
-		- insidious until suddenly you get **pauci-immune crescentic glomerulonephritis**  
-		- some skin + ocular manifestations, **unilateral one eye popping out** possibly
-		- elastin highlights black part of vessel - shows **discontinuity in elastin of the vessels**
-		- granulomas + giant cells can form in GPA, distinguish from large cell vasculitises with ANCA poz, renal involvement, and lower resp tract 
-		- TREAT: high mortality ): initial immunosuppressive of prednisone, then cyclophosphamide or rituximab IV ;;; **maintenance immunosuppression after achieving remission** ; 
-		**- pneumocystis carinii / jiroveci pneumonia prophalyxis** bc of care to lungs! 
-		- 
-	2. MPA - microscopic polyangiitis 
-		- renal + lung heavy involvement!!!!
-		- similar to GPA, but does NOT have upper resp tract involvement 
-		**- P-ANCA is poz most of the time**
-		- necrotizing vasculitis in small vessels with little to no immune depos 
-		- necrotizing glomerulonephritis + pulm capillaritis 
-		- hyperacute = rapidly prog glomerulonephritis, pulm hemorrhage
-		- insidious = intermittent constitutional symptms, purpura, mild renal + hemoptysis sometimes 
-		- **SEGMENTAL necrosis = same cresent as GPA**
-		- more **HEMORRHAGIC PICTURE** - not a huge amount of cavitary lesions nor are there a lot of giant cells .... hemorrahgic in CXRAY is more fuzzy or fluffy 
+	==1. granulomatosis with polyangitis==
+		==- 30-50 yr old, male female 1:1== 
+		**- more in caucasian groups, ==c-ANCA and PR3 poz in 85% of these cases!**== 
+		==- upper resp tract, "**saddle nose" deformity!!!**== 
+		- ==tracheal stenosis, mass lesions that are invasive, so **many ENT symptoms**== like otitis media, proptosis, sinusitis, and some Lower resp nodular lesions + ==**cavitary lesions (mimic TB)**==
+		==- insidious until suddenly you get **pauci-immune crescentic glomerulonephritis**==  
+		- some skin + ocular manifestations, ==**unilateral one eye popping out** possibly==
+		==- elastin highlights black part of vessel - shows **discontinuity in elastin of the vessels**==
+		==- granulomas + giant cells can form in GPA, diff from large cell vasculitises bc ANCA poz, renal involvement, and lower resp tract== 
+		==- TREAT: high mortality ): initial immunosuppressive of prednisone, then cyclophosphamide or rituximab IV ;;; **maintenance immunosuppression after achieving remission** ;== 
+		==**- pneumocystis carinii / jiroveci pneumonia prophalyxis** bc of care to lungs!== 
+	==2. MPA - microscopic polyangiitis== 
+		==- renal + lung heavy involvement!!!!==
+		- similar to GPA, but ==does NOT have upper resp tract involvement== 
+		==**- P-ANCA is poz most of the time**==
+		==- necrotizing vasculitis in small vessels with little to no immune depos== 
+		==- necrotizing glomerulonephritis + pulm capillaritis== 
+		==- hyperacute = rapidly prog glomerulonephritis, pulm hemorrhage==
+		- ==insidious = intermittent constitutional symptms, purpura, mild renal + hemoptysis sometimes== 
+		==- **SEGMENTAL necrosis = same crecsent as GPA**==
+		- ==more **HEMORRHAGIC PICTURE**== - ==no cavitary lesions nor are there a lot of giant cells ....== hemorrahgic in CXRAY is more fuzzy or fluffy 
 		- TREAT: steroids + cyclophosphamide  if need
-	3. eosinophilic granulomatosis with polyangiitis EGPA 
-		- insidious prodrome: 
-			- **allergic prodrome , with ASTHMA adult onset!!!**
-			- eosinophilic pneumonia + gasteroenteritis
+	==3. eosinophilic granulomatosis with polyangiitis EGPA== 
+		==- insidious prodrome:== 
+			==- **allergic prodrome , with ASTHMA adult onset!!!**==
+			==- eosinophilic pneumonia + gasteroenteritis==
 		- prodrome may abate with vasculitis onset 
-		**- ANCA+ MPO P anca mainly** 
-		there can be a neuro involvement with peripheral neuropathy 
-		- but in vasculitis phase there's mainly a pulm dz, fleeting but lobar, interstitial, and nodular patterns on xray 
-		- sometimes we see pulm hemorrhage **without renal dz** 
-		- poor out come with azotemia, **CNS involvement,** cardio , proteinuria + GI involvement unless treated 
+		==**- ANCA+ MPO P anca mainly**== 
+		==there can be a neuro involvement with peripheral neuropathy== 
+		- but in ==vasculitis phase there's mainly a pulm dz, fleeting but lobar, interstitial, and nodular patterns on xray== 
+		- sometimes we see ==pulm hemorrhage **without renal dz**== 
+		==- poor outcome with azotemia, **CNS involvement,** cardio , proteinuria + GI involvement unless treated== 
 
 ---
-- non-anca-associated
-	1. IGA vasculitis 
-		- HSP , palpable purpura in **children**, 50% less than 5 yrs ; slight bumpiness to it 
-		- igA depo on histopath 
-		- leukocytoclastic vasculitis + arthritis + abd pain+ skin lesions 
-		- **igA nephropathy and igA vasculitis look exactly the same. it's just that IgA vasculitis doesnt HAVE to involve the kidney**
+- ==non-anca-associated==
+	1. ==IGA vasculitis== 
+		- HSP , ==palpable purpura in **children**, 50% less than 5 yrs ; slight bumpiness to it== 
+		- ==igA depo on histopath== 
+		- ==leukocytoclastic vasculitis + arthritis + abd pain+ skin lesions== 
+		- ==**igA nephropathy and igA vasculitis look exactly the same. it's just that IgA vasculitis doesnt *HAVE* to involve the kidney**==
 		- where does igA deposit? just realize that IgA vasculitis can be renal, but igA nephropathy is renal-limited 
-		- better prognosis in kids, spontaneously resolves. but in adults and older kids, 10-30% go to chronic renal dz and end stage renal failure 
+		- ==better prognosis in kids, spontaneously resolves.== but in ==adults and older kids, 10-30% go to chronic renal dz and end stage renal failure== 
 		- TREAT: no controlled studies, but success with early corticosteroids if renal involved. 
-	2. hypersensitivity vasculitis - small vessel cutaneous vasculitis
-		- similar pic to above , just has more association with serum sickness and drug rxns : fever, arthralgia, malaise
-		- distinguished by **IgG deposition**
-		- can also be in older ppl 
-		- often: abrupt onset of rash, **arthus rxn or type 3 hypersensitivity, = COMPLEMENT** papular eruption more in dependent areas, discrete or coalescent lesions 
+	2. ==hypersensitivity vasculitis - small vessel cutaneous vasculitis==
+		- similar pic to above , just has more association with ==serum sickness and drug rxns : fever, arthralgia, malaise==
+		- ==distinguished by **IgG deposition**==
+		- ==can also be in older ppl== 
+		- often: ==abrupt onset of rash, **arthus rxn or type 3 hypersensitivity, = immune complex mediated** papular eruption more in dependent areas, discrete or coalescent lesions== 
 		- TREAT: remove offender + give steroids 
 
-3. Behcet disease = outside the box 
-	- systemic vasculitis = involving vessels of all sizes on both arteries + venous sides; pulm + neuro has large morbidity 
-	- has pathergy - smallest trauma can result in abnormal ulcerations , similar to pyoderma gangrenosum 
-	- more freq seen in jp, ME, and mediterranean region 
-	- usually young adults 20-40, men 
-	- **oral + genital ulcers for years!!!!**
+3. ==Behcet disease = outside the box, ulcerations + HLA-B51== 
+	- ==systemic vasculitis = involving vessels of all sizes on both arteries + venous sides; pulm + neuro has large morbidity== 
+	- has ==pathergy - smallest trauma can result in abnormal ulcerations , similar to pyoderma gangrenosum== 
+	- more ==freq seen in jp, ME, and mediterranean region== 
+	- ==usually young adults 20-40, men== 
+	- ==**oral + genital ulcers for years!!!!**==
 		- recurrent oral thing , painful- many lesions 
 		- buccal mucosa on gingiva, lips tongue
-	- followed by ocular + neuro manifestations 
-		- blindness, anterior uveitis, some conjunctivitis too 
-		- hypopyon iritis = eye fill with pus 
+	- ==followed by ocular + neuro manifestations== 
+		- ==blindness, anterior uveitis, some conjunctivitis too== 
+		- ==hypopyon iritis = eye fill with pus== 
 	- other cutaneous lesions 
 		- erythema nodosum , pyoderma gangrenosum
 		- acneiform lesions, and 
 		- pustular lesions = including pathergy lesion - **if you puncture their skin sterily they still get a pustular lesion = this is called a pathergy phenomenon**
-	- involving all diff areas of body including arthritis, seizures, HA, GI 
-	- relapsing + remitting course with more aggressive in men 
+	- ==involving all diff areas of body including arthritis, seizures, HA, GI== 
+	- ==relapsing + remitting course with more aggressive in men== 
 	- HLA-B51 association 
 	- DIFFERENTIALS: IBD, SLE, Reactive arthritis, herpetic infections = **all ulcer causing things**
 	- TREAT: steroids 
 	- systemic = more steroids 
 
-4. Thromboangiitis obliterans -= buerger's disease
-	- male smokers = age 25-50 
-	- HLA association
-	- vasculitis + thrmobosis of MEDIUM vessels
-	- israel, jp, india 
-	- raynaud's phenomenon, vascular insufficiency, pain , chronic ulcerations 
-	- see very intense vascular occlusions 
-	- pathology - we see complete fibrinoid completely sealing off the vessel - autoamputation of finger tips! 
-	- TREAT: stop smoking 
+4. ==Thromboangiitis obliterans -= buerger's disease==
+	- ==male smokers = age 25-50== 
+	- ==HLA association==
+	- ==vasculitis + thromobosis== of ==MEDIUM vessels==
+	- ==israel, jp, india== 
+	- ==raynaud's phenomenon, vascular insufficiency, pain , chronic ulcerations== 
+	- see ==very intense vascular occlusions== 
+	- pathology - we see ==complete fibrinoid completely sealing off the vessel - autoamputation of finger tips!== 
+	- ==TREAT: stop smoking== 
 
 

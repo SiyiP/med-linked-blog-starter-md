@@ -415,7 +415,7 @@ bleeding disorders in neonates
 - trauma = major causes of bleeding - post traumatic hemorrhage
 	- direct injury to BV 
 	- trauma-induced coagulopathy = development TIC of this is bleeding NOT associated with the site of direct injury, seen in 40% of deaths 
-		- cause of it - a lethal triad:
+		- cause of it - a lethal triad: hemodilution, acidosis, hypothermia 
 		- hemodilution - use of only rbcs in resuscitation diluting platelets and coagulation factors + large volume of crystalloids 
 		- acidosis - certain med, sedation, lactate due to tissue injury 
 		- hypothermia - infusion of cold fluids like blood, shock (traumatic brain injury = loss of function to regulate temp)
