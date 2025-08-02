@@ -9,14 +9,14 @@ platelet drugs, anticoagulants and then anti-fibrolitics
 - thrombolytics 
 - reversal agents - note that these can be used instead of these specific drugs = agent of circumstance. you can pick any pretty much 
 - antifibolytic drugs 
-abnormal  coagulation - see venous thrombosis DVT - pretty common, basically venous valves are common - see turgidity/low flow , associated pathology of platelet+RBC coagulation , red thrombsis
+abnormal coagulation - see venous thrombosis DVT - pretty common, basically venous valves are common - see turgidity/low flow , associated pathology of platelet+RBC coagulation , red thrombsis
 arterial thrombosis - irregularities on endothelial lining - atherosclerotic plaques = foci for platelet aggregation = **white thrombis** = stroke + heart attack/MI = there's anti-platelets of preventive measures. extra risk in prosthetic heart valves precipitating clots. also a-fib, and knee/hip replacement surgeries. 
 
 platelet phase - they adhere to subendothelial factors exposed by trauma .... including vWF and collagen. adhesion mediated by GPIa/IIa + GPIb
 adhesion + activation => feed forward activation loop, more and more granules and ADP from platelets will cause more and more platelets to aggregate. any time you see P2y = think gpcrs that bind to ADPs, that can bind together. 
 - p2y1 and p2y12 = purogenic receptors that ADP binds to => **stimulates GPIIb/IIIa receptors** = binds to fibrinogen, causes platelet adherence to each other in 2ndary plug + stimulates COX1 = releases thromboxane A2 TXA2 to aggregate platelets. 
 - COX1 stimulation also happens with collagen interaction with its receptor 
-- ca2+ released from granules = cofactor for many proteases in coagulation cascade - linking platelet + coag phases to make poz feedback loop 
+- Ca2+ released from granules = cofactor for many proteases in coagulation cascade - linking platelet + coag phases to make poz feedback loop 
 - PAR1/4 = protease activated receptors = GPCRs *activated by thrombin factor 2a* in cascade... like Ca2+ , provides link between platelet + coagulation phases, making a poz feedback loop! = > **permenantly activated!**
 	- just focus on the drug targets
 - PGI2 = prostaglandin made by endothelial cells' COX2 to inhibit platelet aggregation 
@@ -100,7 +100,7 @@ anticoagulants - heparin
 	- tends to have better bioavailability + subq administration self-administer! 
 	- no routine lab monitoring bc predictable and platelet factor 4 less interaction so HIT is less common 
 	- longer half-life, exclusively cleared by kidneys so CI in ppl with renal insufficiency 
-	- **this is a bridge to oral coagulant like warfarin bc it takes several days to achieve the therapeutic INR**. 
+	- **this is a bridge to oral anticoagulant like warfarin bc it takes several days to achieve the therapeutic INR**. 
 	- NOT reversible by protamine sulfate 
 - fondaparinux - smaller one - only has **factor Xa activity** !!!!!
 	- used for pt going thru hip + knee surg/hip fracture in pts with DVT/PEs. not for stenting or **any big cardio surgeries**

@@ -72,7 +72,7 @@ lumefantrine - used in combo with ACT therapy - oral
 - high half life 4-5 days, administration with high fat meal 
 - AEs: n/v diarrhea + rash 
 
-proguanil - inhibitor of dihydropfolate reductase DHFR of the plasmodium 
+proguanil - inhibitor of dihydropfolate reductase DHFR of the plasmodium ...
 - activity against primary liver stages + asexual blood stages of falciparum + vivax 
 - doesn't kill gametocytes but can block normal dev of oocytes in the mosquito gut 
 - most commonly **combined w atovaquone!** = bc resistance can occur fast but this stops it from getting resistance 
