@@ -11,7 +11,7 @@ progression
 - growth of tumor in size + metastasis 
 
 tumor - think of the microenvironment and an organ 
-- cancer stem cells - few f these, very crucial for tumor regrowth even if all cancer cells are murked
+- cancer stem cells - few of these, very crucial for tumor regrowth even if all cancer cells are murked
 - cancer associated fibroblasts - crosstalk between fibroblasts + cancer cells 
 - immune inflammatory cells - promote the tumor 
 - endothelial cells 

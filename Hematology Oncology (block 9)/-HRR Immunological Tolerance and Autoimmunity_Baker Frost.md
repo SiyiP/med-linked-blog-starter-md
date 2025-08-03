@@ -16,7 +16,7 @@ CTLA-4 is a checkpoint inhibition molecule expressed by T-cells only (CTL is in 
 - FoxP3 is a transcription factor unique to Tregs, so they are in Lane C **Another marker of Tregs is high expression of CD25, the alpha-chain of IL-2 R, but that will also be expressed to a lesser degree on all antigen activated T-cells, and so it is not a unique marker.**
 
 
-immature B-cells are capable of activating unused alleles of Ig light chains when a heavy chain - light chain combination results in a BCR with strong affinity for self antigens. = this is reeptor editing 
+immature B-cells are capable of activating unused alleles of Ig light chains when a heavy chain-light chain combination results in a BCR with strong affinity for self antigens. = this is reeptor editing 
 
 AIRE - autoimmune polyendocrine syndrome. 
 Complement - lupus and other immune complex disorders. 

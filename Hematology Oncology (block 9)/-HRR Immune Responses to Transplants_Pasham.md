@@ -23,7 +23,7 @@ biggest transplant barrier - rejection + t cells + antibodies that can react and
 
 this is an adaptive immune phenomenon !!!
 - prior exposure to donor MHC -> accelerated graft rejection = showing memory + specificity 
-- ability to rapidly rejet is mediated by lymphocytes and can be transferred by lymphocytes to a naive individual 
+- ability to rapidly reject is mediated by lymphocytes and can be transferred by lymphocytes to a naive individual 
 - depletion/inactivation of t lymphocytes = reduced graft rejection 
 **memory specificity + lymphocyte mediation points at adaptive immune phenomenon**
 rejection - t cells + antibodies made against antigens react and destroy - huge thing is HLA proteins as the main thing 
