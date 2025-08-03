@@ -32,7 +32,9 @@ Stage 2: periphery peripheral tolerance in the mature lymphocytes
 	- PD-1 , not expressed on t-regs , ==inhibits any signals from TCR complex + CD28== = taking away that secondary stimulation, so in effector phase = ==**signaling inhibitor; *peripheral tissues!!!***. CD8>CD4+== 
 	1. . activation induced cell death -  peripheral t cell deletion = AICD... this is in absence of low/no costimulators, **no IL-2 so we have death, since IL-2 is typically an inhibitor of the apoptotic proteins**
 		1. FAS: autoimmmune lymphoproliferative syndrome alps; defective apoptosis of self reactive t and b cells of **periphery
-	2. tolerance = in periphery due to **AIRE** - if we mutate htis we have APS, causing defective elimination of self reactive t cells 
+		2. FAS-FASL = induce apoptotic death of SELF reactive lymphocyte s
+	2. tolerance central due to **AIRE** - if we mutate htis we have APS, causing defective elimination of self reactive t cells 
+		- this protein controls expression of self-antigens in thymus = **CENTRAL self tolerance**
 
 B cells in periphery 
 - anergy happens due to no t cells 
@@ -232,7 +234,6 @@ tumors can exist without disease, like 1/3+ women have in situ tumors in breast,
 	- **adaptive immunity against it** ; like immune responses against tumors inhibit the tumor growth. 
 	- also u can transfer immune arm onto another to prevent tumors, transfer the lymphocytes 
 - 	- immunodeficient ppl have a higher rate of some tumors 
-- 	- **immune checkpoint inhibitors of PD-1 and CTLA-4 = blocking these lead to tumor remission**
 
 TSA: tumor-specific antigens = proteins only expressed by tumors
 tumor ASSOCIATED antigens - normal cell hve it but **overexpressed** in tumor cells 
@@ -268,6 +269,53 @@ but cancerls can evade this!!! immunoediting in phases:
 		- most commonly: **tumor makes inhibitory ligand, telling t cell to shut down** -> expression of PD-L1 in tumor cells 
 		- of have IL-23 = making CD4+ proinflammatory, promoting a tumor 
 		- TGF-b = gives you t-reg cells which will make tumor progress by suppressing the CD8+ 
-		- IL-4 can make the cell mediated stuff shut up and do antibody response instead, **and antibodies aren't that effective against tumors, not helpful
-tumor 
+		- IL-4 can make the cell mediated stuff shut up and do antibody response instead, **and antibodies aren't that effective against tumors, not helpful**
+tumor environment would as a result make the **type 2 microenvironment**
+- Tregs and everything else shuts down the immune function 
+- tumor milieu - immune system doesn't function anymore
+- type 1 response is the t cells attacking 
+1. phase 3: escape
+	1. now we got a type 2 environment, more and more tumor growth = death 
+
+immunotherapy 
+- higher specificity than chemo/radiation 
+cytokine therapy -
+3 groups interferons:
+	- type 1(IFN-a, IFN-b), type 2(IFN-g) , type 3 (IFN-delta)
+	- IFN-a only one approved for leukemias/lymphomas, renal cell cancer + melanoma 
+- interleukins
+	- il2 = toxic, sustains the t cells response, expanding t cells without loss of functionality + regressions might occur
+	- IL15 = sustains T cell + NK cell prolif;l less toxic but recomb protein shortlived. 
+
+Dendritic cell therapy - take dendritic cells from patient, pulsed them with tumor lysate/short peptides which respond to antigen of tumor , then inject back in
+- dendritic cells would antigen present to the tumor-specific t cells 
+1. MUC1 = epithelial mucin , helps patients show immunity against tumors and against this. 
+	1- mmunogenic + safe but not effective
+		helpful against low tumor burden but high recurrence chance like colon cancer 
+
+antibody therapy - end in -mab 
+immune checkpoints = basically IFN-gamma mediated expression of PD-L1 
+- - th1 response = secretion of IFN-g by lymphocytes
+- - IFN-g -> **PD-L1 expression in tumor cells**
+- this inhibits the T cell. so we need to block this 
+
+recall: CTLA-4 - B71 and B72 binding to this inhibits the t cell killing
+- you need to generate the antibody that blocks this 
+
+immune cell therapies  **risk of living drugs: 
+	- **basically you can't control the dose or impact of the dose that well if the cells are alive**
+	- cytokine release syndrome**, too many t cells put into girl and expanded too fast: released everything, caused a lot of illness!!!
+	- HUGE con: takes like 8 wks to grow special cells, and they may not have that long to live. 
+- - tumor infiltrating lympohcytes (TIL)
+	- harvesting tumor infiltrating lymphocytes for **expansion in vitro, then putting them back in - not all pts have these**
+- t cell receptor TCR gene modded cells
+	- take peripheral t cells , transduce with vector carrying TCr specific for tumor antigen, and then readminister
+	- drawback - **we need the specific TCR and also it's restricted to Class 1 MHC**
+- adoptive t cell transfer protocol 
+- engineered cell therapy - - if we know the tumor antigen, we can make a chimeric antigen receptor instead
+	- CARs inside T cell = same as a TCR, but on the outside, acts like an antibody 	- so it's not necessarily MHC 1 restricted, everyone is eligible 
+	- why there are so many of these products - many domains and also many costimulatory molecules can be used. 
+	- 
+
+
 

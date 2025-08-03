@@ -105,7 +105,7 @@ Dendritic cell therapy
 - take dendritic cells from patient, pulsed them with tumor lysate/short peptides which respond to antigen of tumor 
 - then make a vaccine and give it to the person , 
 - basically then dendritic cells would antigen present to the tumor-specific t cells 
-1. MUC1 = helps patients show mmunity against tumors + against epithelial mucin MUC1
+1. MUC1 = helps patients show immunity against tumors + against epithelial mucin MUC1
 	- immunogenic + safe but not effective ): bc of pre-existing strong immunosuppressive cancer environment of the tumor ; **must give to patients of low tumor burden but high recurrence chance**
 	- now we have the shift to a preventative approach. - good to combat recurrence of colon cancer 
 
