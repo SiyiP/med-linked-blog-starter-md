@@ -68,7 +68,7 @@ cell cycle non-specific drugs = these all impact things outside of the cell cycl
 			- TOXICITIES: liver
 		2. 6-thioguanines = leukemias
 			- TOXICITIES: liver
-		3. cladribine = leukemias+lymphomas 
+		3. cladribine = leukemias+lymphomas , specifically hairy cell leukemia 
 			- TOXICITIES: neuropathy 
 			- inhibits adenosine deaminase 
 	- *Deoxycytidine analogues*

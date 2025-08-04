@@ -31,7 +31,7 @@ Arthropod virus = arboviruses, all got 3 symptoms[^8]
 	- One vaccine dose = lifelong protection, give it 9+ months of age[^8]
 3. Chikungunya virus[^8]
 	- Acute onset of fever + *polyarthralgia*, joint symptoms bilateral/symmetric but severe and debilitating[^8]
-	- **Cannot differentiate from dengue** unless we take these labs/PCR test: ==lymphopenia , thrombocytopenia, elevated creatinine, hepatic transaminases[==^8] - an extra focus on the **liver+kidney** it seems. 
+	- **Cannot differentiate from dengue** unless we take these labs/PCR test: ==lymphopenia , **thrombocytopenia**, **elevated creatinine**, hepatic transaminases[==^8] - an ==extra focus on the **liver+kidney**== it seems. 
 	- Mortality is rare tho[^8]
 4. Zika virus -[^8]
 	- Asymptomatic/nonspecific fever w/ maculopapular rash, headache, conjunctivitis, arthralgia, rarely severe[^8]

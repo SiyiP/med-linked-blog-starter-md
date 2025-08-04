@@ -519,7 +519,7 @@ adult t cell leukemia/lymphoma = ATLL
 
 ---
 
-langerhans cell histiocytosis - LCH 
+langerhans cell histiocytosis - LCH = hans-schuller-christian disease
 - accessory cells that mainly present antigen to lymphocytes - they have an elongated nuclei with grooves , might be multinucleated, pale eosinophilic cytoplasm,
 	- usually have birbeck granules = granules shaped like tennis rackets in e-microscopy 
 - this disease = abnormal prolif of these
