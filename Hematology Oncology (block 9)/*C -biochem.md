@@ -70,3 +70,60 @@ hepatic jaundice = defect in transport(no MRP2 taking it across into bile canali
 posthepatic = biliary obstrution **like we see pale feces.** 
 
 ---
+nucleotide metabolism 
+base = A/G/U/C
+when it's a ribonucleoSIDE(just hte pentose none of the sugars)
+- adenosine, guanosine, uridine, cytidine
+when it has one phosphate group: AMP/GMP/UMP/CMP
+overview -
+- basically glutamine -> provides NH4+, and then bicarb, aspartate and PRPP all goes in to de novo synthesis 
+- purines also need extra **N10fTHF** and glycine, they eventually make IMP ;; the PRPP is made onto the ring, ring constructed onto it 
+	- IMP => ATP+GTP; adenine and guanine 
+	- ATP -> gets broken into adenine, hypoxanthne and then xanthine
+	- GTP gets into guanine and then xanthine at the end 
+	- all purines bcome uric acid at the end of brkdown
+- pyrimidines , all that PRPP gets added after the ring is made
+	- pyrimidines are cytosine, uracil, thymine 
+	- so bicarbonate + NH4 from glutamine => carbamoyl phosphate with **CPS-II**, making the ring while combining it all with **aspartate too**, with the help of the enzyme **ATCase**
+		- CPS-II is a key regulated step in eukaryotes 
+			- activation with PRPP and ATP 
+			- deactivation with UTP/UDP/dUDP/CTP etc. 
+			- **in S phase, for DNA synthesis, CPS-II becomes more sensitiv to activation and less so to inhibition.** opposite at end of S phase
+				- this is due to phosphorylation of CPS-II by a map kinase 
+		- with this step, you phosphorylate bicarb, then ammonia replacs the phosphate leaving grup, and then you have it phorphorylated again, putting the phosphate group on the othr side to make carbamoyl phosphate 
+	- then you **close the ring** with **dihydroorotase**
+	1. **complex = CAD = CPS2+ATCase+dihydroorotase**, which is a complex to turn bicarbonate + glutamine into cps-2, add aspartate for the ring, and then close the ring 
+	- after you make the ring, you move stuff around with a mitochondrial enzyme **dihydroorotate dehydrogenase**, which takes electrons from it using NAD+ , making **orotate**
+		- inhibited by leflunomide , which is a disease modifying antirheumatic drug DMARD= **targets t cell expansion**
+	- the orotate gets added with a PRPP with **orotate phosphoribosyl transferase** -> making OMP !!!
+		- OPRT!!! adds the pRPP to the pyrimidine ring orotate 
+	- **orotidylate decarboxylase makes** UMP from OMP, 
+		- ODC = this is a decarboxylation rxn, very efficienc 
+	1. UMPs = complex of orotate phosphoribosyl transferase and orotidylate decarboxylase 
+		1. basically OPRT+ODC
+		2. **hereditary orotic aciduria is due to this UMPs deficincy**, treat with uridine ... **high lvls orotic acid, megaloblastic anemia, severe mental, pysical delays.**
+	- UMP which can be turned into UDP by using **UMP kinase!!!!**
+	- UDP can be turned into UTP via **nucleoside diphosphate kinase**
+	- UTP turned into CTP via amination with **CTP synthase...** CTP can then be made to make RNA 
+		-  then the CTP can be turned into dCTP for DNA
+	- UTP via **methylation** or CTP via **amination....**
+		- and as you know, that TMP is already on route to DNA 
+	- TMP becomes thymine, then can be used to make b-amino-isobutyrrate, co2, nh4 
+	- ctP into cytosine, then uracil, thn b-alanine, co2, nh4
+	- and then utp made into uracil, then  b-alanine, co2, nh4
+
+de novo synthesis happens in rapidly growing cells: cancerl cells + immune cells 
+
+salvage pathway is adding activated ribose PRPP to an existing base. 
+
+-
+de novo purines 
+we build the purine base with glutamine, N10formyl tetrahydrofolate (N10-fTHF) and glycine (remember that it's larger!!! )
+1. PRPP, and then GPAT will take glutamine and then put the aminogroup on it and then make the phosphate groups leave. 
+2. eventually after using up 5 aTP and 2 f-THFs on 5-phosphoribosyl 1-amine, we have inosinate, IMP. 
+	1. adding GTP wth adenylosuccinate synthase makes adenylate AMP 
+		1. addition of ASP, to make adenylosuccinate, and then fumarate leaves to make AMP 
+	2. and adding ATP with IMP dehydrogenase + gmp synthase makes guanylate GMP 
+		1. oxidize with nad+ on IMP dehydrogenase , making XMP xanthylate 
+		2. then we would use GMP synthase to add another ammonia from glutamine to make GMP 
+rest of it is on paper instead... 
