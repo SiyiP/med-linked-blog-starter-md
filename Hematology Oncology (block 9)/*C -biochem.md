@@ -127,3 +127,35 @@ we build the purine base with glutamine, N10formyl tetrahydrofolate (N10-fTHF) a
 		1. oxidize with nad+ on IMP dehydrogenase , making XMP xanthylate 
 		2. then we would use GMP synthase to add another ammonia from glutamine to make GMP 
 rest of it is on paper instead... 
+
+---
+pentose phosphate pathway 
+- hexose monophosphate stunt - feeds off glycolysis and ultimately re-enters 
+- glucose-6-phosphate dehydrogenase G6PD is the rate limiting enzyme. most common enzymopathy. 
+- pentose -> ribose 5 phosphate is the main product, made into prpp for nucleotides
+phosphate is also generated in the form of nadph to get reducing powers!!!
+- nadph = can be used for. biosynthesis of FA, steroids, cholesterol, deoxynuc, neurotransmitters, and also making **reduced glutathione to defend ROS**! also makes ROS for host defense :P
+- ribose 5 phosphate = for synthesizing nuc acids like prpp and cofactors of ATP/NAD/FAD/ NADPH etc... 
+	- also used to interconvert sugars to make atp 
+NADPH >> than nadp+, so it's a reducing agent
+NAD+>>>nadh, so it's an oxidizing agent 
+
+upregulation in tissues that have steroid synthesis (adrenal, testes, ovary), fatty synthesis (liver, adipose, mammary gland)
+- also phagocytes have the msot nadph !!!
+- RBCs too = **they got no mt, so they rely on PPP for ALL of their NADPH... and they need to have glutathione on deck bc it's a ROS environment from o2.**
+
+iron redox states.... we can have fe3+ methemoglobin with low affinity for o2...
+- caused by deficiency of nadh methemoglobin reductase 
+- also we have to maintain good reducing conditions with nadph bc of folding, we have misfolding if the sulfhydril groups make unintnended disulfide bonds
+- heinz bodies = **if rbcs are under oxidative stress, these are denatured hb protein aggregates**
+- bite cells occur as the spleen macrophages bite the rbcs to clear up the heinz bodis 
+
+beutler fluorescent spot test = for deficincy of glucose 6p dh 
+
+also with metabolism of acetaminophen - NAPQI detox'd by glutathione, but if there's not much, we can have toxicity of acetaminophen. 
+- basically more and more with glucoroinidation are excreted, but then we have napqi toxic formation, but tis is detoxed. if it can't be detoxe, toxicity happens. 
+- **treat acetaminophen overdose with n-acetyl cysteine** 
+
+nadph oxidase = the multisubunit enzyme in phagocytes, to break up ros. 
+
+---
