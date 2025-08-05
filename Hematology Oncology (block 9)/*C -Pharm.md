@@ -378,3 +378,62 @@ KRAS G12C inhibitors in non small cell lung cancers
 -  it's 13% of NSCLC
 -  - driver mutation = **kras is a GTPase, so constitutive activation of that leads to tumor proliferation**
 - mechanism of adagrasib - to bind that KRAS G12C mutant protein which traps it in inactive state = only effective w this one mutation! 
+---
+immunomodulators 
+focus on the targets and drill in what the real target of the drugs are .... focus on where they are! 
+distinction - autoimmune vs autoinflammatory diseases
+- for autoimmune dz + for autoinflammatory dz = we use immunomodulatory drugs
+- causes - potentially self-reactive t lymphocytes to antigens that had been anatomically sequestered from immune system during dev; t clls treat these proteins as foreign antigens
+	- like in immunoprivileged locations , ocular lens proteins -> uveitis , myelin basic proteins 0> MS, and spermatozoa -< aspermatogeneis 
+- autoinflammatory - characterized by hyperactivity of the **innate immune system, not driven by autoantibodies, but by the cytokines**
+	- like recurrent fever syndromes like familial mediterranean fever, tnf receptor periodic syndrome , crohn dz. 
+	- transplantation = organ transplant or to treat gvhd 
+	- oncology 
+
+SE of immunosuppression = inc infection + malignnat neoplasms due to loss of immune surveillance + stimulating rapid stem cell prolifration which restore the immune system 
+
+![[Screenshot 2025-08-05 at 6.26.59 PM.png]]
+- calcineurin = downstream of t cell receptor that removes phosphate group from NFAT-P, which will enter the nucleus and drive immune-stimulating genes
+- affecting IL-2R signalling, and drives down lymphocyte prolieration 
+- inhibition of IMP dehydrogenase, which is something to sethetize purine bases 
+- azithioprine -> 6MP, supprssing PRPP amidotransferase 
+
+true immunosuppressant drugs = for transplantations 
+and some ofr autoinflammatory ones
+and ones for cancers 
+and for hemophilias and immunostimulatory agents 
+1. cyclosporine + tacrolimus = will essentially inhibit the **prodution of IL-2**
+	- inhibition of calcineurin, which removes the phosphatase for signal transduction events 
+	- cyclosporine - binds to cyclophillin cytoplasmic protein directly 
+	- tacrolimus - binds to FK506 binding protein FKBP !!! there's a lot of these but this one inhibits calcineurin directly 
+	- normally TCR activation leads to mobilization of Ca2+ from stores and then activation of calcineurin, which is a ca2+ binding protein that promots dephosphorylation of NFAT
+	- phosphorylated NFAT = stays in the cytoplasm + can't transactivate anything 
+	- uses: organ transplant and GVHD afer sten cll transplant 
+	- Tacrolimus - preferred in organ transplant prophalaxis, mroe potent than the cyclosporine. 
+	- don't memorize drug drug interactions but this is metabolized by CYP3A4 
+		- note - we have inhibition of CYP 3A4 = grapefruits 
+		- induction of CYP3A4 = rifampin, st jjohns wort etc that can inc this metabolism that can dcrease thir eficacy 
+2. sirolimus = mTOR inhibitor, structural analog of tacrolimus,binds a different FKBP, which inhibits an mTOR pathay that is downstream of IL-2 receptor signalling. 
+	- prophylaxis of kidney transplant rejection 
+	- less nephrotoxic 
+	- pancytopenia, insulin resistance hyperlipidemia etc 
+3. azathioprine = > 6-mercaptopurine, which will block up purine synthesis, GPAT 
+	- this is more for immunosuppression not cancer (which is 6-m)
+	- also check TPMT polymorphisms bfore prescribing 
+		- tpmt will metabolize it!!! 
+		- keep it away from allopurinol, don't combine! 
+
+4. mycophenolate mofetil = inhibits IMP Dehydrogenase, which is needd for de novo purine synthesis 
+	- inhibits both b. + t cells. preferential for lymphocyte making basically - know that it inhibits the enzyme pretty much. 
+	- wide useage 
+5. methotrexate - blocks GFHR and inhibits dihydrofolate reductase, inhibiting thymidine synthesis
+	- RA
+	- cancer chemo 
+
+6. hydroxyurea - inhibits ribonucleotide reductase + dna syn... removing this 
+	- reducing production f mutated beta hb in SCD, and inc production of fetal hbf..... to reduce the erythrocyte sickling in SCD 
+	- note - reducing dNTPs will slow the erythrocyte dev, and inc overal size of rcs => macrocytosis 
+
+targeted immunosuppressants - tofacitinib = small molecule inhibitor of JAK3, interfering with JAK-STAT signalling, which s signalling downstream of IL-2, 4, 13 receptors. stopping the dz RA, plaque psoriasis, UC and inc risk of infection (A)e
+
+many monoclnal antibodies - are sorta subspecialty uses. just stick to the ones that are most commonly tested 
