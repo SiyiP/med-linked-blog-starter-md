@@ -1,4 +1,6 @@
 #pharm #summary 
+
+
 ## Highlights for -MMT Transfusion Medicine Squires
 - Components - whole blood, rbcs, plasma, platelets, cryoprecipitate, granulocytes[^13]
 - Derivatives - factor 8,9, etc etc... all come out of pharmacy[^13]
@@ -437,3 +439,5 @@ and for hemophilias and immunostimulatory agents
 targeted immunosuppressants - tofacitinib = small molecule inhibitor of JAK3, interfering with JAK-STAT signalling, which s signalling downstream of IL-2, 4, 13 receptors. stopping the dz RA, plaque psoriasis, UC and inc risk of infection (A)e
 
 many monoclnal antibodies - are sorta subspecialty uses. just stick to the ones that are most commonly tested 
+
+ 
