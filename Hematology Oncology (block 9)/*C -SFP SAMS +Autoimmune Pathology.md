@@ -1,5 +1,106 @@
 #summary #patho 
 
+notes from SAMS
+SFP skin pathology 
+
+macule + papule = differentiated by palpability 
+- and macule diffrentiate from patch by size 
+
+erosion - loss of epidermis
+ulcer - extends into dermis, heals with scar 
+
+atopic dermatitis
+lichen planus 
+lupus erythematosis 
+TEN = with antibiotic use, eruption -> flaccid bullae + large sloughing off of skin 
+
+honey colored crust = impetigo, s aureus or s pyogenes
+
+what skin manifestation does pseudomonas cause? 
+
+morphea/scleroderma = fibrosing procss seen , lymphoplasmic dermal sclerosis + inflammatory infiltrate at dermal subq junction 
+
+viral mediated = merkel cell carcinomas recall the MCPv 
+
+HCV = lichen planus= hep c virus 
+mycoplasma = erythema multiform
+celiac dz = dermatitis herpetiformis 
+HIV - crusted/norwegian scabies 
+
+
+---
+autooimmune dz
+RA = involves small joints of hands - invlving PIP+MCP ==but spares the DIP
+- dip = distal interphalangeal joints, the tip top 
+- proximal interphalangeal joints = the mid fingers 
+- metacarpopholangeal joints = MCP, the base of the knucles 
+![[nodal arthritis.png]]
+
+
+psoriatic arthritis = "sausage digit of finger"
+- knee pain and hell pain etc 
+- ESR and CRP elevated, but negative RF
+- also see nail changes. 
+---
+generla SFP 
+![[microcytic anemias iron studies.png]]
+microcytic anemia = with differentials 
+- lower RBCs + inc RDW (RBC variety) + no basophilic stippling => iron deficiency anemia 
+	- sr iron is dec, TIBC up, and ferritin down 
+- ![[microcytic anemias CBC.png]]
+
+hyperlobated neutrophil = megaloblastic anemia, so increased MCV 
+![[megaloblastic anemia histo.png]]
+
+folate correct anemia in B12 deficiency but cannot prevent neuro problems. 
+
+schistocytes = seen with thrombotic micrangiopathies. + HUS 
+
+alpha = the globin polypeptide chain that's synthesized thruout early fetal + adult life 
+
+|   |   |
+|---|---|
+|A patient with CML who develops 10 – 19% blasts in the peripheral blood or bone marrow is in accelerated phase.|   |
+
+person with polycythemia rubra vera = typically have JAK2 mutation = ==look at more polycythemia vera pathology==
+
+CD19+CD10+ poz = B cell ALL
+B cell ALL do good in children 
+
+t-cell lymphoblastic lympomas have immature t cells po for TdT, also poz for CD4+CD8 but neg for CD3 
+
+|                                                                                           |     |
+| ----------------------------------------------------------------------------------------- | --- |
+| Flow cytometry is the best way to demonstrate clonality in the neoplastic B-cells of CLL. |     |
+|                                                                                           |     |
+
+mantle cell lympoma = where Cyclin D1 is overexpressed bc of t(11;14); this is where we have CD5 poz CD23 neg b-lymphocytes which are SMALL
+
+burkett lymphoma got a high Ki-67, meaning a high mitotic rate!!! - 
+
+reed-sternberg cells are found in hodgkin lymphoma 
+- these are large lymphocytes with more than one nuclus 
+- aka "lacunar histiocytes" - these are giant clls, that make cytokines "popcorn cells"
+
+hemolytic anemia in lupus is due to antibodies which is type 2 
+but for renal dmg it's mediated by immune complexes, which is type 3 hypersensitivity 
+
+ppl with sjogrens have a 40x risk of getting b-cell lymphoma 
+scleroderma = renal dz associated with mucoid intimal thickening ., leading to thrombotic microangiopathy 
+
+dermatomyositis = paraneoplastic, so search fo a malignancy. seen in pts with elevated CK, purple red rash on eyelids nad difficulty rising from chair 
+
+polyarteritis nodosa - testicular pain, hep b, htn, mononeuritis multiplex, pancreatitis
+- transmural necrotizing inflammation with pseudoaneurysm formations !!!!
+
+kawasaki dz = think acute febrile illness, cervical lymph node enlargement, conjjunctivitis, oral erythema, and desquamative skin rash of hands
+- with this focus on CAD , heart disease development in kids
+
+GPA = should be treated aggressively, hemoptysis with nodular lung lesions, epistaxis, sinusitis, renal failure and C-ANCA etc... this is 80% mortality in 1 year 
+
+microscopic polyangiitis = palpable purpura, hemoptysis, hematuria, actue renal failure and antibodies to MPO 
+
+
 ## Highlights for -SFP Autoimmune Diseases I+II_Baker Frost
 Autoimmune differentials for raynauds:[^9]
 - Limited scleroderma + mixed CT disease![^9]

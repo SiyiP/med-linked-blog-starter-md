@@ -96,7 +96,7 @@ reacitive/atypical lymphocytosis
 blasts - smooth, open, homogenous chromatin. 
 - high nuc:cyt ratio bc less cytoplasm 
 - nucleoli seen prominently 
-- hour rod - seen in cytoplasm, an abnormal finding. 
+- auer rod - seen in cytoplasm, an abnormal finding. 
 - smooth chromatin !!! velvet-looking 
 
 lymph node pathology 
