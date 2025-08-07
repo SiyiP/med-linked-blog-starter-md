@@ -113,9 +113,9 @@ vascular dz/blood vessels
 - BUT **normal platelet count + functions**
 be aware that vascular abnormalities can present as primary issues- just know these- **some examples ONLY don't study too hard**- 
 - ehlers danlos - inherited AR/D, stretchy skin, easy bruising, collagen abnormal. = all you need to know 
-- hereditary hemorrhagic telangiectasia - HTT - aka osler-weber-rendu dz
-	- red dots + lesions "blood blisters" on mucocutaneous membranes + skin 
-	- epistaxis + GI hemorrhage
+- **hereditary hemorrhagic telangiectasia - HTT - aka osler-weber-rendu dz**
+	- **red dots + lesions "blood blisters" on mucocutaneous membranes + skin** 
+	- **epistaxis + GI hemorrhage**
 - vasculitis
 	- septic vasculitis - meningococcemia, inflammation of blood vessel wall, hemorrhagic RAISED lesions in skin 
 	- henoch-schonlein purpura - aseptic, purpura, in kids + YA. after VIRAL illness, IgA **hypersensitivity rxn**, resolves in 1-2 mon 

@@ -1,4 +1,17 @@
 #summary 
+HRR/SFP SAMs combination 
+full house SLE = joint pain, myalgias and dark urine. Work-up included an ANA which was positive at a titer of 1:1024. Urinalysis was remarkable for hematuria and proteinuria
+
+psoriatic arthritis + osteoarthritis usually involve the DIP 
+ Reactive arthritis more commonly affects the joints of the lower legs (knees, ankles and feet
+|   |   |
+|---|---|
+|In ==complement mediated HUS there is a problem with the inhibition of the alternate pathway==. C1 and C4 are in the classic pathway. CD59 is a GPI‐ linked protein found on RBCs and normally blocks binding of terminal complement components to present the formation of the membrane attack complex. ==Factor H is an inhibitor of the alternate pathway.==|   |
+
+advanced donor age = association with higher rejection risk 
+
+Acute antibody rejection occurs when recipient donor specific antibodies bind to donor endothelial antigens (usually HLA). This is most easily seen in the microvasculature, in particular, along the peritubular capillaries. C4d is the "footprint" of antigen/antibody binding.
+
 HRR SAMS
 zoonotic bac+viral infections
 things that cause rocky mountain spotted fever (rickettsia rickettsii) = DIC due to Omp outer membrane proteins and phospholipase that invade and attach and dmg vascular endothelium 

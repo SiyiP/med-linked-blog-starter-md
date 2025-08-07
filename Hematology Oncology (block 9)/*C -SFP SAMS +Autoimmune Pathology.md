@@ -387,7 +387,7 @@ types:
 
 ---
  ## Highlights for -HRR Disorders of Compliment_Pasham
-- ![[Screenshot 2025-08-01 at 4.33.40 PM.png]]
+- ![[complement and inhibitors and deficiencies.png]]
 - Without an active one, you'd die but Hyperactive ones get passed on[^11]
 	- part A = aren't directly involved, they go Away and do neutrophil chemotaxis/anaphylaxis stuff[^11]
 	- part B = larger Bind to the surface of bacteria[^11]

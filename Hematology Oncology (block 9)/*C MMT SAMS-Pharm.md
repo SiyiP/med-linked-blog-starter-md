@@ -1,9 +1,15 @@
 #pharm #summary 
 
+L-asparaginase is a large immunogenic, tetrameric enzyme from _Escherichia coli_ that rapidly hydrolyses asparagine to aspartic acid and ammonia. It is primarily used for acute lymphocytic leukemia (ALL). ALL and other leukemic cells tend to lack the enzyme asparagine synthase and require exogenous L-asparagine; depletion of serum L-asparagine by L-asparaginase results in leukemia cell death because they cannot synthesize new proteins due to lack of asparagine. After administration, serum concentrations of asparagine fall rapidly. While fairly effective and selective for some leukemic cells, it is not without risks and side effects, chief among them hypersensitivity reactions, including fever, rash and anaphylaxis, which can occur in 5-20% of pts. L-asparaginase does not have to enter cells.
+
+Adalimumab is a TNF-alpha-specific therapeutic monoclonal antibodies that bind to TNF-alpha and neutralize its ability to bind to and activate endogenous TNF-alpha receptors.
+
+, the big drug interaction you need to know for 6-mercaptopurine (6-MP) are drugs that inhibit xanthene oxidase, such as allopurinol and febuxostat.
+
 Orotate to [uridine](https://next.amboss.com/us/article/oo001S#Zf340c2f9d9a79c6243ea596349704822) 5'-monophosphate conversion is catalyzed by [uridine monophosphate synthase](https://next.amboss.com/us/article/6o0j1S#Ze4d6ab173a186b9bf516613901e68b80), which is the deficient enzyme in [orotic aciduria](https://next.amboss.com/us/article/vR0AKf#Zc1bc4e63121e98993fd8dea7790a6c44). This condition classically manifests in an [infant](https://next.amboss.com/us/article/a40Q3T#Z0fc257b9a869b8bf01b45c4fb73dbdc1) with [failure to thrive](https://next.amboss.com/us/article/Wt0Pc3#Zc00b4a95101cc1636c126219e267922c) and [megaloblastic anemia](https://next.amboss.com/us/article/6T0j72#Z85cbfcba498065a7bca66f0cc39f9d61) that is ***unresponsive*** to [folate](https://next.amboss.com/us/article/Ao0ReS#Z831a74f0b4bc9aed491551ad68d1dc11) and [vitamin B12](https://next.amboss.com/us/article/Ao0ReS#Z938e3f87e91ee8469e94c3ace50e692d) supplementation.
 
 [constipation](https://next.amboss.com/us/article/CM0qIg#Z65fd66f9cecf14d85a69e656c3a69417), abdominal [pain](https://next.amboss.com/us/article/xN0EWg#Zd673a3f7ee36023aab5a267899e984cc), delayed verbal development, and [sideroblastic anemia](https://next.amboss.com/us/article/6T0j72#Zc75eb23c4d34da58f352dd03685d679a) (hypochromic, [microcytic anemia](https://next.amboss.com/us/article/6T0j72#Z38041e9c7114e2395ebda873ee8cdcaf) with [basophilic stippling](https://next.amboss.com/us/article/WS0PA2#Z93be6b905c0daa6a1b1d2ee9c2608080)), all of which is indicative of [lead toxicity](https://next.amboss.com/us/article/AQ0RAf#Z32eb89ec8a17757dbf10b304456464fa).
-![[Screenshot 2025-08-06 at 11.18.31 PM.png]]
+![[heme synthesis locations.png]]
 
 artemisinin is the only one not used for prophylaxis bc it's short half life
 - instead it's for severe malaria 
@@ -64,6 +70,7 @@ cell cycle independent
 anthracyclines - daunorubicin + cytarabine = 
 - these are known for 
 - left ventricular dysfunction, we see a good amount of cardiotoxicity 
+- anthracyclines "rub" your heart the wrong way
 
 paclitaxel = taxanes, hyperstabilization of polymerized microtubules
 vincristine = tubulin beta subunit binding 
@@ -86,6 +93,11 @@ cyclophosphamide - cell cycle nonspecific - alkylating agent which will form DNA
 
 anything that blocks something like DHFR like methotrexate = will be during the s phase block 
 6-MP - anything that inhibits de novo purine synthesis, blocking S phase 
+	- Remember that myelosuppression caused by methotrexate can be reversed/prevented by leucovorin, also sometimes referred to as folinic acid.
+|   |   |
+|---|---|
+|This patient is experiencing a rash and so-called "hand-foot" syndrome, aka palmar-plantar erythrodysesthesia, both of which are adverse effects of sorafenib. In fact, many drugs that target EGF receptor signaling can result in a rash. Think **epidermal** growth factor = **rash**.|   |
+
 vincristine - inhibits tubulin polymerization - required for mitotic spindle stuff = **m phase blockage**
 antimetabolites are in s phase blockage 
 
@@ -519,7 +531,7 @@ distinction - autoimmune vs autoinflammatory diseases
 
 SE of immunosuppression = inc infection + malignnat neoplasms due to loss of immune surveillance + stimulating rapid stem cell prolifration which restore the immune system 
 
-![[Screenshot 2025-08-05 at 6.26.59 PM.png]]
+![[immunomodulary targets.png]]
 - calcineurin = downstream of t cell receptor that removes phosphate group from NFAT-P, which will enter the nucleus and drive immune-stimulating genes
 - affecting IL-2R signalling, and drives down lymphocyte prolieration 
 - inhibition of IMP dehydrogenase, which is something to sethetize purine bases 
