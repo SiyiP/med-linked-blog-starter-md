@@ -1,6 +1,82 @@
 #pharm #summary 
 
 
+if you see: hemolytc anemia + bite cells = G6PD deficiency !!! 
+
+VEGF = vascular endothelila growth facto = bevacizumab, can be given to help ppl deal with wet age related macular degeneration 
+
+note - know which ones are cell cycle nonspecific and specific 
+
+cell cycle independent
+- platinum agents
+- alkylating agents: bulsulfan, cyclophosphamide, nosfamide, 
+- nitrosureas like mustines 
+
+anthracyclines - daunorubicin + cytarabine = 
+- these are known for 
+- left ventricular dysfunction, we see a good amount of cardiotoxicity 
+
+paclitaxel = taxanes, hyperstabilization of polymerized microtubules
+vincristine = tubulin beta subunit binding 
+
+tecan = topo 1 inhibittor
+
+myelosuppression - a common AE of chemotherapeutic agents, so 
+
+tamoxifen = selective estrogen receptor modulator, a serm 
+
+dec diffusing capacity of lung = pulm fibrosis = bleomycin/busulfan 
+
+hematuria = think hemorrhagic cystitis, common with cyclophosphamide or ifosfamide 
+
+ototoxicity = seen in platinum based agents. 
+
+neuropathy = seen in vinca alkaloids, and some taxanes + platinum based agents. 
+
+cyclophosphamide - cell cycle nonspecific - alkylating agent which will form DNA crosslinks and inhibits NA synthesis + function 
+
+anything that blocks something like DHFR like methotrexate = will be during the s phase block 
+6-MP - anything that inhibits de novo purine synthesis, blocking S phase 
+vincristine - inhibits tubulin polymerization - required for mitotic spindle stuff = **m phase blockage**
+antimetabolites are in s phase blockage 
+
+topo inhibitors - are during synthesis + double check repair 
+- etoposide, teniposide, irinotecan, topotecan 
+
+microtubule inhibitors - paclitaxel, vinblastine, vincristine = all stop mitosis 
+
+imatinib = inhibits BCR-Abl kinase
+dactinomycin = |intercalates DNA and blocks nucleic acid synthesis, ultimately causing strand breaks|
+doxorubicin - intercalates DNA and blocks nucleic acid synthesis, ultimately causing strand breaks
+methotrexate - inhibits DHFR
+5-fluorouracil - inhibits thymidylate synthetase 
+==melphalan - forms DNA crosslinks + inhibits DNA synthesis== 
+bortezomib = inhibits 26S proteasome 
+cetuximab. - **binds** EGF receptor + inhibits EGFR signalling 
+==carmustine - forms DNA crosslinks and inhibits dna synthesis, so it's after the DNA making==
+paclitaxel - stabiliizes microtubules
+irinotecan - inhibits topoisomerase I 
+cytarabine - put into DNA + inhibits DNA synthesis 
+etoposide- inhibits topoisomerase II 
+ifosfamide - maks DNA crosslinks + inhibits DNA syn 
+==vinblastine = inhibits **tubulin polymerization to begin with**==
+gefitinib - inhibits EGFR kinase domain - fit but acne 
+bevacizumab - monoclonal antibody, binds VEGF , not the receptor!! **it's an antibody so it can' tcross the membrane**
+
+anything that's like -tux- think acne is a tipoff, 
+
+ifosfamide - many alkylating agents can cause a lot of hepatic venoocclusive dz and hepatotoxic drug reactions. 
+- 
+
+![[Chemo AES.png]]
+
+
+|                                                                                                                                                                                                        |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| Codeine is a prodrug that requires metabolism by CYP 2D6 into the active metabolite, morphine. A "slow metabolizer" polymorphism of CYP 2D6 would therefore result in a decreased response to codeine. |     |
+| Make sure you understand the effect of polymorphisms of the other enzymes listed (CYP 2C9, CYP 2D6, MGMT, and TPMT) on the drugs used as examples in the pharmacogenomics lecture.                     |     |
+|                                                                                                                                                                                                        |     |
+|                                                                                                                                                                                                        |     |
 ## Highlights for -MMT Transfusion Medicine Squires
 - Components - whole blood, rbcs, plasma, platelets, cryoprecipitate, granulocytes[^13]
 - Derivatives - factor 8,9, etc etc... all come out of pharmacy[^13]
