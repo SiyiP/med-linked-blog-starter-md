@@ -224,7 +224,7 @@ obliterative lesions in all solid organ transplants = vascular lesions in all tr
 	-  type 2 = antibody mediated, antibodies against tissue/cells = **hyperacute!!!, pre-formed antibodies that are already in recipient, EX) abo blood groups**
 	- preformed antibody -> complement activation -> neutrophil margination -> inflammation -> thrombus ; ghosted and pale glomerulus 
 
-transplant drugs; [[*C -Pharm]] - mainly what's on it 
+transplant drugs; [[*C MMT SAMS-Pharm]] - mainly what's on it 
 1. induction therapy - 
 	1. t cell depletion - stop the first step, maintain the low level of activity  
 	- t cell blocking 

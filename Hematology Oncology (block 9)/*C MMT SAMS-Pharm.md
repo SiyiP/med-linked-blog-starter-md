@@ -1,9 +1,58 @@
 #pharm #summary 
 
+Orotate to [uridine](https://next.amboss.com/us/article/oo001S#Zf340c2f9d9a79c6243ea596349704822) 5'-monophosphate conversion is catalyzed by [uridine monophosphate synthase](https://next.amboss.com/us/article/6o0j1S#Ze4d6ab173a186b9bf516613901e68b80), which is the deficient enzyme in [orotic aciduria](https://next.amboss.com/us/article/vR0AKf#Zc1bc4e63121e98993fd8dea7790a6c44). This condition classically manifests in an [infant](https://next.amboss.com/us/article/a40Q3T#Z0fc257b9a869b8bf01b45c4fb73dbdc1) with [failure to thrive](https://next.amboss.com/us/article/Wt0Pc3#Zc00b4a95101cc1636c126219e267922c) and [megaloblastic anemia](https://next.amboss.com/us/article/6T0j72#Z85cbfcba498065a7bca66f0cc39f9d61) that is ***unresponsive*** to [folate](https://next.amboss.com/us/article/Ao0ReS#Z831a74f0b4bc9aed491551ad68d1dc11) and [vitamin B12](https://next.amboss.com/us/article/Ao0ReS#Z938e3f87e91ee8469e94c3ace50e692d) supplementation.
+
+[constipation](https://next.amboss.com/us/article/CM0qIg#Z65fd66f9cecf14d85a69e656c3a69417), abdominal [pain](https://next.amboss.com/us/article/xN0EWg#Zd673a3f7ee36023aab5a267899e984cc), delayed verbal development, and [sideroblastic anemia](https://next.amboss.com/us/article/6T0j72#Zc75eb23c4d34da58f352dd03685d679a) (hypochromic, [microcytic anemia](https://next.amboss.com/us/article/6T0j72#Z38041e9c7114e2395ebda873ee8cdcaf) with [basophilic stippling](https://next.amboss.com/us/article/WS0PA2#Z93be6b905c0daa6a1b1d2ee9c2608080)), all of which is indicative of [lead toxicity](https://next.amboss.com/us/article/AQ0RAf#Z32eb89ec8a17757dbf10b304456464fa).
+![[Screenshot 2025-08-06 at 11.18.31 PM.png]]
+
+artemisinin is the only one not used for prophylaxis bc it's short half life
+- instead it's for severe malaria 
+- along with doxy 
+known for mefloquine = neuro SEs
+
+[Phosphoribosyl pyrophosphate](https://next.amboss.com/us/article/6o0j1S#Z5ff1ed03c4a4267f97fd841827b79e00) ([PRPP](https://next.amboss.com/us/article/6o0j1S#Z5ff1ed03c4a4267f97fd841827b79e00)) is a substrate in the [purine salvage pathway](https://next.amboss.com/us/article/6o0j1S#Zccf9780ed3564cf31c2e18e9ad78865f) that accumulates in patients who have [HGPRT](https://next.amboss.com/us/article/6o0j1S#Zfe2eb2f0560c8352918c5f805455a602) deficiency
+- inability to regenerate [purine](https://next.amboss.com/us/article/oo001S#Z8050cb758ce927318e00bbcc31dd2891) [nucleotides](https://next.amboss.com/us/article/oo001S#Zd5bfd6941eb8cb750116c53226b79744) also leads to an excess of [guanine](https://next.amboss.com/us/article/oo001S#Z3332eb0425f2e89f85b826dd45e6a4f3) and [hypoxanthine](https://next.amboss.com/us/article/oo001S#Z469361fd24637604047c9f163b47385a) bases, which are instead metabolized to [uric acid](https://next.amboss.com/us/article/kg0mv2#Zb6a6fc26866322ecd909b8f1489e0451) by [xanthine oxidase](https://next.amboss.com/us/article/6o0j1S#Z37160d1c3712056c8268a30e4a0a5447), leading to [hyperuricemia](https://next.amboss.com/us/article/YT0n62#Z680dc030aea5462f042ba212fc37d0d8).
+- manifests with [hyperuricemia](https://next.amboss.com/us/article/YT0n62#Z680dc030aea5462f042ba212fc37d0d8), [spasticity](https://next.amboss.com/us/article/vM0Aqg#Zff9d29ccadcf32f64b2e3cbdf938e6e1), [dystonia](https://next.amboss.com/us/article/A30ROf#Z87236238e8d69abe22ad6806e1540b9f), [developmental delay](https://next.amboss.com/us/article/b40H3T#Zbb5c18671580d9f7c4969e9293838072), and self-injurious behavior.
+- [Xanthine oxidase inhibitors](https://next.amboss.com/us/article/YT0n62#Z211edb8ed1d2dc425c4de130c0f5d383) such as [allopurinol](https://next.amboss.com/us/article/YT0n62#Z37cef276c9984e4bfe2e112cee98bd33) (first-line choice) or [febuxostat](https://next.amboss.com/us/article/YT0n62#Zb1eac50dcd9d18993cc15c876fb55d85) (second-line) inhibit the conversion of both [hypoxanthine](https://next.amboss.com/us/article/oo001S#Z469361fd24637604047c9f163b47385a) to [xanthine](https://next.amboss.com/us/article/oo001S#Z23d7fbc9de6524d4ce51e6a19690caa9) and [xanthine](https://next.amboss.com/us/article/oo001S#Z23d7fbc9de6524d4ce51e6a19690caa9) to [urate](https://next.amboss.com/us/article/kg0mv2#Zb6a6fc26866322ecd909b8f1489e0451) and are used to treat [hyperuricemia](https://next.amboss.com/us/article/YT0n62#Z680dc030aea5462f042ba212fc37d0d8) in [Lesch-Nyhan syndrome](https://next.amboss.com/us/article/vR0AKf#Zc6a958d65c2e0c96a54f99c9986cc75f).
+
+direct thrombin inhbitors - used for the long-term prevention of embolic [stroke](https://next.amboss.com/us/article/UR0bmf#Zdd37bc451d2e210ed3e03be192079b6c) in patients with [nonvalvular Afib](https://next.amboss.com/us/article/GS0Baf#Zb7ca96c44607e82361e428c1d914e4d8) and [risk factors](https://next.amboss.com/us/article/ps0LDh#Zbc0d0ff153bc5c7a27589815d0c842fd) for embolic [stroke](https://next.amboss.com/us/article/UR0bmf#Zdd37bc451d2e210ed3e03be192079b6c)
+
+patients with CGD who lack functional NADPH oxidase = need superoxide prod for phagosomes 
+
+warfarin - monitor PT 
+	patient is initially in a [hypercoagulable state](https://next.amboss.com/us/article/bo0H0S#Z0f31154c63b8097e20cbfc0736fd665a) because decreased active [protein C](https://next.amboss.com/us/article/8T0Os2#Z98000e5c7e3f35fda882900c06451cb7) levels cause increased activity of VIIIa
+	- recall - gut bacteria makes the vitamin k in your belly... so depletion of vita k would augment effects of warfarin sinc vita min k competes with warfarin for binding to active site o th epoxide 
+	- ==Gamma-glutamyl carboxylase activates coagulation factors II, VII, IX, X, [protein C](https://next.amboss.com/us/article/8T0Os2#Z98000e5c7e3f35fda882900c06451cb7), and [protein S](https://next.amboss.com/us/article/8T0Os2#Zcf40c04a75110457896f95c2dbbcb2b7)== (i.e., vitamin K-dependent coagulation factors) via [vitamin K](https://next.amboss.com/us/article/Ao0ReS#Z7e6e20577d4cefe30861d31f07875268)-dependent γ‐glutamyl [carboxylation](https://next.amboss.com/us/article/Jo0s1S#Z2c51e75ad58d35221f903c1f48d2fc92) of their [glutamic acid](https://next.amboss.com/us/article/lp0vpS#Z0555ea6b157157d3843b24e686403f7f) residues in the [liver](https://next.amboss.com/us/article/j60_kS#Zd0ed3eb208321943f24b364e0a464294).
+heparin = monitor PTT
+
+[Apixaban](https://next.amboss.com/us/article/Tm06Ug#Z04411890cd6199b1ae73d8137bbc5e40) is a [factor Xa inhibitor](https://next.amboss.com/us/article/Tm06Ug#Z107396121e4b4056b0afef403864de07); inhibition of [factor Xa](https://next.amboss.com/us/article/8T0Os2#Z8e56af594827805a06cdc9891f2b3e0e) affects the common pathway, leading to prolongation of both [prothrombin time](https://next.amboss.com/us/article/Ln0wFg#Z5fb4d308822929277ddb268f9f6a2325) ([PT](https://next.amboss.com/us/article/Ln0wFg#Z5fb4d308822929277ddb268f9f6a2325)) and [partial thromboplastin time](https://next.amboss.com/us/article/Ln0wFg#Z534e36b6b7436840f0da869a9e8e4e32) ([PTT](https://next.amboss.com/us/article/Ln0wFg#Z534e36b6b7436840f0da869a9e8e4e32)) but no change in the [thrombin time](https://next.amboss.com/us/article/Ln0wFg#Zb5e17ee285f011be0c2bbf0aaca6dcc8) (TT).
+
+[Thrombotic thrombocytopenic purpura](https://next.amboss.com/us/article/xT0EG2#Z2b1e066c8a7111acee306a0fe195ac76) is a [coagulation disorder](https://next.amboss.com/us/article/8T0Os2#Z5a3cc6f90267ccb75d4d2c02be76da5a) caused by decreased activity of the metalloprotease [ADAMTS13](https://next.amboss.com/us/article/xT0EG2#Zb67d2df2d3f707b2c2934f03c6ae307b), which results in increased amounts of large [von Willebrand factor](https://next.amboss.com/us/article/8T0Os2#Z6848bc53710e734d7e1fef22e311eaf8) multimers
+
+[Glanzmann thrombasthenia](https://next.amboss.com/us/article/8T0Os2#Z7b5111cfbe0e2b68b060609e4a088c4a) is an [autosomal recessive](https://next.amboss.com/us/article/y50d5g#Z5f0a3680e1058c2dc386ace473087d6f) [bleeding disorder](https://next.amboss.com/us/article/8T0Os2#Z5a3cc6f90267ccb75d4d2c02be76da5a) caused by deficient [platelet](https://next.amboss.com/us/article/ln0vtg#Z53cb67a3181e33f55118053e63485c2e) [glycoprotein IIb/IIIa receptors](https://next.amboss.com/us/article/8T0Os2#Z9f03d042a50dd4be7a37aaae48b41b54), which prevent [fibrinogen](https://next.amboss.com/us/article/8T0Os2#Ze5a3b93d7c5a12a4d4bbab64264e9393) from binding to [platelets](https://next.amboss.com/us/article/ln0vtg#Z53cb67a3181e33f55118053e63485c2e). The inability of [fibrinogen](https://next.amboss.com/us/article/8T0Os2#Ze5a3b93d7c5a12a4d4bbab64264e9393) to bind to [platelets](https://next.amboss.com/us/article/ln0vtg#Z53cb67a3181e33f55118053e63485c2e) impairs [platelet aggregation](https://next.amboss.com/us/article/8T0Os2#Z133cdfef86c46e7bae12ef6867b38bfb) and thrombus formation, predisposing an individual to bleeding.
+
+
+
+[Heparin](https://next.amboss.com/us/article/2m0TUg#Z4528e7c223f39e11405a30e18cbdc1d1) is most commonly used in pregnant women who require anticoagulation since it does not cross the [placenta](https://next.amboss.com/us/article/Do01VS#Z414c23d8bf8265247dd2e1e7e9b0d89c).
+- this pregnant woman developed hemodynamic instability and [anemia](https://next.amboss.com/us/article/6T0j72#Zd40074de20e25de472779d74fcfd35af) secondary to bleeding, which was likely caused by [heparin](https://next.amboss.com/us/article/2m0TUg#Z4528e7c223f39e11405a30e18cbdc1d1) overdose, as suggested by the prolonged [aPTT](https://next.amboss.com/us/article/Ln0wFg#Z534e36b6b7436840f0da869a9e8e4e32)
+- 
+
+TXA - for platelet activation + aggregation 
+
+ivermectin - for onchocerca = loss of vision in eye 
+nifurtimox = cruzi infections 
+DEC - lymphatic filariasis = **think lymphatic elephanttis causing things, like brugia or wucheria bancrofti**
+sodium stibogluconates = leishmaniasis 
+albendazole = broad worm 
+
 
 if you see: hemolytc anemia + bite cells = G6PD deficiency !!! 
 
 VEGF = vascular endothelila growth facto = bevacizumab, can be given to help ppl deal with wet age related macular degeneration 
+
+recall - capecitabine -> convert to 5-FU
+
+labile cells = those that never enter the g0 phase of the cell cycle then divide rapidly - these are much more impacted by chemotherapeutic drugs 
 
 note - know which ones are cell cycle nonspecific and specific 
 
@@ -21,7 +70,7 @@ vincristine = tubulin beta subunit binding
 
 tecan = topo 1 inhibittor
 
-myelosuppression - a common AE of chemotherapeutic agents, so 
+myelosuppression - a common AE of chemotherapeutic agents, so common AE of infections of fungal thigns 
 
 tamoxifen = selective estrogen receptor modulator, a serm 
 
