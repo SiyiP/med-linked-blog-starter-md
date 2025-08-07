@@ -44,6 +44,7 @@ misc coagulopathies - DIC, TTP
 			- prolonged in type 3 vWD and hemophilia A
 			- heparin
 		- if both are messed up - think of multi factor deficiencies like vitamin K def or liver disease 
+		- if normal but see stron ghx of bleeding - check for vWD + factor 13 
 intrinsic path : 12 11 9 8 10 
 common: 10 5 2 1 
 extrinsic 7 
@@ -84,7 +85,7 @@ combined defects
 4. VWD (above)
 5. splenomegaly - sequesters platlets, and lowers counts ... seen with HIV/SLE 
 ---
-coagulopathies
+coagulopathies - alloantibodies can develop to antibodies they DONT have. 
 1. hemophilia A = factor 8 def , XLD
 	- petechiae absent
 	- hemarthroses 
@@ -95,3 +96,169 @@ coagulopathies
 	- this time we got prolonged ptt instead 
 3. hemophilia C = **factor 11 deficiency**
 	- very rare, only frozen plasma helps 
+antiphospholipids - coagulability, associated with thromboembolisms + miscarriages 
+ - inc PTT!!! 
+
+dysfibrinogenemia - very rare structurally abnormal fibrinogen inherited, see some major thrombosis ... TT primary screning test 
+
+random: TTP
+- abnoramlity in vWF, when the ADAMTS-13 proteinase is defectiv and doesn't cleave it into smaller piecs
+	- fundamentally - **hyaline thrombi in capillaries and small arterioles** - leading to thrombocytopenia from consumption and RBC destruction microangiopathic hemolysis 
+	- neuro changes are common 
+	-  **high affinity to platelets - we get so much aggregation** via huge vWF
+	- 	- anemia + schistocytes; hgb 8-9 due to the damage. 
+	- congenital with ADAMTS13 
+	- idiopathic due to autoantibodies
+	- nonidiopathic = malignancy, pregnancy, meds 
+	- give plasma 
+HUS
+-  microangiopathic hemolytic anemia 
+- bloody diarrhea
+- acute renal failure
+
+gestational thrombocytopenia - normal usually due to dilution plasma inc 
+HELLP - 	- nausea, malaise, abd pain and platelets <100k and elevated liver enzymes
+NAIT = neonatal alloimmune thrombocytopenia - in the transfusion lectures, due to IgG maternal antibody to platelet specific antigen on fetus platelets 
+trauma induced coagulopathy - this is bleeding NOT associated with the site of direct injury, seen in 40% of deaths 
+		- cause of it - a lethal triad: hemodilution, acidosis, hypothermia 
+
+---
+
+RBC dz 
+
+met hb - decreased o2 carrying capacity of hb - conversion of iron from reduced state to fe3+ state instead, ferric iron unable to bind/transport oxygen 
+- basically acquired = more common, exposure to oxidizing agents of hb like nitrates 
+- congenital - defect in cyt b5 reductase , mutations in globin protein too 
+- signs and symptoms - chocolate brown blood, **hypoxemia refractory to supp o2**. dyspnea, anxiety, light-headedness, confusion, tachy, etc. 
+- - TREAT: remove agent, methylene blue injection reducing agent + the supplemental oxygen 
+
+haptoglobin - binds free heme for elimination processed thru macrophages in bone marrow, spleen, liver
+- mean cell vol MCV = avg size of rbcs fL 
+- MCH - mean cell hb - avg amt of hgb in each RBC in pg
+- MCHC concntration - avg amt hb per certain concentration of rbs
+- red cell distrib width RDW - amt of variability, higher is more variability % ;
+polychromasia - bluish color in some cells bc of rna in reticulocytes. 
+
+
+
+anemias
+- ==Microcytic anemia include iron deficiency anemia, thalassemia, sideroblastic anemia, and anemia of chronic disease.==
+chronic diseases -> iron deficiency anemia 
+
+hemolytic anemias - 
+- mechanical trauma = DIC, TTP, HUS -> schistocytes + haptoglobn low + helmet cells 
+- paroxysmal nocturnal hemoglobinuria - complement mediated: happens in spleens - > see spherocytes that lose their central pallor
+	- microspherocytes
+	- no  CD59, 55, FLAER; lack GPI anchor proteins 
+- glucose 6 phosphate dh = x linked recessive enzyme , in men all express it .... 
+	- - deficiency = rbcs more prone to ox injury + hemolysis 
+	- - **episodic hemolytic anemia, associated w drugs, toxins, fava beans + infections**
+	- back pain + hemoglobuinuria 
+	- **heinz bodies!!! = crosslinked globins**
+- malaria too - headaches, cyclic fevers, joint pain, hemolytic anemia 
+- autoimmune hemolytic anemias = normochromic, normocytic + spherocytes more!!!
+	- phagocytosis in reticuloendothelial systems = extravascular, not complement mediated, warm rxn with just the IgG -> microspherocytes
+		- warm causes - idiopathic, SLE, B cell lymphomas, drug induced 
+	- cold dz = igM binds, fix the complement in the vessels as intravascular, complement, rbcs destroyed. 
+		- b-cell lymphoms, mycoplasma/infectious mononucleosis infection 
+		- raynaud's phenomenon seen!!
+	- DAT/COOMbs positive 
+- rbc membrane defects = hereditary spherocytosis = ankyrin, spectrin, band 3 defect, in cytoskeletal proteins
+	- anemia, splenomegaly, jaundice, cholelithiasis
+	- punctuated by hemolytic crises/infection or aplastic crises 
+	- MCHC inc , ostmotic fragility test 
+	- howell jolly bodies in asplenic pts 
+- hereditary elliptocytosis too - defect in spectrin makes them more long... - dimers don't form 
+- spectrin defect + deficiency = **hereditary pyropoikilocytosis** - basically not only dimers don't form, but you also get low levels of spectrin production
+	- unusual burn trauma, thermal sensitivity weird 
+
+---
+hemoglobinopathies - single aa sub in globin chain, mod - severe ANEMIA
+hbF - alpha 2, gamma 2 ; 2% in adults , be increased in adults beta thalassemia or HbSS
+HbA2 - alpha 2 delta 2 , 1.5-4% of normal adult hb
+	- beta thalassemia or megaloblastic anemia : increased 
+	- decreased: iron def, sideroblastic anemia 
+
+sickle 
+- - polymerization in low o2 states, african descent, protective against malaria 
+- HbA dom in heterozygous but more S 
+- homozygous with sporatic pain, thrombosis, splenic sequestration, avascular necrosis of femoral head, precipitated by stresS: dehydration, hypoxemia, acidosis, infection + profound hemolytic anemia 
+- howell-jolly bodies 
+-  **hemoglobin F is protective in first few months
+- hydroxyurrea inc hbF to protect against symptoms 
+
+hbc = heterozygous get some target cells
+homozygous hb CC = hemoglobin C disease
+- clinicall yasymptomati, just a lot of target cells + intracellular crystals 
+can mix and match double heterozygousity with hbS/C 
+
+---
+thalassemia = normal hb is made but not in good quantities
+a-thalassemias - 4 total gene copies - mutations due to deletions, excess in unpaired chains. 
+- normal -> silen carry -> alpha thal trait cis or trans. (mild microcytic hypochromic anemia) -> HbH dz (only one left, hemolytic anemia) -> hb Barts dz (hydrops fetalis)
+	- anisocytosis , target ells etc in hetozygous
+	- hbh dz = low mcv, deletion of 3 chains, high affinity o2 but not good for delivery 
+	- hbbarts = unpaired y-globin. fetal demise usually 
+
+b-thalassemias
+- - excess a-chains precipitate bc unpaired
+- chrmosome 11 
+- due to point mutations + loss of heterogeniety 
+-  b0 mutations = absent synthesis 
+	- b+ mutations = reduced b synthesis 
+	- all Hb A2 rises, and HbF increases with severity 
+- minor = trait heterozygous for null or + 
+	- 	- asymptomatic typically , mild/no anemia, microcytosis, RBC up 
+- intermdeia - both + 
+	- 	- symptoms present 6-9 mon after birth after **switch from F to A.**
+- major = cooleys: one + or null for both genes
+	- 	- most severe - no HbA 
+	- 
+	- severe anemia + transfusion dependent 6-9 mon post birth 
+	- anisopoikilocytosis, nucleated rbcs, basophilic stippling
+	- hairlike projections + **frontal bossing!!! splayed teeth!!!**
+==combined S and a-thalassemia not that bad bc bad b-chains that are made from sickle cell have fewer a-chains to pair up with, so fewer HbS in circulation!!!==
+combined HbS and b-thalassemia is way worse. 
+
+---
+aplastic anemia - failure of stem cells to make hematopoietic elements - peripheral blood we see cytopenias, can evolve into acute leukemias. - **marrow space looks like all fat.** -
+
+inherited DNA repair or telomerase - all see bone marrow failures 
+- faconi anemia - relatively rare AR disorder caused by defects in DNA repair - might have shortness, skeletal, endocrinopathy, renal failure, **cafe au lait spots**
+- - pure red cell aplasia - selective decrease in rbc production - subtype of aplastic, **only erythroid lineage decreased**
+	- 		- diamond-blackfan anemia DBA:inherited erythroid aplasia, isolated anemia , in infancy presenting + osteosarcoma risk - **short stature, craniofacial abnormalities, triphalangeal thumbs**
+- 
+macrocytic anemia- **these are PAST the stem cell progenitor**
+	- inc MCV >100 
+	- megaloblastic - a type of macrocytic -  DNA rep disorders,  due to folate/b12 deficincis
+	- 		- decrease in reticulocytes + large immature rbcs in bone marrow
+	- 		- **folate + b12 => pernicious anemia**
+	- 			- b12 def = neurologic impairments, decreased sensation in lower extremities + demyelination - animal food sources - 
+		- **haptocorrin protects b12 from degradation**,
+	- pernicious anemia = antibodies target IF and parietal cells; pancytopenia, neuropath, papillary atrophy of tongue, pH elevation, psychosis. , do scilling test to see
+	- folate deficiency - 				- **carbon transfer into many biochem rxns, purine synthesis to DNA synthesis**
+	- 		- **macrovalicytes - oval teardrop macrocytes, anisopoikilocytosis, large platelets, nucleated RBCs, large neutrophils, ==hypersegmented== (usually 2-3+ too many ) neutrophils**
+non megaloblastic - problem is outside the bone marrow
+- hypoproliferative for rbcs bc of alc use, hyperhtryoidism, etc. 
+- hyperprolifrative due to hemorrhage/hemolysis 
+---
+microcytic anemia 
+- iron def = poor intake, malabsorption at the top, but other tests too 
+- sr iron - iron bound to transferrin in blood normaly 60-170 
+- tibc = transferrin available for binding iron,, usually oppoostie to ferrtin 
+- %sat = amt of transferrin bound to iron - this is a percentage, 20-50 is normal
+- ferritin - iron stores + inflammatory marker
+chronic infection/inflammation - anemia of chronic dz , a neoplasm as well 
+- mild or moderate, normo/microcytic anemia 
+- **improper iron transfer, iron trapped in macrophages of bone marrow , so TIBC dec, sr iron dec, but FERRITIN UP**
+- sideroblastic anemia - faulty incorperation of iron into protoporphyrin ring = **ringed sideroblasts**
+	- inc ferritin, iron, %, but dec tibc
+	- lead tox can be the cause 
+	- also B6 deficiency, or myelodysplastic syndrome
+	- pappenheimer bodies seen 
+	- **overflow without evry using anything up!!!!**
+iron def anemia stages
+- storage depletion = low ferritin, igh tibc
+- deplete sr iron = low iron + %sat 
+- normocytic anemia 
+- microcytic hypochromic anemia 

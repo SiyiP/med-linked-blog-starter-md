@@ -1,6 +1,7 @@
 #summary 
 #hemonc 
 
+![[heme synthesis locations.png]]
 porphyrin metabolism
 ![[Porphyrin input-output overview.png|506x245]]
 under urine+feces = stercobulin (gives brown color)
