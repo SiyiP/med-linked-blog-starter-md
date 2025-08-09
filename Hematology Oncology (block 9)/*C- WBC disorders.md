@@ -90,11 +90,11 @@ mixed patterns? = we can see granulomas
 - - non-necrotizing granulomas - sarcoidosis + nonspecific rxn to malignancy 
 - - necrotizing ganulomas - fungal, tb, cat scratch (henselae) dz , or stellate / serpentine ones are have central neutrophils 
 
-hemophagocytic lymphohistiocytosis. - MAS macrophage activation syndrome - can be lethal -  fever, pancytopenia, splenomegaly, and DIC after a viral infection
+==hemophagocytic lymphohistiocytosis. - MAS macrophage activation syndrome - can be lethal -  fever, pancytopenia, splenomegaly, and DIC after a viral infection==
 - high serum ferritin levels are seen in HLH. 
 - "- hyperviscocity syndrome"
-- - abnormal rxn to viral or proinflammatory exposure - **huge cytokines -> phagocytosis of normal blood cells!** = widespread inflammation + organ failure. 
-- - defect in - **CD8+ and NK cells. can be caused by t cell neoplasms, defects or Xlinked lymphoproliferative disorder XLLPD**
+- ==- abnormal rxn to viral or proinflammatory exposure - **huge cytokines -> phagocytosis of normal blood cells!** = widespread inflammation + organ failure.== 
+- ==- defect in - **CD8+ and NK cells. can be caused by t cell neoplasms, defects or Xlinked lymphoproliferative disorder XLLPD**==
 nonspecific symptoms - fever splenomegaly pancytopenia rapidly progressing to DIC/organ failure!
 - 
 - DX: bone marrow shows hemophagocutosis, high ferritin, hypertriglycerides, high soluble IL-2 receptor
@@ -103,17 +103,17 @@ nonspecific symptoms - fever splenomegaly pancytopenia rapidly progressing to DI
 neoplastic
 CD 1920s = think Bs 
 CD 5,7,4,8 single numbers = think Ts 
-Myeloid numbers are in 3s, 13, 30,etc
-classic monocytic markers are CD14, 64, 68 
-- TdT staining screens for T-cell **lymphoblastic** lymphoma. 
-- - Myeloperoxidase stains mark a **myeloid** lineage of cell type. 
+==Myeloid numbers are in 3s, 13, 30,etc==
+==classic monocytic markers are CD14, 64, 68== 
+- ==TdT staining screens for T-cell **lymphoblastic** lymphoma.== 
+- ==- Myeloperoxidase stains mark a **myeloid** lineage of cell type.== 
 - Coombs testing detects antibodies that can cause hemolysis of red cells.
 - - Flow cytometry can easily discriminate the clonal CD5, CD23 positive B‐ cells with immunoglobulin light chain restriction of CLL from non‐ neoplastic lymphocytes. 
-- platelet glycoproteins CD41, CD61, CD42b 
-- RBCs = glycophorin + CD71
+- ==platelet glycoproteins CD41, CD61, CD42b== 
+- ==RBCs = glycophorin + CD71==
 
 mature b cell lymphomas: 
-mantle cell lymphoma - overexpressed cyclin D1, from t(11;14) - regulates the prog of cell cycle from g1 to s phase 
+==mantle cell lymphoma - overexpressed cyclin D1, from t(11;14) - regulates the prog of cell cycle from g1 to s phase== 
 - 60 yo male usually 
 - **GI mucosal involvement, we see polyps.... lymphomatoid polyposis - little nodules of lymphoma LOOKs like polyps
 - 	- aberrant poz - cd5, cyclin-d1, fmc7 
@@ -320,7 +320,7 @@ wird morphology
 **m spike on SPEP!**
 
 ---
-mature t cell lymphomas - 
+mature t cell lymphomas - cerebriform nuclei basically 
 - mycosis fungoides - involve the skin - into epidermis 
 	-  erythemitous cutaneous patches then evolving into plaques which inc infiltration with clusters called ==pautrier==
 	- cerebriform nuclei = - little brain like cells , = pautrier microabsesses = **collections of malignant cells of epidermis**
@@ -344,7 +344,7 @@ adult T cell leukemia/lymphomas- can overlap
 
 langerhans cell histiocytosis - LCH = hans-schuller-christian disease
 - accessory cells that mainly present antigen to lymphocytes - they have an elongated nuclei with grooves , might be multinucleated, pale eosinophilic cytoplasm,
-- ==birbeck granules = granules shaped like tennis rackets in e-microscopy== 
+- ==birbeck granules = granules shaped like **tennis rackets** in e-microscopy== 
 - 	- **acute disseminated LCH - letterer-siwe disease**
 - 	- triad = **hand-schuller-christian triad = calvarial bone lesions, diabetes insipidus, exophthalmos**
 - - lymph nodes - we see distended **sinuses** filled with langerhans cells + eosinophils 

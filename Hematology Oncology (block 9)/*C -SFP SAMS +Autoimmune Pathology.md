@@ -458,7 +458,7 @@ Thrombic microangiopathies[^11] = hemolytic anemia (destruction of red blood cel
 1. atypical HUS = can be acquired or hereditary, **reducing complement inhibitors**[^11] -> **complement overactive!!!!!!**
 	- TTP can be acquired with genetic ADAMTS13, or acquired with ADAMTS13 deficiency[^11]
 	1. Familial aHUS = disruption of *alt* pathway of complement system[^11] - (Factor H, I, CD46)
-		- **complement overactive from losing factor H+I inhibitor and CD46**
+		- **complement overactive from losing *factor H+I inhibitor and CD46***
 		- ==Associated with mutations of factor H(**inhibitor** of **alt pathway+lectin)**, I (**Loss of this inhibitor of classical**) and CD46(**MAC inhibitor** **membrane cofactor protein**)/ !!! there's a genetic panel[^11]== 
 	2. Acquired aHUS[^11] - (Factor H, I, CD46)
 		- Most commonly, an *autoantibody* against **complement factor H** (inhibitor of alt pathway+lectin)
