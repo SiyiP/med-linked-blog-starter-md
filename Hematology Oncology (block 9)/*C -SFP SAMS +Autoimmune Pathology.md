@@ -1,5 +1,22 @@
 #summary #patho 
 
+TO IMPROVE: 
+HRR complement
+HRR immune response to tumors
+tolerance + autoimmunity 
+viral + bacterial zoonoses
+nucleotide metabolism
+immunomodulators
+pharmacogenetics
+transfusion med
+amyloid
+autoimmunity diseases
+rbc pathology 
+
+melanocytic proliferations
+vasculitis
+wbc pathology 
+
 notes from SAMS
 SFP skin pathology 
 
