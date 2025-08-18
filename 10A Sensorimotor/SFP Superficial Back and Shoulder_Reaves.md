@@ -1,6 +1,7 @@
 #sensorimotor
 ![[01. Superficial Back and Shoulder_Reaves_NOTES (1).pdf]]
 
+https://www.toltech.net/schools/musc/ - vh dissector
 learn the brachial plexus = entire upper limb innervation, much of the interest in nerves
 
 typically movement is from the orgin to insertion? feel the movements too while learning 
@@ -139,4 +140,4 @@ look into med imaging.
 glenoid cavity - think of cavity of shoulder
 and note the surgical vs anatomical neck seen on the xray anterior shoulder image. 
 
-tol tech VH dissector 
+tol tech VH dissector - look at superficial v deep back 
