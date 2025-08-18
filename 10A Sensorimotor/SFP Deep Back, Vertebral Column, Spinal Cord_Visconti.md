@@ -1,1 +1,1 @@
-#sensorimotor 
+#sensorimotor ![[02. Deep Back, Vertebral Column, Spinal Cord_Visconti_NOTES (1).pdf]]
