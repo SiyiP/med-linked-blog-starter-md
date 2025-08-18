@@ -4,6 +4,10 @@
 Superficial Back and Shoulder; Posterior Arm
 COTEACH: 8/25, learn Pectoral region; axilla; brachial plexus; anterior arm from other group 
 - prosection/demo: Deep back; Vertebral canal; Spinal cord and meninges
+5 - 8 pgs
+17 - 18 
+
+
 
 8/26
 Flexor Forearm; Cubital Fossa; Extensor Forearm; Dorsal Hand

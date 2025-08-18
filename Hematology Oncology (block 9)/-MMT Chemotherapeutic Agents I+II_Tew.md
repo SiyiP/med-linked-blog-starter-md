@@ -164,7 +164,7 @@ how monoclonal antibodies work ^^
 		- TOX: immune issues 
 		- >[!microsatellite]**microsatellite instability - multiple repeats of something = basically dna replication makes a ton of mistakes = this is microsatellites. instability means some of those are repeats in coding sequences or mutations = now new proteins that are made with some in the cell surface.** 
 		- >you will get more NEOANTIGENS = **most common in colorectal cancer - you get numerous neoantigens, which can be recognized by the host immune system, like CYTOTOXIC T CELLS!!! TO AVOID THIS, CANCER CELLS WILL OVEREXPRESS PD-L1!!!!! SO YOU NEED TO GIVE PEMBROLIZUMAB**
-![[image.png]]
+![[surface anatomy.png]]
 
 6. Kinase inhibitors - target kinases **inside** cells which regulate pathways. ends in "-nib", all given orally. also **in terms of tox, not that srs, acne is used more as a marker to see if its working** 
 	1. gefitinib = lung, non-small cell lung carcinomas

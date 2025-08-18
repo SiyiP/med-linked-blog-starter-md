@@ -1,6 +1,12 @@
 #sensorimotor
 ![[01. Superficial Back and Shoulder_Reaves_NOTES (1).pdf]]
 
+origin muscle = proximal, more stable + fixed during muscle contraction; connect to less movable bone 
+head = at end of origin muscle where it **fixes to bone**
+insertion =  connections to the bone via tendons, opposite site of origin to more movable bone, moves with te muscle contraction. 
+extrinsic = originate outside of a specific area (like the forearm for hand muscles) and insert into it
+intrinsic = both originate and insert within that area 
+
 https://www.toltech.net/schools/musc/ - vh dissector
 learn the brachial plexus = entire upper limb innervation, much of the interest in nerves
 
@@ -10,31 +16,45 @@ focus on the movements!!!! if you know the movements we know where it attaches
 
 important to review: surface anatomy
 only thing he'd like on the surface anatomy png that's not on it is the upper border of the scapula
-
-all superficial back muscles **originate from** axial skeleton, but inserts on bones of upper limb + innervatd by ventral primary rami/nerves from ventral primary rami 
+![[surface anatomy.png]]
+all superficial back muscles **originate from** axial skeleton, but inserts on bones of upper limb. innervated by ventral primary rami/nerves from ventral primary rami, which comes from the ventral root 
+- these are outshoots from the front spinal nerves
+- origin of superficial back muscle = usually from vertibral spinous process scept levator scapulae from transverse, with the insertion on scapula, except for latissimus dorsi (on the humerus)
+![[ventral and dorsal spinal nerve.png]]
 true back muscles = innervated by **dorsal primary** rami
+all are innervated by ventral primary rami except trapezius, innervated by accessory 
 
-origin is usually from vertebral spinous process except levator scapulae
 
 know the parts of the clavicle: 
 acromial end, sternal end, adn then superior vs inferior surface. 
+acromal - = lateral end
+sternal is most medial 
 
-scapula = memorize the many parts of it 
-acromion, coracoid process, glenoid cavity, neck, angles and borders, supra and infraglenoid tubercles, suprascapular notch, subscapular fossa, spine, supraspinous and infraspinous fossae.
+==scapula = memorize the many parts of it== 
+![[humerus and scapula.jpeg]]
+acromion, coracoid process, glenoid cavity(shoulder hole, at the supraglenoid tuberrcle meeting with the scapula's head), neck, angles and borders, supra and infraglenoid tubercles, suprascapular notch, subscapular fossa, spine(on the posterior of the scapula, that part going to the acromion projection), supraspinous and infraspinous fossae.
+- acromion = anterior projection from lateral end of the scapula spine.... continuous with spine of scapula at acromial angle, extending anteriorly over the glenohumeral joint 
+	- connection to the clavicle 
+- coracoid process thick curved anterior projection from head and neck of scapula.... origin of coracobrachialis + short head of bicep brachii musles + insertion of pectoralis minor.... 
 - note the angles + borders , as well as the medial, superior, inferior etc. 
 - the supra/infraglenoid tubercles = **are all attachment points for muscles tmro!**
 - spine of scapula = note this, many sit here. 
 - supraspinous foss + intraspinous fossa have muscles which sit there. 
-
-on the humerus. - note the anatomical neck + surgical neck
+^^^ 
+on the humerus. - note the anatomical neck (higher, above that greater tubercle, below the head of humerus) + surgical neck (lower, under the greater tubercle)
 - greater + lesser tubercle = attachment point
 - intertubercular sulcus = bicipital groove - also attachment for muscles 
+- know: head, anatomical neck, surgical neck, greater tubercle(more lateral+anterior, on top there's the supraspinatus muscle) , lesser tubercle(medial, subscapularis muscle distal attachment), 
+- intertubercular sulcus (bicipital groove, **in betweeen the greater and lesser tubercle but inferior to it**; basically a divot next to the distal attachments of teres major, latissimus dorsi, and pectoralis major),
+- deltoid tuberosity(lateral sticking out point, of the longbone, notably where the **deltoid muscles distally attach**) 
+- radial groove(on posterior, the large groove running to the side of the deltoid tuberosity - **proximal brachialis muscle attachment**).
 
 superficial layer - 
 - trapezius + latissimus 
 - trapezius = origins skull, ligamentum nuchae, spinous processes of 7 cervical + all 12 thoraccic vertebrae
-	- unusual attachment, t lateral 1/3 superiorish part of clavicle. 
+	- unusual attachment, to lateral 1/3 superiorpart of clavicle. 
 	- on the back, from the back we have the movement based on  ligamentum nuchae and skull
+		- ligamentum nuchae = continuous with supraspinous ligament, at the back of neck. 
 	- note the movements - move things elevation, upward rotation, retraction + depression. 
 	- innervation: spinal accessory n and branches of ventral primary rami C3 and C4 
 	- blood supply is superficial branch transverse cervical artery **be careful of this...**

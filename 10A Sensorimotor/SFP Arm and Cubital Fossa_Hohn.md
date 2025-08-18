@@ -63,6 +63,73 @@ posterior compartment -
 	- insertion = on posterior surface of olecranon 
 	- extend forearm at elbow + weakly extend/adduct arm at shoulder... due to long head attachment to scapula 
 - radial nerve - enter into posterior compartment of arm 
-	- then spirals around radial groove of humerus, betwe
-- profunda brachii a 
-- 
+	- then spirals around radial groove of humerus, between lateral+medial heads, accompanied by profunda brachii a 
+	- seen easily without much dissection but pick thru to isolate nerve from a. 
+	- location important clinically bc if you fracture the midshaft of your humerus, you can damage the radial nerve!!! 
+		- fall in elderly or car collision ): 
+		- injury to it proximal to elbow: wrist drop seen due to hard to extend hand at wrist, some difficulty extending fingers against resistance + loss of sensation in posterior forearm + dorsal hand 
+			- basically this provides innervation to extenders of your forearm 
+	- pierces the lateral intermuscular septum just superior of elbow joint 
+	- travels inferiorly , between brachialis + brachioradialis mm (will find it without fail)
+	- when it gets to the cubital fossa area (anterior to elbow joint, will divide)
+		- into superficial and deep branches = locate at lab! 
+- profunda brachii a = a branch of the brachial a
+	- supplies posterior compartment, parallels the raidal nerve inside the radial groove
+	- gives rise to anastomoses around elbow and **ascending branch to the shoulder joint!**
+	- anastamoses:at least know where they come from, not who anastamose with whom. 
+		- from collateral or recurrent branches 
+		- understand = collateral descend, recurrent ascend!!! 
+		- collaterals: 
+			- profundal brachii artery gives rise to radial and middle collateral a
+			- from brachial a, we give superior + infrior ulnar collateral, which are on medial aspect
+		- recurrrents: 
+			- radial a -> radial recurrent a
+			- ulnar a -> anterior + posterior ulcer recurrent a 
+
+other nerves - just be aware 
+- medial brachial cutaneous nerve - goes to skin, might lose it .... maintain if you can , but it'll be a loose end
+- intercostobrachial cutaneous nerve - medial too lol maintain if you can , but it'll be a loose end
+- medial antebrachial cutaneous nerve  - medial of forearm etc. maintain if you can , but it'll be a loose end
+- ulnar nerve = terminal branches thru the arm, no functino, headed to more distal structures in the forearm + hands 
+- median nerve =  terminal branches thru the arm, no functino, headed to more distal structures in the forearm + hands 
+
+
+anterior cutaneous nerves... look at the images
+
+cubital fossa bounds
+- prox = line b/t medial/lateral epicondyles
+- lat = brachioradialis 
+- medial - pronator teres
+- roof = skin, fascia and bicipital aponeurosis **
+whats inside it 
+- TAN lateral to medial 
+	- biceps brachii tendon 
+	- brachial artery 
+	- median nerve 
+
+veins of arm - try to maintain ; medial to lateral
+- basillic vein - pierces brachial fascia upon ascent to axilla, main tributary of axillary v. near or at the inferior border of teres major m. 
+- cephalic v = lateral, travels inferiorly and then epties into the axillary v in the deltopectoral triangle
+	- be careful!!! when taking skin off in lateral region of shoulder!!!! 
+- median cubital vein = the joining of cephalic + basilic v in the cubital fossa, moer intferior 
+	bicipital aponeurosis = roof of the cubital fossa, immediately deep of the median cubital vein 
+	this is a site of muscle attachment, separating bahial a and median nerve from median cubital vein!!
+		this bicipital aponeurosis helps u prevent artery sticking with a needle!!!!! barrier !
+
+lymphatics 
+- lateral = empties into infraclavicular nodes which then drain to apical nodes of axilla 
+- medial = empty into lateral axillary nodes 
+	- also hands/forearms can also drain into the cubital nodes or straight into lateral axillary nodes
+
+biceps tendinitis
+- long head of biceps travelling thru intertubercular sulcus of humerus, this tendon is a common issue 0: 
+- bicep tendon is deep to the ligament called transverse humeral ligament. 
+- excessive repetitive movements = microtrauma, overhands  = will make it inflammed 
+but if untreated, can lead to rupture of long head of biceps
+- tendon torn from attachment of the supraglenoid tubercle
+- seen with a snap or pop 
+- "displaced muscle, popeye demformity" = leads to distally displaced belly of biceps is loose and more near forearms
+long head can also be dislocated from intertubercular sulcus 
+- tendon tears thru transverse humeral ligament - 
+- can test = **yergason's test** - they flex to 90 degrees , with forearm pronated, externally rotating while supenating, turning out while external rotation 
+- clinician will resist that while touching shoulder to feel for pain/dislocation of the tendon from the sulcus 
