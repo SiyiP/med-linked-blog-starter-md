@@ -1,6 +1,9 @@
 #sensorimotor
 ![[01. Superficial Back and Shoulder_Reaves_NOTES (1).pdf]]
 
+brachial plexus - wait for the full electure on this 
+- observe that there's many cords. 
+
 origin muscle = proximal, more stable + fixed during muscle contraction; connect to less movable bone 
 head = at end of origin muscle where it **fixes to bone**
 insertion =  connections to the bone via tendons, opposite site of origin to more movable bone, moves with te muscle contraction. 
@@ -46,67 +49,87 @@ on the humerus. - note the anatomical neck (higher, above that greater tubercle,
 - intertubercular sulcus = bicipital groove - also attachment for muscles 
 - know: head, anatomical neck, surgical neck, greater tubercle(more lateral+anterior, on top there's the supraspinatus muscle) , lesser tubercle(medial, subscapularis muscle distal attachment), 
 - intertubercular sulcus (bicipital groove, **in betweeen the greater and lesser tubercle but inferior to it**; basically a divot next to the distal attachments of teres major, latissimus dorsi, and pectoralis major),
+	- latissimus dorsi insertion 
 - deltoid tuberosity(lateral sticking out point, of the longbone, notably where the **deltoid muscles distally attach**) 
 - radial groove(on posterior, the large groove running to the side of the deltoid tuberosity - **proximal brachialis muscle attachment**).
 
 superficial layer - 
 - trapezius + latissimus 
-- trapezius = origins skull, ligamentum nuchae, spinous processes of 7 cervical + all 12 thoraccic vertebrae
+- trapezius = origins skull, ligamentum nuchae, spinous processes of C7 + all 12 thoraccic vertebrae
 	- unusual attachment, to lateral 1/3 superiorpart of clavicle. 
 	- on the back, from the back we have the movement based on  ligamentum nuchae and skull
-		- ligamentum nuchae = continuous with supraspinous ligament, at the back of neck. 
+		- ligamentum nuchae = continuous with supraspinous ligament, at the back of neck. shiny part attaching to the spine 
+		- attaches to skull superiorly as occipital protuberance to tips of the spinal procsses of C7 inferiorly 
 	- note the movements - move things elevation, upward rotation, retraction + depression. 
+		- upper part will elevate scapula, middle fibers retract it. and lower ones pull the medial border of scapula, making the glenoid fossa up. 
 	- innervation: spinal accessory n and branches of ventral primary rami C3 and C4 
-	- blood supply is superficial branch transverse cervical artery **be careful of this...**
+		- this nerve will exit the skull thru foramen to immediately innervate this, then goes more down running deep to trapezius but superficial to rhomboids 
+	- blood supply is superficial branch transverse cervical artery **be careful of this during dissection...**
 - latissimus dorsi - originate from iliac crest, prominant thoracolumbar fascia + spingous processes of 6th-12th thoracic .... and sometimes 3-4 ribs/inferior angle of scapula 
-	- insertion on floor of intertubercular sulcus of humerus - hold out your arm and see it extend, 
+	- looks like wings from the spinous processes of T6-12
+	- insertion on floor of bicipital groove of the humerus 
 	- attaches to shoulder, gonna adduct. 
+		- - only superficial muscle inserting into the humerus!!!
+	- also since it's on shoulder, extends + internally rotates arm. 
+	- also depresses the arm, pulling it forward when arms fixed overhead 
 	- when arms are straight up, it will stabilize the trunk , moving upwards. 
-	- intertubucular sulcus of humerus - on the back, attaching into the arm
 	- innervated by thoracodorsal nerve 
 		- this attaches, and then we'll see it travel along the diagonal , not necessarily all the branches
+		- from posterior cord of the brachial plexus between upper/lower subscapular nerves 
+- note: there's a tendon of latissimus dorsi passing **anterior to tendon of teres major...** since it's superficial. 
 
-deep layer
-- levator scapulae - originate from transverse (unique!) process of 1st C1-4
-	- insert: at **superior angle at superior portion of medial border of scapula**
+
+![[shoulder muscles deep and superficial.jpeg]]**deep layer**
+- levator scapulae - originate from transverse (unique!) processes of C1-4
+	- insert: at **superior angle at superior portion of medial border of scapula** - this is on the medial border of the scapula, just the top of it when you see it posteriorly 
 	- when spine is fixed, elevates scapulae + rotates inferior angle medially ... 
 	- similar to the trapezius in movements potentially 
-	- if scapula fixed, contraction )))
 	- innervated by dorsal scapular nerve and v.p.r. of C3 and C4
 		- we won't really see it up there .... but will see it as it **travels along medial border of the scapula**
+		- **the dorsal scapular nerve leaves C5 ventral primary ramus to continue back and down the medial aspect of medial border of scapula** 
 - rhomboid major = from spine of 2nd-5th thoracic insertions = dorsal scapular nerve 
 	- DEEP branch transverse cervical artery supplies this
 	- dorsal scapular arteries will supply both major and minor, seen on the medial border of scapula 
-- minor = from ligamentum nuchae + spins of 7th cervical 1st thoracic vert = dorsal scapular nerve  innervatin 
+	- from T2-5 spinous processes, inserting onto medial border of scapula between root of spine + inferior angle of scapula 
+	- helps hold the scapula onto ribcage + retracts pulling it to vertebrae (abduction) + elevates the medial border of scapula, downward rotation. 
+- rhomboid minor = from ligamentum nuchae (similar to trapezius) + spines of 7th cervical and 1st thoracic vertebrae = dorsal scapular nerve  innervatin 
+	- this is above the rhomboid major and smaller too. 
+	- leads to the insert onto the **medial border from the scapula, IMMEDIATELY MEDIAL to the root of the scapula spine**
 - major = hold scapula to ribcage 
-- retracts scapula and abducts, to the vertebral column. also elevates medial border of scalpula. 
 
-movement ofo scapulae scapulo throacic articulartion (insert)
 
+movement ofo scapulae scapulo throacic articulartion 
+![[scapulae movement.png]]
+
+![[rotator cuff muscles.png]]
+---
+==left off here==
 shoulder muscles
 superficial layer
 - deltoid muscles - from scapula/clavicle, inserting on humerus, crossing only one joint glenohumeral joint
-	- stabilizes and produces movements at shoulder joing
-	- **this is the inferior 1/3 of the clavicle, counter muscle is the traps which are superior 1/3rd**
-	- originates from spine of scapula, acromion and then the lateral 1/3 of clavicle
+	- stabilizes and produces movements at shoulder joint
+	- **this is the inferior 1/3 of the clavicle, counter muscle is the trapezius which are superior 1/3rd**
+	- originates from spine of scapula, acromion and then the lateral 1/3 of clavicle; 
 	- insert on deltoid tuberosity 
 	- abduction (up and down arm flap) , flexion  (internal rotation) + extension (external rotation
 	- very strong
 	- axillary nerve C5-6
 - supraspinas muscle - from supraspinous fossa of scapula, inserts on greater tubercle of humerus + CAPSULE of shoulder joint
-	- muscle passes UNDER acromion but over the shoulder joint
+	- muscle passes **UNDER acromion** but over the shoulder joint
+	- bordered by acromion, above the spine of scapula, and to the lateral side of the medial border of the scapula.... 
 	- abducts to about 60%, note that it's mainly on the INSIDE. if you abduct more, that's gonna be the delts. 
 	- this does same as the deltoids 
 	- C5-6 supascapular nerve 
 	- most commonly torn in rotator cuffs. 
 - infraspinatus muscles - originates from infraspinatus fossa, inserting on **GREATER tubercle** of humerus + capsule of shoulder joint
-	- gonna be about retraction, pulling stuff back. external rotator, adducts inferior angle of scapula away ffrom midpoint. ofc it reinforces capsule of shoulder joint. 
-	- 	- C5-6 supascapular nerve 
-- subscapularis muscles - from the subscapular fossa of scapula, inserting on the lesser tuberosity (on the inside) of the humerus
+	- gonna be about retraction, pulling stuff back. external rotator, adducts inferior angle of scapula away from midpoint. ofc it reinforces capsule of shoulder joint. 
+	- going to the sides, under the spine of scapula and in 2 pairs, inserting ont the greater tubercle
+	- C5-6 supascapular nerve 
+- subscapularis muscles - from the subscapular fossa of scapula, inserting on the **lesser tuberosity** (on the inside) of the humerus
 	- involved in contracting your arms inward, counter to ___
 	- C5-6 lower subscapular nerves AND upper subscapular nerves (basically part of the brachial plexus)
 		- arise from postrior cord, downward on anterior surface of subscapularis musc
-- teres major/minor
+- teres major/minor; minor above the major 
 	- both from lateral border of scapula
 	- minor on the upper 2/3, posterior , inserting onto greater tubercle of humerus + capsule of shoulder joint 
 		- holds humeral head in place, allows lateral rotation of shoulder, same orientation as infraspinatus, 
