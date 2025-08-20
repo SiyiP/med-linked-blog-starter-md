@@ -63,8 +63,10 @@ superficial layer -
 	- note the movements - move things elevation, upward rotation, retraction + depression. 
 		- upper part will elevate scapula, middle fibers retract it. and lower ones pull the medial border of scapula, making the glenoid fossa up. 
 	- innervation: spinal accessory n and branches of ventral primary rami C3 and C4 
-		- this nerve will exit the skull thru foramen to immediately innervate this, then goes more down running deep to trapezius but superficial to rhomboids 
+		- this nerve will exit the skull thru jugular foramen to immediately innervate this, then goes more down running deep to trapezius but superficial to rhomboids 
+		- this does motor innervation for the trapezius, and then the sensory innervation provided by the C3/4 nerves. 
 	- blood supply is superficial branch transverse cervical artery **be careful of this during dissection...**
+		- transverse cervial artery (be4 splitting into superficial/deep) direct/indirect branch of the subclavian artery 
 - latissimus dorsi - originate from iliac crest, prominant thoracolumbar fascia + spingous processes of 6th-12th thoracic .... and sometimes 3-4 ribs/inferior angle of scapula 
 	- looks like wings from the spinous processes of T6-12
 	- insertion on floor of bicipital groove of the humerus 
@@ -73,9 +75,12 @@ superficial layer -
 	- also since it's on shoulder, extends + internally rotates arm. 
 	- also depresses the arm, pulling it forward when arms fixed overhead 
 	- when arms are straight up, it will stabilize the trunk , moving upwards. 
-	- innervated by thoracodorsal nerve 
+	- innervated by t**horacodorsal nerve** 
 		- this attaches, and then we'll see it travel along the diagonal , not necessarily all the branches
 		- from posterior cord of the brachial plexus between upper/lower subscapular nerves 
+		- descends on the anterior surface of the subscapularis muscle and then downward to the latissimus dorsi muscle !
+		- the long thoracic nerve is from a branching point but slightly lower than it, running parallel to the thoracacodorsal nerve on the chest wall 
+			- long thoracic nerve innervates serratus anterior muscle 
 - note: there's a tendon of latissimus dorsi passing **anterior to tendon of teres major...** since it's superficial. 
 
 
@@ -85,7 +90,7 @@ superficial layer -
 	- when spine is fixed, elevates scapulae + rotates inferior angle medially ... 
 	- similar to the trapezius in movements potentially 
 	- innervated by dorsal scapular nerve and v.p.r. of C3 and C4
-		- we won't really see it up there .... but will see it as it **travels along medial border of the scapula**
+		- we won't really see the origin in dissection bc it's up high in the neck .... but will see it as it **travels along medial border of the scapula**
 		- **the dorsal scapular nerve leaves C5 ventral primary ramus to continue back and down the medial aspect of medial border of scapula** 
 - rhomboid major = from spine of 2nd-5th thoracic insertions = dorsal scapular nerve 
 	- DEEP branch transverse cervical artery supplies this
@@ -103,10 +108,9 @@ movement ofo scapulae scapulo throacic articulartion
 
 ![[rotator cuff muscles.png]]
 ---
-==left off here==
-shoulder muscles
+shoulder muscles = all originate from the scapula 
 superficial layer
-- deltoid muscles - from scapula/clavicle, inserting on humerus, crossing only one joint glenohumeral joint
+- deltoid muscles - from spine of scapula/clavicle, inserting on humerus, crossing only one joint glenohumeral joint
 	- stabilizes and produces movements at shoulder joint
 	- **this is the inferior 1/3 of the clavicle, counter muscle is the trapezius which are superior 1/3rd**
 	- originates from spine of scapula, acromion and then the lateral 1/3 of clavicle; 
@@ -119,16 +123,18 @@ superficial layer
 	- bordered by acromion, above the spine of scapula, and to the lateral side of the medial border of the scapula.... 
 	- abducts to about 60%, note that it's mainly on the INSIDE. if you abduct more, that's gonna be the delts. 
 	- this does same as the deltoids 
-	- C5-6 supascapular nerve 
+	- C5-6 suprascapular nerve runs underneath also with the corresponding artery  
 	- most commonly torn in rotator cuffs. 
 - infraspinatus muscles - originates from infraspinatus fossa, inserting on **GREATER tubercle** of humerus + capsule of shoulder joint
 	- gonna be about retraction, pulling stuff back. external rotator, adducts inferior angle of scapula away from midpoint. ofc it reinforces capsule of shoulder joint. 
-	- going to the sides, under the spine of scapula and in 2 pairs, inserting ont the greater tubercle
+	- going to the sides, under the spine of scapula and in **2 pairs**, inserting ont the greater tubercle
+	- this is slightly superior to the teres minor and major
 	- C5-6 supascapular nerve 
 - subscapularis muscles - from the subscapular fossa of scapula, inserting on the **lesser tuberosity** (on the inside) of the humerus
 	- involved in contracting your arms inward, counter to ___
 	- C5-6 lower subscapular nerves AND upper subscapular nerves (basically part of the brachial plexus)
-		- arise from postrior cord, downward on anterior surface of subscapularis musc
+		- arise from posterior cord, downward on anterior surface of subscapularis muscle
+		- these are basically a posterior cord 
 - teres major/minor; minor above the major 
 	- both from lateral border of scapula
 	- minor on the upper 2/3, posterior , inserting onto greater tubercle of humerus + capsule of shoulder joint 
@@ -151,10 +157,8 @@ anatomical spaces = both triangular space + quadrangular space = created **by di
 - triangular space = medial to that = teres minor/major
 	- lateral = long head of triceps = contents of the circumflex scapular vessels 
 
-
 extra - suprascapular nerve - lat branch of superior trunk of brachial plexus, getting C5-6 sometimes C4 
 artieries (army?) runs on top of the suprascapular notch but the nerve (navy) goes under
-
 
 SITs muscles = all helps maintain and holds it in space
 - supraspinatus
