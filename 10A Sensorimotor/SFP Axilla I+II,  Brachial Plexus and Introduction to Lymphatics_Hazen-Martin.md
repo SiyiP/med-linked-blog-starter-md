@@ -72,15 +72,104 @@ learn:
 	- some mammary glands and also other glands
 	- limited by the 1st rib, outer border + teres major 
 	- **landmark: pectoralis minor muscle, as it runs thru the insertion, will cover the 2nd part of the axillary artery, and you can trace to the cords of the brachial plexus** 
-	- axillary artery 
+		- we can block all the nerves - axillary block for the upper limb. we use the fascia that holds it all in place 
+	- subclavian artery above the rib -> axillary artery 
+		- part 1 = first branch is **superior thoracic artery** , extends to outer border of the first rib 
+			- supplies intercostal regions from outside in 
+		- part 2 = thoraco-acromial trunk, lateral thoracic artery, covered by pec minor 
+			- thoraco-aromial trunk (branches supply many structures on the thoracic wall)
+			- distal border will have the lateral thoracic artery - **most importantly supplying the breast/ribcage**
+		- 3rd part - subscapular artery, anterior/posterior humeral circumflex arteries , travels to the humerus , which is the lower border of teres major, which means the axillary artery below this -> brachial artery 
+			- subscapular artery down the lateral border of scapula, then at triangular space gives rise to circumflex scapular artery emerging posteriorly 
+			- thoracodorsal artery is the continuation of this as it descends, joins thoracodorsal nerve and supplies latissimus dorsi 
+			- posterior aspect of the artery: 2 arties the anterior (small) and the larger posterior humeral circumflex artery - will make a circle around the surgecal neck of the humerus 
+				- posterior circumflex leaves thru the quadrangular space, along w the axillary nerve. 
+	![[axillary artery and branches.png]]
 	- axillary v 
-	- brachial plexus
-	- lymphatics
-	- axillary sheaths
-	- fat 
+		- more anterior and more medial. need to be removed, covers the artery 
+		- made by continuation of **basilic vein**
+		- tributaries - the veins that correspond to teh arterial branches happen - match named arteries 
+		- will continue as subclavian vein upwards. 
+	- brachial plexus - a plan that ensures multiple nerves that are mixed up distributes nerves 
+		- origin: proximal portion in the neck: C5 to T1, anterior rami of spinal nerves, all in neck. these are "roots of the brachial plexus"
+		- these will combine in the neck to make trunks of the brachial plexus. 
+		- as we get to the lateral border of the first rib, we will make the branches. there's like 3 of them dividing into anterior + posterior things, and then recombine distal of the rib to make cords in the axilla 
+		- how is it formed? proximal to distal: Roots (2 branches coming from here) -> trunks(2 branches coming from upper trunk) -> divisions (in first rib/axilla) -> cords -> branches
+				- **root branches:C5-> dorsal scapular n(supply rhomboids)**
+				- long thoracic nerve : C5-7 , creeps down to supply serratus anterior 
+			- C5+6 -> upper trunk
+				- nerve to subclavius 
+				- suprascapular n - supplies supraspinatus and infraspinatous
+			- C7 -> middle trunk
+			- C8+T1 => lower trunk (most impacted by thoracic outlet syndrome)
+			- then 6 divisions: each one having an anterior and posterior division 
+			- then, divisions form cords:
+				- lateral cord = upper and middl anterior trunk 
+					- 3 branches coming from here 
+					- lateral pectoral n -> supplies pectoralis major thru the triangle 
+					- musculocutaneous n -> supplies all anterior muscles and ends as cutaneous branch to forearm 
+					- lateral root of the median nerve - **this will combine later to make median nerve**
+				- posterior cord = all the posterior divisions of all the trunks; **this is covered by the 2nd part of axillary artery**
+					- 5 branches from here 
+					- upper and lower subscapular nns - all supply subscapularis, but the lower one also supplies teres major 
+					- thoracodorsal nerve = between them to the latissimus dorsi 
+					- axillary nerve exits the quadr space with posterior humeral circumflex artery to the deltoid 
+					- radial n = down arm, supplying all the posterior side muscles and in forearm 
+				- medial cord - made from the anterior division from the lower trunk alone 
+					- 5 branches coming from here
+					- medial cutaneous arm and forearm
+						note: the medial cutaneous nerve of the arm has the lateral cutaneous branch of T2 here, which confers angina and MI pain to this area, the medial arm. 
+					- medial pectoral n = supplies pec minor AND major
+					- medial root of median nerve, combines with the lateral roots of median nerve to make median n 
+					- ulnar n = supplies some in forearm, intrinsic muscles in hand, travels to forearm 
+memorize via filling it out 
+![[brachial plexus.png]]
+where did the lesion occur? knowing this helps you know the point of injury - we will learn and reson this thru 
+1. upper BP injury C5-6 - can happen due to prolonged birth where head is pulled away from shoulder at one side, 
+	1. supplies nerves to the shoulders, which will droop on that side. no bicep flexion, thrown hand 
+	2. "Erb duchenne palsy" 
+2. lower BP injury - when kid falls off cliff but hangs on to a branch, C8/T1 affected
+	1. ulnar nerve majjorly impacted, bc you get claw hand, which means intrinsic muslcs and forearms highly limited 
+3. brachial plexus + peripheral nerve injury 
+	1. radial nerve impacted, then everything downstream 
+	2. shatter on groove of humerus - think of which branches are before that are still intact 
+	3. lesion at elbow, think olecranon broken, bachioradilais muscle impacted 
 
+ lymphatics-  function of the breast health + function
+- thin walled vessels in capillary bed 
+- collect fluid lost from vascular capillary bed (interstitial fluid left behind, job of lymphatics to pass it thru and then drain it back into the venous system)
+- draingage poitns = in the brachiocephalic veins! 
+- all lymphatic drainage in lower = to the lumbar trunks -> thoracic duct -> brachiomedialstinal trunks etc. 
+- **head and neck, left side of thorax, all get drained in the left thoracic duct** 
+- right upper quarter drained in right jugular trunk, right subclavian etc 
+- axillary nodes - sets where limbs join the trunk , in the axilla. 
+	- PLASCA
+	- pectora = anterior thorax lymph node collection, along the lateral border of pectoralis major 
+	- Lateral- along the formation of the axillary vessels of the lower borderof teres major 
+	- Subscapular - on the anterior surface of subscapularis ; collect lymph from the back 
+		- these all drain into Central, tucked under the pectoralis minor
+		- then thse will train to the apical nodes, which is in deltaventral triangle, then to the cephalic lymph back to vascular system. 
+	- start getting involved in immune reactions, seeing edema infection, cancer metastasizes thru lymphatics = see the lymph nodes getting too big. 
+	- mammary gland - most breast cancers will drain into the pectoralis nodes 
+gland structure 9-10 lobes
+- external to deep fascia covering pec major 
+- this is retromammary space, a surgical plane to remove these 
+- radical mascectomy removes everything including muscles
+- modded radical mascectomy, doing an axillary dissection, leaving muscle intact 
 
+medial quadrants of breast - supplied by branches of internal thoracic artery, so draining into both parasternal nodes as well as the pectoral nodes!! majorly most of the time!! 
+lateral quadrants =supplied by lateral thoracci artery, so the lateral thoracic vein takes blood away , drains into pectoral nods 
 
-
+![[breast clock + quadrants.png]]
+note - clinically: 
+- medial quadrants go to parasternal nodes 
+- latral quadrants to the pectoral nodes
+- level one = distal to edge of pec minor 
+- all go to central group = level 2 deep to pec minor 
+-  apical group = deeper!! seen as level 3 , worst prognosis 
+in the old days they take all the nodes, shows huge edematous limbs! )): 
+- traditional removal of axillary nodes in these => axillary dissection causes pitting edema 
+- sentinel node biopsy - honor natural flow of lymph to leave more normal lymphatic drainage
+	- inject with a dye, see which nodes lights up first etc... and follow the lymph and harvest the nodes that light up to see if it'll light up, until you see the nodes lighting up having no cancer. 
 
 ![[05a. Axilla II-Brachial Plexus and Introduction to Lymphatics_Hazen-Marting_NOTES (1).pdf]]
