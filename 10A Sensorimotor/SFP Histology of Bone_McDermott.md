@@ -55,8 +55,41 @@ cells in bones
 		- alkaline phosphatase 
 	- mineralization of bone - secretion of alk phosphatases to inc PO4- , Ca2+ binding proteins osteocalcin and osteonectin and adhesive protein osteopontin 
 		- these lead to formation of **hydroxyaptite crystals embeding collagen and proteoglycans in bone matrix**
-- osteoprogenitor cells - mesenchymal stem cells differentating into blassts and cytes
+- osteoprogenitor cells - mesenchymal stem cells differentating into blasts and cytes
+	- don't have to recognize them, basicallly flattened cells 
+	- know they're on the inner/outer surfaces of bones 
+	- from mesenchymal stem cells of bone marrow
 - osteoclasts - **monocyte lineage**, multilineatedd that resorb and remodel bone. 
+	- large multinucleated cells!!! from the bone marrow
+	- function in bone resorption during growth and remodding of matrix 
+	- located in cavities/depressions of bone called **howship's lacuna, as they're active**
+	- stain eosinophilic bc mitochondria 
+	- they attach to bones via **integrins, making a ruffled border to contact SA up**
+		- then the contact zone is surrounded by cytoplasmic ring/collar of actin filaments, sealing off extracellular space with low pH 
+		- the clasts have **carbonic anhydrase II** which catelyzes h2o + CO2 -> H2CO3, disassociating onto H+ and HCO3-
+			- more acidic!!!
+			- H+ transported into extracellular space, and then biarb back into the blood
+			- we will make HCl bc the H+ is put in the extracellular space WHILE Cl- is transported
+	- **very strong acid environment** = making lysosomal enzymes activate like cathepsin K and collagenase, making howships lacuna formed and then these enzymes degrade osteoid and then **low pH facilitates release/redistrib of Ca2+ , dissolving hydroxyapatite crystals**
+how does differntiation/activation work? 
+	- pre-osteoclasts - monocyte lineage from progenitor cells CFU-GM, of hematopoiesis in the bone marrow ; these have a receptor called RANK 
+		- rank = receptor activator of nulear factor kB
+		- RANKL = ligand 
+	- osteoBLASTS express RANKL to bind to RANK on the pre-osteoclasts => fusion to form mature osteoclast!!
+	- RANKL binds to rank expressed by mature osteoclast to make activation! 
+	- OPG = **a decoy receptor !!! osteoprotegerin, gets released by *osteoblasts* that binds to RANKL, sequestring it, preventing osteoclast formation+activation.**
+	- PtH = binds to GPCRs on osteoblasts, which is called PTH1R in osteoblasts
+		- this makes RANKL secretion increase. 
+		- and this ligand binding to osteoblasts also decreases OPG secretion
+		- in total, this will stimulate more and more RANK-RANKL binding, so more mature osteoclasts activity 
+		- **increased ca2+ levels bc promotion of bone resorption , inc Ca2+ and PO4- to the extracellular fluid**
+	- calcitonin - binds to hCTR1 on **osteoclasts**
+		- decrease the number 
+		- inibit secretory/resorptive acitivty of mature osteoclasts
+		- decreasing ca2+ levels in blood by inhibiting bone resorption by osteoclasts 
+when plasma calcium levels are low -> trigger PTH 
+when plasma calcium levels are higher -> calcitonin secretion 
+sensing these changes via the receptors!!
 
 types of bone tissue
 1. spongey bone - cancellous bone 
@@ -121,3 +154,10 @@ histo of spongey bone
 - still have formation communication with gap unctions
 - usually doesn't have haversian systems bc the trabeculae are thin, allowing for effective nutrient diffusion from marrow - 
 
+
+osteoporosis - when bone resorption > bone formation 
+- bone loss + reduced bone density 
+- common in postmenopausal women + chronically immobilized pts
+- 2 major changes: 
+	- **thinner spicules/trabeculae**
+	- bigger spaces in scaffolding of tissue. 
