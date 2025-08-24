@@ -97,6 +97,47 @@ notable types of gait
 additional tests on osce
 1. romberg - shouler width apart, stand with your eyes closed, raised arms
 	1. poz if they lose balance
-	2. testing if you know where the joints are in space. 
+	2. testing if you know where the joints are in space. - sensory 
 	3. if they unsteady with eyes open - think cerebellar 
-	4. faal
+	4. falling in shower is an example 
+2. pronator drift, hold their arms like your holding a pizza box 
+	1. poz if they close eyes and then arms drift down, 
+	2. test of weakness , doing prior to strength test as a screener. 
+
+reflexes
+- brachioradialis C5-6
+- biceps C5-6
+- tricepsC7-8
+- patellar L3-4
+- achilles S1 
+- plantar reflex - babinski - scratch their foot up, normal response is flexion, abnormal = exenstion 
+	- mute = neuropathy 
+5+ = sustained clonus (repetitive rhythmic motion) 
+4+ = short clonus 
+3+ brisk reflex  
+2+ = normal only pluses! it's an artifact of when we used to do it 
+1+ = less than normal - if you haave to get a distraction (make fist with other hand) to make the reflex 
+0 = absent 
+
+sensory exam - subjective carefullll - do all these irl, not in osce. 
+- help with localization - start at feet and go up ... 
+	- compare left v right 
+	- hands and feet comparison = length dependent 
+	- follow their complaints 
+	- look for asymmetries and consider dermatomes (radiculopathy) v peripheral nerve territories (peripheral neuropathy) 
+- light touch - q pick brush
+- vibration 128 hz - tuning fork see if they feel it 
+- proprioception - joint position, where you hold the sides of the toe
+- temp anything metal's gonna feel old
+- pain =- pinprick, sharp vs dull. in real life just use a pin 
+**recall - pain/temp - small fiber nerves, impact diabetes/alc**
+vibration/proprioception - large fiber B12 def/syphilis 
+
+some examples of lower motor neuron 
+- als
+- tic paralysis 
+- b12 def
+- guillain barre syndrome/acute inflammatory demyelinating polyneuropathy AIDP 
+
+if inc - CNS
+- trauma, spine 
