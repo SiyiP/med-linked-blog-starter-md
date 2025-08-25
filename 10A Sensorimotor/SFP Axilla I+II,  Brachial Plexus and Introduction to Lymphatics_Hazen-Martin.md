@@ -110,6 +110,12 @@ learn:
 					- musculocutaneous n -> supplies all anterior muscles and ends as cutaneous branch to forearm 
 					- lateral root of the median nerve - **this will combine later to make median nerve**
 				- posterior cord = all the posterior divisions of all the trunks; **this is covered by the 2nd part of axillary artery**
+					- ULTRA - 
+						- upper subscapular nerve
+						- lower subscapular nerve
+						- thoracodorsal nerve 
+						- radial nerve 
+						- axillary nerve 
 					- 5 branches from here 
 					- upper and lower subscapular nns - all supply subscapularis, but the lower one also supplies teres major 
 					- thoracodorsal nerve = between them to the latissimus dorsi 
