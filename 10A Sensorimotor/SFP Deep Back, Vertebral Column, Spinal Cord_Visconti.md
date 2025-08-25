@@ -2,8 +2,7 @@
 33 vertebrae, 24 "true" bc separate from one another and not isolated (12 thoracic, 7C, and 5lumbar), remaining 9 is 5 sacral and 4 coccygeal (fused into the sacrum and coccyx respectively)
 - axial support, connects head + pelvis, protects spinal cord (runs in center), segmental distribution of nerves, muscle attachments, etc. 
 
-
-there's 2 concavities = in thracic + sacral regions = primary curvatures bc **present at birth**
+there's 2 concavities = in thoracic + sacral regions = primary curvatures bc **present at birth**
 **post** birth the infant will get 2 convexities at cervical + lumbar regions = secondary curvatures
 
 typical vertebra - anterior body, foramen, and vertebral arch (made of 2 pedicles), then posterior to those 2 laminae 
@@ -11,7 +10,7 @@ typical vertebra has 7 processes
 - midline 1 spinous process
 - 2 transverse processes
 - 4 articular processes, 2 superior (articulates with vertebra above), 2 inferior 
-	- will be covrere with hyaline cartilage, allows for smooth articulation with intervertebral disk 
+	- will be covered with hyaline cartilage, allows for smooth articulation with intervertebral disk 
 	- facets also at tip of these allowing for smoother movement at points of contact 
 oblique view of vertebras might look at pathology of the processes, pedicles etc. 
 - we can see the scotty dogs drawn in this configuration 
@@ -135,7 +134,7 @@ lumbar disc protrusions - can have herniated disk
 in sacral ones, L5-S1 disc - 1st sacral nerve root.... will see it being pinched. 
 - we see this bc of the downward trajectory in the lumbar region and down 
 
-deep back msucles/true back muscles= **we will not see these!**
+deep back muscles/true back muscles= **we will not see these!**
 erector spinae ; all innervated by dorsal primary rami of the spinal nerves ; all postural. 
 - spinalis medial
 - longissimus - lateral more 
@@ -145,10 +144,10 @@ erector spinae ; all innervated by dorsal primary rami of the spinal nerves ; al
 transversospinalis - also all postural, not seen , helps us rotate our trunk 
 - semispinalis
 - multifidus 
-- rotatores = most lat
+- rotatores = most lateral of all these 
 
 intertransversarii + interspinales = hardest to see ; again postural and helps allow rotation 
-- between adjacent transverse rpocesses
+- between adjacent transverse processes
 - between adjacent spinal processes 
 
 ---
