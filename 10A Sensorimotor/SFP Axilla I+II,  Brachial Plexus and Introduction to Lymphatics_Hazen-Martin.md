@@ -104,7 +104,7 @@ learn:
 			- C8+T1 => lower trunk (most impacted by thoracic outlet syndrome)
 			- then 6 divisions: each one having an anterior and posterior division 
 			- then, divisions form cords:
-				- lateral cord = upper and middl anterior trunk 
+				- lateral cord = upper and middle anterior trunk 
 					- 3 branches coming from here 
 					- lateral pectoral n -> supplies pectoralis major thru the triangle 
 					- musculocutaneous n -> supplies all anterior muscles and ends as cutaneous branch to forearm 

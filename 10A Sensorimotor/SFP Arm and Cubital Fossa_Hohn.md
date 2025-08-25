@@ -11,7 +11,7 @@ one bone making it = humerus
 anterior view.  - 
 - importance of the greater + lessr tubrcle = wwe see intertubercular sulcus! the depression which allows for passage of the longhead(?) brachial muscle 
 - medial epicondyle vs lateral epicondyle = distalmost aspect, just superior are supracondylar ridges (also medial+lateral) all of these are for muscle attachment. 
-- lateral epicondyle has capitulum, a lateral aspect, smooth, which articulates with head of radiuss
+- lateral epicondyle has capitulum, a lateral aspect, smooth, which articulates with head of radius
 - more medial = trochlea articulating with ulva at trochlear notch 
 - radial fosssa = accomodates head of radius at forearm flexion. 
 - 2nd fossa = coronoid fossa superior to trochlea, receives that 
