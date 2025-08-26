@@ -81,17 +81,42 @@ superficial layer - radial to ulnar  - these 7 muscles of this layer come from t
 deep layer - radial to ulnar 
 1. supinator
 	1. different functions, crossing elbow joint but not wrist joint = oddball 
+	2. 2 heads of origin, some nerve goes thru it the deep branch of radial n , which goes between these 2 muscles 
+	3. superficial head from the lateral epicondyle, wrapping forward across radius 
+	4. deep head is aligned with ridge of ulna process, 
+	5. 2 heads wrapping around supinator and then insertion of the bicipital tuberosity and the ridge that extends down on the radius. 
+	6. to supinate forearm 
+	7. when the supinator is relaxed, the bicipital tuberosity is pointing medially. and then when you contract it, the radius is rolled laterally, so then **bicipital tuberosity now in anterior direction**
+		1. biceps muscle which inserts there will help this with this motion 
+		2. this action is opposed by protonator teres and the protonator quadratus in anterior compartment 
 2. abductor pollicis longus 
 	1. extend or abduct thumb 
+	2. originates from shaft of ulna, radius and interosseus membrane. 
+	3. inserts into posterior base of 1st metacarpal. 
+	4. as soon as that radial nerve emerges from the supinator, it will be called the **deep branch of radial nerve/posterior interosseous n**
+	5. abducts and extends thumb at 1st carpometacarpal joint. 
 3. extensor pollicis brevis 
 	1. extend or abduct thumb 
+	2. from radius shaft, then descends very close to abductor pollicis longus tendon. the two tendons go thru the compartment made by the extensor retinaculum, and then share that space
+	3. tis however will insert onto first phalanx of **thumb** - extension at metacapophalangeal joint instad 
 4. extensor pollicis longus 
 	1. extend or abduct thumb 
+	2. from posterior ulna + adjacent interosseus membrane
+	3. inserts posterior base of distal phalanx of thumb 
+		1. tendon passes medial to and around dorsal tubercle of radius 
+	4. extends distal phalanx of thumb 
+	5. "anatomic snuffbox" to see those tendons. 
+	6. ennervated by deep n 
+	7. rupture of EPL tendon
+		1. erosion and rupture by rubbing that dorsal tubercle 
 5. extensor indicis 
 	1. muscles extend fingers 
+	2. from posterior ulna + adj interosseus memb, extensor expansion insertion of index finger, allows extension without dragging others around 
+6. extensor retinaculum - expansion of dense CT making osteofibrous tunnels  
 
 functional classification of posterior compartment muscles ^^
 1. wrist drop if extends hand at wrist is not working! 
 2. digiti muscles extend fingers 
 3. pollicis muscles extend or abduct thumb 
 4. different functions, crossing elbow joint but not wrist joint 
+
