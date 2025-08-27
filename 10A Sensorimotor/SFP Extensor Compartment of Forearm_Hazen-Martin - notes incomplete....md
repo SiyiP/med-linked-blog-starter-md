@@ -12,7 +12,7 @@ posterior = extensor
 blood supply - lateral is radial artery 
 posterior is posterior interosseus artery which is a **branch of common interossueus**
 	interosseus membrane in the posterior side = subdivides posterior group into a deep and superficial compartment 
-![[Screenshot 2025-08-25 at 7.46.57 PM.png]]
+![[compartments of forearm.png]]
 superficial layer - radial to ulnar  - these 7 muscles of this layer come from the supracondylar ridge or lateral epicondyle. 
 1. brachioradialis (latera)
 	1. different functions, crossing elbow joint but not wrist 
@@ -115,7 +115,7 @@ deep layer - radial to ulnar
 6. extensor retinaculum - expansion of dense CT making osteofibrous tunnels  , but unlike carpal tunnel, this will set down 
 	1. 6 osteofibrous canals!!1 
 	2. tarnsmit both tendons and synovial sheets
-	3. ![[Screenshot 2025-08-26 at 5.52.12 PM.png]]
+	3. ![[extensor tendon compartments.png]]
 synovial cysts - 
 - ganglion cysts is common 
 - at dorsum of wrist, communicates with these, and happens on extnsor carpi radialis brevis 
