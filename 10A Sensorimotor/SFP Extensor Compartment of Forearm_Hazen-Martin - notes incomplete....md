@@ -112,11 +112,33 @@ deep layer - radial to ulnar
 5. extensor indicis 
 	1. muscles extend fingers 
 	2. from posterior ulna + adj interosseus memb, extensor expansion insertion of index finger, allows extension without dragging others around 
-6. extensor retinaculum - expansion of dense CT making osteofibrous tunnels  
+6. extensor retinaculum - expansion of dense CT making osteofibrous tunnels  , but unlike carpal tunnel, this will set down 
+	1. 6 osteofibrous canals!!1 
+	2. tarnsmit both tendons and synovial sheets
+	3. ![[Screenshot 2025-08-26 at 5.52.12 PM.png]]
+synovial cysts - 
+- ganglion cysts is common 
+- at dorsum of wrist, communicates with these, and happens on extnsor carpi radialis brevis 
+- painful ): 
+- common site insertion of ecrb into base of 3rd metacarpal 
+- resolves on own mostly , will be aspirated by doctor 
+
+dequervain's syndrome - repeated friction b/t tendons of abductor pollicis longus and extensor pollicis brevis + styloid process of radius 
+edematous swelling inflammation 
+restricte movements 
+ - finkelstein's test - like the thumb thing 
+ - very painful esp if positive. 
+blood supply 
+brachial a -> raidal a -> ulnar A etc tc 
+posterior itnerosseous a from the ulnar a , will run in the deep msucles et 
 
 functional classification of posterior compartment muscles ^^
 1. wrist drop if extends hand at wrist is not working! 
 2. digiti muscles extend fingers 
 3. pollicis muscles extend or abduct thumb 
 4. different functions, crossing elbow joint but not wrist joint 
+
+
+brachioradialis - 
+when the radial nerve enters, the superficial nerve will descent deep to brachioradialis and then under it to wrist to serve the dorsum of the hand 
 
