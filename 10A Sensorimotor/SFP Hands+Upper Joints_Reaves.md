@@ -49,7 +49,7 @@ movements
 abduction + adduction is with reference to axis passing thru middle finger. 
 thumb = movements are in ref to plane of palm of hand. 
 
-thenar eminence
+thenar eminence- technically extrinsic, origin from carpal bones 
 - abductor pollicis brevis - move thumb away from palm - most medial
 	- superficial + anterior in thenar eminence
 	- origin - flexor retinaculum + carpals
@@ -68,7 +68,89 @@ thenar eminence
 
 adductor pollicis - 4th short musle of thumb but not in the thenar eminence
 - 2 heads (oblique + transverse)
-- origin - oblique 
+- origin - oblique head from anterior surfaces of base w/ 2nd/3rd metacarpal... transverse head from anterior surface of 3rd metacarpal 
+- insertion - medial side of base of prox phalanx of thumb 
+- one line to the palm formed by muscle = adduction of carpometacarpal and metacarpophalangeal joints 
+
+
+---
+hypothenar eminence - technically extrinsic, origin from carpal bones 
+abductor digiti minimi
+- superficial + medial in hypotheniar eminence
+- origin = pisiform bone
+- inserts into medial side of base of proximal phalanx in the little finger, so this is like 
+- abduction of metacarpophalangeal joint of the little finger 
+	- basically the insertion point into the side/medial side of base in proximal phalanx...
+	- when it CONTRACts, it pulls finger to side slightly basically 
+
+flexor digiti minimi
+- origin from medial portion of anterior surface of flexor retinaculum  , just deep to the abductor
+- insertion into medial side of base of proximal phalanx of little finger 
+- flexion of metacarpophalangeal joint of little finger 
+-  whole finger goes forth 
+
+opponens digiti minimi 
+- from medial portion of ant surface of flexor retinaculum, 
+- similar insertion into entire legnth of medial border of 5th metacarpal bone, bringing the little finger into opposition with thumb 
+
+actual intrinsic muscles of the hand 
+lumbrical muscles (4)
+- from tendons of **flexor digitorum profundus**- 
+- insertion onto the LATERAL side of the corresponding extensor expansion hoods 
+- first 2 = **one head**
+- 3-4 have 2 heads 
+- flexing the metacarpophalangeal joints + extend the interphalangeal joints too 
+	- expansion hood insertion = basically it would be the most **superficial** muscle that inserts underneath, allowing extension of intrphalangeal joints 
+	- flexion of metacapophalangeal joints. 
+
+palmar interossei muscles (3)
+- from anterior surface of shaft of 2nd, 4th, 5th metacarbal bones
+- insertion **into proximal phalanges, onto the side closest to the middle finger**
+	- adduct index, ring, and little finger , since origin point is metacarpal bones. pulling everything in, near the axial line. 
+- also insert into extensor expansions of index, ring, little fingers
+	- flex metacarpophalangeal joitns 
+	- while extending the interphalangeal joints of those 3 fingers
+- Think: PAD: Three palmar interosseous muscles ad ADductors
+- ADductors = PAD, taking 2,4,5 towards the axial line down middle finger 
+
+dorsal interossei muscles (4)
+- 2 heads
+- from adjacent sids of metacarpal bones
+- insert into proximal phalanges + extensor expansions of index, middle and ring fingers... 
+	- 2 muscles dedicated to the middle finger
+	this can mean that the middle finger can move in **both directions** but everything else just in one direction
+- abduction, pulling apart fingers, 
+- also insertion into extensor expansions = this is the most dorsal / posterior 
+	- same movements as 	- flex the metacarpophalangeal joints + extend the interphalangeal joints of these 3 fingers 
+- 4 dorsal interosseuous muscles are ABductors DAB - move 2,3,4 away from midline 
+
+thenar space. = first lumbrical = lateral posterior to long flexor tendon 
+- 3 lumbricals = posterior to long flexor tnedons of mid, ring, little fingers
+
+superficial palmar arch 
+- ulnar a = pass superficial to flexor retinaculum, lateral to ulnar n + pisiform 
+	- gives deep palmar br , deep to palmar apon. anterior to long flexor tendons -> **making superficial palmar arch**
+	- anastomose w/ superficial palmar br from the radial artery 
+- 3 common br palmar digital a... divides self into **proper palmar digital a** to each finger... 1 proper one to litte finger
+
+radial a - from anterior aspect of wrist to lat side -> **posterior aspect of hand**
+	passes beneath tendons of **abductor pollicis longus+extensor pollicis muscles**
+	dives bt 2 heads of first dorsal interosseous musc to pass bt transverse + oblique heads of adductor pollicis muscle
+- note = common palmar digital arteries, **until it will bifurcate into proper palmar digital arteries** 
+	- happens in the web spaces of the fingers 
+
+deep palmar arch - 
+- deep br of ulnar will travel posterior ,,, and will connect with the radial artery anastamoses. 
+- arch = deep to **long flexor tendons, anterior to metacarpal bones + itnerosseuous**
+- 3 small palmar metacarpal a a**nastamose with matching arteries from superficial arch** 
+	- **radialis indicis a** to lateral side of index finger + the **princeps pollicis artery** to both sides of thumb
+	- radialis indicis artery will supply to the index finger deeply 
+	- princeps pollicis artery = supply to the thumb 
+
+allen's test = to check patency of radial and ulnar aa 
+- radial a is largest artery of the hand 
+- place finger on the ulnar a and radial arteries, taking these pulses. 
+
 
 ulnar and median nerves have essentially innervated the palms. both  have palmar br and a common and proper palmar digital br 
 - palmar br 
