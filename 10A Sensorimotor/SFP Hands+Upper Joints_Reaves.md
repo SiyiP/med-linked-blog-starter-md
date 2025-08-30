@@ -209,10 +209,6 @@ injuries to the ulnar n
 - adductor policis brevis = non-functional, with thumb abducted 
 	- can't hold piece of paper bc of this 
 
-
-
-stenosing tenosy
-
 ##### All For One And One For All
 This mnemonic recalls the intrinsic muscles of the hand in their relative palmar anatomical position from lateral to medial:
 
@@ -232,3 +228,197 @@ This mnemonic recalls the function of the palmar and dorsal [interossei](https:
 - **Ab:** abduction
 
 ![[12. Joints of the Upper Limb_Reaves_NOTES (1).pdf]]
+
+joint = arthrosis = an area where 2 bones are attachd usually for movemnt
+3 typs
+- fibrous- sutures in skull, minimal mvement, alveolar process, roots of teeeth, radius and ulna, with movement around this axis instead of away ... these are interlcked with interosseuous membrane 
+- cartilaginous  - hyaline cartilage, synchondrosis = name for the joint bt cartilage and bone, like epiphysis and diaphysis of long bones = primary ones
+	- secondary = symphesis of vertebrae, which is like between bodies on midlines 
+	- determines mobility 
+- synovial joints - highly moble, hyaline cartilage covers these surfaces, covered by fibrous capusle and enclosed by synovial membrane
+	- plane joint
+	- hinge -elbow 
+	- pivot - axis and atlas of head 
+	- condyloid - saddle type of joint 
+	- ellipsoid- movement of hands and toes, will glide 
+	- saddle - thumb 
+	- ball + socket  - hip and shoulder 
+
+ways of movement
+- gliding - without angular or rotation - carpal joints
+- angular - only bt long bones , elbows, fingers, toes
+- circumduction - head + articular cavity, likes shoulder jjoint - makes a cone 
+- rotation - bone moves on central axis without moving, like radius/ulnar - interosseous membrane allows for this 
+
+joint stabiilty - architecture, ligaments(support/ROM), tone of muscles surroundign joint too compensate for articular shapes
+
+hilton's law = a n that supplies a joint supplies muscles that move that joint + the skin over insertions
+- help sensory input for pain 
+- proprioception from joint capsule + ligaments
+- blood supply via artery that passes over/near the joint 
+- some exception to the hilton's law . 
+
+3 joints having fibrocartilaginous discs
+- sternoclavicular -synovium within same plane 
+	- clavicle
+	- manubrium of sternum 
+	- costal cartilage 
+		- lateral compartment = will be opened out to allow for muscle elevation 
+			- sternocleidomastoid, trapezius, levator scapulae, rhomboids
+			- depression. =pec minor, subclavius 
+		- medial compartment = closed out , so anterior and posterior movements only 
+			- anterior serratus anterior 
+			- posterior - trapezius + rhomboids. 
+		- ligaments are sternoclavicular anteriorly and posteriorly portion there and costoclavicularly (from first rib to clavicle)
+		- nerves = supraclaviar n + n to subclavius 
+	- movement = full limb elevation about 60 degrees bc this joint will go up and down .... as arm is fully extended, abducted clavicle rotate at there 25-30 dgrees
+	-  **ankylosis = fixation of joint = we need to remove the center f clavicle to heal, so we get flail joint/excessive movments**
+- acromioclavicular
+	- lateral clavicle
+	- acromion of scapula
+	- articular disc, so it's wedge shaped 
+	- ligaments = acromioclavicular superiorly and inferiorly . and coracoclavicular in 2 parts: trapezoid z= conoid, just under of that place to limit the clavile movement on the coracoid process
+	- acromion rotates at joint as scapula moves (limited by the coracoclavicular ligaments)
+	- nerves = supraclavicular, med/lat pectoral + axilary nns 
+- distal radioulnar 
+
+glenohumoral joints
+- have a glenoid fossa - where humerus fits into 
+- supraglenoid tubercle = attachment of long head biceps
+- infraglenoid tubercle = long head of triceps attach 
+- both hips and shoulders involved in movement, BUT for shoulders it's mobbility first and stability 2nd, 
+- glenoid labrum = lip of fossa, circumference 
+- synovial membrane / cavity = covers all articulating surfaces, 
+	- transverse humeral ligament helps hold long head of bicep in place
+	- coracoacromial ligament = holds acromium to coraconoid process similarly to before. 
+- anterior support 
+	- glenohumeral = has superior, middle and inferior side
+	- transverse ligamnt of humerus 
+	- 1 subscapularis muscle = with the tendon anteriorly supporting the shulder
+superior support
+- bony procsses: acromium + coracoid
+- supraspinatus + bicep tendon 
+- ligaments: coracoacromial + coracohumeral 
+tendon of that supraspinatous muscle passes below AC joint and ccross the glenohumeral joint to greater tubercle of humerus 
+- posterior support = 
+	- infraspinatus + teres minor 
+	- no inferior supporting structures....
+	- so the dislocated head of humerus can enter quadrilateral space, **compromising axillary n and posterior circumlex humeral vessels**
+
+several shoulder bursae
+- subdeltoid
+- subacromial
+	- bursistis = painful arc syndrome = which is like leading to **painful arc syndrom**e - hard to raise and move shoudler 
+	- inflammatory cells like neutrphils will tear up that tissue 
+	- our shoudler doesn't heal up bc it's moving = painful arc syndrome
+	- eventually you can get inflammatory joint disease + then biceps tendon degeneration 
+- subscapular
+- subacromial 
+
+elbow joint
+- capitulum of humerus w head of radius 
+- trochlea of humerus with trochlear notch of ulna 
+- synovial membrane covers all
+	lines the joint capsule, continuous with prox radio ulnar joint
+	note = small amount of sacciform process near the bottom of radius bc annular ligament from radius to ulna will surround portion of it 
+anterior elbow support
+- no anterior ligament support but there's radial collateral ligament on radial side 
+- ulnar collateral ligament some of the fibers too 
+- tnedon of biceps and brachialis 
+radial collateral ligament = will attach to annular ligament
+- **if you injure one you injure both**
+ulnar collateral ligament = has anterior, psterior, tranverse band 
+
+relationships
+- median , radial, musculocutaneus + ulnar joints all supply this joint
+- olecranon bursae = **bt triceps tendon + olecranon + then olecranon + overlying skin**
+radioulnar joints -
+- radius + ulna articulate prox and distally 
+- proximally 
+	- head of radius into radial notch of ulna
+- distally 
+	- head of ulna into ulnar notch of radius
+	- we have fibrocartilage = **triangular fibrocartilage to make sure they don't band agains each other to join these**
+	- weak ant/posterior ligaments
+	- anterior + posterior interosseus nerves (deep br of radial aka) supply 
+- both synovial pivot joints due to interosseuos membranes 
+- pronation and supination occurs at radioulnar joints 
+	- supinator = laterally rotate head f radius 
+	- pronators will medially rotate 
+
+
+wrist / radiocarpal joint - **ulnar does not articulate!**
+- distal radius + triangular cartilage will artiulate with scaphoid, lunate + triquetral 
+- felxion + extension , abduction, adduction, circumduction/ellipsoid articulation 
+- separate synovial cavity associated with this joint 
+reinforcing ligaments of the wrist capsule - hard to id in lab
+- just know. - there's a lot of named ligaments (reinforcing ones we don't have to know thte name which holds the hand together)
+- anterior interosseus n 
+- deep br of radial nerve/posterior interosseus n 
+- deep br of ulnar n 
+- scaphoid fracture = most common injury, break fall with arms, **very common**
+
+intercarpal joints
+- synovial plane joints bt individual carpal bones
+- very important - this is a shared synovial cavity + joint capsule, if one of these is infectd, all of these are!
+- spread quickly 
+- - anterior interosseus n  + deep brs of radial/ulnar nerves
+
+carpometacarpal/intermetacarpal joints
+- synovial plane joitns all except the saddle joint of thumb
+	- bc of that , the thumb is protected from stuff like inflammation of everything else bc shared synovial space/capsule except thumb 
+- MP ligaments - palmar, dorsal + collateral holding palmar + dorsal.. also deep tranverse which allows for coordinated movements between digits 
+- interphalangeal ligaments - palmar, dorsal, collateral 
+
+
+sternoclavicular joint injuries
+- trauma/accidents, 
+- anterior dislocation usually 
+- if poterior, more serious bc of the strong ligaments , and organs bakck there. so requires more force for this 
+shoulder injuries
+separation - acromion + clavicle are separated
+- type 1 = injry ot capusle around AC joint - bruise 
+- 2 = ligaments are torn , ripped, AC joint capsule, visible bump 
+- 3 = type 2 but more severe and larger bump, all ligaments torn 
+- 4 = when clavicle pushed behind AC joint 
+- 5 = superspinatous muscle is punctured by that clavicle pushed back, causing a significant bump 
+- 6 = clavicle pusehd down + lodged below corocoid process, needs surgery 
+- treat = usually antiinflammatory, resting, etc. types 4-6 need surgery. 
+- type 3 hard to manage and surgery depends
+
+shoulder DISLOCATION = is different, happens when HUMERUS is displaced from the socket anteriorly 
+
+ulnar collateral ligament injury 
+- baseball injruy - throwing of pitchers
+- complete anterior band tear 
+- surgical repair = tommy john surg
+- transplant donor tendon usually palmaris longus, translocation of ulnar nerve up , threaing thru drilled holes in medial epicondyle and coronoid process of ulna 
+
+elbow joint injuries
+olecranon bursitis = sac fills with liquid with inflammation, notable swelling behind elbow + aggravation by having it on hard surfaces
+- pain around back of elbow, swelling over it, limited motion slightly 
+- drain the swollen bursa. + inject steroids 
+
+pulled elbow 
+- stretching / nursemaids elbow - stretching + tearing of annular ligament (not as tight when ur a kid!) [[Chunking Psych + maybe some social factors?]]
+- - pain due to entrapment of annular ligament between radial head + capitulum of humerus
+- reduction by supination in flexed position 
+
+colle's fracture = most common fracture of forearm, if you fall and don't end up fracturing ur scaphoi
+- transverse fracture of distal radius, with avulsion fracture of styloid of ulna 
+- forced dorsiflexion of hand... dinner fork, kinda curved 
+
+
+wrist injury of joint 
+- grade 1 = mild, no ligament tear just stretch 
+- 2 = moderate, torn ligaments
+- 3 = severe, ligament cmpletely torn, instability in hands. 
+- RICE for healing this with the wrist sprain 
+
+arthritises
+- RA = radial dev of wrist with ulnar deviation of digits = z deformity 
+	- hyperplasia = hypertrophy of synovial cells= pannus 
+	- MCP/PIP
+osteoarthritis - age relted, 80% degen by 65 
+- leading cause of disability 
+- CMC, IP joints 
