@@ -151,6 +151,15 @@ allen's test = to check patency of radial and ulnar aa
 - radial a is largest artery of the hand 
 - place finger on the ulnar a and radial arteries, taking these pulses. 
 
+cutaneous innervation 
+- median (medial and lateral cord combo)
+- ulnar (medial)
+- radial (postreior cord)
+motor
+- ulnar and median ; NO RADIAL!
+
+hand qt nerves
+![[Screenshot 2025-08-29 at 8.45.29 PM.png]]
 
 ulnar and median nerves have essentially innervated the palms. both  have palmar br and a common and proper palmar digital br 
 - palmar br 
@@ -158,10 +167,51 @@ ulnar and median nerves have essentially innervated the palms. both  have palmar
 - proper palmar digital brs 
 note; small area of anterior aspect of base of **thumb** = lateral band is innervated by the **superficial br of radial nerve**
 
+in terms of dorsla cutaneous nervesrecall that median innervation of the top digits - palmar digital branches that spill over 
+- superficial br of radial n = at wrist
+- dorsal br of ulnar emerges under flexor carpi ulnaris tendon, on medial aspect of distal forearm and winds aroun the wrist to provide cutaneous innevation to dorsal aspect of 1 1/2 medial fingers 
+- superficial br of radial pass **deep to brachioradialis** and supericial to extensor retinaculum 
+
+palmar
+- both median + ulnar n 
+- **patient presenting wiht carpal tunnel don't get these symptoms of pain/paresthesia in the palm of hand nor in the 1 1/2 medial fingers**
+	- this is bc we hav the ulnar nerve 
+
+median nerve - dorsal side tips of fingers
+- pass bt flexor digitorum superficialis + flexor carpi radialis, deep to palmaris longus tendon 
+- under flexor retinaculum 
+- give motor recurent br to 3 muscles f thenar eminence 
+- 2 common palmar digital br dividing into proper palmar digital nerves
+	- innrvation to 1st and 2nd lumbrical 
+
+ulnar - superficial to flexor retinaclulum, **run distally bt psisiform and the hook of hamate = tunnel of guyon**
+- divides in palm into superficial + deep br
+- superficial br = motor to small musc, palmaris brevis + cutaneus to medial aspect of medial 1 1/2 fingers
+- deep br = to 3 hypothenar muscles, all dorsal + palmar interossei, 2 most medial lumbricals + adductor pollicis 
+
 superficial branch of the radial nerve  
 (dorsal digital nerves) innervates the  
 dorsal aspect of the lateral 3½  
-fingers - these don't extend beyond middle phalanges ... proper palmar digital brs of median nerve innervate distal ends of lateral 3 1/2 fingers 
+fingers - these don't extend beyond middle phalanges ... proper palmar digital brs of median nerve innervate distal ends of lateral 3 1/2 fingers
+
+stenosing tenosynovitis - trigger finger syndrome
+- or trigger thumb sometimes
+- tendongets inflamed and swollen 
+- lng term irritation of this sheath = scarring + thickening that impact motion 
+- when this happens, bending finger will pull the inflamed tendon thru narrowed sheath, making it snap/pop 
+
+injuries to the ulnar n
+- tunnel of guyon - **losing cutaneous innervation to palmar aspect of medial fingers + ability to contract all intrinsic hand muscles** except for 5 muscles innervatd by the median instead 
+- flexor + extnsor extrinsics are unopposed, fingers will be clawed hand
+- all interossei paralyzed aka MCP in extended with both pip and dip flexed 
+- ///only 2 medial lumbricals paralyzed, contribute to this but note - etnsion at mcp and flexion at both pip and dip are less dramatic in index + middle fingers 
+	- first 2 lumbricals are working but everyting else is fine. - innervated by median 
+- adductor policis brevis = non-functional, with thumb abducted 
+	- can't hold piece of paper bc of this 
+
+
+
+stenosing tenosy
 
 ##### All For One And One For All
 This mnemonic recalls the intrinsic muscles of the hand in their relative palmar anatomical position from lateral to medial:
