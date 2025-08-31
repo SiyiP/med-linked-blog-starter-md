@@ -81,3 +81,73 @@ osteoblasts lay down new bone
 
 bisphosphonates
 - compounds that coordinate with calcium = automatically targetting the bone, stays inside the bone for a while 
+- treats - osteoporosis, paget's dz of bone, bone metastasis + multiple myeloma + other bone fragility 
+in osteoporosis + pagets
+- alendronate + risedronate = most effective amino bisphosphonate
+- if theres digestive issues, IV zoledronate used
+	- so they're told to stay upright with the drug 
+- used in general to mod progression f bone cancer/skeletal metastasis in esp breast cancer - 
+- also reduce fracture rates in kids with osteogenesis imperfecta
+- teriparatide = refractory dz 
+- selective e receptor modifiers raloxifene = administered in postmenopausla women instead of bisphosphonates 
+SE: necrosis of jaw!! osteonecosis of jaw, typically seen and scary with cancer IV malignancy treatment
+- GI - reflux, ulcers, esophagitis, 
+- msk = pain severe happens in like months/years it stays in bone for so long. 
+- renal = bisphosphonates not for anyone ith creatine clerance below 30 and 35
+- ocular = blurred vision, itis, etc
+- flu like symptoms too 24-75 hrs post infusion 
+- afib + atypical femur fractures
+	- **drugs kill osteoCLAST, so normal remodeling is slowed, and there's spiral atypical fractures. more bone mineral density just not as sound**
+- hypocalcemia 
+
+non amino bisphosphonates 
+1. etidronate
+2. clodronate 
+- basically metabilized to compounds replacing the terminal moiety of ATP in osteoCLASTs, f you compete with ATP, this will cause osteoclast death 
+amino-bisphosphonates
+1. alendronate
+2. ibandronate
+3. risedronate
+4. zoledronate
+inhibits the **farnesyl diphosphate transferase FPPS**, blocking protein prenylation onto cysteine in proteins , **causing protein to NOT be trafficked to the membrane, so osteoclast acitivity is low**
+inibits osteoclasts and resorption of bone 
+
+denosumab
+- human monoclonal antibody binding to RANKL, sequestiering it away from the osteoclasts, blocking this 
+- used with ca and vitamin d to reduce bone loss w prostate + breast cancer therapies/metastasis 
+- indicated for postmenopausal women wit osteoporosis at high fracture risk 
+- given 2x a year IV
+- SE: osteonecrosi of jaw, inc cancer/severe infections, 
+- inc infections + eczema 
+- CI: hypocalcemia + might see rapid bone loss when terminated 
+
+strontium ranlate - more historical
+- inc osteoblastogenesis both in and in vivo... 
+- strontium are exhanged for ca in bone minerals and remains in the bone for eyars
+inc osteoblast and dec osteoclast 
+- used for osteoporosis
+- SE: n/diarrhea, but there's CV risks like blood clot 
+
+estrogens
+- estradiol too - agonist for eR//// ligand activated transcription factor
+- **this will reduce the bone resorbing action of PTH**
+- this prevents postmenopausla osteoporosis more
+- used with progestin for hormone replacement, dec bone loss in postmenopausla women 
+- SE: clots + CV 
+- CI - breast/endometrial canc er
+
+SERMS
+- raloxifene = ER in bone, antagonist in breast + endometrium 
+- against breast cnacer + osteoporosis
+SE: menopause 
+less risk of endometrial cancr 
+
+anti-sclerostin antibody = romosozumab
+- sclerostin = secreeed glycoprotein which **inhibits oseoblast fomation by inhibiting the Wnt signling pathway**
+	- this is specifically against osteoblasts, not clast 
+	- inc wnt signalling in osteoblast 
+- this drug sequesters sclerostin = making the blocked inhibitory effct of sclerostin on blast prolif 
+- SE: black box. = CI, stroke, CV death 
+
+bone mneral desnity = change relative to a baseline 
+
