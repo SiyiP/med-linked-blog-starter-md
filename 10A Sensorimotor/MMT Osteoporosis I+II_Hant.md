@@ -230,25 +230,100 @@ in any of the following -
 
 pharmacologic therapy options 
 - antiresorptive = dec osteoclast activity 
-	- bisphosphonates = alendronate, risedronate, ibandronate
-	- zoledronic acid 
-	- denosumab
-	- estrogen 
-	- SERMs raloxifene
-	- nasal calcitonin 
+	- bisphosphonates = alendronate, risedronate, ibandronate = both prevention and treatment of postmenopausal osteo and glucocorticoid induced treatment. **osteoclast inhibitrs, avidly binding to the bone**
+		- risedronate is good for both prevention and treatment of glucocorticoid osteo
+		- SEs: gi intol, compliance issues, renal toxicity 
+		- IV long term SEs: hypocalcemia, acute rxns, renal tox as well 
+		- will reduce fracture risk and inc bmd in general 
+		- good for pts who have fractured in the past 1 year 
+		- osteonecrosis of jaw
+	- zoledronic acid  - is good for both prevention and treatment of glucocorticoid osteo
+	- denosumab = treats post-menopausal osteo
+		- SE: skin infections , osteonecrosis of jaw
+		- RANKL antibody - blocks binding to RANK
+		- inhibition of osteclasts, dec bone resorption and inc bone density 
+		- reduction of all risk of fractures - need to get **treated every 6 months otherwise you get rapid bone loss, need to continue doing it**
+	- estrogen = **prevention** of postmenopausal osteo
+		- SE: dvt, breast cancer, stroke, CAD, uterine bleeding 
+		- good to prevent the osteoporosis 
+		- weigh the risk bc of CV events
+	- SERMs raloxifene = prevent and treats post-menopausal osteo
+		- SE: hot flashses, DVT, stroke 
+		- can help prevent and treat, binds to the e=receptor
+		- some trials show that it reducs ER+ invasive breast cancers. 
+		- **antiresorptive, only shown to reduce vertebral fracture, not the non-vertebral fracture rates in spite of inc bone mineral density in both spine and hip**
+	- nasal calcitonin = treatment of postmenopausal osteo = annalgesic effect 
+		- nasal irritation 
+		- calcitonin salmon - inc spine and hip BMD
+		- small effect with reduction of fracture risk 
+		- but mainly for analgesic/endorphin effect
+		- SE: **especially inc in risk of malignancy, like prostate cancer in men and neoplasms**
 	- strontium ranelate
 - anabolic agent = inc resorption and formation but more of the formation increaser 
-	- teriparatide 
-	- abaloparatide 
+	- anabolic agent = stimulates new bone formation , inc BMD, reduces risk for fracuter = once a day PTH 
+	- teriparatide  =  post-menopausal osteo treatment, along with treating glucocorticoid osteo
+		- SE: subq daily injections, hypercalcemia, ?? osteosarcoma - 
+		- don't use for risk of getting osteosarcoma
+		- pagets dz, inc of alk phos, hx of metastasis to bone? 
+			- who gets bone building drug: **ppl with multiple risk factors for fraccture and many vertebral ones**
+			- BEST for pt who fractures in spite of bisphosphonate therapy 
+			- timing is important = low t score pts, start on this up-front. other first line stuff like bisphosphonate first can cause delayed response 
+	- abaloparatide - PTH , indicatd specifically for post-menopausal women with osteoporosis at high risk for fracture
+		- they should get ca and vitamin d if dietary intake is inadequate
+		- CI: orthostatic hypotension, hypercalcemia
+		- hypercalciuria, urolithiasis
+		- common AEs - hypercalciuria, dizziness, n, headache, palpitations, fatigue, 
 - osteoanabolic agent = anabolic and antiresorptive 
-	- romosozumab 
+	- romosozumab  - humanized monoclonal antibody acting as sclerostin inhibitor, indicated for treatment of osteoporosis in postmenopausal women at high risk for fracture 
+		- or for those who are intolerant to other available therapies 
+		- CI: **major adverse cardiac events = MI or stroke**, hypersensitivity, hypocalcemia, osteonecrosis of jaw, atypical femoral fracture 
+	- sclerostin = **glycoprotein made by osteocytes, key inhibitor of Wnt signalling pathway**
+		- sclerostin binds lrp -5/6 and prevents wnt from binding to frizzled family receptor and lrp co-receptors 
+		- **leads to down reg of canonical wnt signaling pathway** 
+		- end = **inhibition of osteo*blas*t diff and function** and decreased bone formation 
+		- 
 
-osteoporotic bone = resorptive cavities, loss of connectivity 
+osteoporotic bone = resorptive cavities, loss of connectivity (bone breaking straight up)
 antiresorptive = fills in resorptive cavity, increasing mineralization 
 anabolic = makes osteoid itself, increasing connectivity 
 
+atypical femur fractures
+- further down than we expect
+- transverse rather than spiral, 
+- may begin with stress rxn or stress fracture, which might be bilateral
+- prodromal pain in thigh/groin 
+- **often with LONGTERM use of steroids or estrogen, bisphosphates**
+- if you constantly suppress bone turnover , there's atypical femur fractures. = corticoid reaction 
 
+osteonecrosis of jaw
+- seen with **bisphosphonates and denosumab**
+- srs= decreased metabolic support to the bony tissue results in bone necrosis
+- higher risk of this in patients
+	- **aminobisphosphonates compared to non-amino**
+	- taking drug IV
+	- taking drug related to malignancy 
+happens invasive dental procedures and also spontaneously 
+- disease will **progress in spite of cessation**
+- encourage dental procdures prior to starting therapy 
 
+drug holiday - 
+- not sure, but long term effects of bisphosphonate therapy , consideration given after 3-5 yrs of sucess meaning
+	- stable/improving bmd, t score<-2 
+	- no fractures
+- not appropriate in pts taking certain op mds due to rapid off-set of effects when stopped 
+- reeval bmd every 1-2 yrs and re-eval risk/benefit balance 
+- may use BTM if have been done througout therapy 
 
+imagine. = woman with osteo dx age 57 with t score -2.6 no risk factors, treated with alendronate for 5 yrs stable bmd, consider a drug holiday at least until more decline or fracture
+
+moderate inc fracture risk 
+- for 8 years, treat 5-10 years then drug holdiya 
+- for 3-5 yrs or until significant loss of bmd/fracture
+
+high risk 
+- -3.0 dx 10 years ago, 2 in height loss, hx of vertebra compression fracture.9 yrs ago 
+- 10 yrs treatment 
+- drug holiday 1-2 yrs until significant loss of BMd/fracture
+- consider **raloxifene or teriparatide during drug holiday**
 
 
