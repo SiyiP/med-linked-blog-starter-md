@@ -159,7 +159,7 @@ motor
 - ulnar and median ; NO RADIAL!
 
 hand qt nerves
-![[Screenshot 2025-08-29 at 8.45.29 PM.png]]
+![[hand nerve distrib.png]]
 
 ulnar and median nerves have essentially innervated the palms. both  have palmar br and a common and proper palmar digital br 
 - palmar br 
