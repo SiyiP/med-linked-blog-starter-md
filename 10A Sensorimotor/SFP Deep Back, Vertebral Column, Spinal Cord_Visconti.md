@@ -1,9 +1,9 @@
 #sensorimotor ![[02. Deep Back, Vertebral Column, Spinal Cord_Visconti_NOTES (1).pdf]]
-33 vertebrae, 24 "true" bc separate from one another and not isolated (12 thoracic, 7C, and 5lumbar), remaining 9 is 5 sacral and 4 coccygeal (fused into the sacrum and coccyx respectively)
+==33 vertebrae, 24 "true"== bc separate from one another and not isolated (==12 thoracic, 7C, and 5lumbar==), ==remaining 9 is 5 sacral and 4 coccygeal== (fused into the sacrum and coccyx respectively)
 - axial support, connects head + pelvis, protects spinal cord (runs in center), segmental distribution of nerves, muscle attachments, etc. 
 
-there's 2 concavities = in thoracic + sacral regions = primary curvatures bc **present at birth**
-**post** birth the infant will get 2 convexities at cervical + lumbar regions = secondary curvatures
+there's ==2 concavities = in thoracic + sacral regions = primary curvatures== bc **present at birth**
+**post** birth the infant will get ==2 convexities at cervical + lumbar regions = secondary curvatures==
 
 typical vertebra - anterior body, foramen, and vertebral arch (made of 2 pedicles), then posterior to those 2 laminae 
 typical vertebra has 7 processes
@@ -69,8 +69,9 @@ lumbar
 	- these are for connctions of muscles of the deep back (not seen in anatomy lab bc they have a prosection)
 - superior articular processes face medial, inferior face laterally 
 - intervertebrae foramina created by juxtapoz of pedicles of lumbar above + below separated by intervertegral disc... 
-- spinal nerves exit in downward formation 
-- lumbar vertebral ligaments
+- spinal nerves **exit in downward formation** 
+
+- **lumbar vertebral ligaments**
 	- anterior longitudinal ligament will run thru length of anterior vertebral body 
 	- posterior longitudinal ligament on the posterior part of vertebral body = smaller than the broad anterior one , at **midline of posterior body** with horizontal portions that **incompletely** covers intervertebral space. 
 		- so if you get a HERNIATION of the disc, its more likely to be a posterior lateral  
