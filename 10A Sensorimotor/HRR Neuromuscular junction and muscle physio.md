@@ -242,4 +242,72 @@ sustainabiiliy
 - but ox phos/kreb cycle makes for endurance 
 	- generates like 20 atps 
 
-msucls - made 
+msucls - made up of **mosaic** of many diff fiber types 
+- type 1 =- slow twich muscles - myosin ATPase is slow, so hydrolysis is slow, fatigue resistance (so use ox phs to make atp)
+	- red 
+	- rate of myosin ATPase relatively slow 
+	- rate of fatigue slow bc use ox phos, high oxidation and low glycogen capacity bc using o2 , **for that reason use many Mts and BVs**
+	- a lot of myoglobin content , which binds o2 in muscle = red! 
+	- have a small diameter , matched with a small motor neuron 
+
+- type 2 = fast speed = somewhat fatigue resistant 2A or not fatigue resistant 2B 
+	- 2A - moderately fast, red, moderately fatigue resistant 
+		- in the middle
+		- use both ox and glycolytic pathways
+		- intrmediate size and intrmediate size motor neurons 
+	- 2B  - fast, white, easily fatigued
+		- high rate of myosin ATPase, 
+		- high fatigue rate bc use glycolytic pathway primarily, low oxidative capacity, so low o2, low myoglobin, and low bvs 
+		- largest diameter, and bc o that it's matched with **spinal neurons with large diameter too**
+
+motor unit = one motor neuron + all fibers it synapses with 
+- but each neuron synpases with only **one type of fiber!!!**
+- recruited in order from slow to fast as demand inc 
+- type 1 = **smaller recruited before larger type 2 due to smaller capacitance, higher input resistance,
+- less input needed to reach threshold for firing than large motor neurons**
+- V = IR
+- basically larger = more leaky , thre's a subtreshold epsp = so needs a much higher input to generate an actual AP, so imagine the smaller type 1 neurons reaching AP first and getting recriuted first 
+- recruited from slow to fast... small motor units that only have **a few fibers per neuron are recruited first followed by large motor units with many ones that make larger increments in force**
+- on demand as needed systm 
+
+muscles vary in contraction sppeed
+- ocular muscl fastest, most 2B type 2 fibers 
+- gastrocenmius = 
+- soleus slowest , has most type 1 fibers 
+
+fiber type distrib in the same muscle differ between individuals= good profiling for athletes, hard to change fiber types = ppl born with that distribution 
+- explosive hiit = type 2 b 
+- marathons = type1 fibers 
+
+
+exercise adaptation
+- high resistance, short duration trainig, weight lifting 
+- mainly effec type 2 fibers, inc in size, 
+- hypertrophy 
+	- actin + myosin
+	- cross sectional area
+	- vol of sarcotubule system RNA/DNA/nucllei
+	- glycogen
+	- creatine 
+
+long duration low intensity 
+main effect on type 1/2A fibers
+- inc fatigue resistance 
+- inc in 
+	- mt
+	- expression of ox enzymes
+	- myoglobin 
+	- capillary density 
+
+potassium -  impacts resting membrane potential
+	hypokalemia = hyperpolarization, weakness,
+	hyperkalemia = depol, inc excitability, spontaneous twitches 
+
+muscle repair/regen
+- adult muscle cells = post mitotic, can't divide
+- but after mild/mod forms of injury, they have **satellite cells, stem cells, under mild injury in normal exercise, you can activate them into myoblasts and replace some injured ccells**
+- stil need template + basemnt membrane 
+- more severe strain inuries = produce rupture bt tendon + muscle but can also be repaired with some performance effect
+traumatic injury - with bony fractures or gunshots req surgical removal of dmg'd muscle to rpevent **acute extremity compartment syndrome AECS**
+- where dying msucle exerts force upon the fascia
+- muscle is not normally regen under tehse conditions ): results in volumetric muscle loss + physical disability 
