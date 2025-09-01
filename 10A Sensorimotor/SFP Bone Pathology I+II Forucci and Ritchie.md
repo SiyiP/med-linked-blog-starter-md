@@ -166,3 +166,64 @@ cartilage tumors
 
 ----
 childhood MSK conditions
+1. radial head subluxation - nursemaid's elbow = the distal radius pulling causes portion of **immature annular ligament to slip over head of radius and slide onto radiohumeral joint**
+	1. will show kid holding affected arm close to body w elbow extended or slightly flexted + forearm pronated. 
+	2. not in pain just not using arm 
+	3. treat by reduction - hyperpronation or supination/flexion
+2. tibial tuberosity avulsion / asgood-scholatter dz = traction apophysitis of prox tibial tubercle at insertion of patellar tendon
+	1. overuse injury putting stress on tibial tubercle via repetitive contraction of quad muscles 
+	2. athlete thing
+	3. rapid growth spurt, 9-14 , 2x more common with sports, assymetric mainly 
+	4. progressive anterior knee pain and swelling at tibial tubercle
+	5. relieved by rest
+	6. dx - tenderness w soft tissue or bony prominence of tibial tubercle - pain reproduced by extending knee against resistance, right at the tubercle. 
+	7. benign and self-limited, 6-18 mon or until closure of this growth plate, pain controol, pt, etc. sometimes activity continue.  but some fragmentation of the tibial tubercle ): 
+		1. often times might as well get an **xray** bc of this. 
+3. palletofemoral pain syndrome PFPS 
+	1. soft tissue swelling; ovreuse disorder with pain around the patella. 
+	2. anterior knee pain mainly active female adolescents, one or both knees
+	3. aggravated by loading the pf joint during weight baring on flexed knee like with squatting, running, etc. 
+	4. dx plain films might be used ... but this is clinical, and by activity mod, NSAID, physical therapy 
+4. developmental dysplasia of the hip. 
+	1. looking for symmetry. if you don't see it, look at what doesn't match 
+	2. spectrum of conditions related to hip dev in infants and newborns 
+	3. think breech presentation, also getting them in childhood with kids not getting to milestones; spend too long sitting, etc not building up muscle 
+	4. abnormal dev of acetabulum and prox femur = mechanical instability of hip joint 
+	5. infants = newborn dislocation ; might see asymmetrical thigh folds in a newborn when picking up their legs and holding them down 
+	6. RF = breech at any time, and family hx of dev hip dysplasia 
+	7. children = trendelenburg gait, where you have a **hip drop off the opposite side of the weak muscle** - super subtle 
+	8. clunk on ortolani barlow maneuver!!! = slipping in and out of joint 
+	9. US dx until 3 month of age typically in 6wks of age, and radiograph for older than 3 mon ;
+	10. pavlik harness given to them as a treatment when we see it as they're young 
+5. legg calve perthes disease= **avascular necrosis of femoral head**
+	1. idiopathic avascular necrosis of femoral head
+	2. saw in 3-12 peak 5-7 
+	3. mostly unilateral, mainly male
+	4. limp of **insidious onset over months gradually**
+	5. trendelenburg gait with **pain to anteromedial thigh/knee.**
+	6. limited internal rotation and abduction of hip 
+	7. note: **inital radiographs can be normal; so exam poz, but xrays are subtle, but ultimately assymetrical. refer to peds orthopaedist**
+		1. they can splint the leg and hold in place so BVs can fix themselves 
+6. slipped capital femoral epiphysis - non symmetric, looks like golf ball vs melted golf ball
+	1. the epiphysis slips posteriorly -> limp and impaired internal rotation 
+	2. due to inc axial force on femoral head, this will displace. "ice cream fall off cone"
+	3. obese child in early adolescence, 12-13 yo, male uusally 
+		1. acute hip pain + limp... pain localizes to knee or thigh 
+		2. more acute than insidious like the avascular necrosis of femoral head. 
+		needs operational stabilization 
+
+common fractures
+- think about force and patterns 
+- axial forc = up and down, hitting right on that axis. 
+	- causes buckle/torus fracture of radius
+		- stable compression fractures at distal metaphysis where **bone is most porous**
+		- bulges out like a little torus/greek column... 
+		- treat with short splint but mainly pain relie and comfort for healing 
+- bending force = foce applied at an angle = 
+	- greenstick fracture of radius, 
+		- incomplete fracture of the **tension side (where that force is hitting) of the cortex of the radius/ulna with buckling of the compression side**
+		- need to give immobilization in short arm cast or splint 4-6 wks .. but unstable and may continue to displace post casting 
+	- plastic deformation of ulna
+
+salter harris = **fracture at the growth plate**
+- this is specific to peds, some other ones that might go on ur peds rotation specifically 
