@@ -1,7 +1,7 @@
 #sensorimotor
 ![[01. Superficial Back and Shoulder_Reaves_NOTES (1).pdf]]
 
-brachial plexus - wait for the full electure on this 
+brachial plexus - wait for the full lecture on this 
 - observe that there's many cords. 
 
 origin muscle = proximal, more stable + fixed during muscle contraction; connect to less movable bone 
@@ -17,15 +17,12 @@ typically movement is from the orgin to insertion? feel the movements too while 
 focus on the movements!!!! if you know the movements we know where it attaches 
 - look at netters + the movements 
 
-important to review: surface anatomy
-only thing he'd like on the surface anatomy png that's not on it is the upper border of the scapula
-![[surface anatomy.png]]
-all superficial back muscles **originate from** axial skeleton, but inserts on bones of upper limb. innervated by ventral primary rami/nerves from ventral primary rami, which comes from the ventral root 
+==all superficial back muscles **originate from** axial skeleton, but inserts on bones of upper limb.== innervated by ==ventral primary rami/nerves from ventral primary rami, which comes from the ventral root== 
 - these are outshoots from the front spinal nerves
-- origin of superficial back muscle = usually from vertibral spinous process scept levator scapulae from transverse, with the insertion on scapula, except for latissimus dorsi (on the humerus)
+- ==origin of superficial back muscle = usually from vertebral spinous process except levator scapulae from transverse. then the insertion is usually on scapula, except for latissimus dorsi (on the humerus's floor of bicipital groove)==
 ![[ventral and dorsal spinal nerve.png]]
-true back muscles = innervated by **dorsal primary** rami
-all are innervated by ventral primary rami except trapezius, innervated by accessory 
+==true back muscles = innervated by **dorsal primary** rami==
+==all are innervated by ventral primary rami except trapezius, innervated by accessory n== 
 
 
 know the parts of the clavicle: 
@@ -33,7 +30,7 @@ acromial end, sternal end, adn then superior vs inferior surface.
 acromal - = lateral end
 sternal is most medial 
 
-==scapula = memorize the many parts of it== 
+scapula = memorize the many parts of it 
 ![[humerus and scapula.jpeg]]
 acromion, coracoid process, glenoid cavity(shoulder hole, at the supraglenoid tuberrcle meeting with the scapula's head), neck, angles and borders, supra and infraglenoid tubercles, suprascapular notch, subscapular fossa, spine(on the posterior of the scapula, that part going to the acromion projection), supraspinous and infraspinous fossae.
 - acromion = anterior projection from lateral end of the scapula spine.... continuous with spine of scapula at acromial angle, extending anteriorly over the glenohumeral joint 
