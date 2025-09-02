@@ -131,15 +131,15 @@ learn:
 memorize via filling it out 
 ![[brachial plexus.png]]
 where did the lesion occur? knowing this helps you know the point of injury - we will learn and reson this thru 
-1. upper BP injury C5-6 - can happen due to prolonged birth where head is pulled away from shoulder at one side, 
-	1. supplies nerves to the shoulders, which will droop on that side. no bicep flexion, thrown hand 
+1. upper BP injury ==C5-6== - can happen due to prolonged birth where head is pulled away from shoulder at one side, 
+	1. supplies ==nerves to the shoulders, which will droop on that side.== no bicep flexion, thrown hand 
 	2. "Erb duchenne palsy" 
-2. lower BP injury - when kid falls off cliff but hangs on to a branch, C8/T1 affected
-	1. ulnar nerve majjorly impacted, bc you get claw hand, which means intrinsic muslcs and forearms highly limited 
+2. lower BP injury - when kid falls off cliff but hangs on to a branch, ==C8/T1 affected==
+	1. ==ulnar nerve== majorly impacted, bc you get ==claw hand==, which means intrinsic muslces and forearms highly limited 
 3. brachial plexus + peripheral nerve injury 
 	1. radial nerve impacted, then everything downstream 
 	2. shatter on groove of humerus - think of which branches are before that are still intact 
-	3. lesion at elbow, think olecranon broken, bachioradilais muscle impacted 
+	3. lesion at elbow, think olecranon broken, brachioradilais muscle impacted 
 
  lymphatics-  function of the breast health + function
 - thin walled vessels in capillary bed 

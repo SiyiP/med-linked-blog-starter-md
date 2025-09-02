@@ -20,7 +20,7 @@ brachial plexus injury
 - grabbing a branch 
 - why is it lateral 2 lumbricals that aren't injured
 	- bc it's innervated not by the ulnar nerve, but the median n. 
-- in traction injuries - these are injuries at the ROOT
+- **in traction injuries - these are injuries at the ROOT**
 	- can have upper brachial plexus
 	- lower brachial plexus
 		- in the case of lower = you afect the roots. 

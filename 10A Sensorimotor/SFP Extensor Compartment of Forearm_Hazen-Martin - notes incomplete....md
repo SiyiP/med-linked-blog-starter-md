@@ -4,7 +4,7 @@
 
 posterior = extensor 
 - include: muscles of the lateral component
-- posterior largely innervated by the **posterior interosseus nerve** which is a deep br of radial nerve
+- ==posterior largely innervated by the **posterior interosseus nerve** which is a deep br of radial nerve==
 - lateral compartment = ennervated by the radial n. 
 12 muscles in total 
 - 2 lateral to radius bone ; both superficial 

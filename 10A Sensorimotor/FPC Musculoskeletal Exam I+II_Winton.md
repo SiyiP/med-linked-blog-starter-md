@@ -51,9 +51,9 @@ physical exam
 		1. elevate the arms 90 degrees and internally rotate their arms with thumbs pointed down 
 		2. ask them to resist as you put downward pressure on their arms 
 		3. they positive test if pain or inability to hold arm abducted as shoulder level 
-	4. apley scratch test - ROM/rotator cuff
+	4. ==apley scratch test - ROM/rotator cuff==
 		1. ask them to touch the opposite scapula reaching from below/above 
-	5. apprehension sign - issues based on joint, anterior stability 
+	5. ==apprehension sign - issues based on joint, anterior stability== 
 		1. place arm in abduction then externally rotate arm 
 		2. positive test - if they're worried that the shoulder would pop out of the socket, if they're uncomfy ): 
 	6. hawkins impingement sign - rotator cuff impingement/pinching 
