@@ -1,6 +1,8 @@
 #sensorimotor 
 
-**always read the worse of the scores** 
+**always read the worse of the scores** when its like forearm v hip v other part of body - note that if one part is t score bad, she's osteoporosis 
+- pay attention to the 1/3 score, the total score for vertebrae, and the femoral neck or total; stuff for the other scores. 
+- osteopenia = -1 to -2.5 
 
 recall
 bone has organic and inorganic component
