@@ -47,7 +47,7 @@ physical exam
 	1. for practice only, not on the OSCE
 	2. crossover - path at the AC joint, from arthritis/AC separation
 		1. adduct the patients arm against their chest
-	3. empty can test - test the supraspinatus
+	3. ==empty can test - test the supraspinatus==
 		1. elevate the arms 90 degrees and internally rotate their arms with thumbs pointed down 
 		2. ask them to resist as you put downward pressure on their arms 
 		3. they positive test if pain or inability to hold arm abducted as shoulder level 
