@@ -153,4 +153,84 @@ source of these nerves
 - sup gluetal n = L4,5,S1
 - sciatic n L4-5, S1-3
 - inf gluteal n L5; S1,2
-- N to obtruator internus L5
+- N to obtruator internus L5, S1
+- - N to quadratus femoris L5, S1
+- posterior femoral cutaneous n s1-3
+- pudendal n = s2-4 
+
+source of arteries
+- from abdominal aorta
+- common iliac -> internal iliac 
+	- posterior division/trunk -> superior gluteal = 
+	- anterior trunk -> inf gluteal 
+	- anterior trunk -> internal pudendal 
+- br exit thru greater sciatic foramen, on either side of piriformis. - landmark bc these structures pass above and below it 
+
+structures exiting greater sciatic foramen above piriformis
+- superior gluteal n (to gluteus medius, minimis, TFL)
+- superior gluteal vessels wihch supply tissues of gluteal origin 
+exiting below
+- sciatic n 
+- **inferior glutael nerve which innervates gluteus max**
+-  N to obtruator internus supplying the superior gemellus 
+- - N to quadratus femoris supplying inf gemellus 
+- posterior femoral cutaneous n 
+- pudendal n 
+- internal pudendal vessels 
+they are deep to the sacrotubulous ligament
+
+only structure exiting lesser sciatic foramen 
+- obturator internus muscle 
+structure **entering perineum** 
+- thru lesser sciatic foramen - after exiting pelvis thru greater sciatic foramen below the piriformis:
+	- pudendal n - most medial 
+	- internal pudendal vessels - 
+	- n to obturator internus - most lateral 
+	- PIN ^^
+
+sciatic n = exit greater sciatic foramen, mid distance bt PSIS and ischial tuberosity 
+- midways bt ischial tuberosity + greater trochanter too 
+	- clinical implications = when giving shots'
+		- this nerve is in lower medial quadrant of gluteal region 
+		- IM injection should be put into the upper lateral quadrant to avoid this nerve
+	- but sometimes this nerve divides early into 
+		- tibial
+		- common fibular nerves
+		- if it's too above the piriformis or going thru it it can cause issues
+			- common fibular nerves get compress when it contracts, so might have some issues with it tingling etc
+
+cutaneous nn of gluteal - 4 quadrants
+1. upper medial = superior + middle cluneal nn (ez to id),
+2. upper lateral = lateral cutaneous br of iliohypogastric + ventral ramus of t12_
+3. lower lateral/**femoral** = lat cutaneus nn of thigh , ventral rami L2-3
+4. lower medial = posterior cutaneous nn of thigh = inferior cluneal nn, ventral rami s1-3 
+
+cruciate anastomosis
+- on posterior aspect of thigh 
+- provides connection bt internal iliac and femoral aa 
+	- inf gluteal a
+	- lateral circumflex femoral a (transverse br)
+	- medial circumflex femoral a (transverse br)
+	- first perforating a (br of profunda a)
+![[dermatomes of lower limb.png]]
+
+piriformis syndrome
+- pain in butt
+- basically in 15-20% of the population , the sciatic nerve will cross below but the muscle splits, either comes out under or on top 
+	- inc tension or irritation
+	- tickle that nerve = issues with foot/legs
+- crosss over 2 joints. sacroiliac + hip 
+	- can strengthen the piriformis, 
+	- if you make that piriformis to get it thicker, you eliminte that split and looseness
+- pain down the posterior leg 
+- treat: foot orthotic, biomech issue, examine sacroiliac joint/hip joint, typially mssage , ice
+
+sacroliliac joint dysfunction 
+- excessive movement in the joint, maybe trauma caused. 
+- bc ligament has been stretched
+- can lead to piriformis syndrome, degen arthritis 
+- pregnancy can cause this bc they get so much excess weight in short time. 
+- also this is larger but goes into effect when baby's born 
+- symptoms - pain in lower back, back of hips + lessor exent groin+thigh
+- treatments = anti infalmmatory meds + physical therapy 
+
