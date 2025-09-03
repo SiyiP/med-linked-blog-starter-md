@@ -100,7 +100,34 @@ flexor compartment
 
 9/3
 Gluteal Region; Posterior Thigh; Popliteal Fossa
+don't cut the sacrotuberous ligament 
+place blocks under foot, ankle, knee
+1. vertical incision from the previous median sacral crest cut , spare the anus + go along medial aspect of gluteal region ending 2-3 in down medial aspect of thigh 
+2. vertical incision along lateral aspect of hip + thigh from previous midaxillary cut = go to halfway down thigh 
+3. horizontal incisions from inf point of the cut to inferior pt of the other cut ... connect them 
+4. continue both medial + lat incisions to just superior to the popliteal fossa - careful about cutaneous nerves 
+5. horizontal incision connecting those points - careful of posterior femoral cutaneous n 
+6. blunt dissect and skin removal!!!
+7. start at the inf aspect of medial border of gluteus maximus - use **scissors to detach** muscle from gluteal aponeurosis without cutting sacrotuberous ligament
+8. continue incision superior + laterally while LATERALLY reflecting the muscle 
+	1. note = inferior gluteal vessels + nerve traveling thru belly 
+9. cut the superior gluteal vessels as close to muscle as possible while keeping muscle intact 
+10. follow incision pattern from superior to lateral to fully reflect down ... 
+11. keep other gluteal vessels + nerves intact 
+12. reflect the gluteus medius down and laterally from the proximal attachment 
+	1. view the superior gluteal arteries and nerves that i
+13. reflect gluteus max 
+14. separate + clean muscles 
+15. locate 
+
+
 COTEACH: 9/8, learn Anterior & medial thigh; femoral triangle; adductor canal
+
+
+
+
+
+
 
 9/9
 Anterior Leg; Lateral Leg; Dorsum of Foot
@@ -110,4 +137,5 @@ COTEACH and in-lab review: 9/11, learn posterior leg + sole of foot
 
 
 ![[00.Anatomy_Lab_Guide_10A_FLEX2028.pdf]]
+
 
