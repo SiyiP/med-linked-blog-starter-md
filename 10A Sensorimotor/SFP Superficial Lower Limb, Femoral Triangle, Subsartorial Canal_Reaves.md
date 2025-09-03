@@ -156,6 +156,7 @@ part of thigh: femor
 - medial border of sartorius M 
 - medial border of adductor longus m 
 - this is covereed by fascia lata 
+![[femoral triangle.jpeg]]
 
 it contains  (lat to medial NAV)
 - femoral n
@@ -167,6 +168,7 @@ it contains  (lat to medial NAV)
 		- perforating br = for tremendous collateral circulation, esp when the vessels wrap around the bone. 
 			- these will supply and pierce the adductor brevis and adductor magnus muscles to **reach posterior thigh**
 	- eventually as it goes down, the femoral A becomes the popliteal A as it **pass thru adductor hiatus**
+		- **Perforating** **veins** of the leg pierce deep fascia to connect between superficial and deep veins. = they're known for having that special valve to let a one-way flow from superficial to deep. 
 - femoral v 
 - note - floor is trough shaped
 ![[femoral triangle]]
