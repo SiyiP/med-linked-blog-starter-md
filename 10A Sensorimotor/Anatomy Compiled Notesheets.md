@@ -115,10 +115,49 @@ place blocks under foot, ankle, knee
 10. follow incision pattern from superior to lateral to fully reflect down ... 
 11. keep other gluteal vessels + nerves intact 
 12. reflect the gluteus medius down and laterally from the proximal attachment 
-	1. view the superior gluteal arteries and nerves that i
-13. reflect gluteus max 
-14. separate + clean muscles 
-15. locate 
+	1. view the superior gluteal arteries and nerves that innervate here 
+13. separate + clean muscles 
+14. identify piriformis key landmark 
+15. clean: obturator internus(we will see the tendon separating these), superior gemellus, inferior gemellus muscles 
+16. go to the superior aspect of popliteal fossa
+17. clean: tensor fascia latae, quadratus femoris, semimembranosus, and semitendinosus 
+18. clean and compare long + short biceps femoris muscle heads  (short head is inferiorly and laterally to the long head)
+19. locate BVs + nerves
+	1. superior + inf gluteal n + aa superior to piriformis and inferior to it too 
+	2. sciatic  = inferior to piriformis , will branch like halfway down the thigh 
+	3. tibial nerve medial br 
+	4. common fibular nerve lateral br 
+	5. PIN structures exiting pelvis thru greater sciatic foramen between piriformis + superior gemellus
+		superior and lateral to the sacrotuberous ligament and medial to sciatic nerve 
+	6. posterior femoral cutaneous n which overlies the popliteal fossa ,, medial to sciatic nerve 
+
+dissection of popliteal region - one side superficial other is deep 
+1. do a posterior mid leg vertical incision from just below the knee to posterior aspect of the HEEL along path of calcaneal tendon 
+2. make medial + lateral horizontal incisions from the midline incision at posterior ankle 
+3. reflect skin as far medial + lateral 
+4. identify and follow small saphenous vein to observe the piercing the popliteal fascia to drain into the popliteal vein 
+5. also identify the sural n which will pierce the crural fascia paralleling the small saphenous v = both just superficial of gastrocnemius muscles 
+6. use scissors to continue vertical cut thru fascia lata of posterior thigh into the popliteal fascia 
+7. open the crural fascia covering the posterior compartment of leg using vertical incision from popliteal fossa to the calcaneal tendon 
+8. look at superolateral border of popliteal fossa made by bicps femoris + superomedial border by **semitendinosus** + semimembranosus 
+9. id and clean lateral head of gastrocnemius + plantaris muscles = inferolateral border
+10. id and clean medial head of gastrocnemius = inferomedial 
+11. medial knee: observe: tendons of sartorius, gracilis, and semitendinosus muscles converging at pes anserinus of anterior tibia 
+12. separate medial + lat heads of gastrocnemius muscle, put a probe deep to just above where they joint to rpevent cutting
+13. transect these 2 heads + reflect superiorly , and the muscle belly inferiorly like ur opening a box 
+14. shows the soleus muscle 
+15. clean inferior portion and tendons of biceps femoris, semitendinosus, semimembranosus muscles of the superior borders of popliteal fossa and keep cleanin the borders
+16. id platnaris muscle (super long under the gastrocnemius), following the tendon as it joints with calcaneal tendon 
+17. pull up inferior portion of popliteal vessels to id the popliteus muscle = portion of the floor in popliteal fossa 
+18. sciatic nerve as it divides into tibial + common fibular near apex superior of fossa or maybe higher
+19. follow common fibular as it parallels biceps femoris tendon 
+20. free tibial nerve from CT and follow it inferiorly as it passes DEEP to the gastrocnemius + plantaris muscles at inferior apex of fossa
+21. deep to tibial nerve that's funning thru middle of fossa = popliteal a + v within sheath of CT - open this and clean the artery + vein 
+22. id - small saphenous vein following that popliteal v connection
+23. id and clean superior, inferior, and middle genicular arteries 
+	1. superior = j above medial + lateral heads of gastro muscles
+	2. popliteus muscle = inferior parts are just above this muscle
+	3. middle seen on a prosection 
 
 
 COTEACH: 9/8, learn Anterior & medial thigh; femoral triangle; adductor canal
@@ -138,4 +177,8 @@ COTEACH and in-lab review: 9/11, learn posterior leg + sole of foot
 
 ![[00.Anatomy_Lab_Guide_10A_FLEX2028.pdf]]
 
+
+pages
+30
+32
 
