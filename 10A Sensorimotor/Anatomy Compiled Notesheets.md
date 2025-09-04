@@ -178,7 +178,3 @@ COTEACH and in-lab review: 9/11, learn posterior leg + sole of foot
 ![[00.Anatomy_Lab_Guide_10A_FLEX2028.pdf]]
 
 
-pages
-30
-32
-
