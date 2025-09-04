@@ -7,8 +7,6 @@ COTEACH: 8/25, learn Pectoral region; axilla; brachial plexus; anterior arm from
 5 - 8 pgs
 17 - 18 
 
-
-
 8/26
 Flexor Forearm; Cubital Fossa; Extensor Forearm; Dorsal Hand
 COTEACH: 9/2, learn Palmar hand; finish upper limb dissections
@@ -158,7 +156,6 @@ dissection of popliteal region - one side superficial other is deep
 	1. superior = j above medial + lateral heads of gastro muscles
 	2. popliteus muscle = inferior parts are just above this muscle
 	3. middle seen on a prosection 
-
 
 COTEACH: 9/8, learn Anterior & medial thigh; femoral triangle; adductor canal
 
