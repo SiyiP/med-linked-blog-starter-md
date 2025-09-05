@@ -102,3 +102,144 @@ guillian barre syndrome GBS
 	- immunoglobulins 
 - differential: chronic inflammatory demyelinating polyradiculopathy 
 - we see **segmental demyelination, inflammation of nerves with many mostly macrophages**- they are wiggling themselves into the myelin sheath and trying to unwrap the myelins 
+
+chronic inflammatory demyelinating polyradiculopathy 
+- more common 
+- more worsening **muscle weakness, more pain/sensory problems like numbness, loss of reflexes**
+- autoimmune + acquired
+- **slowly progressing long term symptomes**
+- mosty older men 
+- TREAT: steroids, IVIG, plasma ex, other immuontherapy 
+- histo: **onion bulbs** 
+
+hereditary neuropathies
+categories/combos 
+- hereditary motor+sensory neuro
+- - hereditary sensory neuro
+	- sensory symptoms: numbness, tingling, pain in feet/hands
+-  hereditary motor neuro
+	- motor symptoms: weakness/atrophy
+- hereditary sensory + autonomic neuro
+	- autonomic syndromes: sweating, bp like postural hypotension, insensitivity to pain 
+- additionally : 
+	- many bone and soft tissue issues come with hereditary neuropathies 
+dx and treat of hereditary neuropathies
+- hx + fmhx 
+- exam
+	- nerves might become palpable on exam in hypertrophic neuropathy 
+- lab investigations:
+	- EMG - electromyography 
+	- NCV - nerve conduction velocity 
+	- genetic testing is huge
+	- almost never biopsy 
+- symptomatic treatment for pain + contractures 
+- hypertrophic neuropathy
+	- onion bulbs around the axons - **those are redundant layers of schwann cells around axons**
+
+types
+- charcot-marie-tooth
+	- 
+- dejerine-sottas
+	- 
+- familial amyloid polyneuropathy 
+
+
+skeletal muscle- 
+practical but not on boards
+- which muscle do we biopsy ?
+- muscle that is involved, not endstage
+- but not the muscle where EMGs (needle stick) were done
+- typically these are **quadriceps and occasionally biceps**
+
+paraffin muscle = hard to tell where fibers are 
+frozen muscle = easier to see, size and shape edges.... fresh muscle is frozen and we can see size/shape 
+	fresh frozen muscle stains: 
+	- enzyme stains like NADH... blue, seeing type 1 fibers as oxidative, and type 2 for the rest of the stains 
+	- getting mosaic normal fiber typing 
+		- **mosaic typing = note that muscle fibers don't know what type they are but the nerves tell them. we're not poultry with white and dark meat, so it's interwoven**
+	- can look at all these smaller blue dots = mitochondria , so we know it's type 1 
+	- ATPase diferent shades of brown too 
+consider 
+- age of onset, milestones, progression of symptoms 
+- patterns of muscle weakness/wasting? axial, prox, distal
+- pattern of weakness progression? 
+- any reflexes different? 
+- contractures of the tissue/scarring/fibrosis? skeleton weirdness? cataracts? heart? 
+- involvement of CNS?
+
+skeletal muscle dz categoreis
+- neurogenic = CNS/PNS seconary issues
+	- cNS: central motor neuron dz 
+		- adults have amyotrophic lateral sclerosis/lou gehrig dz = ALS 
+			- distal weakness, **no pain, fasciculations, enzymes might be fiarly normal**
+			- EMG shows fibrillations (EMG form of fasciculations), sharp waves, fascciculations 
+			- TREAT: some cases are genetic with SOD1 or C9orf72 ... but there's an **antisense oligonucleotide to stop some symptoms and slow down progression. not a cure**
+		- kids have spinal muscular atrophy = weakness, tremors, dev developmental delays, contractures in joint, bone deformities 
+			- TREAT: insufficient survival motor neuron SMN protein due to loss of function gene, so they use adeno-associated virus vector based therapy or some SMN2 directed antisense oligonucleotide 
+	- peripheral neuropathies - moto, sensory, autonomic combo of deficits 
+	- for any neurogenic muscle pathology: 
+		- we see: **angular atrophic fibers**
+			- basically if you lose a nerve, the fibers that were innervated by something atrophy and get skinny, long, angular, **compressed by others**
+			- little groups of small skinny fibers , small little dots. 
+		- type grouping
+			- if nerves recover, you might have another neuron take over the innervation that once went to the specific cells... and a whole chunk of it would be a same fiber type
+			- if you see hypertrophy of fibers being compensatory near where you see atrophy, you'd know that it's in the child and not an adult. 
+		- grouped atrophy when it's been going on long enough
+			- if dmg continues , that entire group or type would be erased 
+![[Screenshot 2025-09-05 at 5.56.28 PM.png]]
+		- inc central nuclei when we innervate denervated muscles 
+- neuromuscular junction = myasthenia gravis / lambert-eaton 
+	- symptoms tend to fluccuate 
+	- defective neuromuscular transmission 
+	- LEMS/lambert eaton 
+		- **small cell cancer surface antigens - small cell cancer of LUNG making things, paraneoplastic syndrome is common**
+		- producing voltage gated Ca channel antibodies , reacting with normal channels in nicotinic + muscarinic presynaptic nerve terminals
+		- autoimmune dz of **presynpatic NMJ**
+		- **larger muscles like beginning in upper legs, arms, then move onto respiratory**
+		- weakness on muscle exam is disproportionally mild to symptomatology severity. 
+		- **areflexic!!!!!**
+	- myasthenia gravis - **anti-acetylcholine receptor**/anti-muscle-specific tyr kinase antibody being made 
+		- **small muscles tire easily, worse later in the day = droopy eyelids/ptosis, diplopia/blurry/double vision**, fatigue, facial changes as exam goes on, problems talking, etc, weaknes sin **fingers**
+		- very often = **thymus is abnormal with thymoma or hyperplasia**= maybe some tumor or cell growth, they'll need to have this removed
+		- EMG = progressive decrmeents in AP potentials 
+		- tensilon given? not rlly done anymore
+		- TREAT: pyridostigmine, steroids, immunosuppressants 
+- myopathic - suspect these if **weak + PAIN in upper arms, shoulders, thighs** - maybe a long hx or not progressive. most have **CK elevations** due to necrosis and dead myocytes
+- they have in common: 
+	- degeneration/necrosis (pinkish fibers) , 
+	- phagocytosis with macrophages eating dead fibers, 
+	- regeneration(seen where the fibers would migrate into the center of fiber and inc in size, cyt gets blue, and big nucleoli instead of just in the edges), 
+		- central nuclei can bee seen with re-innervation and regeneration in myopathy
+	- "round" atrophy 
+	- fibrosis 
+- some types have inflammation/motheaten changes, other have hypertrophy similar to peds issues and splitting 
+	- inflammatory - biopsies seen most freq here
+		- weakness, pain inc CK 
+		- cellularity in the muscle fibers
+		- types are dermatomyositis
+			- painful rash in face, or around joints. might find vasculitis there
+			- **association with cancer = workup needed**
+			- TREAT: **steroids**
+			- angular atrophic fibers are instead **around the periphery of the muscle fascicle = perifascicular atrophy**
+			- inflammation in perimysial (around fascicle fibrous tissue)
+		- inclusion body myositis 
+			- more **distal upper extremity + quadriceps** = so wrist and hand issues not typical of other myopathies
+			- rimmed vacuoles are seen = these are seen as inclusion bodies
+			- little inflammation once they occur + **steroid unresponsive**
+		- immune mediated necrotizing - many fibers are necroti
+			- very high CK
+			- **proximal msucle weaknes,s more of the quads**
+			- very associated with **statins used to manage cholesterol, look for anti-HMGCR**
+			- or other anti-SRP autoantibodies
+			- cancer possible 
+			- viral infections
+			- CT diseases
+			- might response to steroid/immunesuppressants 
+	- t2 atropy - groups of small angular fibers which are all type 2 
+		- causes by **disuse, CT disease, PREDNISONE,**
+	- musculodystrophy
+	- mitochondrial myopathy
+	- metaboic myopathies like enzyme deficiencies
+	- channelopathies
+	- congenital myopathies 
+	- 
