@@ -89,6 +89,16 @@ amyloid = is smudgey and gray or light blueish, used to be pink in the H+e
 guillian barre syndrome GBS 
 - acute inflammatory demyelinating polyradiculoneuropathy 
 - clinical 
-	- rapidly progressive
-	- can happen bc they get vaccinated or bc they got the 
-- 
+	- rapidly progressive, **ascending motor issue**
+		- please dx this be4 they will have it to their chest and stop breathing 
+	- can happen bc they get vaccinated or bc they got the dz they shoulda been vaxxed for 
+	- CSF has inc prtein , but no inc in cellularity
+		- bc not an infection 
+	- nerve conduction velocity NCV slowed... **bc you're losing myelin**; no axons affected usually, just demylinating  
+- etiology - autoimmune 
+	- after vax or infection
+- treat: supportive: autoimmune syndromes to get to the point where they start remodeling their myelins 
+	- plasmapheresis 
+	- immunoglobulins 
+- differential: chronic inflammatory demyelinating polyradiculopathy 
+- we see **segmental demyelination, inflammation of nerves with many mostly macrophages**- they are wiggling themselves into the myelin sheath and trying to unwrap the myelins 
