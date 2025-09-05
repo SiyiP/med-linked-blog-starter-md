@@ -82,10 +82,10 @@ anterior shoulder dislocation - common + seen in younger
 ![[anterior shoulder dislocation.png]]
 
 
-![[Screenshot 2025-09-05 at 1.10.52 PM.png]]
+![[elbow xray ap.png]]
 
 1. radial head 
-2. ==capatillum== 
+2. ==capatiellum== 
 3. trochlea  of distal humerus 
 4. ==olecranon  = thick, large , curved bony procss on proximal posterior end of ulna== 
 5. ==olecranon fossa of distal humerus (see that dark space?)==
@@ -93,3 +93,138 @@ anterior shoulder dislocation - common + seen in younger
 7. lateral epicondyl 
 8. ==proximal radial ulnar joint==
 9. ==radial/bicipital tuberosity== 
+
+![[elbow anatomy lateral xray.png|293x322]]
+1. radial head 
+2. **coronoid process of ulna **
+3. trochlea of distal humerus 
+4. olecranon process of prox ulna  
+5. olecranon fossa
+6. coronoid fossa 
+
+
+elbow joint effusion after trauma
+- **fat density is darker than soft tissue and darker than bone.... so there's fat inside the joint capsule, the synovium. all fluid is deep to the joint**
+- posterior fat sign = usually there, probable fracture. 
+- sail's sign = rounded water density pushing that normal fat out , making a triangular sail = fat of coronoid fossa 
+- sign of adult trauma - radial head fracture = not seen in xray, just mobiliize and stuff and act like it's a fracture 
+
+![[forearm xray ap.png|111x285]]
+1. radius
+2. ulna 
+3. ==radiocapitellar joint==
+4. ==ulnar trochlear joint== 
+5. distal radio ulnal joint 
+6. radiocarpal joint
+7. carpal bones
+we many boney rings - in joints and boney joints 
+- every time you see a bony ring - there's 2 fractures, fractures going thru 2 bones like the radius + ulna 
+
+
+special things in children 
+ - cartilaginous physis = softer things of epiphysis, metaphysis and diaphysis = 
+ - weakest area of bones
+ - torus fracture = bones bending/buckling 
+ - incomplete fractures liek greenstick fractures easily 
+ - the physis or apophysis may fail be4 bone = physis are weak points!!! know this in peds. 
+
+mri of elbow
+- epicondylitis = usulaly pain on either side, we see radiologically brighter parts
+- typically tendons inserting on the lateral side of the distal humerus 
+	- **extensor tendons** - look at common extensor tendons 
+	- radial collateral ligament and ulnar lateral collateral ligament too deep to the extensor insertions 
+we might call it lateral/common extensor tendon tear = tennis elbow 
+
+on the medial side = the ulnar collateral tendon's the only thing that inserts onto the medial epicondyle onto the coronoid procss
+- ucl - typically brighter regularly, but injury = bright fluid. 
+- this is a tommy johns procedure project 
+
+![[wrist xray ap carpal bones.png|225x237]]
+1. 1st metacarpal 
+2. distal ulna 
+3. ulnar styloid?
+4. distal radius 
+5. scaphoid 
+6. lunate
+7. triquetrium 
+8. pisiform 
+9. hamate 
+10. hook of hamate
+11. capitate
+12. trapezoid 
+13. trapezium 
+use: 
+- ==so long to pinky, here comes the thumb== 
+starts from proximal row from scaphoid to the pinky, then the distal row from hamate to thumb 
+abnormal - 
+- younger pts = think scaphoid fracture with falling with outstretched hand, can be radial occult fracture. easy to miss in xray if they're nondislcated 
+- common in older = think distal radius fracture with falling in outstretched hands
+
+![[hand xray ap.png|174x286]]
+1. CMC carpal metacarpal joint 
+2. metacarpal 2nd one 
+3. MCP joint metacarpal phalangeal 
+4. proximal phalanx
+5. PIP proximal interphalangeal 
+6. middle phalanx 
+7. DIP distal interphalangeal 
+8. distal phalanx 
+9. seasmoid of 1st phalangeal joint 
+10. hook of hamate = recall it's an attachment pt ffor flexor tendons of ring + small fingers 
+
+boxer's fracture = 
+- fracture of 5th metacarpal- usually w anterior/radial angulation 
+- can deal with some defformity 
+
+osteoarthritis 
+- sclerosis subchondrial - cartilage will be eaten away - seen cysts too 
+- osteophytes= create productive bones along the margins "bone spurs" 
+- nonuniform joint space **narrowing**
+- productive without erosions 
+- thumb base + DIPS; more distal changes 
+RA
+- joint marginal EROSIONS + **univorm** joint space narrowing
+- Radiocarpal, distal radioulnar + mcp joints 
+	- this is bc the first parts that are worn away are parts without cartilage (cartilage is on the margins)
+
+carpal tunnel anatomy ![[carpal tunnel imaging ap.png]]
+1. flexor retinaculum 
+2. hook of hamate (flexor retinaculum will insert into this on ulnar side of hand.)
+3. trapezium 
+4. median n 
+5. flexor digitorum superficialis tendon 
+6. 5. flexor digitorum profundus tendon
+7. **flexor pollicis longus tendon**
+8. ulnar nerve and artery (outside)
+
+back and spine [[SFP Deep Back, Vertebral Column, Spinal Cord_Visconti]]
+cervical 
+- wider transversely than anteriorly 
+- triangular foramen 
+- has **transverse foramen for vertebral artery**
+- bifid spinous process
+- facets more horizontal than vertical 
+
+thoracic 
+- heart body round canal 
+- partial costal facet on posterior lat aspect of each body superiorly + inf articulatign with ribs 
+- vertical facet joitns
+- costal facet on transverse processs for rib articulations 
+
+lumbar vert
+parts interarticularis = area in bt
+- larger than C/T spine 
+- round shape on axial 
+- triangular canal 
+- long transverse process
+-  no rib articulations/transverse foramina
+- "wrapped facets... like gifts"= superior facet is posterior + medial, inferior is anterior + lateral 
+- we might see a "scotty dog"
+- 
+![[lumbar scotty dog.png]]
+"pars defect" = scotty dog neck fracture
+
+disc protrusion 
+- we might see black slipping thru 
+- in bt L5/S1 presume it's a S1 issue
+- otherwise lumbar disc herniations will freq compress the transversing nerve root like with l4/5 affecting the l5 nerve root 
