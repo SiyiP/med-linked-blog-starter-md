@@ -169,6 +169,7 @@ consider
 
 skeletal muscle dz categoreis
 - neurogenic = CNS/PNS seconary issues
+- frequently - neurogenic means no pain, muscle fasciculations present, and enzymes are fairly normal.... EMG shows fibrillations, angular atrophy + type grouping here 
 	- cNS: central motor neuron dz 
 		- adults have amyotrophic lateral sclerosis/lou gehrig dz = ALS 
 			- distal weakness, **no pain, fasciculations, enzymes might be fiarly normal**
@@ -204,7 +205,7 @@ skeletal muscle dz categoreis
 		- EMG = progressive decrmeents in AP potentials 
 		- tensilon given? not rlly done anymore
 		- TREAT: pyridostigmine, steroids, immunosuppressants 
-- myopathic - suspect these if **weak + PAIN in upper arms, shoulders, thighs** - maybe a long hx or not progressive. most have **CK elevations** due to necrosis and dead myocytes
+- myopathic - suspect these if **weak + PAIN in upper arms, shoulders, thighs** - maybe a long hx or not progressive. most have **CK elevations** due to necrosis and dead myocytes... and huge is **degeneration/necrosis**
 - they have in common: 
 	- degeneration/necrosis (pinkish fibers) , 
 	- phagocytosis with macrophages eating dead fibers, 
@@ -222,7 +223,7 @@ skeletal muscle dz categoreis
 			- TREAT: **steroids**
 			- angular atrophic fibers are instead **around the periphery of the muscle fascicle = perifascicular atrophy**
 			- inflammation in perimysial (around fascicle fibrous tissue)
-		- inclusion body myositis 
+		- inclusion body myositis - **distal upper extremities + quads, elevated CK, no steroids, RIMMED VAS**
 			- more **distal upper extremity + quadriceps** = so wrist and hand issues not typical of other myopathies
 			- rimmed vacuoles are seen = these are seen as inclusion bodies
 			- little inflammation once they occur + **steroid unresponsive**
@@ -236,10 +237,91 @@ skeletal muscle dz categoreis
 			- CT diseases
 			- might response to steroid/immunesuppressants 
 	- t2 atropy - groups of small angular fibers which are all type 2 
-		- causes by **disuse, CT disease, PREDNISONE,**
-	- musculodystrophy
+		- causes by **disuse, CT disease, PREDNISONE,** arthritis, uremia, pregnancy 
+		- not neurogenic bc not a mixture of type 1 and type 2, just all type 2 
+		- **CK/EMG/NCV are NORMAL** 
+	dystrophies - congenital or long hx, freq falls, hard to rise from lying/sitting, trouble gait or jumping, waddling gait, walk on toes ; **progressive, long hx, and elevated CK = fibrosis + hypertrophy**
+	- **where subsarcolemmal proteins which bind membrane to actin/myosin are abnormal/memb proteins are abnormal = most of these dx made genetically**
+	- there are many distrophies and differences in how they're inherited, so family hx is important. 
+	- many have round atrophy = which is **buried in collagen** (**endomysial fibrosis**)
+	- in dystrophies that get very large with hypertrophic fibers, we see **vessels growing into them, with fiber splits down the chunks + central nuclei**
+	- also different regions are impacted. 
+	- in duchennes  and a lot of these, cataracts can be given, cardiac issues happen etc
+		- **duchennes = most common = this is x-linked with dystrophin mutation** 
+		- first proximal, then distal limbs, later **cardiac** + respiratory 
+		- enlarged calves, waddling gait, lumbar lordosis 
+		- **dense fibers = dark glob seen, purple**
+		- TREAT: exon skipping genetic therapies , changes it to a more becker's type of look.... - more usable muscle protein avaliable, but less than 1/4 patients potentiallly respond not a cure. 
+	- becker-dystrophin stains = for dystrophin stains to compare + contrast duchennes vs beckers
+		- if the dystrophin stain's done for duchennes, it would be negative 
 	- mitochondrial myopathy
-	- metaboic myopathies like enzyme deficiencies
-	- channelopathies
-	- congenital myopathies 
-	- 
+		- **prox muscle weakness, EXERCISE intol, cramping and excretion of myoglobin in urine**
+		- **ocular findings, neurologic symptomes, cardiomyopathy**
+		- many mutations - either in mitochondrial (maternal genome inheritance) - or in the nuclear genome 
+		- **impairment of ox phos in the mitochondria**
+		- currently treatment is only symptomatic 
+		- note: it's super widespread bc organ systems **particularly <3 and nervous system all have mitochondria**
+		- they have **RAGGED bLUE fibers = NADH subsarcolemmal aggregates**
+		- or in trichrome stains = **RAGGED RED FIBER**
+		- we do actual EM on the muscles, and we can see if there's too much mitochondrial or abnormal ones. typically - **there's cristae that are abnormal**
+- metabolic myopathies like enzyme deficiencies
+- these are **cramps, exercise intol, helped by rest, and elevated CK, vacuoles too**
+	- storage diseases liek glycogen / lipid storage dz = all have **fatigue + exercise intolerance, but get better with rest. cramping of muscles, <3 issues, to respiratory issues too**
+		- **WE SEE VACUOLES** = very common in biopsy 
+		- glycogen issue = we see vacuoles + DPAS stains 
+			- diet should be high **carbs**
+			- exercis
+			- **enzyme replacement and new gene therapy for type 2 pompe dz**
+		- lipid myopathies - many types of them. 
+			- **can acquire with alc, HIV, and other drugs**
+			- see: **oil red O= huge red droplets, too much lipids in fibers**
+			- sudan black - **same deal, tooo much black lipid in each fiber**
+			- DIET therapy - avoid prolonged fasting + excessive muscular effort - give rich in complex carbs + low in fat 
+			- **riboflavin + carnitine therapy** 
+lysosomal storage dz = all have something to do with enzyme issues ; different heritage so hx very important 
+
+channelopathies
+- **episodic** + **fluctuating** nature of symptoms, exacerbation by environment and **freq autosomal dom inheritance**
+- can be **sodium, cl, calcium, potassium**
+- therapies of acetazolamide, to prophylactically treat periodic paralysis but also lifesytle changes
+- periodic paralyses
+	- periodic weakness/paralysis is with **hypokalemia
+-  myotonia = non dystrophic = muscles hard to relax after contraction 
+	- myotonia congenita AR/AD; ClCN1 mutation 
+	- paramyotonia congenita - see if they can let go after shaking hand, sodium channel genes 
+	- **sodium channel myotonia = cold sensitivity and pain**
+- Andersen tawil syndrome - ATS = mutation in KCNJ2 which encodes kir2.1 K+ channel 
+
+inherited dz - presenting at or soon after birth 
+- **hypotonia = floppy baby**
+- can't pick head up, issue at elbow, contracture at wrist 
+- congenital muscular dystrophy 
+	- dystrophic changes in muscle
+- motor neuron dz - neurogenc changes in the muscle
+- congenital myopathies 
+	- central core dz - mild, non-progressive weakness/pain 
+		- can be a bit older patients bc not that life threatening 
+		- **strabismus = eye misalignment/crossing** , **scoliosis, joint contractures**
+		- **malignant hyperthermia - !!!! they have a violent rxn to anesthesia**, getting dangerously high body temp, rigid muscls, rapid heart rate , etc. 
+		- autosomal dom (not on exam but mutation in RYR1)
+		- use NSAIDs, very non progressive and mild 
+	- nemaline rod myopathy - weakness
+		- **face, neck, trunk, proximal extremities = weakness most severe here**
+		- variable in severity and prog 
+		- associated scoliosis and joint contractures 
+		- usually AR ,,, 
+		- symptom treatment ofc 
+		- pictures: **rods / red on the trichrome stain... but EM shows ENLARGED Z BANDS!!!!**
+	- centronuclear myopathy 
+		- x linked myotubular 
+			- breathing + swallowing issues, osteopenia, 
+			- mutatins in mTM1 gene
+			- **you don't hit that developmental milestone , you still get a central nucelus in all your muscle fibers, meaning they don't work that well**
+			- **give therapy = ** adenoassociated virus AAV vector to give functional copy of mtm1
+		- weakness + **droopy eyelids** = **autosomal/recessive forms **
+			- symptomatic treatment. 
+	- congenital fiber type disproportion 
+		- small fibers = ATPase stain - many SMALL type 1 fibers
+		- leads to hypotonia, weakness, breathing difficulties
+		- symptomatic treatment 
+
