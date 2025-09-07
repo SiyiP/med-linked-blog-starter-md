@@ -27,7 +27,7 @@ paraffin section nerves = pinkish , larger piece of tissue , meant to find anyth
 
 we then take little pieces of tissue and put them in resin / plastic - embeded vesicles of nerves, quote a few of them 
 - in high powered plastic embedded, we can see individual fibers and myelin , axons, schwann cells etc. 
-![[Screenshot 2025-09-05 at 2.39.28 PM.jpeg]]
+![[thin v thick myelin.jpeg]]
 thinly myelinate = sensory 
 thin/small = sensory autonomic mixture usually 
 thickly myelinated = motor 
@@ -187,7 +187,7 @@ skeletal muscle dz categoreis
 			- if you see hypertrophy of fibers being compensatory near where you see atrophy, you'd know that it's in the child and not an adult. 
 		- grouped atrophy when it's been going on long enough
 			- if dmg continues , that entire group or type would be erased 
-![[Screenshot 2025-09-05 at 5.56.28 PM.png]]
+![[neurogenic atrophy cycle.png]]
 		- inc central nuclei when we innervate denervated muscles 
 - neuromuscular junction = myasthenia gravis / lambert-eaton 
 	- symptoms tend to fluccuate 
