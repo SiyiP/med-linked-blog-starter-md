@@ -101,7 +101,7 @@ nerve = superficial fibular nerve
 - from the br. of the common fibular nerve. 
 - arises in **fibularis longus muslce and emerges bt fibularis longus + brevis**
 - become cutaneous in the **lower anterolateral aspect of the leg, in dorsolateral portion of foot**
-- deep fibular nerve = becomes cutaneous in the webspace of the first toe, and the rest of the cutaneous webspaces are innervated by the superficial fibular nerve 
+- on the other side: deep fibular nerve = becomes cutaneous in the webspace of the first toe, and the rest of the cutaneous webspaces are innervated by the superficial fibular nerve 
 
 posterior compartment
 superior
@@ -136,10 +136,55 @@ deep
 4. tibialis posterior - opposite of tibialis anterior 
 	1. from mid posterior surfaces of both shaft of tibia. + fibula + interosseous membrane
 	2. insertion into tuberosity of navicular + neighbor bones
-	3. flexes foot at ankle and inverts the foot and supports medial longitudinal arch of foot bc it's on the medial end ... might see difference in it in
+	3. flexes foot at ankle and inverts the foot and supports medial longitudinal arch of foot bc it's on the medial end ... might see difference in it in cadavers in insertion point 
+	4. **note - tibialis posterior tendon = will pass under sole to insert on the navicular neighboring bones** 
 supply: posterior tibial artery
+- this is a terminal br of the popliteal artery , beginning at lower border of popliteus 
+- courses medially in posterior compartment, deep to gastrocnemius, soleus, and deep transverse fascia. 
+- distaly will divide into 2 terminal br = medial and latral plantar arteries **to supply foot**
 nerve = tibial nerve 
+- will descend with posterior tibial vessels, deep to gastrocnemius and soleus muscles
+- divide distaly into medial + lateral plantar nerves 
+- articular br to ankle joint + muscular br to this compartment 
 
+talus + calcaenus attaching ligament = flexor retinaculum 
 
+extensor retinaculum
+ankle - uniaxial synovial joint = bt the talus + lower end of tibia + fibula
+allows fo r the movement of tendons that infiltrate the dorsum 
+- deep fascia will thicken to make superior + inferior extensor retinacula 
+deep to it: 
+- tibialis anterior tendon
+- anterior tibial a 
+- deep fibular n
+- extensor hallucis longus tendon 
+- extensor digitorum longus tendon 
+- fibularis tertius muscle 
+NOT under it at all: 
+- great saphenous vein (anastamose with dorsal venous arch of foot)
+- the superfiical fibular n which becomes cutaneous at the foot 
+
+medial aspect of ankle under the flexor retinaculum ; TDANH - tom dick and nervous harry 
+- tibialis posterior tendon
+- flexor digitorum longus 
+- posterior tibial artery (can be palpate here)
+- tibial n 
+- flexor hallucis longus tendon 
+
+fibular retinacula - ths is a superir fibular retinaculum which goes from lateral malleolus to calcaneus with inf fibular retinaculum on the calcaneus blending with deep fascia 
+- fibularis longus + brevis pass under and are able to move. 
+- superficial to this is sural nerve + small saphenous vein 
+- this is a very small CT sheath on the sides and lateral and diagnoal... 
+
+----
+clinical info 
+common fibular nerve 
+- travels right around the head of the fibula, which is the bone, and this causes issues at injury 
+- basically deep fibular nerve = allows for extension 
+- you can't extend ... if that nerve's dmg, you get a **foot drop - inability to dorsiflex**
+- they overcompensate and lift their foot high. 
+- where's the injury?
+	- deep fibular n - if broken can't extend 
+	- superfibular nerve - if broken can't flex foot 
 
 
