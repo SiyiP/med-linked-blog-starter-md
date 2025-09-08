@@ -22,7 +22,7 @@ check for adverse drug rxns 3x more likely in pts older
 age related **really knw this!!**
 - note with inc age, the percent function of glomerular filtration, cardiac index and max breathing capacity will go lower. 
 - kidney function go lower when theyere have diabetes or htn 
-also **body water- **
+also **body water-**
 - young adults 61% 
 - older adults are 53% body water!!! bc as we get older, our skin thins, so we dry out more
 	- older pt confused - tell to drink more water 
@@ -32,3 +32,23 @@ also **body water- **
 	- dec in drug excretion 
 - and hepatic blood flow drops by like 50%
 	- meaning drug metabolism is slower 
+
+effects on absorption 
+- rate at absorption might be delayed
+- lower peak concentration
+- reaching peak concentration may be delayed
+- overalll amoutn absorbed is relatively unchanged just delayed 
+volume distribution = aging effects on this 
+- dec body water = dec vd for hydrophilic drugs like ethanol/lithium 
+- dec lean body mass = dec vd for drugs that bind to msucle digoxin 
+- incr fat = inc vd for hydrophobic/lipophilic drugs like diazepam/trazodone
+- decr plasma albumin = inc in unbound active drug
+- inc plasma alpha1 acid glycoprotein = decr in unbound active drug 
+
+hepatic metabolism decr in elderly 
+- inc bioavailability ? in morphine, metoprolol, propranolol etc 
+- not gonna metabolize it as quickly 
+phase 1 = **oxidation, hydroxylation, dealkylation, reduction** -> contversion to metabolites 
+phase 2 = glucuronidation, conjugation, or acetylation -> conversion to inactive metabolites
+- **phase 2 hepatic metabolism = usually preferred in geriatrics bc inactive metabolites = less accumualtion**
+
