@@ -95,4 +95,12 @@ central-acting spasmolytic agents:
 - dantrolene
 	- reduces excitatin-contraction coupling in skeletal muscle
 	- **prevents release of cyt calcium by blocking the RYANODINE receptor**
+	- black box = hepatitis/hepatotoxicity
+	- for non-ambulatory pts with severe cases... avoid the non-dihydropyridine ca channel blockers... can cause cv collapse when combined
+	- **first line treatment for malignant hyperthermia, which is caused by rampant ca influx or activation**
 - botulinum toxin 
+	- zn dependent protease from clostridium botulinum 
+	- blocking ach by preventing dock and fusion with **cleavage of SNAP-25 part of SNARE complex** = block ACH release locally 
+	- flaccid paralysis 
+	- used in short term treatment of facial wrinkels
+	- dysphagia, muscle weakness, severe headache. 
