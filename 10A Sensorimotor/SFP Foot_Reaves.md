@@ -83,7 +83,7 @@ extrinsic muscles
 	- tibialis posterior 
 	- fibularis longus 
 	- fibularis brevis
-![[Screenshot 2025-09-07 at 7.09.23 PM.png]]
+![[tendons on dorsal foot.png]]
 
 intrinsic foot on dorsum
 - extensor digitorum brevis:
