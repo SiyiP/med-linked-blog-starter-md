@@ -167,7 +167,13 @@ COTEACH: 9/8, learn Anterior & medial thigh; femoral triangle; adductor canal
 
 9/9
 Anterior Leg; Lateral Leg; Dorsum of Foot
-prosection/demo: joints of lower limb
+anterior leg 
+
+lateral leg 
+
+dorsum of foot 
+
+Prosection/demo: joints of lower limb
 COTEACH and in-lab review: 9/11, learn posterior leg + sole of foot 
 - prosection/demo: joints of lower limb 
 
