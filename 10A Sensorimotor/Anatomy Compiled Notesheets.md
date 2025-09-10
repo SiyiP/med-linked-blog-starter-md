@@ -168,10 +168,37 @@ COTEACH: 9/8, learn Anterior & medial thigh; femoral triangle; adductor canal
 9/9
 Anterior Leg; Lateral Leg; Dorsum of Foot
 anterior leg 
-
+1. REMOVE SKIN FROM ANTERIOR and lat leg, vertical incision along leg from tibial tuberosity to ankle 
+2. continue medial + lateral, reflect skin from leg from prev midline incision 
+3. make vert incision after skin removal from ankle along dorsum + reflect 
+4. remove skin over toes by making incision along dorsal midline of toe from webbint go distal end of each digit 
+![[Screenshot 2025-09-09 at 12.12.41 PM.png|194x320]]
 lateral leg 
+5. cut crural fasica over these compartments and preserve sup/inf parts of extensor + fibular retinacula 
+	1. careful of superficial fibular n piercing in latral leg 
+	2. y shaped inf extensor retinacula 
+6. don't remove crural fasica from msucles!!!!!!
+7. follow + clean and separate msucles 
+8. find fibularis longus muscle from under the lateral mallenois 
+9. ID superficial fibular n exiting bt fibularis longus + brevis to follow to dorsum of foot
+10. retract fibularis longus to id deep fibular n at neck of fibula (basically find the common fibular n branching point)
+11. in anterior compartment, separate tibialis anterior + extensor digitorum m to id the anterior tibial a and the continuation of deep fibular n deep to these muscles 
 
 dorsum of foot 
+1. working from distal to proximal, trace + separate tendons of tibialis anterior, extensor hallucis longus, extensor digitorum longus + fibularis tertius muscles in dorsal foot
+2. id and clean extensor hallucis brevis + extensor digitorum brevis muscles (intrinsic muscles and deep) 
+3. trace ant tibial artery deep to inferior extensor retinaculum -> will become dorsalis pedis at this point bt the extensor hallucis longus and digitorum longus tendons 
+4. id arcuate artery, branch of dorsalis pedis deep to tendons 
+	1. branches into dorsal metatarsal arteries, passes laterally across the base of metatarsal bones. 
+5. id dorsal metatarsal aa, br of arcuate
+6. near origin of arcuate artery, id deep plantar a, another br of dorsalis pedis, as it enters sole of foot 
+	1. deep plantar artery is between the big and 2nd toe metatarsal, diving into the plantar side, connecting to plantar arch.  
+7. id and follow superficial + deep fibular nn back to origin, which is the common fibular nerve
+	1. deep fibular n descends with hte anterior tibial artery
+		1. it will also go to the between of the 1st and 2nd metatarsal before splitting into dorsal digital branches
+	2. superficial will come down laterally, from the common fibular nerve which is a br off the psiatic in the back, at the neck of the fibula 
+8. id the deep fibular nerve distally, as it passes bt tendons of extensor hallucis longus + extensor digitorum longus mm 
+9. locate + preserve beginnings of great + small saphenous veins coming from the medial + lateral ends of the dorsal venous arch 
 
 Prosection/demo: joints of lower limb
 COTEACH and in-lab review: 9/11, learn posterior leg + sole of foot 
