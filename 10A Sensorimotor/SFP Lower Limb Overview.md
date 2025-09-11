@@ -106,7 +106,7 @@ deep fascia of leg = crural fascia , continuous with fascia lata of thigh . -> w
 	- fibularis longus = headed to the medial cuneiform at the 1st metatarsal, reinforcing that ARCH
 	- fibularis brevis = headed to the fiffth metatarsal, simiar to the fibularis tertius 
 	- nerve = superficial fibular nerve bt brevis and longus 
-	- ==blood supply = br of fibular artery, which **comes from the posterior tibial a.**==
+	- ==blood supply = br of fibular artery, which **comes from the split between posterior tibial a and fibular artery**==
 	- common fibular nerve will divide into 
 		- ==lateral sural cutaneous nerve in popliteal fossa -> supplies to lateral leg== 
 			- supplies skin of lateral aspect of leg 
@@ -185,4 +185,4 @@ small saphenous v harvested from right leg for grafting
 - dec cutaneous sensatin, but motor function completely chill 
 - sural nerve damaged!!! - a branch of the tibial nerve 
 
-![[Screenshot 2025-09-11 at 6.23.29 AM.png]]
+![[cutaneous innervation of lower limb.png]]
