@@ -1,212 +1,4 @@
 #anatomy
-
-8/19
-Superficial Back and Shoulder; Posterior Arm
-COTEACH: 8/25, learn Pectoral region; axilla; brachial plexus; anterior arm from other group 
-- prosection/demo: Deep back; Vertebral canal; Spinal cord and meninges
-5 - 8 pgs
-17 - 18 
-
-8/26
-Flexor Forearm; Cubital Fossa; Extensor Forearm; Dorsal Hand
-COTEACH: 9/2, learn Palmar hand; finish upper limb dissections
-Prosection/demo: Joints of the upper limb
-- dissect one side of cadaver
-- make shallow incisions on lat/med sides of arm from where the previous dissection eneded to 2-3 in below cubital fossa + elbow 
-- make horizontal incision connecting the medial/ lateral incisions then remove skin 
-- immediately locate : cephalic, basilic, v and cutaneous nerves 
-	- review course of medial/lateral antebrachial cutaneous nerves prior 
-- use tweezers to lift brachial fascia off muscles + use scissors to make a longitudinal incision 
-- blunt dissect to sparate from the underlying muscles + septa (medial + lateral)
-- discard of tissue - ignore the cutting of biceps 
-- working distal to proximal, trace tendons up to belly while separating them blunt dissection + separate long/short heads of biceps 
-- clean coracobrachialis muscle (pierced by musculocutaneous n) without disrupting musculocutaneous n or any cutaneous branches 
-- clean brachialis muscle, which would be under the long head of the biceps 
-	- the lateral antebrachial cutaneous nerve will run on it 
-- recall: cubital fossa bounded by antebrachial fascial and bicipital aponeurosis superficially 
-	- review medial, lateral and superior and deep boundaries of cubital fossa
-- id bicipital aponeuroses and separate with prube 
-- cut the bicipital aponeurosis (where the biceps insert into the elbow region) as far distally as possible and reflect laterally 
-- reflect pronator teres - using probe deep to muscle to separate from nerves... use scissors to transect at midpoint - careful don't dmg radial arteries or anything deep to it 
-- reflect it 
-- follow course of musculocutaneous, median ,and ulnar nerves from brachial plexus all the way down ... 
-	- locate lateral antebrachial cutaneous nerve emerging out the brachialis, comign off musculocutaneous 
-	- continue tracing the medial antebrachial cutaneous n from previously 
-	- follow brachial artery into cubital fossa, where it bisects into radial/ulnar arteries 
-		- from the ulnar artery - common interosseous artery might come from here. 
-	- major collagteral branches of brachial artery? (typically small and deep to musculature)
-		- superior ulnar collateral a 
-		- inferior ulnar collatral a 
-		- radial recurrent a 
-flexor compartment 
-- remove skin of anterior surface of forearm 
-- shallow incisions ending at the wrist 
-- cut down to the wrist ??? 
-- tweeser to get antebrachial fascia off muscles + scissors 
-- work from dital to proximal, trace tendons of muscles up to the bellies while separating them with blunt dissection 
-- clean and isolate: 
-	- pronator teres - reflected in prev lab and cleaned
-	- flexor carpi radialis - immediately medial to radial artery and insert into bases of 2nd and 3rd metacarpals 
-	- palmaris longus m - 
-	- flexor carpi ulnaris m - medial to the ulnar a + n, inserting at the pisiform bone and base of 5th metacarpal  
-- then the intermediate layer
-	- flexor digitorum superficialis m - 4 teendons thru carpal tunnel to insert on the middle phalanges 2-5 
-		- 3+4 tendons are more superfiicial 
-		- sandwiched between median nerve medially + ulnar a+n laterally 
-- then the deep layer 
-	- flexor digitorum profundus - immediately deep to digitorum superficialis, will go thru carpal tunnel + insert into 2-5 
-	- flexor pollicis longus -  
-	- pronator quadratus -  
-- don't reflect any msucls actually , one side superficial, one side is deep. ? 
-- id + clean: radial a + branches
-	- radial recurrent a 
-	- superficial palmar br of radial a  - careful as u dissect. + look for it at wrist 
-- id + clean ulanar a 
-	- ulnar recurrent a 
-	- common interosseuous a (posterior and anterior later)
-- id and clean median nerve - at wrist, medial to the tendon of the flexor pollicis longus and flexor digitorum superficialis - 
-	- ant interosseous n - travels along the anterir interosseus a between flexor pollicis longus and digitalis profundus muscle 
-	- palmar cutaneous br of median n - careful at wrist - 
-- id and clean ulnar nerve as it continues - travels posterior to medial epicondyle and in forearm deep to the flexor carpi ulnaris muscle. , accompanied by ulnar a 
-
-- note all dorsal structures are very thin and delicate 
-- tweezers etc to remove all skin - make transverse incision along interphalangeal joint of thumb + one along metaarpophalangeal joints of digits. 
-- then remove the remaining skin of posterior surface of forearm 
-- don't remove skin from posterior surface of digits 
-- separate and clean 
-	- brachioradialis 
-	- extensor carpi radialis longus 
-	- extensor carpi radialis brevis
-	- extensor digitorum 
-	- extensor digiti minimi 
-	- extensor carpi ulnaris 
-	- isolate and clean aconeus m 
-- isolate and clean lateral antebrachial cutaneous n 
-- ID dorsla cutaneous br of ulnar nerve 
-- superficial br of radial nerve on dorsum of hand? 
-- id extensor retinaculum with attachments
-- insert probe deep into it proximal to distal and use scalpel to transect superficial to it 
-- id 6 osteofibrous canals lined with synovial sheaths that transmit the long tendons to hand 
-- deeper layer of exnsor muscles
-	- supinator
-	- abductor pollicis longus 
-	- extensor pollicis brevis
-	- extensor pollicis longus 
-	- extensor indicis 
-- follow the posterior interosseus n+a bc they emerge from supinator 
-
-
-9/3
-Gluteal Region; Posterior Thigh; Popliteal Fossa
-don't cut the sacrotuberous ligament 
-place blocks under foot, ankle, knee
-1. vertical incision from the previous median sacral crest cut , spare the anus + go along medial aspect of gluteal region ending 2-3 in down medial aspect of thigh 
-2. vertical incision along lateral aspect of hip + thigh from previous midaxillary cut = go to halfway down thigh 
-3. horizontal incisions from inf point of the cut to inferior pt of the other cut ... connect them 
-4. continue both medial + lat incisions to just superior to the popliteal fossa - careful about cutaneous nerves 
-5. horizontal incision connecting those points - careful of posterior femoral cutaneous n 
-6. blunt dissect and skin removal!!!
-7. start at the inf aspect of medial border of gluteus maximus - use **scissors to detach** muscle from gluteal aponeurosis without cutting sacrotuberous ligament
-8. continue incision superior + laterally while LATERALLY reflecting the muscle 
-	1. note = inferior gluteal vessels + nerve traveling thru belly 
-9. cut the superior gluteal vessels as close to muscle as possible while keeping muscle intact 
-10. follow incision pattern from superior to lateral to fully reflect down ... 
-11. keep other gluteal vessels + nerves intact 
-12. reflect the gluteus medius down and laterally from the proximal attachment 
-	1. view the superior gluteal arteries and nerves that innervate here 
-13. separate + clean muscles 
-14. identify piriformis key landmark 
-15. clean: obturator internus(we will see the tendon separating these), superior gemellus, inferior gemellus muscles 
-16. go to the superior aspect of popliteal fossa
-17. clean: tensor fascia latae, quadratus femoris, semimembranosus, and semitendinosus 
-18. clean and compare long + short biceps femoris muscle heads  (short head is inferiorly and laterally to the long head)
-19. locate BVs + nerves
-	1. superior + inf gluteal n + aa superior to piriformis and inferior to it too 
-	2. sciatic  = inferior to piriformis , will branch like halfway down the thigh 
-	3. tibial nerve medial br 
-	4. common fibular nerve lateral br 
-	5. PIN structures exiting pelvis thru greater sciatic foramen between piriformis + superior gemellus
-		superior and lateral to the sacrotuberous ligament and medial to sciatic nerve 
-	6. posterior femoral cutaneous n which overlies the popliteal fossa ,, medial to sciatic nerve 
-
-dissection of popliteal region - one side superficial other is deep 
-1. do a posterior mid leg vertical incision from just below the knee to posterior aspect of the HEEL along path of calcaneal tendon 
-2. make medial + lateral horizontal incisions from the midline incision at posterior ankle 
-3. reflect skin as far medial + lateral 
-4. identify and follow small saphenous vein to observe the piercing the popliteal fascia to drain into the popliteal vein 
-5. also identify the sural n which will pierce the crural fascia paralleling the small saphenous v = both just superficial of gastrocnemius muscles 
-6. use scissors to continue vertical cut thru fascia lata of posterior thigh into the popliteal fascia 
-7. open the crural fascia covering the posterior compartment of leg using vertical incision from popliteal fossa to the calcaneal tendon 
-8. look at superolateral border of popliteal fossa made by bicps femoris + superomedial border by **semitendinosus** + semimembranosus 
-9. id and clean lateral head of gastrocnemius + plantaris muscles = inferolateral border
-10. id and clean medial head of gastrocnemius = inferomedial 
-11. medial knee: observe: tendons of sartorius, gracilis, and semitendinosus muscles converging at pes anserinus of anterior tibia 
-12. separate medial + lat heads of gastrocnemius muscle, put a probe deep to just above where they joint to rpevent cutting
-13. transect these 2 heads + reflect superiorly , and the muscle belly inferiorly like ur opening a box 
-14. shows the soleus muscle 
-15. clean inferior portion and tendons of biceps femoris, semitendinosus, semimembranosus muscles of the superior borders of popliteal fossa and keep cleanin the borders
-16. id platnaris muscle (super long under the gastrocnemius), following the tendon as it joints with calcaneal tendon 
-17. pull up inferior portion of popliteal vessels to id the popliteus muscle = portion of the floor in popliteal fossa 
-18. sciatic nerve as it divides into tibial + common fibular near apex superior of fossa or maybe higher
-19. follow common fibular as it parallels biceps femoris tendon 
-20. free tibial nerve from CT and follow it inferiorly as it passes DEEP to the gastrocnemius + plantaris muscles at inferior apex of fossa
-21. deep to tibial nerve that's funning thru middle of fossa = popliteal a + v within sheath of CT - open this and clean the artery + vein 
-22. id - small saphenous vein following that popliteal v connection
-23. id and clean superior, inferior, and middle genicular arteries 
-	1. superior = j above medial + lateral heads of gastro muscles
-	2. popliteus muscle = inferior parts are just above this muscle
-	3. middle seen on a prosection 
-
-COTEACH: 9/8, learn Anterior & medial thigh; femoral triangle; adductor canal
-
-
-
-
-
-
-
-9/9
-Anterior Leg; Lateral Leg; Dorsum of Foot
-anterior leg 
-1. REMOVE SKIN FROM ANTERIOR and lat leg, vertical incision along leg from tibial tuberosity to ankle 
-2. continue medial + lateral, reflect skin from leg from prev midline incision 
-3. make vert incision after skin removal from ankle along dorsum + reflect 
-4. remove skin over toes by making incision along dorsal midline of toe from webbint go distal end of each digit 
-![[Screenshot 2025-09-09 at 12.12.41 PM.png|194x320]]
-lateral leg 
-5. cut crural fasica over these compartments and preserve sup/inf parts of extensor + fibular retinacula 
-	1. careful of superficial fibular n piercing in latral leg 
-	2. y shaped inf extensor retinacula 
-6. don't remove crural fasica from msucles!!!!!!
-7. follow + clean and separate msucles 
-8. find fibularis longus muscle from under the lateral mallenois 
-9. ID superficial fibular n exiting bt fibularis longus + brevis to follow to dorsum of foot
-10. retract fibularis longus to id deep fibular n at neck of fibula (basically find the common fibular n branching point)
-11. in anterior compartment, separate tibialis anterior + extensor digitorum m to id the anterior tibial a and the continuation of deep fibular n deep to these muscles 
-
-dorsum of foot 
-1. working from distal to proximal, trace + separate tendons of tibialis anterior, extensor hallucis longus, extensor digitorum longus + fibularis tertius muscles in dorsal foot
-2. id and clean extensor hallucis brevis + extensor digitorum brevis muscles (intrinsic muscles and deep) 
-3. trace ant tibial artery deep to inferior extensor retinaculum -> will become dorsalis pedis at this point bt the extensor hallucis longus and digitorum longus tendons 
-4. id arcuate artery, branch of dorsalis pedis deep to tendons 
-	1. branches into dorsal metatarsal arteries, passes laterally across the base of metatarsal bones. 
-5. id dorsal metatarsal aa, br of arcuate
-6. near origin of arcuate artery, id deep plantar a, another br of dorsalis pedis, as it enters sole of foot 
-	1. deep plantar artery is between the big and 2nd toe metatarsal, diving into the plantar side, connecting to plantar arch.  
-7. id and follow superficial + deep fibular nn back to origin, which is the common fibular nerve
-	1. deep fibular n descends with hte anterior tibial artery
-		1. it will also go to the between of the 1st and 2nd metatarsal before splitting into dorsal digital branches
-	2. superficial will come down laterally, from the common fibular nerve which is a br off the psiatic in the back, at the neck of the fibula 
-8. id the deep fibular nerve distally, as it passes bt tendons of extensor hallucis longus + extensor digitorum longus mm 
-9. locate + preserve beginnings of great + small saphenous veins coming from the medial + lateral ends of the dorsal venous arch 
-
-Prosection/demo: joints of lower limb
-COTEACH and in-lab review: 9/11, learn posterior leg + sole of foot 
-- prosection/demo: joints of lower limb 
-
-
-![[00.Anatomy_Lab_Guide_10A_FLEX2028.pdf]]
-
 question - do we have to know things marked "for discussion?"
 
 |                                                                                                     |                                                                                                                                                                                                          |
@@ -316,7 +108,6 @@ question - do we have to know things marked "for discussion?"
 | 3. cervical enlargement                                               |                                                                                                                                                               |
 | 4. lumbar enlargement                                                 |                                                                                                                                                               |
 | 5. posterior spinal rootlets / dorsal rootlets                        | stringy spagetti stuff coming directly out of the white part                                                                                                  |
-|                                                                       |                                                                                                                                                               |
 | 6. posterior root of spinal nerve (dorsal root)                       |                                                                                                                                                               |
 | 7. anterior spinal rootlets (ventral rootlets)                        |                                                                                                                                                               |
 | 8. anterior root of spinal nerve (ventral roots)                      |                                                                                                                                                               |
@@ -338,12 +129,10 @@ question - do we have to know things marked "for discussion?"
 | 4. ligamentum flavum (plural: ligamenta flava)                        | run bt vertebral laminae                                                                                                                                      |
 | 5. posterior longitudinal ligament                                    |                                                                                                                                                               |
 
-
 |                                                             |                                                                                                                                                                                            |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | pectoral region, axilla, brachial plexus                    | anterior axillary wall is pec major, minor, subclavius m, clavipectoral fascia                                                                                                             |
-|                                                             |                                                                                                                                                                                            |
-| skeletal                                                    |                                                                                                                                                                                            |
+| skeletal features:                                          |                                                                                                                                                                                            |
 | conoid tubercle of clavicle                                 |                                                                                                                                                                                            |
 | sternum                                                     |                                                                                                                                                                                            |
 | jugular notch                                               |                                                                                                                                                                                            |
@@ -417,9 +206,8 @@ question - do we have to know things marked "for discussion?"
 | 3. brachial fascia                                          |                                                                                                                                                                                            |
 | 4. axillary sheath                                          |                                                                                                                                                                                            |
 
-|                                                                               |     |
-| ----------------------------------------------------------------------------- | --- |
 | BREAST                                                                        |     |
+| ----------------------------------------------------------------------------- | --- |
 | Breast structures to identify and discuss:                                    |     |
 | 1. areola                                                                     |     |
 | 2. nipple                                                                     |     |
@@ -427,77 +215,74 @@ question - do we have to know things marked "for discussion?"
 | 4. suspensory ligaments of breast                                             |     |
 | 5. mammary gland tissue (may be substituted by fatty tissue in older females) |     |
 | 6. retromammary space (discuss the location)                                  |     |
-|                                                                               |     |
-anterior compartment of arm + cubital fossa 
 
-| \|   \|   \|<br>\|---\|---\|<br>\|anterior compartment of arm + cubital fossa\|\|<br> |                                                                                                                                                     |
-| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \|A. Bony features\|\|                                                                |                                                                                                                                                     |
-| \|   \|<br>\|---\|<br>\|1. glenoid cavity\|<br>                                       |                                                                                                                                                     |
-| \|2. supraglenoid tubercle\|<br>                                                      |                                                                                                                                                     |
-| \|3. infraglenoid tubercle\|                                                          |                                                                                                                                                     |
-| 4. head of humerus (medial brachial cutaneous nerve)                                  |                                                                                                                                                     |
-| \|   \|<br>\|---\|<br>\|5. anatomical neck of humerus\|<br>                           |                                                                                                                                                     |
-| \|6. greater tubercle of humerus\|<br>                                                |                                                                                                                                                     |
-| \|7. superior, middle and inferior facet of the greater tubecule\|<br>                |                                                                                                                                                     |
-| \|8. lesser tubercle of humerus\|                                                     |                                                                                                                                                     |
-| 9. intertubercular sulcus (bicipital groove)                                          | this is for the humerus, remember that!                                                                                                             |
-| 10. surgical neck of humerus                                                          |                                                                                                                                                     |
-| 11. deltoid tuberosity                                                                |                                                                                                                                                     |
-| \|12. radial groove\|<br>                                                             |                                                                                                                                                     |
-| \|13. medial epicondyle\|<br>                                                         |                                                                                                                                                     |
-| \|14. medial supracondylar ridge\|<br>                                                |                                                                                                                                                     |
-| \|15. lateral epicondyle\|<br>                                                        |                                                                                                                                                     |
-| \|16. lateral supracondylar ridge\|                                                   |                                                                                                                                                     |
-| \|   \|   \|<br>\|---\|---\|<br>\|17. capitulum<br>                                   | \|under lateral epicondyle of humerus, the bottom lat part\|                                                                                        |
-| \|18. trochlea<br>                                                                    | \|the bottom jutting out part of the medial side under medial epicondyle\|                                                                          |
-| \|19. trochlear notch of ulna\|\|                                                     |                                                                                                                                                     |
-| \|20. coronoid fossa\|<br>                                                            | anteriorly of the humerus, the small hole just superior to the trochlea\|                                                                           |
-| \|21. coronoid process of ulna\|\|<br>                                                |                                                                                                                                                     |
-| \|22. proximal radioulnar joint<br>                                                   | \|head of radius onto radial notch on ulna\|                                                                                                        |
-| \|23. radial notch of ulna\|\|                                                        |                                                                                                                                                     |
-| \|24. head of radius\|<br>                                                            |                                                                                                                                                     |
-| \|25. neck of radius\|<br>                                                            |                                                                                                                                                     |
-| \|26. radial tuberosity\|                                                             |                                                                                                                                                     |
-| B. Muscles                                                                            |                                                                                                                                                     |
-| 1. coracobrachialis muscle                                                            | medial, coracoid process of scapula origin , but makes up the lateral axilla wall                                                                   |
-| 2. long head of biceps brachii muscle                                                 | from supraglenoid tubercle f scapula                                                                                                                |
-| 3. short head of biceps brachii muscle                                                | from the coracoid process                                                                                                                           |
-| 4. tendon of biceps brachii muscle                                                    |                                                                                                                                                     |
-| 5. brachialis muscle                                                                  | from anterior aspect of distal half of humerus, more down there. insertion into coronoid process of ulna                                            |
-| 6. brachioradialis                                                                    | this is the most supericial muscle on radial side of flexor compartment                                                                             |
-| 7. pronator teres muscle                                                              |                                                                                                                                                     |
-| 8. supinator muscle (proximal part seen)                                              |                                                                                                                                                     |
-| D. Arteries                                                                           |                                                                                                                                                     |
-| 1. brachial artery                                                                    | anterior compartment blood supply of arm , starts at inf border of teres major m                                                                    |
-| 2. deep artery of arm (deep brachial artery) or profunda brachii                      | from brachial a , gives blood to posterior compartment , runs with radial n                                                                         |
-| 3. superior ulnar collateral artery                                                   | from brachial a , on medial side                                                                                                                    |
-| 4. inferior ulnar collateral artery                                                   | from brachial a ,on the medial side, and lower than the superior ulnar collateral                                                                   |
-| 5. radial artery                                                                      |                                                                                                                                                     |
-| 6. radial recurrent artery                                                            | splits very soon from radial artery at the cubital fossa, goes up or side                                                                           |
-| 7. ulnar artery                                                                       | split from the brachial artery                                                                                                                      |
-| E. Veins                                                                              |                                                                                                                                                     |
-| 1. cephalic vein                                                                      | will pass thru the deltopectoral triangle ; lateral                                                                                                 |
-| 2. basilic vein                                                                       | medial                                                                                                                                              |
-| 3. median cubital vein                                                                | joining the cephanlic and basilic, will be above the bicipital aponeurosis                                                                          |
-| 4. brachial veins                                                                     | on the medial side, they split with the artery corresponding in the cubital fossa too                                                               |
-| 5. axillary vein                                                                      |                                                                                                                                                     |
-| F. Ligaments and fascia                                                               |                                                                                                                                                     |
-| 1. transverse humeral ligament                                                        |                                                                                                                                                     |
-| 2. brachial fascia                                                                    |                                                                                                                                                     |
-| 3. lateral intermuscular septum                                                       |                                                                                                                                                     |
-| 4. medial intermuscular septum                                                        |                                                                                                                                                     |
-| 5. bicipital aponeurosis                                                              | shiny white stuff roof of cubital fossa                                                                                                             |
-| Nerves                                                                                |                                                                                                                                                     |
-| 1. musculocutaneous nerve                                                             | anterior innervatin of arm muscles like brachioradialis, long and short head of biceps , from lateral cord , go between biceps brachii + brachialis |
-| 2. lateral cutaneous nerve of forearm                                                 | continuation of musculocutaneous nerve beyond lateral edge of biceps brachii muscle tendon                                                          |
-| 3. medial cutaneous nerve of the arm                                                  | will be from the medial cord of the BP, near medial side                                                                                            |
-| 4. axillary nerve                                                                     | to teres major and deltoid, also quad space passage                                                                                                 |
-| 5. lateral cutaneous nerve of the arm                                                 | a continuation of the musculocutaneous nerve, beyond lateral edge of biceps brachii tendon to lateral aspect of arm                                 |
-| 6. median nerve (in arm, in cubital fossa)                                            | this is the most medial part in fossa                                                                                                               |
-| 7. radial nerve(in arm, at elbow)                                                     | innervation to the posterior compartment of arm                                                                                                     |
-| 8. ulnar nerve(in arm, at elbow)                                                      |                                                                                                                                                     |
-
+| \|anterior compartment of arm + cubital fossa\|\|<br>                  |                                                                                                                                                     |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \|A. Bony features\|\|                                                 |                                                                                                                                                     |
+| \|1. glenoid cavity\|                                                  |                                                                                                                                                     |
+| \|2. supraglenoid tubercle\|<br>                                       |                                                                                                                                                     |
+| \|3. infraglenoid tubercle\|                                           |                                                                                                                                                     |
+| 4. head of humerus (medial brachial cutaneous nerve)                   |                                                                                                                                                     |
+| \|5. anatomical neck of humerus\|                                      |                                                                                                                                                     |
+| \|6. greater tubercle of humerus\|<br>                                 |                                                                                                                                                     |
+| \|7. superior, middle and inferior facet of the greater tubecule\|<br> |                                                                                                                                                     |
+| \|8. lesser tubercle of humerus\|                                      |                                                                                                                                                     |
+| 9. intertubercular sulcus (bicipital groove)                           | this is for the humerus, remember that!                                                                                                             |
+| 10. surgical neck of humerus                                           |                                                                                                                                                     |
+| 11. deltoid tuberosity                                                 |                                                                                                                                                     |
+| \|12. radial groove\|<br>                                              |                                                                                                                                                     |
+| \|13. medial epicondyle\|<br>                                          |                                                                                                                                                     |
+| \|14. medial supracondylar ridge\|<br>                                 |                                                                                                                                                     |
+| \|15. lateral epicondyle\|<br>                                         |                                                                                                                                                     |
+| \|16. lateral supracondylar ridge\|                                    |                                                                                                                                                     |
+| 17. capitulum                                                          | \|under lateral epicondyle of humerus, the bottom lat part\|                                                                                        |
+| 18. trochlea<br>                                                       | \|the bottom jutting out part of the medial side under medial epicondyle\|                                                                          |
+| \|19. trochlear notch of ulna\|\|                                      |                                                                                                                                                     |
+| \|20. coronoid fossa\|<br>                                             | anteriorly of the humerus, the small hole just superior to the trochlea\|                                                                           |
+| \|21. coronoid process of ulna\|\|<br>                                 |                                                                                                                                                     |
+| \|22. proximal radioulnar joint<br>                                    | \|head of radius onto radial notch on ulna\|                                                                                                        |
+| \|23. radial notch of ulna\|\|                                         |                                                                                                                                                     |
+| \|24. head of radius\|<br>                                             |                                                                                                                                                     |
+| \|25. neck of radius\|<br>                                             |                                                                                                                                                     |
+| \|26. radial tuberosity\|                                              |                                                                                                                                                     |
+| B. Muscles                                                             |                                                                                                                                                     |
+| 1. coracobrachialis muscle                                             | medial, coracoid process of scapula origin , but makes up the lateral axilla wall                                                                   |
+| 2. long head of biceps brachii muscle                                  | from supraglenoid tubercle f scapula                                                                                                                |
+| 3. short head of biceps brachii muscle                                 | from the coracoid process                                                                                                                           |
+| 4. tendon of biceps brachii muscle                                     |                                                                                                                                                     |
+| 5. brachialis muscle                                                   | from anterior aspect of distal half of humerus, more down there. insertion into coronoid process of ulna                                            |
+| 6. brachioradialis                                                     | this is the most supericial muscle on radial side of flexor compartment                                                                             |
+| 7. pronator teres muscle                                               |                                                                                                                                                     |
+| 8. supinator muscle (proximal part seen)                               |                                                                                                                                                     |
+| D. Arteries                                                            |                                                                                                                                                     |
+| 1. brachial artery                                                     | anterior compartment blood supply of arm , starts at inf border of teres major m                                                                    |
+| 2. deep artery of arm (deep brachial artery) or profunda brachii       | from brachial a , gives blood to posterior compartment , runs with radial n                                                                         |
+| 3. superior ulnar collateral artery                                    | from brachial a , on medial side                                                                                                                    |
+| 4. inferior ulnar collateral artery                                    | from brachial a ,on the medial side, and lower than the superior ulnar collateral                                                                   |
+| 5. radial artery                                                       |                                                                                                                                                     |
+| 6. radial recurrent artery                                             | splits very soon from radial artery at the cubital fossa, goes up or side                                                                           |
+| 7. ulnar artery                                                        | split from the brachial artery                                                                                                                      |
+| E. Veins                                                               |                                                                                                                                                     |
+| 1. cephalic vein                                                       | will pass thru the deltopectoral triangle ; lateral                                                                                                 |
+| 2. basilic vein                                                        | medial                                                                                                                                              |
+| 3. median cubital vein                                                 | joining the cephanlic and basilic, will be above the bicipital aponeurosis                                                                          |
+| 4. brachial veins                                                      | on the medial side, they split with the artery corresponding in the cubital fossa too                                                               |
+| 5. axillary vein                                                       |                                                                                                                                                     |
+| F. Ligaments and fascia                                                |                                                                                                                                                     |
+| 1. transverse humeral ligament                                         |                                                                                                                                                     |
+| 2. brachial fascia                                                     |                                                                                                                                                     |
+| 3. lateral intermuscular septum                                        |                                                                                                                                                     |
+| 4. medial intermuscular septum                                         |                                                                                                                                                     |
+| 5. bicipital aponeurosis                                               | shiny white stuff roof of cubital fossa                                                                                                             |
+| Nerves                                                                 |                                                                                                                                                     |
+| 1. musculocutaneous nerve                                              | anterior innervatin of arm muscles like brachioradialis, long and short head of biceps , from lateral cord , go between biceps brachii + brachialis |
+| 2. lateral cutaneous nerve of forearm                                  | continuation of musculocutaneous nerve beyond lateral edge of biceps brachii muscle tendon                                                          |
+| 3. medial cutaneous nerve of the arm                                   | will be from the medial cord of the BP, near medial side                                                                                            |
+| 4. axillary nerve                                                      | to teres major and deltoid, also quad space passage                                                                                                 |
+| 5. lateral cutaneous nerve of the arm                                  | a continuation of the musculocutaneous nerve, beyond lateral edge of biceps brachii tendon to lateral aspect of arm                                 |
+| 6. median nerve (in arm, in cubital fossa)                             | this is the most medial part in fossa                                                                                                               |
+| 7. radial nerve(in arm, at elbow)                                      | innervation to the posterior compartment of arm                                                                                                     |
+| 8. ulnar nerve(in arm, at elbow)                                       |                                                                                                                                                     |
 
 | posterior compartment of arm                                          |                                                                                                                                                     |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -516,7 +301,6 @@ anterior compartment of arm + cubital fossa
 | 3. teres major muscle                                                 |                                                                                                                                                     |
 | 4. brachioradialis ( proximal portion will be seen)                   |                                                                                                                                                     |
 | 5. extensor carpi radialis longus ( proximal portion will be seen)    | inserts at base of 2nd metacarpal posterior side , radial nerve                                                                                     |
-|                                                                       |                                                                                                                                                     |
 | D. Nerves                                                             |                                                                                                                                                     |
 | 1. axillary nerve                                                     | to deltoid muscle and teres major , also quad space passage. from the brachial plexus posterior trunk, entering quad space from anterior side.      |
 | 2. musculocutaneous nerve                                             | anterior innervatin of arm muscles like brachioradialis, long and short head of biceps , from lateral cord , go between biceps brachii + brachialis |
@@ -539,9 +323,8 @@ anterior compartment of arm + cubital fossa
 | 3. medial intermuscular septum of arm                                 | more towards just horizontal, on medial side                                                                                                        |
 | 4. triangular interval (inferior to quadrangular space, see page 34)  | superior border teres minor, inf is teres major, laterally: long head of triceps, circumflex scapular vessels, direct br to subscapular artery      |
 
-|                                                                                                                       |                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | FLEXOR COMPARTMENT OF FOREARM                                                                                         |                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A. Fascia, Septa, Retinacula                                                                                          |                                                                                                                                                                                                                       |
 | 1. bicipital aponeurosis                                                                                              | shiny white stuff roof of cubital fossa                                                                                                                                                                               |
 | 2. antebrachial fascia                                                                                                | deep fascia of the forearm , connected to subq border of ulna + below the cephalic + basilic vein and antebrachial cutaneous nerves                                                                                   |
@@ -572,10 +355,8 @@ anterior compartment of arm + cubital fossa
 | 2. basilic vein                                                                                                       |                                                                                                                                                                                                                       |
 | 3. median cubital vein                                                                                                |                                                                                                                                                                                                                       |
 
-
-|                                                                   |                                                                                                                                                                                                       |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | WRIST AND PALMAR HAND                                             |                                                                                                                                                                                                       |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A. Fascia, Septa, Retinacula                                      |                                                                                                                                                                                                       |
 | 1. palmar aponeurosis                                             | underneath it is superficial palmar arterial arch, palmar digital br of median n , flexor retinaculum , and blending into it is palmaris longus tendon                                                |
 | 2. fibrous digital (flexor) sheaths                               |                                                                                                                                                                                                       |
@@ -584,9 +365,8 @@ anterior compartment of arm + cubital fossa
 | 4. digital synovial sheaths                                       |                                                                                                                                                                                                       |
 | 5. extensor retinaculum                                           |                                                                                                                                                                                                       |
 | 6. extensor expansions                                            | these are where the lumbricals would insert into, distally                                                                                                                                            |
-|                                                                   |                                                                                                                                                                                                       |
 | B. Muscles                                                        |                                                                                                                                                                                                       |
-|                                                                   |                                                                                                                                                                                                       |
+| palmaris longus                                                   |                                                                                                                                                                                                       |
 | 2. flexor digitorum superficialis                                 |                                                                                                                                                                                                       |
 | 3. flexor pollicis longus                                         |                                                                                                                                                                                                       |
 | 4. flexor digitorum profundus                                     |                                                                                                                                                                                                       |
@@ -618,7 +398,6 @@ anterior compartment of arm + cubital fossa
 |                                                                   |                                                                                                                                                                                                       |
 | 9. proper palmar digital branches of median nerve and ulnar nerve | after it splits into 2                                                                                                                                                                                |
 | 10. superficial branch of radial nerve                            |                                                                                                                                                                                                       |
-|                                                                   |                                                                                                                                                                                                       |
 | D. Arteries                                                       |                                                                                                                                                                                                       |
 | 1. radial artery                                                  | after passing deep to extensor pollicis longus tendon, it will go in bt 2 heads of the first dorsal interossei , will pass thru the snuffbox.                                                         |
 | 2. superficial palmar branch of radial artery                     | will be branched when the radial artery goes under tendons of the snuff box but this will be on the top of it                                                                                         |
@@ -636,26 +415,24 @@ anterior compartment of arm + cubital fossa
 | 2. basilic vein                                                   |                                                                                                                                                                                                       |
 | 3. dorsal venous arch (where cephalic and basilic veins begin)    | will be in the superficial fascia, on the bvack of hand. basilic always by pinky, and cephalic by the thumb                                                                                           |
 
-|   |   |
-|---|---|
-|BONES OF HAND||
-|Proximal row of carpal bones from lateral to medial:||
-|• scaphoid||
-|• lunate||
-|• triquetrum||
-|• pisiform||
-|2. Distal row of carpal bones from lateral to medial:||
-|• trapezium||
-|• trapezoid||
-|• capitate||
-|• hamate||
-|3. Five metacarpals:||
-|4. Phalanges: digit 1 (the thumb) has two phalanges: a proximal and distal. Digits 2 to||
-|5 (the fingers) have three phalanges: a proximal, middle, and distal.||
+| BONES OF HAND                                                                           |     |
+| --------------------------------------------------------------------------------------- | --- |
+| Proximal row of carpal bones from lateral to medial:                                    |     |
+| • scaphoid                                                                              |     |
+| • lunate                                                                                |     |
+| • triquetrum                                                                            |     |
+| • pisiform                                                                              |     |
+| 2. Distal row of carpal bones from lateral to medial:                                   |     |
+| • trapezium                                                                             |     |
+| • trapezoid                                                                             |     |
+| • capitate                                                                              |     |
+| • hamate                                                                                |     |
+| 3. Five metacarpals:                                                                    |     |
+| 4. Phalanges: digit 1 (the thumb) has two phalanges: a proximal and distal. Digits 2 to |     |
+| 5 (the fingers) have three phalanges: a proximal, middle, and distal.                   |     |
 
-|                                                                           |                                                                                                                                                               |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EXTENSOR COMPARTMENT OF FOREARM , DORSUM OF HAND                          |                                                                                                                                                               |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A. Fascia, Septa, etc.                                                    |                                                                                                                                                               |
 | 1. antebrachial fascia                                                    |                                                                                                                                                               |
 | 2. extensor retinaculum (lateral antebrachial cutaneous nerve)            | originally musculocutaneous, will become this once it passes lateral ot the biceps tendon                                                                     |
@@ -686,119 +463,114 @@ anterior compartment of arm + cubital fossa
 | 4. deep branch of radial nerve(will form the posterior interosseus NERVE) | dives into posterior forearm thru supinator heads, emerging as posterior interosseus nerve                                                                    |
 | 5. superficial branch of radial nerve                                     | on the hand's back, near the thumb. innervates dorsal aspect of lateral 3 1/2 fingers                                                                         |
 
-|   |   |
-|---|---|
-|JOINTS OF UPPER LIMBS||
-|A. Acromioclavicular Joint||
-|1. lateral end of clavicle||
-|2. acromion||
-|3. coracoclavicular ligament||
-|B. Shoulder (Glenohumeral) Joint||
-|1. glenoid fossa of scapula||
-|2. head of humerus||
-|3. glenoid labrum||
-|4. joint (articular) capsule||
-|5. synovial membrane||
-|6. tendon of long head of biceps brachii||
-|7. transverse humeral ligament|holds tendon of long head of biceps brachii in bicipital groove|
-|8. coracoacromial ligament||
-|C. Elbow Joint||
-|1. capitulum of humerus||
-|2. head of radius||
-|3. trochlea of humerus||
-|4. trochlear notch of ulna||
-|5. joint (articular) capsule||
-|6. ulnar (medial) collateral ligament of elbow joint|has anterior band (tommy john surg) from medial epicondyle to coronoid process of ulna, posterior form medial epicondyl to olecranon process, and a transverse crossing from ulnar attachments of either.|
-|7. radial (lateral) collateral ligament of elbow joint|attach lateral epicondyle to annular ligament.|
-|D. Proximal Radioulnar Joint|head of radius onto radial notch on ulna|
-|1. circumference of head of radius||
-|2. radial notch of ulna||
-|3. annular ligament|straight across, above fibrous capsule of elbow + bt the ulna + radial head below the fibrous capsule of the superior radioulnar joint//|
-|E. Wrist (Radiocarpal) Joint||
-|1. distal end of radius||
-|2. scaphoid||
-|3. lunate||
-|4. articular disk (of wrist)||
+| JOINTS OF UPPER LIMBS                                  |                                                                                                                                                                                                           |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A. Acromioclavicular Joint                             |                                                                                                                                                                                                           |
+| 1. lateral end of clavicle                             |                                                                                                                                                                                                           |
+| 2. acromion                                            |                                                                                                                                                                                                           |
+| 3. coracoclavicular ligament                           |                                                                                                                                                                                                           |
+| B. Shoulder (Glenohumeral) Joint                       |                                                                                                                                                                                                           |
+| 1. glenoid fossa of scapula                            |                                                                                                                                                                                                           |
+| 2. head of humerus                                     |                                                                                                                                                                                                           |
+| 3. glenoid labrum                                      |                                                                                                                                                                                                           |
+| 4. joint (articular) capsule                           |                                                                                                                                                                                                           |
+| 5. synovial membrane                                   |                                                                                                                                                                                                           |
+| 6. tendon of long head of biceps brachii               |                                                                                                                                                                                                           |
+| 7. transverse humeral ligament                         | holds tendon of long head of biceps brachii in bicipital groove                                                                                                                                           |
+| 8. coracoacromial ligament                             |                                                                                                                                                                                                           |
+| C. Elbow Joint                                         |                                                                                                                                                                                                           |
+| 1. capitulum of humerus                                |                                                                                                                                                                                                           |
+| 2. head of radius                                      |                                                                                                                                                                                                           |
+| 3. trochlea of humerus                                 |                                                                                                                                                                                                           |
+| 4. trochlear notch of ulna                             |                                                                                                                                                                                                           |
+| 5. joint (articular) capsule                           |                                                                                                                                                                                                           |
+| 6. ulnar (medial) collateral ligament of elbow joint   | has anterior band (tommy john surg) from medial epicondyle to coronoid process of ulna, posterior form medial epicondyl to olecranon process, and a transverse crossing from ulnar attachments of either. |
+| 7. radial (lateral) collateral ligament of elbow joint | attach lateral epicondyle to annular ligament.                                                                                                                                                            |
+| D. Proximal Radioulnar Joint                           | head of radius onto radial notch on ulna                                                                                                                                                                  |
+| 1. circumference of head of radius                     |                                                                                                                                                                                                           |
+| 2. radial notch of ulna                                |                                                                                                                                                                                                           |
+| 3. annular ligament                                    | straight across, above fibrous capsule of elbow + bt the ulna + radial head below the fibrous capsule of the superior radioulnar joint//                                                                  |
+| E. Wrist (Radiocarpal) Joint                           |                                                                                                                                                                                                           |
+| 1. distal end of radius                                |                                                                                                                                                                                                           |
+| 2. scaphoid                                            |                                                                                                                                                                                                           |
+| 3. lunate                                              |                                                                                                                                                                                                           |
+| 4. articular disk (of wrist)                           |                                                                                                                                                                                                           |
 
-|   |   |
-|---|---|
-|GLUTEAL REGION + POSTERIOR THIGH COMPARTMENT||
-|A. Fascia, Septa, Ligaments, etc.||
-|1. fascia lata|deep fascia of thigh|
-|2. iliotibial tract|made by thickened fascia lata, external to it are superficial veins + cutaneous nerves|
-|3. lateral intermuscular septum||
-|4. trochanteric bursa||
-|5. pes anserinus||
-|6. sacrotuberous ligament (do not cut!)||
-|7. sacrospinous ligament||
-|B. Spaces||
-|1. greater sciatic foramen||
-|2. lesser sciatic foramen||
-|C. Muscles||
-|1. gluteus maximus muscle||
-|2. tensor fascia latae muscle|outer edge of iliac crest from asis to iliac tubercle, inserting into anterior part of iliotibial tract.|
-|3. piriformis muscle||
-|4. gluteus medius muscle|up top/above gluteus maximus, will be innervated by superior gluteal n|
-|5. gluteus minimus muscle||
-|6. obturator internus muscle|exits the lesser sciatic forament|
-|7. superior gemellus||
-|8. inferior gemellus||
-|9. quadratus femoris muscle|to the side of inferior gemellluss. from lateral border's ischial tub to quadrate tubercle on intertrochanteric crest ...|
-|10. semimembranosus muscle||
-|11. semitendinosus muscle|it is on top of the semimembranous muscle|
-|12. biceps femoris muscle|most lateral of the compartment|
-|(long and short heads)||
-|Nerves||
-|1. superior gluteal nerve||
-|2. inferior gluteal nerve|supplies gluteus maximus|
-|3. sciatic nerve|innervates posterior thigh , splits into tibial nrve and common fibular n|
-|4. posterior femoral cutaneous nerve|posterior thigh sensory afferent|
-|5. pudendal nerve|PIN from lateral to medial ging into the lesser sciatic forament.|
-|6. nerve to obturator internus|innervates the thigh medially , like the superior gemellu and obturator internus|
-|7. tibial nerve|innervates long head biceps femoris|
-|8. common fibular nerve||
-|9. superficial fibular nerve||
-|D. Arteries||
-|1. superior gluteal artery||
-|2. inferior gluteal artery||
-|3. internal pudendal artery||
-|4. femoral artery||
-|5. profunda femoris artery||
-|6. lateral femoral circumflex artery|bt sartorius and rectus femorus|
-|7. perforating branches of profunda femoris artery|going thru adductor magnnus, insertion into adductor brevis + adductor magnus, supplying the posterior thigih aka hammies|
-|||
-|E. Veins||
-|1. Femoral vein||
+| GLUTEAL REGION + POSTERIOR THIGH COMPARTMENT       |                                                                                                                           |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| A. Fascia, Septa, Ligaments, etc.                  |                                                                                                                           |
+| 1. fascia lata                                     | deep fascia of thigh                                                                                                      |
+| 2. iliotibial tract                                | made by thickened fascia lata, external to it are superficial veins + cutaneous nerves                                    |
+| 3. lateral intermuscular septum                    |                                                                                                                           |
+| 4. trochanteric bursa                              |                                                                                                                           |
+| 5. pes anserinus                                   |                                                                                                                           |
+| 6. sacrotuberous ligament (do not cut!)            |                                                                                                                           |
+| 7. sacrospinous ligament                           |                                                                                                                           |
+| B. Spaces                                          |                                                                                                                           |
+| 1. greater sciatic foramen                         |                                                                                                                           |
+| 2. lesser sciatic foramen                          |                                                                                                                           |
+| C. Muscles                                         |                                                                                                                           |
+| 1. gluteus maximus muscle                          |                                                                                                                           |
+| 2. tensor fascia latae muscle                      | outer edge of iliac crest from asis to iliac tubercle, inserting into anterior part of iliotibial tract.                  |
+| 3. piriformis muscle                               |                                                                                                                           |
+| 4. gluteus medius muscle                           | up top/above gluteus maximus, will be innervated by superior gluteal n                                                    |
+| 5. gluteus minimus muscle                          |                                                                                                                           |
+| 6. obturator internus muscle                       | exits the lesser sciatic forament                                                                                         |
+| 7. superior gemellus                               |                                                                                                                           |
+| 8. inferior gemellus                               |                                                                                                                           |
+| 9. quadratus femoris muscle                        | to the side of inferior gemellluss. from lateral border's ischial tub to quadrate tubercle on intertrochanteric crest ... |
+| 10. semimembranosus muscle                         |                                                                                                                           |
+| 11. semitendinosus muscle                          | it is on top of the semimembranous muscle                                                                                 |
+| 12. biceps femoris muscle                          | most lateral of the compartment                                                                                           |
+| (long and short heads)                             |                                                                                                                           |
+| Nerves                                             |                                                                                                                           |
+| 1. superior gluteal nerve                          |                                                                                                                           |
+| 2. inferior gluteal nerve                          | supplies gluteus maximus                                                                                                  |
+| 3. sciatic nerve                                   | innervates posterior thigh , splits into tibial nrve and common fibular n                                                 |
+| 4. posterior femoral cutaneous nerve               | posterior thigh sensory afferent                                                                                          |
+| 5. pudendal nerve                                  | PIN from lateral to medial ging into the lesser sciatic forament.                                                         |
+| 6. nerve to obturator internus                     | innervates the thigh medially , like the superior gemellu and obturator internus                                          |
+| 7. tibial nerve                                    | innervates long head biceps femoris                                                                                       |
+| 8. common fibular nerve                            |                                                                                                                           |
+| 9. superficial fibular nerve                       |                                                                                                                           |
+| D. Arteries                                        |                                                                                                                           |
+| 1. superior gluteal artery                         |                                                                                                                           |
+| 2. inferior gluteal artery                         |                                                                                                                           |
+| 3. internal pudendal artery                        |                                                                                                                           |
+| 4. femoral artery                                  |                                                                                                                           |
+| 5. profunda femoris artery                         |                                                                                                                           |
+| 6. lateral femoral circumflex artery               | bt sartorius and rectus femorus                                                                                           |
+| 7. perforating branches of profunda femoris artery | going thru adductor magnnus, insertion into adductor brevis + adductor magnus, supplying the posterior thigih aka hammies |
+| E. Veins                                           |                                                                                                                           |
+| 1. Femoral vein                                    |                                                                                                                           |
 
-|   |   |
-|---|---|
-|POPLITEAL REGION||
-|A. Fascia, Septa and Retinacula||
-|1. crural fascia|deep ffascia of the leg, g+small saphenous veins are over it, and cutaneous nerves too|
-|2. pes anserinus (tendons of sartorius, gracilis, and semitendinosus muscles)||
-|3. transverse intermuscular septum||
-|4. interosseous membrane||
-|5. flexor retinaculum||
-|B. Muscles||
-|1. gastrocnemius muscle||
-|(medial and lateral heads)||
-|2. soleus||
-|3. plantaris muscle|super tall skinny guy from like the top of the knee jjoint.|
-|C. Nerves||
-|1. common fibular nerve|innervates short head of biceps femoris|
-|2. sural nerve|run w the small saphenous v, innervate posterior leg|
-|3. tibial nerve||
-|D. Arteries||
-|1. popliteal artery||
-|2. superior lateral genicular artery||
-|3. superior medial genicular artery||
-|4. inferior lateral genicular artery||
-|5. inferior medial genicular artery||
-|6. middle genicular artery||
+| POPLITEAL REGION                                                              |                                                                                        |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| A. Fascia, Septa and Retinacula                                               |                                                                                        |
+| 1. crural fascia                                                              | deep ffascia of the leg, g+small saphenous veins are over it, and cutaneous nerves too |
+| 2. pes anserinus (tendons of sartorius, gracilis, and semitendinosus muscles) |                                                                                        |
+| 3. transverse intermuscular septum                                            |                                                                                        |
+| 4. interosseous membrane                                                      |                                                                                        |
+| 5. flexor retinaculum                                                         |                                                                                        |
+| B. Muscles                                                                    |                                                                                        |
+| 1. gastrocnemius muscle                                                       |                                                                                        |
+| (medial and lateral heads)                                                    |                                                                                        |
+| 2. soleus                                                                     |                                                                                        |
+| 3. plantaris muscle                                                           | super tall skinny guy from like the top of the knee jjoint.                            |
+| C. Nerves                                                                     |                                                                                        |
+| 1. common fibular nerve                                                       | innervates short head of biceps femoris                                                |
+| 2. sural nerve                                                                | run w the small saphenous v, innervate posterior leg                                   |
+| 3. tibial nerve                                                               |                                                                                        |
+| D. Arteries                                                                   |                                                                                        |
+| 1. popliteal artery                                                           |                                                                                        |
+| 2. superior lateral genicular artery                                          |                                                                                        |
+| 3. superior medial genicular artery                                           |                                                                                        |
+| 4. inferior lateral genicular artery                                          |                                                                                        |
+| 5. inferior medial genicular artery                                           |                                                                                        |
+| 6. middle genicular artery                                                    |                                                                                        |
 
-|                                                                         |                                                                                                                                                                              |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ANTERIOR + MEDIAL THIGH COMPARTMENTS, FEMORAL TRIANGLE + ADDUCTOR CANAL |                                                                                                                                                                              |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A. Fascia, Septa, Ligaments, etc.                                       |                                                                                                                                                                              |
 | 1. fascia lata                                                          |                                                                                                                                                                              |
 | 2. iliotibial tract                                                     |                                                                                                                                                                              |
@@ -850,9 +622,8 @@ anterior compartment of arm + cubital fossa
 | 5. adductor hiatus                                                      |                                                                                                                                                                              |
 | 6. vastoadductor membrane                                               |                                                                                                                                                                              |
 
-|                                          |                                                                                                                                               |
-| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | LATERAL AND ANTERIOR COMPARTMENTS OF LEG |                                                                                                                                               |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | A. Fascia, Septa and Retinacula          |                                                                                                                                               |
 | 1. crural fascia                         |                                                                                                                                               |
 | 2. anterior intermuscular septum         |                                                                                                                                               |
@@ -877,9 +648,8 @@ anterior compartment of arm + cubital fossa
 | D. Arteries                              |                                                                                                                                               |
 | 1. anterior tibial artery                |                                                                                                                                               |
 
-|                                                                                                                                                               |                                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | DORSUM OF FOOT                                                                                                                                                |                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A. Muscles                                                                                                                                                    |                                                                                                                                                                                                             |
 | 1. tibialis anterior muscle                                                                                                                                   |                                                                                                                                                                                                             |
 | 2. extensor hallucis longus muscle                                                                                                                            | between tibialis anterior + extensor digitorum longus                                                                                                                                                       |
@@ -960,11 +730,9 @@ anterior compartment of arm + cubital fossa
 | 7. cuboid                                                                                                                                                     |                                                                                                                                                                                                             |
 | 8. 5 metatarsal bones beginning with the 1st metatarsal on the medial aspect of the footand ending with the 5th metatarsal on the lateral aspect of the foot. |                                                                                                                                                                                                             |
 | 9. 14 phalanges: the 1st toe has only two phalanges, the other toes each have 3 phalanges.                                                                    |                                                                                                                                                                                                             |
-|                                                                                                                                                               |                                                                                                                                                                                                             |
 
-|                                                              |                                                                                                                                                                                                                           |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | JOINTS OF LOWER LIMB                                         |                                                                                                                                                                                                                           |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A. Hip Joint                                                 |                                                                                                                                                                                                                           |
 | 1. iliofemoral ligament                                      | holds the asis with the femur's intertrochanteris lines. prevention of everextending ribs                                                                                                                                 |
 | 2. pubofemoral ligament                                      | from superior ramus of pubis and attaching to lower part of intertrochanteric line of femur                                                                                                                               |
@@ -979,7 +747,6 @@ anterior compartment of arm + cubital fossa
 | 3. pes anserine bursa                                        |                                                                                                                                                                                                                           |
 | 4. patellar ligament                                         |                                                                                                                                                                                                                           |
 | 5. lateral collateral ligament (fibular collateral ligament) | lateral epicondyle of femur to head of fibula. covered by tendon of biceps femoris                                                                                                                                        |
-|                                                              |                                                                                                                                                                                                                           |
 | 6. medial collateral ligament (tibial collateral ligament)   | most inferioor, from medial epicondyl of femur to medial condyle of tibia + medial surafce of shaft... crossing sartorius, gracilis, semitendinosus and attaching to medial menicsucs, reinforcing the medial kneee joint |
 | 7. oblique popliteal ligament                                |                                                                                                                                                                                                                           |
 | 8. anterior cruciate ligament                                | up and down, p much, intercondylar area of tibia anteriorly , to posterior part of medial surface of lateral femoral condyle                                                                                              |
@@ -988,7 +755,6 @@ anterior compartment of arm + cubital fossa
 | 11. posterior horn of medial meniscus                        |                                                                                                                                                                                                                           |
 | 12. anterior horn of lateral meniscus                        |                                                                                                                                                                                                                           |
 | 13. posterior horn of lateral meniscus                       |                                                                                                                                                                                                                           |
-|                                                              |                                                                                                                                                                                                                           |
 | C. Ankle Joint                                               |                                                                                                                                                                                                                           |
 | 1. medial ligament of ankle (deltoid ligament):              | connection of the medial malleolus to the tab/foot?                                                                                                                                                                       |
 | • anterior tibiotalar ligament                               | front one                                                                                                                                                                                                                 |
