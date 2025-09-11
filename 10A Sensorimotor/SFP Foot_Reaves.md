@@ -235,26 +235,24 @@ clinical info
 	1. the talus dislocates , so makes the foot flatten and hurt
 	2. rest + ice to reliev pain and reduce swelling 
 	3. overuse injury 
-2. plantar fasciitis - plantar fascia across bottom of foot and connects heel bone/calcaneus will get inflammed and hurt
+2. plantar fascitis - plantar fascia across bottom of foot and connects heel bone/calcaneus will get inflammed and hurt
 	1. pain is due to **inferior calcaneal nerve**
 	2. most recovery with rest + ice + NSAIDs
-3. stress fracutres
-	1.  from running and strike or land imperoperly it'll swell up. 
+3. stress fractures
+	1.  from running and strike or land improperly it'll swell up. 
 	2. stress fracture heal with rest and sometimes use boot 
-4. achilles tendiniits - when this attached to calcaneus is inflammed, causes mild ache... caused by tight calves 
+4. achilles tendinitis - when this attached to calcaneus is inflammed, causes mild ache... caused by tight calves 
 	1. treat with ice + rest 
 5. turf toe - 
 	1. sprain of great toe joint from football, results from **excessive upward bending** or jamming; 
 	2. RICE treatment
 6. heel spur - calcium depo that makes a bony protrusion along plantar fascia
 	1. need stretches to the plantar area, dec the associated inflammation 
-	2. appliication of ice
+	2. application of ice
 7. morton's neuroma / intermetatarsal neuroma
 	1. compression of nerve or irritation - typically bt 3rd and 4th toes
 	2. this is in the plantar areas of foot bc of heel strikes
 	3. shoes that contrict the feet too much 
 	4. treat with activity mods, shoe mods , and NSAIDs/injections 
 8. lisfranc/midfoot injury 
-	1. happens in football players - where the bifurcate ligaments get torn, so thee CTs will stretch, twisting falll usually 
-	2. bones are dislocated 
-9. 
+	1. happens in football players - where the ***bifurcate*** ligaments get torn, so the CTs will stretch, twisting fall usually + bones are dislocated 
