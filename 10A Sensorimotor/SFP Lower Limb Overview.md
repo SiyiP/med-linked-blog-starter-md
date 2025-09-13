@@ -116,7 +116,7 @@ deep fascia of leg = crural fascia , continuous with fascia lata of thigh . -> w
 				- motor for extensor hallucis brevis and extensor digitorum brevis 
 - posterior = plantarflexor + flex toes 
 	- superficial 
-		- gastrocnemisu with medial. + lateral head
+		- gastrocnemius with medial. + lateral head
 			- superior genicular aa above the head 
 		- soleus 
 		- plantaris = little baby up top 
