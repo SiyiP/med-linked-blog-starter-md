@@ -10,7 +10,7 @@ look more into surface anatomy
 - anterior knee
 - posterior knee
 - proximal leg 
-thigh is sparate from the leg; it's above the knee and to pelvis 
+thigh is separate from the leg; it's above the knee and to pelvis 
 leg is below the knee
 
 general org

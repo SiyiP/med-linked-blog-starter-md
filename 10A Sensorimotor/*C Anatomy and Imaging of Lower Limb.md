@@ -1,7 +1,8 @@
 #summary #sensorimotor #anatomy 
 
-- femur = will articulate with tibia, this is the weight bearing bone of the body; no articulation of this with fibula 
+in general huge diff of upper vs lower - lower has more impact on the other side if nonpathological, mainly via compensation 
 
+- femur = will articulate with tibia, this is the weight bearing bone of the body; no articulation of this with fibula 
 
 gluteal region 
 deep group 
@@ -13,7 +14,7 @@ deep group
 all for **lateral rotation of femur at hip joint** 
 
 superficial groups
-- gluteus max - inf gluteal n, superior AND inferior gluteal arteries 
+- gluteus max - inf gluteal n (L4-S3), superior AND inferior gluteal arteries 
 - med - sup + inf gluteal arteries + sup gluteal n 
 - minimus - sup + inf gluteal arteries + sup gluteal n 
 - tensor fascia lata 
@@ -51,7 +52,15 @@ knee joint only
 - vastus intermedius
 - vastus lateralis 
 
-medial thigh 
+thigh's CT
+- fascia lata tight af 
+- great saphenous v goes thru the saphenous opening to femoral v 
+	- falciform margin on lat edge of this opening 
+- ilitotibial tract - will thicken on lateral side - **usually this this tightened when our knees and bodies tighten up!**
+- insert on tibia, head of fibula, lateral patella with **gluteaus maximus + tensor fasciae latie**
+thigh has medial, lateral (very prominent) and posterior intermuscular septa 
+- all have cutaneous nerves L1-4 
+medial thigh - br of obturator internus 
 - adduction of thigh at hip 
 - gracilis 
 - adductor longus 
@@ -62,7 +71,6 @@ medial thigh
 - innervation by : obturator nerve which also has cutaneous action 
 	- **but hamstrings are innervated by the tibial nerve, from the sciatic and keeps going down**
 - arteries: obturator a + **deep femoral a as well because of medial circumflex femoral a making anastamoses with the lateral circumflex femoral a on neck + head of femur**
-
 posterior compartment of thigh 
 - **rotation** and flexion of leg at knee joint 
 - extension of thigh at hip joint 
@@ -71,36 +79,71 @@ posterior compartment of thigh
 - semimembranosus 
 - innervation by **sciatic n,-> TIBIAL n except COMMON FIBULAR on the short head of biceps**
 	- tibial n also covers the hamstrings of adductor brevis 
+	- **cutaneously innervated by the *posterior femoral cutaneous nerve*, from the sacral plexus** ( L4-5, S1-4 )
+lateral compartment of thigh 
+- innervation by the lateral femoral cutaneous nerve 
+anterior thigh compartment
+- anterior femoral cutaneous n of femoral n 
+- **femoral nerve**
+in the thigh: femoral triangle 
+- inguinal ligament
+- medial border of sartorius M 
+- medial border of adductor longus m 
+- this is covereed by fascia lata 
+has (lateral to medial is NAV)
+- femoral N
+- femoral A 
+	- goes to deep femoral a br 
+	- medial circumflex femoral a comes from here 
+	- 		- lateral circumflex femoral a - **pass bt iliacus and rectus femoris**
+	- 		- perforating br = for tremendous collateral circulation, esp when the vessels wrap around the bone. 
+		- these supply + pierce the adductor brevis and magnus muscles to eventually reach posterior thigh 
+	- femoral A becomes popliteal A going thru adductor hiatus 
+- femoral v 
 
-leg
+femoral sheath = continues posterior to inguinal ligament into the femoral triangle. note that the femoral n is not in the sheath but still behind the iliacus fascia. 
+- inside the sheath = femoral a + v 
+- femoral ring = thickened medial edge of the femoral canal itself , the ring (lymphatics, medial)
+
+neck + head of femur
+- retinacular aa , lat + med circumflex aas 
+- - the acitabular br of the obturator artery also supplies the head and neck 
+
+leg -> crural fascia, very tight . 
+- has anterior, posterior, and transverse intermuscular septae, making anterior, lateral, and posterior superficial + deep posterior compartments 
 anterior 
 - dorsiflex + toe extension 
 - tibialis anterior 
 - extensor hallucis longus 
 -  extensor digitorum longus 
 - **fibularis TERTIUS (also everter)** 
-- innervated by deep fibular nerve of common fibular 
+- innervated by deep fibular nerve of common fibular
+	- this will supply dorsum of foot, closer to the big toe and the area bt 1st and 2nd toe. 
 - blood from anterior tibial a (from popliteal a as it becomes a real artery), and then the anterior tibial a will turn into the dorsalis pedis at ankle joint 
-
+- anteriorly is the great saphenous vein, continuing down to the **dorsal venous arch medial side**
+- in the leg, we also have that prominent saphenous nerve emerging down to the medial knee ... drains to the **femoral vein at the saphenous opening**
+medial 
+- innervated by the medial cutaneous br of the saphenous n will innervate, along with the infrapatellar br of saphenous n 
 lateral = foot everters, helps with some **plantarflexion**
 - fibularis longus = headed to the **medial cuneiform at the 1st metatarsal, reinforcing that ARCH**
 - fibularis brevis = headed to the **fifth metatarsal,** simiar to the fibularis tertius 
 - **superficial fibular nerve, between the longus and brevis** 
 	- from the sciatic n 
 	- also from the sciatic nerve is the cutaneous supply of lateral sural cutaneous nerve from the popliteal fossa, branch off the common fibular. 
+		- like under the calf sensation 
 	- superficial fibular nerve = motor lateral, also 1/3 distal anterior surface of leg cutaneous, and cutaneously **majority of foot dorsum**
 	- deep fibular nerve = br off common fibular , will be **anterior motor leg, and intrinsic dorsal muscles of foot motor... skin in first web space bt great toe + 2nd.... motor for extensor hallucis brevis + extensor digitorum brevis**
 - blood supply = branch of the **fibular artery**
-
 posterior leg
 - **nerve for all: tibial n** and all the intrinsic foot muscles **except extensor hallucis brevis + extensor digitorum brevis**
-	- will eventually give off medial sural cutaneous nerve 
-	- then sural n travels down with small saphenous v, passing thru the soleus and then thru the **tarsal tunnel posterior to medial malleolus to enter plantar foot** 
+	- will eventually give off medial **sural cutaneous nerve** 
+	- then **sural n** travels down with small saphenous v, passing thru the soleus and then thru the **tarsal tunnel posterior to medial malleolus to enter plantar foot** 
 	- then gives rise to med + lat plantar n , supplying sensory + motor 
 		- calcaneal br = of heel, cutaneous 
 		- saphenous n innervate most medial of feet on plantar 
 		- very lateral of feet on plantar is sural n 
 - **blood; posterior tibial a** 
+- small saphenous v = posterior and will **pierce into the popliteal vein eventually, from the lateral side of dorsal venous arch**
 - plantarflexion, flex toes
 - gastrocnemius with medial. + lateral head
 -  soleus 
@@ -135,6 +178,90 @@ knee joint
 	- anterior cruciate = attaches on ant part of intercondylar area of tibia, ascending posteriorly to attach to posterior part of medial surface of lateral femoral condyele
 	- - posterior cruciate lig = posterior aspect of intercondylar area of tibia, like a cross... and will ascend anteriorly to attach to lateral side of medial ffemoral contdyle 
 
+ankle 
+- crural fascia thickened at the ankle = will become the retinacula = allows for movement to take place by holding the tendons. 
+- flexor = medial 
+- extensor = anterior + dorsum 
+
+foot
+on the dorsum nerves : all from sciatic
+- superficial fibular nerve which would innervate lateral compartment of leg will become s**uperficial to dorsum of foot**
+- deep fibular nerve which would pass into the foot becomes **cutaneous to the web space in between first and 2nd digits**
+plantar nerves
+- p much all from innervation of tibial nn 
+- common nerves vs when it bifurcates for toes, naming very simillar to palmar hands. 
+- entrance of **medial plantar and lateral plantar from tibial n**
+![[dermatomes of lower limb.png]]
+
+
+***gluteal region*** = these are medial rotators 
+- the region between iliac crest and gluteal fold 
+hip bones 
+- acetabulum = middle divot on lateral side of ilium made of 3 parts
+	- ilium (iac tubercle where ligaments attach to, gluteal lines = attachments for muscles, ASIS and AIIS , PSIS and PIIS , with **greater sciatic notch**)
+	- ischium = what we sit on - ischial spine, etc... 
+	- pubis 
+- femur - has head with fovea capitis, artery attached to it 
+	- has an **intertrochanteric crest** instead of a bicipital groove bt the greater + lesser trochanters 
+	- gluteal tuberosity = where gluteus maximus attaches to 
+- sacroiliac joint - strong synovial joints bt auricular surfaces of iliac and sacrum 
+	- - strong posterior + interosseus sacroiliac ligaments
+	- anterior sacroiliac ligament on anterior aspect of joint give rise to sacrotuberous + sacrospinous ligaments, which make the notches become foramina 
+- greater sciatic foramen: superior + inf gluteal aa and nns. and the n to quadratus femoris 
+- lesser sciatic foramen: sacrotuberous ligament passing thru 
+- but **passing thru poth - out the greater into the lesser: pudendal n, internal pudendal a , and n to obturator internus** (L5-S1)
+	- recall: PIN is from medial to lateral 
+
+gluteus maximus = - entire reason we walk upright 
+- inserts onto the iliotibial tract + gluteal tuberosity of femur!!!
+-  **inferior** gluteal nerve 
+	- extends and laterally rotates hip joint (entire lower limb)
+	- extends trunk at hip when lower extremity is fixed (helps straighten core when you're fixed)
+	- can contribute to knee joint extension **(note that the iliotibial tract runs below the knee), so when it's connected to this tract it can help**
+gluteus medius 
+- - innervation by superior gluteal nerve (L4,5,S1)
+- will insert into the **lateral upper surface of greater trochanter** 
+	- note how it's high and lateral
+	- meaning - **will do abduction of thigh at hip joint, and medially rotates the thigh (medial rotation bc it's the anterior lateral surface insertion, it pulls up when contracting)**
+gluteus minimus
+- - inserts onto anterior + upper surface of greater trochanter 
+- - innervation superior gluteal nerve 
+- - will abduct thigh at hip jjoint
+- - prevents down tilt of pelvis on the opposite side when foot's anchored.  + medial rotator like all the other gluetus muscles 
+
+tensor fasciae lata - smaller muscle - 
+-  outermost edge of iliac crest, going from the anterior superior iliac spine to the iliac tubercle... 
+- inserts onto anterior aspect of iliotibial tract ... near the front 
+- - innervation by the superior gluteal nerve 
+- - thigh abductor... medial rotation bc insertion near front, and contributes to knee extension 
+
+deep muscles
+- piriformis - 	- from antero-lateral border of sacrum, thru the greater sciatic foramen 
+	- 	- insertion onto the upper medial aspect of greater trochanter, so you pull it forwards, making thigh laterally rotate. 
+	- innervated by the **anterior rami of 1st/2nd S1-2 sacral spinal nerves**
+- - superior gemellus 0 below piriformis **n of obturator internus**
+- obturator internus - between, **n of obturator internus**
+- inferior femellus  - **n of the quadratus femorus**
+- quadratus femoris  - **n of the quadratus femoris **, (L5-S1)
+	- pretty prominent, between greater and lessr trochanters
+- all other short lateral rotators o hip joint which counteract their medial rotators of the butt muscles 
+
+blood supply: 
+common iliac -> internal iliac 
+	- posterior division/trunk -> superior gluteal = 
+	- anterior trunk -> inf gluteal 
+	- anterior trunk -> internal pudendal 
+
+try to give injections and shots into the upper lateral quadrant, bc the nerve to the **sciatic is like in the lower medial quadrant of gluteal region...**
+
+cutaneous nn of gluteal - 4 quadrants
+1. upper medial = superior + middle cluneal nn (ez to id),
+2. upper lateral = lateral cutaneous br of iliohypogastric + ventral ramus of t12_
+3. lower lateral/**femoral** = lat cutaneus nn of thigh , ventral rami L2-3
+4. lower medial = posterior cutaneous nn of thigh = inferior cluneal nn, ventral rami s1-3 
+cruciate anastamoses 
+- on the posterior aspect of thigh, where internal iliac. + femoral aa can connect 
+
 ---
 pathology 
 1. avascular necrosis to femoral head + neck 
@@ -156,3 +283,22 @@ pathology
 	- **sural nerve dmg'd, posterolateral aspect of leg is sural, a br off the tibial nerve**
 ![[cutaneous innervation of lower limb.png]]
 memorize cutaneous innervation of lower limb^^
+4. compartment syndrome
+	- very high risk in nondistendable tight fascia like crural fascia, where it's super strong in the leg. 
+	- 6 Ps of this: Pain, Pallor (paleness), Paresthesia (numbness/tingling), Paralysis, Pulselessness, and Poikilothermia (abnormal temperature, often coolness) 
+5. varicose veins 
+	- with incompetent valves, they can't push the blood flow to heart well, making them swell and bulge with flow reversal
+	- many superficial veins will distend, and these superficial veins will connect to the deep veins so that wont't work 
+6. positive trendelenburg's sign
+	- decr strength oof gluteus medius + minimus due to trauma/dz on one side = "dropped pelvis"
+7. piriformis syndrome
+	- can happen as a result of early division too above the piriformis bc it can be squished by this 
+	- pain in butt, seen in 15-20% of population where the sciatic nerve crosses below the piriformis, but the muscle splits .... so it presses on your sciatic nerve 
+	- pain down posterior leg 
+	- foot orthotic, biomech issue, examine sacroiliac joint/hip joint, typially mssage , ice
+8. sacroiliac joint dysfunction
+	- - excessive movement in the joint, maybe trauma caused. 
+	- can eventually lead to piriformis syndrom as a degenerative arthritis 
+	- pregnancy can see this 
+	- pain in ower back, back of hips + lessor exent groin+thigh
+	- get them anti-inflammatories and physical therapy 

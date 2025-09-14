@@ -38,7 +38,7 @@ greater + lesser sciatic foramina via ligaments filling it up
 - greater sciatic foramen = 
 	- anterosuperior = rim of the great sciatic notch 
 	- posteromedial = sacrotuberous ligament
-	- inferiorly = sacrospinous igament + ischial spine 
+	- inferiorly = sacrospinous ligament + ischial spine 
 		- passing thru: superior + inf gluteal aa
 		- superior + inf gluteal nn 
 		- n to quadratus femoris m (hard to id)
