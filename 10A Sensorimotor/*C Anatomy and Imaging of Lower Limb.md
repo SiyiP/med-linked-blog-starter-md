@@ -291,6 +291,7 @@ memorize cutaneous innervation of lower limb^^
 	- many superficial veins will distend, and these superficial veins will connect to the deep veins so that wont't work 
 6. positive trendelenburg's sign
 	- decr strength oof gluteus medius + minimus due to trauma/dz on one side = "dropped pelvis"
+	- therefore dmg to the superior gluteal nns 
 7. piriformis syndrome
 	- can happen as a result of early division too above the piriformis bc it can be squished by this 
 	- pain in butt, seen in 15-20% of population where the sciatic nerve crosses below the piriformis, but the muscle splits .... so it presses on your sciatic nerve 
@@ -300,5 +301,5 @@ memorize cutaneous innervation of lower limb^^
 	- - excessive movement in the joint, maybe trauma caused. 
 	- can eventually lead to piriformis syndrom as a degenerative arthritis 
 	- pregnancy can see this 
-	- pain in ower back, back of hips + lessor exent groin+thigh
+	- pain in lower back, back of hips + lessor exent groin+thigh
 	- get them anti-inflammatories and physical therapy 

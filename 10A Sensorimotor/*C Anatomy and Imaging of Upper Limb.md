@@ -194,4 +194,4 @@ pathology
 	- L4-5 injuyry, L5 is irritated.... 
 	- in C4-5 injuries, C5 compressed horizontally going out. 
 	- in sacral ones L5-S1 = the **S1 sacral root is being punished**
-3. 
+3. Clinicians look for a break in the neck of the dog of an oblique view of the lumbar X-ray to indicate a fracture in the region of the pars interarticularis, which is specific for spondylolysis
