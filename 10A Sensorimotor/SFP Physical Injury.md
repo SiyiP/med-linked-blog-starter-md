@@ -12,7 +12,7 @@ laceration - **blunt trauma, striking the sking and making it split**
 sharp force vs the blunt force trauma
 - nerves severed with sharp, not a lot of dmg around the skin
 - tissue bridge = vessels and nerves with tensile strength NOT split with the blunt force trauma - remaining and bridging the lesison **tissue bridging**
-![[blunt v sharp trauma tissue bridging.png]]
+![[blunt v sharp trauma tissue bridging.jpeg]]
 
 around the laceration. -see some abrasions + scrapes
 
@@ -44,13 +44,13 @@ marks on the side of his face = **glass from the side windows**
 
 front windshield is meant to **spiderweb, and not break instead**
 
-legs seen - injuries show fractures![[blunt injury pedestrian.png|235x276]]
+legs seen - injuries show fractures![[blunt injury pedestrian.jpeg|235x276]]
 bumper of a vehicle has struck him, and one leg is higher than the other while walking, shows that he was walking when this happened 
 
 pedestrian vs vehicle 
 - adults are hit below center o gravity  = flipped onto hood and then off = **head and neck truauma**
 - kids hit above center of gravity = run over ) : 
-1. atlanto occipital separation ![[atlanto oxipital dislocation.png|165x231]]
+1. atlanto occipital separation ![[atlanto oxipital dislocation.jpeg|165x231]]
 	- common fatal head and neck injury 
 
 burns - 
@@ -98,7 +98,7 @@ heat exhaustion -  thermoregulatory maintenance of mechanisms (body core temp st
 malignant hyperthermia - genetic condition, ca regulation in skeletal muscle is impact, so when exposed to anesthetics, calcium will skyrocket and then gneerate a ton of heat !!! 
 
 axilla - we see ventricular fibrillation 
-![[electricution.png|242x154]]
+![[electricution.jpeg|242x154]]
 - electricution injury = we see a crater central surrounded by white rim and then rid rim of hyperremia 
 - fatal injury = ventricular fibrillation !!!
 - high voltage currents = can carry from 7k to 100000 volts 

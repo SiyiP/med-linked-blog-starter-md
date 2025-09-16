@@ -20,7 +20,7 @@ joint function
 	6. **chondrocytes proliferate due to less water int he matrix, then cleavage of the typ2 collagen fibers since it's wear and tear... we get soft cartilage and granularity. release of cytokines + macrophages.... and then to compensate and stabilize the joints, our body does osteophyte formation with BONE SPURS and subchondreal cysts!!!**
 	7. this is clinical dx, no imgaing nor testing unless needed
 	8. chondrocyte injury, matrix is soft and granular with the wear and tear of cartilage cap, and then cysts will form, eroding the cartilage away. 
-![[arthritis cartilage waring.png]] - we see loose bodies of fragments that have broken of and are hanging in the joint space. 
+![[arthritis cartilage waring.jpeg]] - we see loose bodies of fragments that have broken of and are hanging in the joint space. 
 - granular pitted area and pits in the bone's surface anatomy head 
 2. rheumatoid arthritis
 	- autoimmune -> non-suppurative (no neutrophils) proliferative and inflammatory synovitis, **destruction of artiular cartilage and then ankylosis or joint fusion**
@@ -94,7 +94,7 @@ tmor like stuff
 		3. hemosiderin-laden macrophages
 		4. epitheliod cells = are actual tumr cellls tere 
 	6. TREAT: excision 
-	7. caused by ==t(1;2) fusion of type VI colagen a-3 gene promoter with CSF1 = monocyte colony stimulating factor== ![[diffuse tenosynovial giant cell tumor.png]]
+	7. caused by ==t(1;2) fusion of type VI colagen a-3 gene promoter with CSF1 = monocyte colony stimulating factor== ![[diffuse tenosynovial giant cell tumor.jpeg]]
 3. localized tenoxynovial giant cell tumor
 	1. "ppl calle them giant cell tumor tendon sheath"
 	2. discrete and palpable nodule on **fingers attached to tendon sheath **
@@ -103,4 +103,4 @@ tmor like stuff
 	5. t(1;2) fusion of type VI collagen with a-3 gene promoter with CSF. = **the same mutation**
 	6. very circumscribed, a small little marble instead of big glob with finger things
 	7. giant cells = most common , with osteoclast-like ones , and just a few macrophges. more epitheliod cells 
-	8. ![[localized tenosynovial giant cell tumor.png]]
+	8. ![[localized tenosynovial giant cell tumor.jpeg]]
