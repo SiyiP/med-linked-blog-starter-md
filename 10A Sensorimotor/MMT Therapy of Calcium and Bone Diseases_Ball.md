@@ -5,7 +5,7 @@ be familiar with mechanisms + how things impact bone resorbsion
 
 hypercalcemia 
 - 12 mg/dL+ calcium 
-- most commonly due to hyperparathyroidism, PTH high 
+- ==most commonly due to hyperparathyroidism, PTH high== 
 - also with bone metastasis and many other conditions
 symptoms of
 - fatigue, weak, anorex, depression, anx, cog dysfunction , constipation 

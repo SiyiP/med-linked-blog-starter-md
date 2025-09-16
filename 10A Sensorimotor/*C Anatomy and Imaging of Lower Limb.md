@@ -262,6 +262,74 @@ cutaneous nn of gluteal - 4 quadrants
 cruciate anastamoses 
 - on the posterior aspect of thigh, where internal iliac. + femoral aa can connect 
 
+
+-
+*thigh and popliteal fossa*
+- fascia lata: - at the most superior aspect, there's the **saphenous opening , allowing the great saphenous vein to drain the leg anteriorly**  
+intermuscular septa:
+- lateral (strongest, should see it in lab, going from the iliotibial tract to the linea aspera of the femur)
+- medial
+- posterior 
+compartments
+anterior - **femoral nerve innervation**, **profunda femoris a**
+- sartorius - ASIS to upper medial surface of tibia , flexes knee + weakly abducts + laterally rotates thigh 
+- iliacus - iliacus + psoas. 
+	- 	- more distal aspect of muscle: smaller, teardropped shape called "iliopsoas" - **this will flex thigh + stabilize hip joint**
+- psoas - medial , insert on lesser trochanter , combine to make iliopsoas 
+- pectineus - from sup ramus of pubis insertion to just inf of lesser trochanter at **linea aspera**, crossing hip joint 
+	- flex + adducts thigh 
+- quadriceps:
+	- rectus femoris - flex hip at thigh, extend leg at knee by common insertion of quads tendon on patella via patellar ligament , which goes into tibial tuberosity 
+	- vastus lateralis - 
+	- vastus medialis 
+		- lower fibrs = almost horizontal to prevent lateral sliding of patella during forceful contraction 
+	- vastus intermedius - **articularis genus = lowest fibers on the knee to elevate synovium during extension**
+innervation is - **medial + intermediate anterior cutaneous nerves to thigh** + sartorius and pectineus muscular branches
+- the saphenous nerve = goes thru subsartorius cannel thru the knee to the medial foot+leg 
+	- **this adductors cannal is covered by the vastoadductor membrane, which covers the hiatus**
+	- this canal is going from the apex of femoral triangle to the hiatus in the adductor magnus 
+**patellar reflex = L2-4**
+femoral artery = from external iliac
+- profunda femoris - first branch out immediately 
+	- medial circumflex femoral = portion of medial aspect of thigh AND head/neck of femur
+	-  lateral  circumflex femoral= 
+	- 4 perforating br = bc they **perforate the adductor magnus to supply mm of the posterior compartment
+- descending genicular to knee joint
+- popliteal a = thru the adductor hiatus this becomes this, and then provides 5 genicular br to knee joionts. 
+	- later splits into ant/post tibial aa 
+at point of the femoral triangle, lowest point = we see stacked femoral + profunda femoral vessels
+- femoral artery 
+- femoral v 
+- profunda femoris a
+- profunda femoris v 
+basically from top to bottom those are listed 
+-> somewhere below the apex of the triangle, likely in the adductor canal, they are oriented to see the 
+- femoral artery 
+- femoral v 
+- **adductus longus muscle, which will separate the stack**
+- profunda femoris a
+- - profunda femoris v 
+
+medial compartment of thigh - innervation by obturator nerve except for half o fthe adductor magnus 
+	- anterior br (in relation to adductor brevis) = gracilis, adductor brevis + longus, skin of medial thigh 
+	- posterior br - bt adductor brevis + magnus , obturator externus, adductor magnus except hamstring , and brevis + skin to medial knee 
+artery is still the deep formal a and obturator aa
+	- medial circumflex femoral br and muscular br 
+	- obtturatoor a gives rise to acetabular br for the femoral head 
+	- internal iliac nodes + deep inguinal 
+- gracilis - very weak adductor can be used for transplant and insert to superior part of medial tibia 
+- adductor longus - only superficial layer muscle - into middle 1/3 of linea aspera 
+	- "riders strain" = commnly ossified in riders 
+- adductor brevis - inf pubic ramus to insert onto upper part of linea aspera superior to adductor longus insertion 
+- adductor magnus - 
+	- origin= ischiopubic ramus + ischial tuberosity 
+	- 2 parts 
+		- adductor part = bigger, insertion of shaft of femur, linea aspera
+		- hamstring part = by rounded tendon into adductor **tubercle** , more posterior? and going into more lower space 
+		- **the gap bt these inserting fibers = adductor hiatus transmitting femoral vessels into popliteal fossa
+- obturator externus - **only deep layer muscle, reflect adductor brevis + pectineus to see this** = this only laterally rotates the thigh 
+
+
 ---
 pathology 
 1. avascular necrosis to femoral head + neck 
@@ -303,3 +371,4 @@ memorize cutaneous innervation of lower limb^^
 	- pregnancy can see this 
 	- pain in lower back, back of hips + lessor exent groin+thigh
 	- get them anti-inflammatories and physical therapy 
+9. adductor longus ossificaiton = "riders strain"
