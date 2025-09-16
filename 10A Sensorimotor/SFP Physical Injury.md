@@ -12,7 +12,7 @@ laceration - **blunt trauma, striking the sking and making it split**
 sharp force vs the blunt force trauma
 - nerves severed with sharp, not a lot of dmg around the skin
 - tissue bridge = vessels and nerves with tensile strength NOT split with the blunt force trauma - remaining and bridging the lesison **tissue bridging**
-![[Screenshot 2025-09-16 at 11.48.49 AM.png]]
+![[blunt v sharp trauma tissue bridging.png]]
 
 around the laceration. -see some abrasions + scrapes
 
@@ -44,13 +44,13 @@ marks on the side of his face = **glass from the side windows**
 
 front windshield is meant to **spiderweb, and not break instead**
 
-legs seen - injuries show fractures![[Screenshot 2025-09-16 at 11.57.12 AM.png|235x276]]
+legs seen - injuries show fractures![[blunt injury pedestrian.png|235x276]]
 bumper of a vehicle has struck him, and one leg is higher than the other while walking, shows that he was walking when this happened 
 
 pedestrian vs vehicle 
 - adults are hit below center o gravity  = flipped onto hood and then off = **head and neck truauma**
 - kids hit above center of gravity = run over ) : 
-1. atlanto occipital separation ![[Screenshot 2025-09-16 at 11.58.58 AM.png|165x231]]
+1. atlanto occipital separation ![[atlanto oxipital dislocation.png|165x231]]
 	- common fatal head and neck injury 
 
 burns - 
@@ -97,4 +97,21 @@ heat exhaustion -  thermoregulatory maintenance of mechanisms (body core temp st
 - hypovolemia due to water depletion 
 malignant hyperthermia - genetic condition, ca regulation in skeletal muscle is impact, so when exposed to anesthetics, calcium will skyrocket and then gneerate a ton of heat !!! 
 
-axilla - we see 
+axilla - we see ventricular fibrillation 
+![[electricution.png|242x154]]
+- electricution injury = we see a crater central surrounded by white rim and then rid rim of hyperremia 
+- fatal injury = ventricular fibrillation !!!
+- high voltage currents = can carry from 7k to 100000 volts 
+	- a lot more burning
+	- **direct contact not necessary = even if you walk past them the electricity would arc over, we see these in hurricane times ):**
+	- medullary center paralysis + exensive burns seen- 
+- household low voltage 120 AC
+	- small crater and smaller injury 
+	- AC = so if you contact it, you cna't rlly fall away
+		- induction of **muscle tetany, which means you can't let go. can induce respiratory paralysis**
+	- might yell out and then collapse due to ventricullar fib 
+	- no production of burns 
+- v-fib = 100 miliamps 
+- amps = volts/ohms (skin is the resistance component)
+	- with dry skin, the ohms will be higher
+	- with wet skin, your resistance drops 
