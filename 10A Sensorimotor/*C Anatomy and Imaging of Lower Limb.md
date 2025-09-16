@@ -339,9 +339,39 @@ arches allow us to walk on uneven surfaces and round surfaces!!!!
 
 anterior + posterior crural intermuscular septa + interosseous memb divide into compartments: 
 	- anterior - ant tibial a , some from ant tibial recurrent a or medial malleolar aa ... and all innervated by deep fibular 
-	- lateral - fibular a , posterior tibial a branch is here and will split into this. nerve is superficial ibua
+	- lateral - fibular a , posterior tibial a branch is here and will split into this. nerve is superficial fibular n... and then the deep fibular nerve is cutaneous on the websapce of the fooot 
 	- posterior 
 		- also a deep transverse septum that splits posterior into posterior deep and superficial 
+		- posterior tibial a , and tibial n supply 
+deep to extensor retinaculum: 
+- tibialis anterior tendon
+- anterior tibial a 
+- deep fibular n
+- extensor hallucis longus tendon 
+- extensor digitorum longus tendon 
+- fibularis tertius muscle 
+NOT under it at all: 
+- great saphenous vein (anastamose with dorsal venous arch of foot)
+- the superfiical fibular n which becomes cutaneous at the foot 
+
+--
+for femur
+- recall: angle of **inclination is about 125 degrees**
+- - coxa valga = greater trocanter abnormally low, angle is more than 125 - inability to adduct 
+- greater trchanter abnormally ihgh = less than 125 degrees, coxa vara = inability to abduct 
+- round ligament of head fo femur attach to transverse ligament of acetabulum, on margins of the notch and in pit of fovea capitis 
+allows for - passage of **small a br off the obturator into the femoral head from the acetabular notch
+
+only exception to hiltons law - piriformis nerve s1-2 does not supply hip 
+- abduction - valgus, testing **medial collateral ligament, put pressure on the lateral side**
+- adduction varus test =test the lateral collateral ligament and push on the medial side. 
+
+anterior cruciate ligaments = lachman test
+- gold standard
+- put them in supine position, 20-30 degrees ith flex and leg external rotation 
+- one hand behind tibia, other on the thigh/distal femur
+- thumb put on tibial tuberosity, intact acl will prevent forward **movement of tibia...**
+- anterior displacment = soft/mushy endpoint instead of firm one. 
 
 ---
 pathology 
@@ -385,4 +415,34 @@ memorize cutaneous innervation of lower limb^^
 	- pain in lower back, back of hips + lessor exent groin+thigh
 	- get them anti-inflammatories and physical therapy 
 9. adductor longus ossificaiton = "riders strain"
-10. 
+10. fibular nerve injuries
+	1. common fibular n injury = can't do extension (deep fibular nerve) => **footdrop** and can't flex the fooot either with the superfibular nerve
+11. pes planus
+	1. flat foot arch - dislocation of talus 
+	2. overuse injury 
+12. plantar fascitis 
+	1. **pain due to inferior calcaneal nerve**
+	2. rec with RICE
+13. stress facutres - running + stroke or land improper 
+14. achilles tendonitis - tught conv? 
+15. turf toe = sprain of greate toe from football, resulting from **excessive upward bending/jamming**
+16. heel spur = ca depo that makes things worse fr plantar fascia reactions 
+17. morton's neuroma/intrmetatarsal neuroma 
+	1. compressnerve like 3rd and 4th one between that time. 
+	2. their shoes are too covered
+18. lifrank/midfoot injury = bifurcate ligaments wher ppl go at eeath 
+19. - - coxa valga = greater trocanter abnormally low, angle is more than 125 - inability to adduct 
+		- greater trchanter abnormally ihgh = less than 125 degrees, coxa vara = inability to abduct 
+20. prepatellar bursitis =  **housemaid's knee - friction bt skin + patella. fluid with inflamatory cells lead to swelling, spreads to other bursa very fast, like subq infrapatellar bursa + deep infrapetellar bursa too**
+21. - anterior talofibular ligament = these are most often torn  = most often torn in the foot as a tendon 
+22. trochanteric bursitis - bc the gluteus max will get bumped and then can spread this inflammation up commonly associated  = very persistent 
+23. iliotibial band syndrome - with runining, etc continual rubbing of band over lat femoral epicondyle => inflammation 
+24. unhappy triad
+	- tackle made to lateral collateral portion 
+	- anterior cruciate ligament
+	- medial collateral ligament 
+	- meniscus too 
+	- lateral colalteral not impacted in spite of impact here, but the otehr side the medial collateral would open up 
+25. - chondromalacia patella - runniers knee. kneecap pain , - due to kneecap rubbing against 1 side of knee joint + irritation 
+26. high ankle sprain = - foot forced to rotate to outside, can be put in cast or screw can be put in if injury unstable to hold tibia + fibula in place... 
+27. 

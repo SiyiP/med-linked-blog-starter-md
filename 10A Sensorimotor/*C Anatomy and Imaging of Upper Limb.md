@@ -184,6 +184,72 @@ for **lumbar punctures, safest place to prick is L3/4 or L4/5 bc cord terminates
 	position: go from 
 	==ligaments (supraspinatous, interspinatis, and ligamentum flavum) -> the extradural space, then puncture the dura, then the filum terminale to harvest fluid== 
 
+
+deep brachii artery = supplies postrior compartment of arm, parallelling the radial n inside the radial grooove and eventually giving ascnding br to shoulder joint 
+- understand = collateral descend, recurrent ascend!!! 
+collaterals: 
+	- profundal brachii artery gives rise to radial and middle collateral a
+	- from brachial a, we give superior + inferior ulnar collateral, which are on medial aspect
+recurrrents: 
+	- radial a -> radial recurrent a
+	- ulnar a -> anterior + posterior ulcer recurrent a 
+inside the cubital fossa
+TAN lateral to medial 
+	- biceps brachii tendon 
+	- brachial artery 
+	- median nerve 
+
+lymphatics 
+- lateral = empties into infraclavicular nodes which then drain to apical nodes of axilla 
+- medial = empty into lateral axillary nodes 
+	- also hands/forearms can also drain into the cubital nodes or straight into lateral axillary nodes
+
+- subclavian artery above the rib -> axillary artery 
+		- part 1 = first branch is **superior thoracic artery** , extends to outer border of the first rib 
+			- supplies intercostal regions from outside in 
+		- part 2 = thoraco-acromial trunk, lateral thoracic artery, covered by pec minor 
+			- thoraco-aromial trunk (branches supply many structures on the thoracic wall)
+			- distal border will have the lateral thoracic artery - **most importantly supplying the breast/ribcage**
+		- 3rd part - subscapular artery, anterior/posterior humeral circumflex arteries , travels to the humerus , which is the lower border of teres major, which means the axillary artery below this -> brachial artery 
+			- subscapular artery down the lateral border of scapula, then at triangular space gives rise to circumflex scapular artery emerging posteriorly 
+			- thoracodorsal artery is the continuation of this as it descends, joins thoracodorsal nerve and supplies latissimus dorsi 
+			- posterior aspect of the artery: 2 arties the anterior (small) and the larger posterior humeral circumflex artery - will make a circle around the surgecal neck of the humerus 
+				- posterior circumflex leaves thru the quadrangular space, along w the axillary nerve. 
+
+BP
+		- how is it formed? proximal to distal: Roots (2 branches coming from here) -> trunks(2 branches coming from upper trunk) -> divisions (in first rib/axilla) -> cords -> branches
+- ![[brachial plexus.png]]
+
+draingage poitns = in the brachiocephalic veins! 
+- all lymphatic drainage in lower = to the lumbar trunks -> thoracic duct -> brachiomedialstinal trunks etc. 
+- **head and neck, left side of thorax, all get drained in the left thoracic duct** 
+- right upper quarter drained in right jugular trunk, right subclavian etc 
+axillary nodes - sets where limbs join the trunk , in the axilla. 
+	- PLASCA
+	- pectoral = anterior thorax lymph node collection, along the lateral border of pectoralis major 
+	- Lateral- along the formation of the axillary vessels of the lower border of teres major 
+	- Subscapular - on the anterior surface of subscapularis ; collect lymph from the back 
+	- these all drain into Central, tucked under the pectoralis minor
+	- then these will train to the apical nodes, which is in deltapentral triangle, then to the cephalic lymph back to vascular system. 
+	- start getting involved in immune reactions, seeing edema infection, cancer metastasizes thru lymphatics = see the lymph nodes getting too big. 
+	- mammary gland - most breast cancers will drain into the pectoralis nodes 
+note - clinically in breast cancer: 
+- medial quadrants of breast go to parasternal nodes 
+- lateral quadrants to the pectoral nodes
+- level one = distal to edge of pec minor 
+- all go to central group = level 2 deep to pec minor 
+-  apical group = deeper!! seen as level 3 , worst prognosis 
+
+- traditional removal of axillary nodes in these => axillary **dissection causes** **pitting edema** 
+- sentinel node biopsy - honor natural flow of lymph to leave more normal lymphatic drainage
+
+radical mascectomy removes everything including muscles of retromammary
+- modded radical mascectomy, doing an axillary dissection, leaving muscle intact 
+
+
+ in the cubital fossa, the connector median cubicle vein is where we draw blood 
+		- bicep aponeurosis will blend over the fascia , keeps the needle from going deeper into the artery which you don't wanna do! 
+
 ----
 pathology
 1. rotator cuff tears - most commonly the supraspinatus tear
@@ -195,3 +261,39 @@ pathology
 	- in C4-5 injuries, C5 compressed horizontally going out. 
 	- in sacral ones L5-S1 = the **S1 sacral root is being punished**
 3. Clinicians look for a break in the neck of the dog of an oblique view of the lumbar X-ray to indicate a fracture in the region of the pars interarticularis, which is specific for spondylolysis
+4. biceps tendinitis = 
+	1. - long head of biceps travelling thru intertubercular sulcus of humerus, this tendon is a common issue 0: 
+	2. bicep tendon deep to the **transverse humeral ligament, so excessive repetitive movements get it inflamed**
+5. rupture of long head of biceps brachii - tendon torn, **popeye defromity**
+	1. - "displaced muscle, popeye demformity" = leads to distally displaced belly of biceps is loose and more near forearms
+	2.  torn from attachment of the supraglenoid tubercle
+	3. snap or pop 
+	4. long head can be displaced from the intertubercular sulcus too. 
+	5. - can test = **yergason's test** - they flex to 90 degrees , with forearm pronated, externally rotating while supenating, turning out while external rotation 
+6. injury to the long thoracic nerve 
+	1. innervation of serratus anterior disrupted, so winged sacpula occurs
+	2. paralysis of serratus anterior, 
+	3. happens with blow to the lateral thoracic wall 
+7. upper BP injury ==C5-6== - can happen due to prolonged birth where head is pulled away from shoulder at one side, 
+	1. supplies ==nerves to the shoulders, which will droop on that side.== no bicep flexion, thrown hand 
+	2. "Erb duchenne palsy" 
+8. lower BP injury - when kid falls off cliff but hangs on to a branch, ==C8/T1 affected==
+	1. ==ulnar nerve== majorly impacted, bc you get ==claw hand==, which means intrinsic muslces and forearms highly limited 
+9. brachial plexus + peripheral nerve injury 
+	1. radial nerve impacted, then everything downstream 
+	2. shatter on groove of humerus - think of which branches are before that are still intact 
+	3. lesion at elbow, think olecranon broken, brachioradilais muscle impacted 
+10. compartment syndrome - where strong fascia can have a problem bc when compartment is injured, blood fills inside, making things high pressure
+	1.  soft tissue injury -> edema
+	- antebrahial fascia 
+	- compression of vessels + nerves
+	- pain
+	- paresthesia,  - numbness/altered sensory 
+	- pressure- measureable 
+	- pallor/poikilothermia - paleness + loss of temp 
+	- paresis = paralysis of that nerve 
+	- pulse loss = bc bloods not moving 
+	- basically irreversible dmg after 4+ hrs
+11. "trigger finger" = any tendon that will arch over the phalanges has a synovial sheath . cyst can occur with infection like tenosynoviits
+	have to forciblely push that finger to resist the cyst, 
+	- this pops the cyst with a click, so **distal movement of flexor tendon temporarily stopped during extension**

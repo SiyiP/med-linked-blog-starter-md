@@ -256,3 +256,4 @@ clinical info
 	4. treat with activity mods, shoe mods , and NSAIDs/injections 
 8. lisfranc/midfoot injury 
 	1. happens in football players - where the ***bifurcate*** ligaments get torn, so the CTs will stretch, twisting fall usually + bones are dislocated 
+ 

@@ -169,7 +169,7 @@ lateral quadrants =supplied by lateral thoracci artery, so the lateral thoracic 
 ![[breast clock + quadrants.png]]
 note - clinically: 
 - medial quadrants go to parasternal nodes 
-- latral quadrants to the pectoral nodes
+- lateral quadrants to the pectoral nodes
 - level one = distal to edge of pec minor 
 - all go to central group = level 2 deep to pec minor 
 -  apical group = deeper!! seen as level 3 , worst prognosis 
