@@ -46,7 +46,7 @@ the PTH - halflife is in minutes
 
 vitamin D metabolism 
 - ==UV light made from *cholesterol* in skin provitamin D3 -> vitamin D3 cholecaciferol (also from diet)==
-- ==in liver, 25-hydroxylase turns it into calcidiol 25(OH)D3==
+- ==in liver, 25-hydroxylase turns it into calcidiol 25(OH)D3... this is what's targeted by PTH==
 	- can be further metabolized in the kidney by 1alpha - hydroxylase to make calcitriol !!! 
 	- ==helped by PTH==
 	- ==inhibited by FGF23 , which can make both calcidiol and calcitriol turn into 24,25(OH)D3, inactive compound via 24-hydroxylase.== 

@@ -329,6 +329,19 @@ artery is still the deep formal a and obturator aa
 		- **the gap bt these inserting fibers = adductor hiatus transmitting femoral vessels into popliteal fossa
 - obturator externus - **only deep layer muscle, reflect adductor brevis + pectineus to see this** = this only laterally rotates the thigh 
 
+-
+foot + ankle
+foot arches: 3 of these
+- medial longitudinal arch = calcaneus - like the ball of the foot in the back, talus (keystone, connects the fibula/tibia with foot), navicular- squishy and medial, 3 cuneiforms- medial, intermediate, lateral + medial 3 metatarsal bones 
+- lateral longitudinal arch = calcaneus, cuboid (keystone, large and rectangular and latera), and 4/5th metatarsal bones 
+- transverse arch = bases of metatarsal bones, cuboid + 3 cuneiforms = mid point of foot , down the middle 
+arches allow us to walk on uneven surfaces and round surfaces!!!! 
+
+anterior + posterior crural intermuscular septa + interosseous memb divide into compartments: 
+	- anterior - ant tibial a , some from ant tibial recurrent a or medial malleolar aa ... and all innervated by deep fibular 
+	- lateral - fibular a , posterior tibial a branch is here and will split into this. nerve is superficial ibua
+	- posterior 
+		- also a deep transverse septum that splits posterior into posterior deep and superficial 
 
 ---
 pathology 
@@ -372,3 +385,4 @@ memorize cutaneous innervation of lower limb^^
 	- pain in lower back, back of hips + lessor exent groin+thigh
 	- get them anti-inflammatories and physical therapy 
 9. adductor longus ossificaiton = "riders strain"
+10. 

@@ -16,7 +16,7 @@ need to take screenshots from the actual lesson!
 	- ==has type 2 collagen, but very large areas of **type 1 collagen**, STRIATED / interstitial like appearance== 
 	- ==avascular, **LACKS a PERICHONDRIUM!!!**==
 		- so there needs to be a retrodistal CT at the mandibulum, rich in many lymphatics and BVs to provide nutrients and o2 to this  
-	- ==chondrocytes make collagen type 2 and **fibroblasts type 1**==
+	- ==chondrocytes make collagen which is type 2 and **fibroblasts type 1**==
 	- ==intermediate between hyaline cartilage and dense fibrous CT==
 	- ==**intervertebral discs, menisci of knee joint and articular disc of temporal mandibular joint**==
 		- internal: nucleus pulposus, irch in hyaluronate and water
@@ -44,7 +44,7 @@ overall, cells in these cartilages are small, 3-5%
 	- water complexed with charged GAGs, giving cushioning and resilience to the cartilage 
 	- proteoglycan aggregates in aggrecans: 
 		- ==recall: proteoglycans are stuck onto the linker proteins that are stuck onto a **hyaluronan molecule** via linker protein== 
-		- **GAGs = chondroitin sulfates are small lines as well as keratan sulfate attached to the proteoglycans!!!!**
+		- ==**GAGs = chondroitin 6-sulfates are small lines as well as keratan sulfate attached to the proteoglycans!!!!**==1
 		- we have these all inside an aggrecan. broadly dispersed, the gAG groups will structure the water. 
 ==![[proteoglycan aggregate.png]]==
 interaction of these large aggrecans and the proteoglycans - they will associate with other ECMs to stabilize it all! 
