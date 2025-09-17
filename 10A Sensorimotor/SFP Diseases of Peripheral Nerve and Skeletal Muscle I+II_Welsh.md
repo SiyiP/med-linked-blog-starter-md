@@ -28,9 +28,9 @@ paraffin section nerves = pinkish , larger piece of tissue , meant to find anyth
 we then take little pieces of tissue and put them in resin / plastic - embeded vesicles of nerves, quote a few of them 
 - in high powered plastic embedded, we can see individual fibers and myelin , axons, schwann cells etc. 
 ![[thin v thick myelin.jpeg]]
-thinly myelinate = sensory 
-thin/small = sensory autonomic mixture usually 
-thickly myelinated = motor 
+==thinly myelinate = sensory== 
+==thin/small = sensory autonomic mixture usually== 
+==thickly myelinated = motor== 
 
 peripheral nerve rxns to injury 
 - it dies back when ts hurt

@@ -445,4 +445,3 @@ memorize cutaneous innervation of lower limb^^
 	- lateral colalteral not impacted in spite of impact here, but the otehr side the medial collateral would open up 
 25. - chondromalacia patella - runniers knee. kneecap pain , - due to kneecap rubbing against 1 side of knee joint + irritation 
 26. high ankle sprain = - foot forced to rotate to outside, can be put in cast or screw can be put in if injury unstable to hold tibia + fibula in place... 
-27. 
