@@ -26,6 +26,8 @@ collagen syn
 6. now we're in Extracellular space:  the tropocollagen is made by end cleavage of N/C terminals by proteases 
 7. collagen fibril forms by crosslinking **hydroxylysines, which copper is required as a cofactor of. for lysyl oxidase**
 	1. lack of copper = **menkes disease = poor collagen formation**
+		- **x-linked defect in ==copper transport ATP7a, leading to bad crosslinking==**
+		- brittle hair, growth failure, neurodegeneration
 types of collagen  
 - type 1 most common - thick rope like bundles, bones , fascia, tendons, teeth, etc 
 	- **defective in osteogenesis imperfecta, triple helix procollagen making issues**
@@ -35,6 +37,8 @@ types of collagen
 	- **defective in ehlers danlos type 4**
 - type 4 - basement membrane in kidney, ear, eyes, skin etc. 
 	- defective in **alport's syndrome** (hereditary nephritis, deafness, ocular disturbance)
+		- hematuria, hearing loss, ocular issues
+		- kidney, ear eye 
 	- **goodpastures syndrome makes antibody to these in glomerular capillaries**
 
 case 1 - eyes glassy, blue sclera, multiple bone fractures 
@@ -98,8 +102,29 @@ case 2 veryyy hyperflexible + easy bruising
 case 3 
 - very tall guy , concave chest, elongated fingers, superiorly displaced lens with blurry vision and dad died young due to aortic dissection 
 1. marfan's -
-	- tall, scoliosi
-	- big concerns w blood vessels
+	- tall, scoliosis, costochondral concave wall of chest - loss of straight form, putting stress on ankle joints
+	- big concerns w blood vessels; **aortic dilation + dissection**
 	- distinguishing point can be **intraocular lens dislocation + ocular hypertension and flat feet**
 	- Autosomal dom, but 25% from de novo
-	- 
+	- high penetrance, but varied expresivity, from subtle to complications
+	- caused by **==fibrillin-1 FBN1 defects, which is huge in microfibrils of the ECM, supposed to make a scaffolding to make elastic fibers.==**
+	- found in : **aorta, ligaments, ciliary zonules of lens, skin**
+		- lens = subluxation **superior and temporal**, lens just float up 
+		- differential - **homocystinuria , which can also cause ectopia lentis, but this is with INFERIOR lens dislocation**
+		- also marfans is just normal intellect. vs homocystinuria which has intellectual disability 
+	- other feat - **wrist and thumb sign**
+		- wrist = thumb + small finger encircle wris
+		- thumb sign = thumbnail protrudes beyond ulnar border when crossed 
+	- TEST: revisted ghent criteria + genetic testing of FBN1 for risk stratification + confirm dx if there are features but not fam hx  + to set off cascade testing in family members 
+		- poz test =supports dx but neg doesnt exclude it 
+	- MASS phenotype = myopia, mitral valve prolaspe, borderline + prog aortic enlargment **but this is with nonspecific skin/skeletal feat**
+	- aortic aneurysm can just happen on its own 
+	- or isolated skeletal features... 
+	- TREAT: have multidisciplinary care... 
+2. loey-dietz syndrome - from mutations in TGF-beta receptor or SMAD3 .... AD, and a differential 
+	- arterial aneurysms with smaller sizes rupture, arterior tortuosity . 
+	- hypertelorism 
+	- **bifid uvula / cleft palate**
+	- these ppl also have long limbs, pectus, scoliosis, 
+	- and translucent velvet easy bruised skin. 
+	- but one thing **lens dislocation is rare**
