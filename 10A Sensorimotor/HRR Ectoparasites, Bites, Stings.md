@@ -13,8 +13,8 @@
 		- - Fertilized female mite burrows into stratum corneum, lays eggs(3-6 week incubation period) + feces then dies. 
 		- larvae hatch in your skin, itching as a T4 hypersensitivity rxn against mite 
 	- RF: crowded living conditions 
-	- very intense pruritus at night increasing
-	- wrists, interdig folds of hands/feet, male genitalia, intertriginous areas. 
+	- very intense pruritus at night increasing, **tortuous tunnes in skin lead to red papules and pustules**
+	- wrists, interdig folds of hands/feet, male genitalia, intertriginous areas. axilla elbows too 
 	- variable lesions often mistaken for eczema 
 	- **crusted scabies**= seen in immunosuppressed/elderly etc.. 
 		- **absent pruritis, but high mite load + contagious**
@@ -28,7 +28,7 @@
 	- - Head lice - species Pediculus humanus capitis
 			kids, direect contact, asymptomatic initially then scalp/neck  pruritis , detect + cnfirm with wood's lamp 
 			- **1% permethrin shampoo or pyrethrin** 
-	- Body lice – species Pediculus humanus corpori_s 
+	- Body lice/louse – species Pediculus humanus corpori_s 
 		- 3-5 mm in length, from direct contact
 		- most common in ppl living in crowded unsanitary conditions ): 
 		- CC of pruritis, puncta from fresh bites, excoriations ilnear, postinflammatory hyperpigmentation 
@@ -67,4 +67,5 @@
 	    - local severe pain, swelling, erythema 
 	    - neuromusc tox = cranial nerve function (eye movemetn weird) 
 	    - ==somatic skeletal NM dysfunciton - fasciculations, jerking of extremities== 
-	    - autonomic dysfun
+	    - autonomic dysfunciton tooo 
+	    - antivenom cure 
