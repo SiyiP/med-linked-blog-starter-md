@@ -165,13 +165,17 @@ limb anomalies
 - hemimelia - absence of preaxial/postaxial parts o limb 
 - meromelia - general term for absence in part - any part 
 - ectrodactyly - absence of number of digits, any number
-	- "lobster claw, claw instead of hand bc of missing central digits"
-- polydactyly - excessive digits - a mirror img seen , maybe another ZPA , sonic hedgehog signalling issue? 
+	- "lobster claw, claw instead of hand bc of missing central digits" -   
+Ectrodactyly, also known as split-hand/split-foot malformation, is characterized by:
+	- A deep central cleft in the hand or foot
+	- Absence of central digits (commonly the third digit)
+	- Fusion or malformation of the remaining digits
+-  polydactyly - excessive digits - a mirror img seen , maybe another ZPA , sonic hedgehog signalling issue? 
 - syndactyly - presence of interdigital webs
 	- decreased apoptosis 
 - brachydactyly - short digits - 
 	- think impacted by hox genes = hox 13 = best for outgrowth. 
-- split foot / hand = no central components
+- split foot / hand = no central components 
 - adactyly - loss of all digits on limb 
 
 impact of pysical environment

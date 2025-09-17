@@ -24,7 +24,7 @@ predict action based on these ; these are all **variables affecting LA action**
 	- phase 1 => reactive intrmediate then cyt p450 in liver... or by esterases in plasma 
 		- ester type eliminations 
 		- hydrolyzed in plasma by cholinesterases to aromatic acid + alc
-		- pts with **atypical forms of this can xperience prolongged effects/toxicity**
+		- pts with **atypical forms of this can experience prolonged effects/toxicity**
 		- **also more able to cause allergies bc of making p-aminobenzoic acid** from esterase brkdown
 - effect of vasoconstrictors 
 	- we use this with all ... 
@@ -128,3 +128,11 @@ and recall all LA except cocaine cause vasodilation
 - but if no change in hr, then you're extravascular and okay . 
 
 
+
+For local anesthetics, lipid solubility correlates with potency: ↑ lipid solubility, ↑ potency. Since LA-X has twice the lipid solubility as procaine, it will have a greater potency than procaine.
+
+pKa is inversely correlated to the speed of onset: ↓ pKa, ↑ speed of onset. Since LA-X has a lower pKa than procaine, it will have a faster onset of action.
+
+Since LA-X is characterized as an ester, it will most likely be metabolized by plasma cholinesterases; this is in contrast to amide local anesthetics, which are primarily metabolized by CYP450 enzymes in the liver.
+
+Protein binding correlates with duration: ↑ protein binding, ↑ duration of action. Since LA-X has higher protein binding than procaine, it will have a longer duration of action, not shorter. The correct answer is D.
