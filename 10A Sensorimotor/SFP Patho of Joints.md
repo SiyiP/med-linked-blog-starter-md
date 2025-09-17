@@ -6,20 +6,20 @@ joint function
 - solid joint / **synarthroses** = max stability, min movement like sternum ribs pelvis
 - synovial joints = joint space filled with synovial fluid which is plasma rich substance with hyaluronic aicd
 	- hyaline cartilage = shock absorbing wear resistant surface
-	- type A synoviocyte = specialized macrophag
-	- type B synoviocyte= speicalize fibroblast secretes hyaluronic acid + protein  
+	- **type A synoviocyte = specialized macrophag**
+	- **type B synoviocyte= speicalize fibroblast secretes hyaluronic acid + protein**  
 	- synovial membranes = made up of synoviocytes 
 	- we can get synovial metaplasia around some areas to help the body out in wear and tear 
 
 1. arthritis - inflammation of joint
 	1. osteoarthritis = technically just a degenerative joint diseaese not inflammatory 
-	2. articular catilage = **becomes** fibular
-	3. clinical location: hips, knees, lumbar/cervical verte, PIP/DIP/MCP
-	4. slow onset, exponential inc with age, **worse with use, morning stiffness, crepitus + ROM limits**
-	5. TREAT: pain management with nsaids, intraarticular steroids, replaceement
-	6. **chondrocytes proliferate due to less water int he matrix, then cleavage of the typ2 collagen fibers since it's wear and tear... we get soft cartilage and granularity. release of cytokines + macrophages.... and then to compensate and stabilize the joints, our body does osteophyte formation with BONE SPURS and subchondreal cysts!!!**
-	7. this is clinical dx, no imgaing nor testing unless needed
-	8. chondrocyte injury, matrix is soft and granular with the wear and tear of cartilage cap, and then cysts will form, eroding the cartilage away. 
+		1. articular catilage = **becomes** fibular
+	2. clinical location: hips, knees, lumbar/cervical verte, PIP/DIP/MCP
+	3. slow onset, exponential inc with age, **worse with use, morning stiffness, crepitus + ROM limits**
+	4. TREAT: pain management with nsaids, intraarticular steroids, replaceement
+	5. **chondrocytes proliferate due to less water int he matrix, then cleavage of the typ2 collagen fibers since it's wear and tear... we get soft cartilage and granularity. release of cytokines + macrophages.... and then to compensate and stabilize the joints, our body does osteophyte formation with BONE SPURS and subchondreal cysts!!!**
+	6. this is clinical dx, no imgaing nor testing unless needed
+	7. chondrocyte injury, matrix is soft and granular with the wear and tear of cartilage cap, and then cysts will form, eroding the cartilage away. 
 ![[arthritis cartilage waring.jpeg]] - we see loose bodies of fragments that have broken of and are hanging in the joint space. 
 - granular pitted area and pits in the bone's surface anatomy head 
 2. rheumatoid arthritis

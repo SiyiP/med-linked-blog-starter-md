@@ -67,7 +67,7 @@ when tumors are malignant mesenchymal: "sarcomas"
 		- TREAT: observation, excision. - might take it out bc worried
 		- looks **EXACTLY LIKE NORMAL FAT, well circumscribed masses, very white!**
 		- varities: angiolipoma - more capillary lines and symptomatic painfulness with fibrin thrombi 
-		- pleomorphic lipoma - scattered  pleomorphic cells on the inside, not completely just fat. 
+		- **pleomorphic lipoma - scattered  pleomorphic cells on the inside, not completely just fat.** 
 	- liposarcoma
 		- 4-5th decade, can be <5 to 20+ cm 
 		- **well-differentiated when inside our body's visceral area- > retroperitoneum, paratesticular, mediastinum** = these get way bigger bc we dn't know it's growing until it presses on it!!

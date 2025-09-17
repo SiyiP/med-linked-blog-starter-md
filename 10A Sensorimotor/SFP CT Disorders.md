@@ -17,8 +17,8 @@ collagen fibers
 collagen syn
 1. pre-pro collagen made by tripeptide repeat - Gly-proline-Lysine or gly-X-Y= **translation of collagen alpha chains**
 2. backbone goes thru hydroxylation with OH on X and Y positions
-	1. this is important bc **lysyl hydroxylase req vitamin C, which means the deficiency leads to scurvy and we see mucosal ulcerations + whorled hair...**
-	2. genetic defect -> **ehlers-danlos syndrome**
+	1. this is important bc **lysyl hydroxylase req vitamin C, which means the deficiency leads to *scurvy* and we see mucosal ulcerations + whorled hair...**
+		1. genetic defect -> **ehlers-danlos syndrome**
 3. glycosylation of hydroxylysine groups , sugar added 
 4. then we form **procollagen via h and di-sulfide bones, making triple helix of 3 collagen alpha chains**
 	1. **osteogenesis imperfecta = problems forming the triple helix**

@@ -9,6 +9,8 @@ upper limb pathology
 	- in C4-5 injuries, C5 compressed horizontally going out. 
 	- in sacral ones L5-S1 = the **S1 sacral root is being punished**
 3. Clinicians look for a break in the neck of the dog of an oblique view of the lumbar X-ray to indicate a fracture in the region of the pars interarticularis, which is specific for spondylolysis
+	1. pars interarticularis = mass of bone between superior + inf artiular processes, the neck of boney mass. 
+	2. break in the neck of the scotty dog. 
 4. biceps tendinitis = 
 	1. - long head of biceps travelling thru intertubercular sulcus of humerus, this tendon is a common issue 0: 
 	2. bicep tendon deep to the **transverse humeral ligament, so excessive repetitive movements get it inflamed**
@@ -207,7 +209,7 @@ dystrophies -  **progressive, long hx, and elevated CK = fibrosis + hypertrophy*
 	3. **sodium channel myotonia = cold sensitivity and pain**
 32. Central core dz - congenital myopathes = mild, non-progressive weakness/pain
 	1. **strabismus = eye misalignment/crossing** , **scoliosis, joint contractures**
-	2. malignant hyperthermia!!!!
+	2. malignant hyperthermia!!!! = **ca regulation and channels of your body is shot, so when exposed to anaesthesia, ca skyrockets and makes a lot of heat, sustained muscle contractions and necrosis**
 	3. NSAIDs 
 33. nemaline rod myopathy - weakness
 		- **face, neck, trunk, proximal extremities = weakness most severe here**
@@ -228,10 +230,17 @@ bone path
 	1. dwarfism, ==FGFR3 mutation== inhibits endochondral/long bone growth 
 	2. inc with parental age de novo 
 	3. thanatophoric dysplasia = lethal variant, frontal bossing, small chst, BELLSHAPED abdomen, short limbs, AD, fetal resp failure
-2. osteogenesis imperfecta = common inherited CT dz 
-	1. autosomal dom, ==alpha1/alpha 2 type 1 collagen== 
-	2. blue sclerae, sensorineural hearing loss, small teeth + extreme fragility in skeleton 
-	3. suspect childabuse
+2. osteogenesis imperfecta = common inherited CT dz, **"brittle bone disease"**
+	1. autosomal dom, ==alpha1/alpha 2 *type 1 c*ollagen== 
+	2. most common - ==mutations in COL1A1 or COL1A2== AD -> decreased prod of structureally normal collagen 
+	3. less common: **problem in ==hydroxylase enzyme== forming via hydrogen and di-sulfide bonds, we cannot make the triple helix of 3 collagen alpha chains.**
+	4. suspect childabuse
+	5. subtypes 1-4 
+		1. mild, blue sclerae, freq fractures. **1A = without dentinogenesis imperfecta, and then 1B is WITH....** minimal deformity, hearing loss too, but normal cogniftive development. **we might see wormian bones = cracks in skull as the skull is formed.**
+		2. most severe, perinatal lethality + severe bone deformity too - in utero you see fractures with callus formation, and intrauterine growth restriction. skull large for body size w/ wormian bones, 			- **dark blue sclerae, frog leg posture with short bowed limbs**, cause of death is usually pulm hypoplasia and rib fractures
+		3. severe but non-lethal **progressive** : short, **dark sclerae**, de novo but sometimes AR, **DI common,** variable life expectancy but with **respiratory failure.**  
+		4. moderate, bone deformities, **normal sclerae.** short stature, normal life 
+	6. TREAT: *bisphosphonates, orthopedics early, mobility aids, monitor hearing + dental + pulm, get multidisciplinary care*
 3. osteopetrosis - marble bone disease
 	1. due to acidification of osteoclast resorption pit = reduced bone resorption and symmetrical skeletal sclerosis, so **osteoclast impairement**, can't resorb spongey bone properly , no space inside bone for blood making = anemia 
 	2. erlenmeyer flask deformity = long bones are hard and stonelike but brittle bc they lack the medullary canal and are bubous/misshapen
@@ -371,3 +380,305 @@ physical injury
 3. - adults are hit below center o gravity  = flipped onto hood and then off = **head and neck truauma**
 	1. common fatal H+N injury = atlanto-occipital separation , decapitation 
 4. - kids hit above center of gravity = run over ) : 
+5. burns = full thickness is 3-4th degree so **destroys dermal appendages so you need skin grafting** = white/charred + anesthetic bc nerve destroyed. 
+	1. esp with 20% TBSA burns, you get edema, due to inc in local osmotic pressure + mediator induced vasc permeability... you get hypovolemic shock. 
+	2. **fasciotomies** - where blood can't get to these areas down our bodies, whiteish part of ischemic necrosis 
+	3. secondary burn infections - sepsis is leading cause of death with pseudomonas aeruginosa most common = we debride tho to the healthy tissue to stop as much cultures 
+6. inhalation injury - delayed death , from breathing in water-souble gases = upper airway dmg and lipid soluble ones = deeper airways + pneumonitis 
+7. CO poisoning - soot and black deposits in airways , but die more acutely 
+8. heat stroke = **peripheral vasodilation with peripheral pooling of blood**, - red, hot dry skin (**no sweating**), throbbing , higher body temp
+	1. blood shunted away from core, muscle necrosis, arrhythmias, DIC. 
+9. heat cramps - - loss of electrolytes from sweating + cramps post-exercise 
+10. heat exhaustion -  sudden onset collapse, - hypovolemia due to water depletion 
+11. v-fib = cause of death via electricution injury, with a crater surrounded by white rim and then hyperremia. 
+	1. burn with high energy,a nd you don't even have to make direct contact. 
+	2. medullary center paralysis + extensive 
+	3. in household AC... smaller injury+no burn, but **induction of muscle tetany, can't let go, resp paralysis, might yell and collapse**
+	4. to go into v-fib you need ==100 miliamps....==
+		1. amps = volts/ohms, and with dry skin, ohms are highr. wet skin , ohms drop 
+---
+path of joints 
+arthritis/joint inflammation 
+1. osteoarthritis- technically just a degenerative joint diseaese not inflammatory 
+	1. articular catilage = **becomes** fibular
+	2. in hips, knees, lumbar/cerv vertebrae, PIP,dip, mcp
+	3. slow onsets, **worse w use, morning stiff, crepitus + ROM lims**
+	4. TREAT: manage w NSAID/replacement/steroids 
+	5. **chondrocytes prolif bc of less water...** then cleave type 2 collagen fibers from wear + tear. **we get soft and granular cartilage... which then we get cytokines + macrophage to try and compensate.**
+		1. our body makes osteophytes in response, getting a ton of bone spurs + subchondreal cyst!!!
+	6. we see erosion of that cartilage cap **+ loose bodies of fragments** 
+2. rheumatoid arthritis - autoimmune t helper cell resp
+	1. non-suppurative (no neutrophils) , proliferative and inflammatory synovitis, **destruction of artiular cartilage and then ankylosis or joint fusion
+	2. polyarticular, symmetric, MCP+PIP, wrist, ankles, elbows, knees
+	3. swollen warm painful, 3-5th decade women 
+	4. skin nodules, CV and interstitial lung dz 
+	5. ==anti-CCP and RF order and HLA-DR4==
+	6. TREAT: steroids, methotrexate, TNF antagonists
+3. seronegative spondyloarthropathies - autoimmune t helper cell resp
+	1. common - ankylosing spondylitis
+	2. **vertebral and sacroiliac involvement!! ankylosis of the spine**
+	3. ==HLB-B27 association==
+	4. ligament attachment inflammation = ENTHESITIS 
+	5. can progress to this from **reactive arthritis, from a disease or infections...** going into knee + dactylitis is coommon 
+	6. dermatitis common too 
+4. septic arthritis - 	- infectious, typically caused by bacteria 
+	1.  kids = h flu, s. aureus, GBS, common is hematogenous spread
+	- adults = gonococcus - like septic arthritis, etc. 
+	- 	- **fever, leukocytosis, swelling/pain in joint**
+	- monoarticular typically 
+	- do joint asp , confirm dx + this spreads either by direct traumatic inoculation or hematogenous spread. very fast. 
+
+crystalline arthropathies
+1. gout whatever chronically we see  **bone erosion, loss of joint space, tophi which are rhematoid nodules similar**
+	   	1. secondary cause =**meds like thiazides or conditions like tumor lysis syndrome + CKD**
+	   	2.  crystals are **long slender PARALLEL, feathery and will see yellow when polarized and suspended in alc**
+2. pseudogout - ca pyrophosphate crystal depo dz
+	1. asymptomatic, acute, subactue, or chronic
+	2. big joints - like knee, elbow, wrists, shoulder, ankles
+	3. sporadic in older ppl 
+	4. ==**autosomal dom mutation in pyrophosphate transport channel for more early onset==
+	5. seconary caused by hyperparathyroidism, hemochromatosis, hypothyroidism DM
+	6.  ==**rhomboid blue in parallel crystals** in cartilage + meniscus, causing a phagocytic response and potential inflammation = purple calcified aggregates==
+tumor like 
+3. ganglion cyst - 
+	1. 1-1.5 cm fluctuant mass near joint.... 
+	2. cystic or myxoid degen - a hole which contains the synovial fluid material, but does not communicate with joint, like it's. a fibrous THIN CAPSULE full of synovial fluid, doesn't really have an epithelial lining so it's a **pseudocyst**
+	3. surgically excise 
+4. diffuse tenosynovial giant cell tumor 
+	1.  shrub or sea anemonae
+	2.  3-5 decade with large joint = knee
+	3. pain, lim ROM + swelling 
+	4. destructive + recurrent tumors.... synovium covered by  ==finger like projections and nodules that are pigmented wiht hemosiderin==
+		1. pigment laden macrophages and the synovial surface is finger like projections on the side. , foamy macrophages,a nd epitheliod cells that are cancer cells
+	5. caused by ==t(1;2) fusion of type VI colagen a-3 gene promoter with CSF1 = monocyte colony stimulating factor==
+5. localized tenoxynovial giant cell tumor
+	1. discrete and palpable nodule on **fingers attached to tendon sheath **
+	2. tREAT: excision. =not as destructive or persistent as the other type 
+	3.  ==t(1;2) fusion of type VI collagen with a-3 gene promoter with CSF. = **the same mutation**==
+	4. , a small little marble instead of big glob with finger things, has most commonly giant cells. 
+---
+soft tissue path 
+recall that mesenchymal tumors would metastasis to lungs via bvs and not to lymph nodes. 
+FNCLCC - grading system 
+		- differentiation score 1-3 (like if it still looks like tissue of origin it's 1)
+		- mitotic activity 1-3 
+		- necrosis 0-2 
+	- grade 1 = 2-3 total score
+	- grade 2 = 4-5 score
+	- grade 4 = 6-8 score 
+smooth muscle
+1. leiomyomas = fibroids, middle aged ppl in skin, deep cutaneous, uterus, retorperitoneum, viscera
+	1. ==recall: **reed syndrome HLRCC - fumarate hydratase mutation**==
+	2. surveillance or excise 
+	3. ==grossly, whorled, circumscribed, and fascicles of smooth muscle cells in 90 degree angles - **perpendicular intersection, bland spindled and CIGAR SHAPED** with pointy/blunt end==
+2. leiomyosarcoma 
+	1. looks way diff, no bulging surface, is soft, hemorrhagic, and shows necrosis  
+	2. will show **symptoms secondary to compression/invasion**, looks like leomyoma just with **necrosis, pleomorphisms**
+skeletal msucle
+3. rhabdomyoma 
+	1.  head, neck, heart, and GU tract
+	2. fetal type <2 yo, adult type in 30-80 yo 
+	3.  ==painless mass, some syndromes - **gorlin-goltz basal cell nevus syndrome, birt-hogg-dube, tuberous sclerosis**==
+	4. **sheets of polygonal cells with focal vascuolation, ==SPIDER CELLS**==
+4. rhabdomyosarcoma - many varieties
+	1. alveolar - 10-25 yo, deep soft tissue of extremities/head+neck
+		1.  ==FOXO1 gene mutation==, these all look like alveolar nests/ scattered whiter spaces that are lined 
+		2. a bunch of nucleus in a pink cytoplasm pushed off into the side.
+	2. spindle cell/sclerosing - ==subset have MYOD1 mutation== some of these 
+	3. embryonal - cluster of grapes appearance, seen on anus, sarcoma **botryoides**
+		1.  ==syndromes - **costello, NF1, DICER1, Li-Fraumeni, noonan syndrome==
+		2. ==small cell tumors, with **strap cells, with long pink cells, like some striations present**==, have some longer tails in some cells, primitive rhabdomyoblasts have the big nucleus 
+	4. pleomorphic - deep soft tissue, **lower extremity and in older ppl**
+fat
+5. lipoma - 5-7th decade, in trunk, prox extremities  
+	1. intramuscular, parosteal (on top of bone), visceral
+	2. painless, if you have multiple, look into  ==PTEN hamartoma syndrome, madelung dz==
+	3. kids don't get this only adults, excise or observe it 
+	4. looks like normal fat!! well circumscribed and completely white. 
+		1. ==angiolipoma - more capillary lines and symptomatic painfulness with fibrin thrombi==
+		2. ==pleomorphic lipoma - scattered  pleomorphic cells on the inside, not completely just fat.==
+6. liposarcoma - 4-5 th decade
+	1. **well-differentiated when inside our body's ==visceral== area- > retroperitoneum, paratesticular, mediastinum** = these get way bigger bc we dn't know it's growing until it presses on it!!
+	2. atypical lipomatous tumor = tumor in our extremities instead 
+		1. myxoid liposarcoma - **on deep extremity like inner thigh** = ==these pts have t(12;16) FUS-DDIT3, usually younger too== - blue-gray myxoid infiltrate, **gray cickenwire appearance as capillaries**
+	3. has browning grossly with necrosis and hema
+	4. - ==molecular = MDM2 amplification for diagnosese==
+	5. ==dedifferentiated liposarcoma -  **basically it can just change into any soft tissue sarcoma... low or high grade dediff of only the well-diffeerentiated variety==
+		1. you see the fat cells and a dedifferentiated weird component in the bgd 
+fibrous tissue
+7. nodular fasciitis - in YA< superifical location like subq or superficial trauma
+	1. rapidly growign mass, sometimes a hx f trauma 
+	2. ==USP6 rearrangement
+	3.  plump spindle cells in **tissue culture pattern, swirly storibform , plump spindle forms without pleomorphism and RBC extravasation**!!! RBC poools into this 
+		1. white parts have edema, but otherwise, it's just bland spindle cells. 
+8. fibromatosis/desmoid tumors - young middle aged adults mostly men 
+	1. extremities, retroperitoneum, abdomen, chest wall
+	2.  fixed, painless mass - scary bc infiltraitive appearance + fixed on imging
+	3. superficial forms. = less aggro
+		1. ==dupuytrens contractor - contracture of palmar hand, finger's contracting in fibrosing**==
+		2. ==ledderhose = platnar hand contracture, fibrosis== 
+		3. ==peyronie penile - disease, learned before in GU !!! curvature of penis== 
+	4. desmoid tumors = localized form - **associated with GARDNER SYNDROME**
+	5. all have ==b-catenin CTNNB1 mutations==
+	6. crkscrew appearance, spindle cells in the same direction, very feathery fibroblasts. 
+uncertain/misc tumors
+9. synovial sarcoma - not rlly from the synovium - in adolescents and YA 
+	1. deep soft tissue of extremities, classically around a joint , slow growing mass
+	2. ==t(X;18) SS18-SSX==
+	3. monophasic variety -  marbled spindle cells (lighter and darker cells)
+	4. biphasic variety - spindle cells and epithelial/gland-like component. , will have some white lines passing thru 
+10. undifferentiated pleomorphic sarcoma - Dx of exclusion - high grade sarcoma that lacks characteristics of other tumors - ADULTS only 
+
+---
+CT disorders, might combine some with above 
+1. osteogenesis imperfecta above
+2. ehlers danlos syndrome - hyperflex + easy bruising
+	1. classic types I+II ^^, along with **velvety hyperextensible skin with cigarette paper scarS**
+		1. **type 5 collagen defect**- fibrillar, in skin and hair junctions 
+		2. ==these have COL5A2 and COL5A2== AD
+	2. type 3 = hypermobility type
+		1. hypermbility joint pain and mitral valve prolapse and easy bruising  - **most common but least severe**
+		2. joint instability and bc joints are just moving all the time, cause **chronic pain**
+	 	3. type 4 = vascular type , 
+		 	1. thin skin, visible veins, distinctive face... , rupture of large vessels/viscera
+		 	2. **type 3 collagen, reticular collagen impacted**
+		 	3.  ==COL3A and COL1A1, think of the 3 and <3 heart vascular focus. AD associated with arterial fragility with aneurysms and rupture ): ==
+		 	4. high risk in pregnancy, need to do genetic testing to rule this out 
+	4. genetic testing - rec if any major or minor criteria present... several minors criteria esp in pts less than 40 y/o 
+	5.  beighton scoring system - measure joint hypermobility - this is huge for seeing hyperextension  - doens't necssarily mean EDS, but just hypermobility 
+3. marfan's 
+	1. tall, scoliosis, costochondral concave wall of chest - loss of straight form, putting stress on ankle joints
+	2. concerns w blood vessels; **aortic dilation + dissection
+	3. distinguishing point can be **intraocular lens SUPERIOR and TEMPORAL dislocation + ocular hypertension and flat feet**
+	4. caused by **==fibrillin-1 FBN1 defects, which is huge in microfibrils of the ECM, supposed to make a scaffolding to make elastic fibers.**
+	5. the fibrillin-1 is in **aorta, ligaments, ciliary zonules of lens, skin** hence the symptoms. 
+	6. differential would be homocystinuria, which can also make ectopia lentis, but this is inferior lens dislocation. and also intellectual disability 
+	7. other sign of marfans = wrist + thumb sign. 
+	8. TEST: ==revisted ghent criteria + genetic testing of FBN1 for risk stratification + confirm dx== if there are features but not fam hx  + to set off cascade testing in family members 
+	9. **MASS phenotyp**e = myopia, mitral valve prolaspe, borderline + prog aortic enlargment **but this is with nonspecific skin/skeletal feat**- all the BV effects but not the most specific skin and skeletal stuff = the aortic aneurysm an just happen on its own. 
+4. loey-dietz syndrome - mutations in ==TGF-beta receptor or SMAD3== .... AD
+	1. **arterial aneurysms** with **smaller sizes rupture**, arterior tortuosity . 
+	2.  **bifid uvula / cleft palate**
+	3. similar to marfan's also has long limbs, pectus, scoliosis, translucent velvety easily bruised skin 
+	4. lens dislocation is uncommon though. 
+5. Menkes disease  = poor collagen formation, after exocytosis, the collagen fibril tries to crosslink hydroxylysines but can't bc copper is required as a cofactor!!!! very end step
+	1.  **x-linked defect in ==copper transport ATP7a, leading to bad crosslinking==**
+	2. brittle hair, growth failure, neurodegeneration
+6. alports syndrome  - (hereditary nephritis, deafness, ocular disturbance), kidney, ear, and eye issues
+	1. basement membrane in kidney, ear, eyes, skin are all disrupted - **type 4 collagen is stopped.**
+	2. **goodpastures syndrome makes antibodies to these glomerular capillaries.**
+---
+clinical LBP red flags
+review this slide!
+- trauma
+- unexplained weight loss 
+- age 50+ 
+- fever/infection 
+- immunosuppression like with IVDU and or steroid use too 
+- ==syncope== 
+- hx of cancr
+- ==weakness/bowel or bladder dysfunction==
+- pain at night/at rest
+- pain lasting 1+ mon or not responsive to treatment 
+signs on physical exam
+- weird vitals
+- motor weakness
+- ==saddle anesthesia - numbness/tingling in groin area== 
+- urinary retention 
+- loss f rectal tone
+- abnormal reflexes,
+- ==pain on percussion of spinous processes== 
+1. compression fracture - compression/coollapse of vertebral body , classified by percent height loss
+	1. height loss, acutely - back pain sudden axial load!!! 
+	2.  more insidious due to osteoporosis 
+	3. xray dx
+2. herniated disc -  **radiculopathy, radiating nerve pain**
+	1.  like back and leg pain!!! numbness, tingling or weakness.
+	2. most commonly bt l4/5 is the nerve L5 compression 
+	3. between L5 and S1, usually S1 bc L5 already exited before the disc. 
+	4. non-op bc the disc will resorb back.rough 6 weeks. only surg for significant weakness/cauda equina 
+3. lumbar strain/sprain/mechanical LBP
+	1. nonspecific no specific pathology 
+	2. worse w movement, no tenderness over midline, etc. , no imging necessary, conservative treatment
+4. spinal stenosis - narrowing of spinal canal/**vertebral foramen due to bony/soft tissue structures being degenerated**
+	1. older ppl, no injury associated
+	2.  vague low back pain, butt, leg pain, generally better **leaning forward as it opens that canal space.** ppl get relief leaning forward onto the *==grocery cart==* 
+	3. neurogenic claudication - **thigh and leg pain worse with walking improves with rest.**
+	4. ==MRI needed!!!==
+5. spondylolysis/spondylolithesis - a continuum 
+	1. getting spondylolysis and THEN getting spondylolisthesis
+	2.  spondylolysis = **fracture of pars interarticularis**
+	3. spondylolithesis = progression to **slippage and sliding** of one vertebral body anterior to the adjacent one below it!!! slipping forward. this is **most common in pars of L5 and anterolisthesis of L5 relative to s1
+	4.  ==**low back pain in adolescent or older kid==, overuse injury mainly in extensive excercises. 
+	5. Xray is go-**to scotty dog sign**, oblique view, CT, MRI 
+6. cauda equina syndrome - look into treatment specifically, not quite important for the rest 
+	1. severe compression of **nerve roots in thecal sac of lumbar spine... most commonly due to *acute lumbar disc herniation**
+	2. sudden pain, worse than the ones they usually have
+	3. acute back + leg pain with ==saddle paresthesias==
+	4. ==**bowel + urinary retention/overflow incontinence... and bowel dysfunction / fecal incontinence
+	5.  early dx is critical with mri is confirm is huge**==
+	6. ==TREAT: urgent surgical dcompression to open that space up in 24 hours to show the nerves== 
+---
+neuro exam
+- upper motor neuron signs - hyperreflexia, spasticity/inc tone, cortical cerebral, cranial n 
+	- **upper motor neurons typically have an inhibitory role, so if these ar lost, the lower motor neurons will become too sensitive to signals**
+	- examples are trauma + spinal issues and CNS problems 
+- lower motor neuron - peripheral NS - hyporeflexia, hypotonia, fasciculations = quivering of muscles bc muscles keep getting excited from losing something. and atrophy
+	- examples are ALS, tic paralysis, b12 def, guillian barre syndrome, acute inflammatry demyelinating polyneuropathy 
+
+tremors(rhythmic and going around a central point)
+- resting vs postural (while holding something up) tremor 
+fasciculations(watch their back for a few min)
+rate on 0-5 scale, where 5/5 is normal. , 0 is no movement, and so on. 
+
+get a feel on tone = muscle tone move around joints 
+- spasticity(if you go slow, u can move, but if you move faster, it locks; ==this localizes to cortical spinal tract, like stroke/trauma)== 
+- rigidity = ==localizes to basal ganglia, like parkingsons)==
+
+coordination - checks cerebellum - 
+- basal ganglia and corticospinal tract
+
+gait - 
+1. hemiparetic - stroke, arm flexed but the one leg extended ): one side affected, spastic
+2. spastic - scissors - stroke/spinal injury  - can't bend either leg, both legs are spastic instead of just one 
+3. steppage - footdrop - step high or trip on ur own foot like a fibular n injury  
+4. parkinsonian - stooped posture, small steps - shuffling steps
+5. ataxic - off balance, cerebelllar/sensory 
+
+romberg -  shouler width apart, stand with your eyes closed, raised arms- do you know where your joints are in space? -  think cerebellar if thre's difference
+pronator drift - test of weakness 
+
+reflexes
+- brachioradialis C5-6
+- biceps C5-6
+- tricepsC7-8
+- patellar L3-4
+- achilles S1 
+- plantar reflex - babinski - scratch their foot up, normal response is flexion, abnormal = exenstion 
+	- mute = neuropathy 
+
+**recall - pain/temp - small fiber nerves, impact diabetes/alc**
+
+---
+things you can find on diabetes
+- necrobiosis lipoidica diabecticorum - NLD - on lower leg: skin atrophy, yellow coloration, prominent BVs 
+	- due to microangiopathy + vasc changes
+- eruptive xanthomas - red dots
+-  acanthosis nigricans - dark velvety skin, due to insulin insensitivity, in creased places 
+- - for type 2 diabetes - **start foot care upon diagnosis + annually **
+- type 1 = **5 years AFTER diagnosis + annually thereafter**
+mechanisms which disrupt - 
+- diabetic peripheral neuropathy - insensate/without proper sensation feet 
+- osteoarthropathy = deformed foot,  changes to sensation + proprioception lead to microtrauma "neuropathic walking pattern" -> eventually flat foot/charcot foot 
+- peripheral vascular disease - poorly perfused, ulcers and calluses scraped, and cramping with activity 
+
+2 types of diabetic neuropathies 
+1. peripheral neuropathy ,  common one is mononeuropathy like carpal tunnel syndrome 
+	1. NOT a demyelinating process, it's an axon injury process, but spares the motor neurons early in the process though. 
+	2. sorbitol -> mt dmg, and AGEs lead to microvascular dysunction + axonal injury 
+2. autonomic neuropathies - sympathetic denervation in many organs - 
+	1. cardiac autonomic neuropathy associated with mortality , heart not responding bc sympathetic Nervous system disrupted, 
+		initially dec heart rate variability , then **resting tachycardia!!!** 	
+		==orthostatic hypotension caused by tis denervation and **decreased vasoconstriction**==
+		and Gastropareisis due to this same deal. 
+
