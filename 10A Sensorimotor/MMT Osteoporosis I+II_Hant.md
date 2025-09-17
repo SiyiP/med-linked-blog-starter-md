@@ -28,7 +28,7 @@ bone remodding
 	- weaked = osteopenic bone
 	- osteoporatic bone = weak bone
 - resorption = formation in later in life, 20s etc.
-- early in life formation > resotion 
+- early in life formation > resorption 
 - after 50 resorption > formation 
 
 osteporosis 
@@ -283,7 +283,6 @@ pharmacologic therapy options
 		- sclerostin binds lrp -5/6 and prevents wnt from binding to frizzled family receptor and lrp co-receptors 
 		- **leads to down reg of canonical wnt signaling pathway** 
 		- end = **inhibition of osteo*blas*t diff and function** and decreased bone formation 
-		- 
 
 osteoporotic bone = resorptive cavities, loss of connectivity (bone breaking straight up)
 antiresorptive = fills in resorptive cavity, increasing mineralization 

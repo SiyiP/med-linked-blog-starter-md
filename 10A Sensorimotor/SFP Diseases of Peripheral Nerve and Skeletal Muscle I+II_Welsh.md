@@ -317,7 +317,7 @@ inherited dz - presenting at or soon after birth
 			- breathing + swallowing issues, osteopenia, 
 			- mutatins in mTM1 gene
 			- **you don't hit that developmental milestone , you still get a central nucelus in all your muscle fibers, meaning they don't work that well**
-			- **give therapy = ** adenoassociated virus AAV vector to give functional copy of mtm1
+			- **give therapy = **adenoassociated virus AAV vector to give functional copy of mtm1
 		- weakness + **droopy eyelids** = **autosomal/recessive forms **
 			- symptomatic treatment. 
 	- congenital fiber type disproportion 
