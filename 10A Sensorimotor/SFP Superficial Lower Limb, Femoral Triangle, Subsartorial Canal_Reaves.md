@@ -120,7 +120,7 @@ fascia - CT mostly of collagen that surrounds everything, connecting skin to dee
 - defined by perimysium is oriented in a variety of ways that determine strength of muscl + direction in which it pulls 
 
 dermatomes
-![[dermatomes of lower limb.png]]
+![[dermatomes of lower limb.jpeg]]
 note - on L4 - meidial side of gret toe, medial patella 
 and L5  - note that this is also innervated by deep fibular nerve. this is gonna be antrior component, but this other thing is cutaneous 
 and then the S1, 2 , 3 

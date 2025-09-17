@@ -191,7 +191,7 @@ plantar nerves
 - p much all from innervation of tibial nn 
 - common nerves vs when it bifurcates for toes, naming very simillar to palmar hands. 
 - entrance of **medial plantar and lateral plantar from tibial n**
-![[dermatomes of lower limb.png]]
+![[dermatomes of lower limb.jpeg]]
 
 
 ***gluteal region*** = these are medial rotators 

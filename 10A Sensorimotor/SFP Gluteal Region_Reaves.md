@@ -212,7 +212,7 @@ cruciate anastomosis
 	- lateral circumflex femoral a (transverse br)
 	- medial circumflex femoral a (transverse br)
 	- first perforating a (br of profunda a)
-![[dermatomes of lower limb.png]]
+![[dermatomes of lower limb.jpeg]]
 
 piriformis syndrome
 - pain in butt
