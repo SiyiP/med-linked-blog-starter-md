@@ -1,4 +1,8 @@
 #summary 
+abductors of your arm = **deltoid and supraspinatus muscles, innervated by axillary and suprascapular nn**
+latissimus dorsi - adduct, extend, rotate medially 
+upper and lower subscapular nns supply subscapularies and lower one supplies teres major, which adduct + rotate arm medially 
+
 upper limb pathology
 1. rotator cuff tears - most commonly the supraspinatus tear
 	- more dmg at older age
@@ -27,6 +31,7 @@ upper limb pathology
 7. upper BP injury ==C5-6== - can happen due to prolonged birth where head is pulled away from shoulder at one side, 
 	1. supplies ==nerves to the shoulders, which will droop on that side.== no bicep flexion, thrown hand 
 	2. "Erb duchenne palsy" 
+	3. ![[upper and lower bp trunk injury.png]]
 8. lower BP injury - when kid falls off cliff but hangs on to a branch, ==C8/T1 affected==
 	1. ==ulnar nerve== majorly impacted, bc you get ==claw hand==, which means intrinsic muslces and forearms highly limited 
 9. brachial plexus + peripheral nerve injury 
@@ -100,6 +105,7 @@ lower limb path
 	- lateral colalteral not impacted in spite of impact here, but the otehr side the medial collateral would open up 
 25. - chondromalacia patella - runniers knee. kneecap pain , - due to kneecap rubbing against 1 side of knee joint + irritation 
 26. high ankle sprain = - foot forced to rotate to outside, can be put in cast or screw can be put in if injury unstable to hold tibia + fibula in place... 
+27. injury to inf gluteal nns will impact the gluteus maximus, so no more extension of hip and most likely to have this with posterior dislocation of the femur. 
 
 dz of peripheral nerve + muscle 
 1. peripheral neuropathy... caused by diabetes, vitamin def, alc, drugs / supplements, toxins, heavy metals, vasculitis, amyloid, paraneoplastic, etc.... motor + sensory: slow progression + symmetrical mostly with stocking/glove distrib - most common , some effect on **longest nerves of body first before other effects, which goes to fingers/toes first**
@@ -682,3 +688,4 @@ mechanisms which disrupt -
 		==orthostatic hypotension caused by tis denervation and **decreased vasoconstriction**==
 		and Gastropareisis due to this same deal. 
 
+[L5 radiculopathy](https://next.amboss.com/us/article/ji0_rf#Zba50170b6202f0ef091e8c65d5c95d7f) typically causes [back pain](https://next.amboss.com/us/article/Dq010h#Z39ef161f74cd530fb329b7d5dab9121e) that radiates down the [lateral](https://next.amboss.com/us/article/xo0EVS#Zad8f9786872edfa102f7204c82b56244) aspect of the leg into the foot, with sensory loss along the [lateral](https://next.amboss.com/us/article/xo0EVS#Zad8f9786872edfa102f7204c82b56244) aspect of the lower leg and dorsum of the foot and strength deficits in foot [dorsiflexion](https://next.amboss.com/us/article/p60LNS#Z7dade4c0c7234aacb85b6bbcf76c72bb) and [eversion](https://next.amboss.com/us/article/xo0EVS#Z3ec549ccbfac6d1d85b026c527f7160f). This patient's symptoms are localized to different areas and do not follow a radicular pattern.
