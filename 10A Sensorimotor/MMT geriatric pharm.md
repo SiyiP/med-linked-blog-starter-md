@@ -50,7 +50,7 @@ hepatic metabolism decr in elderly
 - not gonna metabolize it as quickly 
 phase 1 = **oxidation, hydroxylation, dealkylation, reduction** -> contversion to metabolites 
 phase 2 = glucuronidation, conjugation, or acetylation -> conversion to inactive metabolites
-- **phase 2 hepatic metabolism = usually preferred in geriatrics bc inactive metabolites = less accumualtion**
+- ==**phase 2 hepatic metabolism = usually preferred in geriatrics bc inactive metabolites = less accumualtion**==
 - making it more water soluble so it can be eliminated basically in phase 2 
 
 drug metabolism modularotr
@@ -87,7 +87,7 @@ RFs
 - age 80+ 
 - lower liver and kidney function 
 
-Beer's crriteria = set of standards for determining risks and recommendations for prescribing drugs to the elderly 
+==Beer's crriteria = set of standards for determining risks and recommendations for prescribing drugs to the elderly== 
 recs based on: 
 - age/dz/condition drug interactions
 - drug-drug interactions = 

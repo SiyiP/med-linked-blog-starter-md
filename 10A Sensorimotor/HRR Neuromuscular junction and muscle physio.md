@@ -97,13 +97,13 @@ differences wit CNS synpases
 
 disorders of the motor unit ![[motor unit disorder map.png]]
 - tetanus toxin = soil bacteria, migrates into the spinal cord to impact the inhibitory interneurons there, putting a break into the excitability of that neuron 
-	- protease, wil cleave SNAP25, etc, blocking the release of the **inhibitory Neurotransmitter**, 
+	- protease, wil cleave VAMP, etc, blocking the release of the **inhibitory Neurotransmitter**, always contracted and firing off basically  
 	- basically this will always be contracted , sustained excitability of the muscle 
 	- severe cramping 
 - diptheria toxin = attacks myelin producing cells like in the schwann cells, impairing the AP , 
 	- can't contract muscle
 - tetrodotoxin - issue in the nodes of ranvier, so 
-	- super high affinity to the voltage gated sodium channel antagonization (bc they are all in the nodes)
+	- ==super high affinity to the voltage gated sodium channel antagonization (bc they are all in the nodes)== 
 	- primarily from bacteria of marine environment 
 	- TTX = fugu usually - fish eating, and then it will kill them 
 	- pins and needles, coma and resp distress
@@ -112,10 +112,10 @@ disorders of the motor unit ![[motor unit disorder map.png]]
 	- blocks ACH release 
 	- used in botox which will **relax skeletal msucles where you smile**
 - black widow toxin - 
-	- fusion of many **vesicles of ach in calcium INDEPENDENT fashion** 
+	- ==fusion of many **vesicles of ach in calcium INDEPENDENT fashion**== 
 	- local contraction under local spider bite toxin 
-- alpha-bungarotoxin - from Krait snake
-	- antagonist of nicotinic ach receptor = essentially permenant inhibitor.
+- alpha-==bungarotoxin== - from Krait snake
+	- ==antagonist of nicotinic ach receptor = essentially permenant inhibitor.==
 	- fundamentally lethal 
 
 ---
@@ -243,37 +243,37 @@ sustainabiiliy
 	- generates like 20 atps 
 
 msucls - made up of **mosaic** of many diff fiber types 
-- type 1 =- slow twich muscles - myosin ATPase is slow, so hydrolysis is slow, fatigue resistance (so use ox phs to make atp)
+- ==type 1 =- slow twich muscles - myosin ATPase is slow, so hydrolysis is slow, fatigue resistance (so use ox phs to make atp)==
 	- red 
 	- rate of myosin ATPase relatively slow 
 	- rate of fatigue slow bc use ox phos, high oxidation and low glycogen capacity bc using o2 , **for that reason use many Mts and BVs**
-	- a lot of myoglobin content , which binds o2 in muscle = red! 
+	- ==a lot of myoglobin content , which binds o2 in muscle = red!== 
 	- have a small diameter , matched with a small motor neuron 
 
-- type 2 = fast speed = somewhat fatigue resistant 2A or not fatigue resistant 2B 
-	- 2A - moderately fast, red, moderately fatigue resistant 
+- ==type 2 = fast speed = somewhat fatigue resistant 2A or not fatigue resistant 2B== 
+	- ==2A - moderately fast, red, moderately fatigue resistant== 
 		- in the middle
 		- use both ox and glycolytic pathways
 		- intrmediate size and intrmediate size motor neurons 
-	- 2B  - fast, white, easily fatigued
+	- ==2B  - fast, white, easily fatigued==
 		- high rate of myosin ATPase, 
-		- high fatigue rate bc use glycolytic pathway primarily, low oxidative capacity, so low o2, low myoglobin, and low bvs 
-		- largest diameter, and bc o that it's matched with **spinal neurons with large diameter too**
+		- ==high fatigue rate bc use glycolytic pathway primarily, low oxidative capacity, so low o2, low myoglobin, and low bvs== 
+		- ==largest diameter, and bc o that it's matched with **spinal neurons with large diameter too**==
 
 motor unit = one motor neuron + all fibers it synapses with 
 - but each neuron synpases with only **one type of fiber!!!**
 - recruited in order from slow to fast as demand inc 
-- type 1 = **smaller recruited before larger type 2 due to smaller capacitance, higher input resistance,
+- ==type 1 = **smaller recruited before larger type 2 due to smaller capacitance, higher input resistance,==
 - less input needed to reach threshold for firing than large motor neurons**
 - V = IR
-- basically larger = more leaky , thre's a subtreshold epsp = so needs a much higher input to generate an actual AP, so imagine the smaller type 1 neurons reaching AP first and getting recriuted first 
-- recruited from slow to fast... small motor units that only have **a few fibers per neuron are recruited first followed by large motor units with many ones that make larger increments in force**
+- ==basically larger = more leaky , thre's a subtreshold epsp = so needs a much higher input to generate an actual AP, so imagine the smaller type 1 neurons reaching AP first and getting recriuted first== 
+- recruited from ==slow to fast==... small motor units that only have **a few fibers per neuron are recruited first followed by large motor units with many ones that make larger increments in force**
 - on demand as needed systm 
 
 muscles vary in contraction sppeed
-- ocular muscl fastest, most 2B type 2 fibers 
+- ==ocular muscl fastest, most 2B type 2 fibers== 
 - gastrocenmius = 
-- soleus slowest , has most type 1 fibers 
+- ==soleus slowest , has most type 1 fibers== 
 
 fiber type distrib in the same muscle differ between individuals= good profiling for athletes, hard to change fiber types = ppl born with that distribution 
 - explosive hiit = type 2 b 
@@ -282,7 +282,7 @@ fiber type distrib in the same muscle differ between individuals= good profiling
 
 exercise adaptation
 - high resistance, short duration trainig, weight lifting 
-- mainly effec type 2 fibers, inc in size, 
+- ==adaptation mainly affects type 2 fibers, inc in size,== 
 - hypertrophy 
 	- actin + myosin
 	- cross sectional area
@@ -291,7 +291,7 @@ exercise adaptation
 	- creatine 
 
 long duration low intensity 
-main effect on type 1/2A fibers
+==long and low intensity - main effect on type 1/2A fibers==
 - inc fatigue resistance 
 - inc in 
 	- mt
@@ -301,7 +301,7 @@ main effect on type 1/2A fibers
 
 potassium -  impacts resting membrane potential
 	hypokalemia = hyperpolarization, weakness,
-	hyperkalemia = depol, inc excitability, spontaneous twitches 
+	==hyperkalemia = depol, inc excitability, spontaneous twitches== 
 
 muscle repair/regen
 - adult muscle cells = post mitotic, can't divide

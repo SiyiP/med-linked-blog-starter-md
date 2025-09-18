@@ -1,7 +1,7 @@
 #bugs 
 1. Describe the clinical presentations of scabies, high risk groups for infestation, treatments, and potential complications.  
 2. Recognize the clinical presentations of envenomation by bees, wasps, and fire ants and their potential for anaphylaxis.
-3. Recognize signs of Cimex lectularius (bed bug) exposure.
+3. Recognize signs of **Cimex lectularius (bed bug)** exposure.
 4. Differentiate brown recluse from black widow spider bite presentations.
 5. Describe general principals of treatment for jellyfish and scorpion stings.
 6. Describe the clinical presentations of pediculosis (lice infestations), high risk groups for infestation, treatments, and potential complications.

@@ -61,7 +61,7 @@ lower limb path
 	- with incompetent valves, they can't push the blood flow to heart well, making them swell and bulge with flow reversal
 	- many superficial veins will distend, and these superficial veins will connect to the deep veins so that wont't work 
 6. positive trendelenburg's sign
-	- decr strength oof gluteus medius + minimus due to trauma/dz on one side = "dropped pelvis"
+	- decr strength oof **gluteus medius + minimus** due to trauma/dz on one side = "dropped pelvis"
 	- therefore dmg to the superior gluteal nns 
 7. piriformis syndrome
 	- can happen as a result of early division too above the piriformis bc it can be squished by this 
@@ -76,7 +76,7 @@ lower limb path
 	- get them anti-inflammatories and physical therapy 
 9. adductor longus ossificaiton = "riders strain"
 10. fibular nerve injuries
-	1. common fibular n injury = can't do extension (deep fibular nerve) => **footdrop** and can't flex the fooot either with the superfibular nerve
+	1. common fibular n injury = can't do extension (**deep** fibular nerve) => **footdrop** and can't flex the fooot either with the superfibular nerve
 11. pes planus
 	1. flat foot arch - dislocation of talus 
 	2. overuse injury 
@@ -88,11 +88,12 @@ lower limb path
 15. turf toe = sprain of greate toe from football, resulting from **excessive upward bending/jamming**
 16. heel spur = ca depo that makes things worse fr plantar fascia reactions 
 17. morton's neuroma/intrmetatarsal neuroma 
-	1. compressnerve like 3rd and 4th one between that time. 
+	1. compress nerve like 3rd and 4th digits between that time. 
 	2. their shoes are too covered
-18. lifrank/midfoot injury = bifurcate ligaments wher ppl go at eeath 
-19. - - coxa valga = greater trocanter abnormally low, angle is more than 125 - inability to adduct 
-		- greater trchanter abnormally ihgh = less than 125 degrees, coxa vara = inability to abduct 
+	3. click / mulder's sign as a dx tool with click and reproduced pain with squeeze. 
+18. ***lifrank/midfoot injury = bifurcate ligaments wher ppl go at eath*** 
+19. - - coxa **valga** = **greater trocanter abnormally low, angle is more than 125** - inability to adduct 
+		- greater trchanter abnormally ihgh **= less than 125 degrees, coxa vara** = inability to abduct 
 20. prepatellar bursitis =  **housemaid's knee - friction bt skin + patella. fluid with inflamatory cells lead to swelling, spreads to other bursa very fast, like subq infrapatellar bursa + deep infrapetellar bursa too**
 21. - anterior talofibular ligament = these are most often torn  = most often torn in the foot as a tendon 
 22. trochanteric bursitis - bc the gluteus max will get bumped and then can spread this inflammation up commonly associated  = very persistent 
@@ -105,7 +106,7 @@ lower limb path
 	- lateral colalteral not impacted in spite of impact here, but the otehr side the medial collateral would open up 
 25. - chondromalacia patella - runniers knee. kneecap pain , - due to kneecap rubbing against 1 side of knee joint + irritation 
 26. high ankle sprain = - foot forced to rotate to outside, can be put in cast or screw can be put in if injury unstable to hold tibia + fibula in place... 
-27. injury to inf gluteal nns will impact the gluteus maximus, so no more extension of hip and most likely to have this with posterior dislocation of the femur. 
+27. **injury to inf gluteal nns will impact the gluteus maximus, so no more extension of hip and most likely to have this with posterior dislocation of the femur.** 
 
 dz of peripheral nerve + muscle 
 1. peripheral neuropathy... caused by diabetes, vitamin def, alc, drugs / supplements, toxins, heavy metals, vasculitis, amyloid, paraneoplastic, etc.... motor + sensory: slow progression + symmetrical mostly with stocking/glove distrib - most common , some effect on **longest nerves of body first before other effects, which goes to fingers/toes first**
@@ -135,25 +136,25 @@ dz of peripheral nerve + muscle
 	4. - treat: supportive: autoimmune syndromes to get to the point where they start remodeling their myelins 
 	- plasmapheresis 
 	- immunoglobulins 
-10. **chronic inflammatory demyelinating polyradiculopathy**  -  ***segmental demyelination,* inflammation of nerves with many mostly macrophages**- they are wiggling themselves into the myelin sheath and trying to unwrap the myelins 
+10. **chronic inflammatory demyelinating polyradiculopathy**  -  ==***segmental demyelination,*== inflammation of nerves with many mostly macrophages**- they are wiggling themselves into the myelin sheath and trying to unwrap the myelins 
 	 - more common
 	 - worsening **muscle weakness, more pain/sensory problems like numbness, loss of reflexes**
 	- autoimmune + acquired
 	- old men 
 	- **slowly progressing long term symptomes**
-	- **ONION BULBS**
+	- ==**ONION BULBS**==
 	- - TREAT: steroids, IVIG, plasma ex, other immuontherapy 
 11. hereditary sensory neuropathy 
 	1. sensory symptoms: numbness, tingling, pain in feet/hands
 12. hereditary motor neuropathy =  weakness/atrophy
 13. hereditary sensory + autonomic neuro = 	- autonomic syndromes: **sweating, bp like postural hypotension, insensitivity to pain** 
-14. hypertrophic neuropathy 
-	1. **onion bulbs = redundant schwann cells around axons, in this type of *palpable* nerves** 
+14. ==hypertrophic neuropathy== 
+	1. ==**onion bulbs = redundant schwann cells around axons, in this type of *palpable* nerves**== 
 15. *neurogenic* = CNS/PNC issues... no pain, no muscle fasciculations, **enzymes normal but the EMG shows fib, angular atrophy + type grouping**
  16. **amyotrophic lateral sclerosis/lou gehrig dz = ALS** 
 	 1. CNS dz for adults,=  distal weakness, **no pain, fasciculations, enzymes might be fairly normal**
 	 2. EMG shows fibrillations (EMG form of fasciculations), sharp waves 
-	 3. TREAT: ==some cases are genetic with SOD1 or C9orf72== ... but there's an **antisense oligonucleotide to stop some symptoms and slow down progression. not a cure**
+	 3. TREAT: ==some cases are genetic wit**h SOD1 or C9orf72**== ... but there's an **antisense oligonucleotide to stop some symptoms and slow down progression. not a cure**
 17. spinal muscular atrophy in KIDS = weakness, tremors, dev developmental delays, contractures in joint, bone deformities 
 	1. TREAT: insufficient survival motor neuron ==SMN protein due to loss of function gene==, so they use adeno-associated virus vector based therapy or some SMN2 directed antisense oligonucleotide 
 18. LEMS/lambert eaton  = NMJ disease
@@ -166,7 +167,8 @@ dz of peripheral nerve + muscle
 	1. **small muscles tire easily, worse later in the day = droopy eyelids/ptosis, diplopia/blurry/double vision**, fatigue, facial changes as exam goes on, problems talking, etc, weakness in **fingers**
 	2.  **thymus is abnormal with thymoma or hyperplasia
 	3. - **EMG = progressive decrmeents in AP potentials** 
-	4. TREAT: pyridostigmine, steroids, immunosuppressants 
+	4. way worse dxif you have an anti-muSK antibody 
+	5. TREAT: pyridostigmine, steroids, immunosuppressants 
 myopathic dz =  suspect these if **weak + PAIN in upper arms, shoulders, thighs** - maybe a long hx or not progressive. most have **CK elevations** due to necrosis and dead myocytes... and huge is **degeneration/necrosis**
 20. dermatomyosis - CK elevations, pink necrotic fibers, regeneration, and round atrophy , many biopsies seen here,
 	1. painful rash, in fasE + joints , might see vasculitis
@@ -190,6 +192,7 @@ dystrophies -  **progressive, long hx, and elevated CK = fibrosis + hypertrophy*
 		- **dense fibers = dark glob seen, purple
 		- 		- TREAT: exon skipping genetic therapies , changes it to a more becker's type of look.... - more usable muscle protein avaliable, but less than 1/4 patients potentiallly respond not a cure. 
 26. becker-dystrophin stains - if the dystrophin stain's done for duchennes, it would be negative 
+	1. either duchenne's or beckers = might show gower's sign = indicator of proximal muscle weakness, can't stand up from floooor but walks with their hands up, cardiac death. 
 27. mitochondrial myopathy
 	1. - **prox muscle weakness, EXERCISE intol, cramping and excretion of myoglobin in urine**
 		- **ocular findings, neurologic symptomes, cardiomyopathy
@@ -514,7 +517,7 @@ fat
 fibrous tissue
 7. nodular fasciitis - in YA< superifical location like subq or superficial trauma
 	1. rapidly growign mass, sometimes a hx f trauma 
-	2. ==USP6 rearrangement
+	2. ==USP6 rearrangement, tissue culture fibroblasts. predilection for upper extremities t(17;22)
 	3.  plump spindle cells in **tissue culture pattern, swirly storibform , plump spindle forms without pleomorphism and RBC extravasation**!!! RBC poools into this 
 		1. white parts have edema, but otherwise, it's just bland spindle cells. 
 8. fibromatosis/desmoid tumors - young middle aged adults mostly men 
