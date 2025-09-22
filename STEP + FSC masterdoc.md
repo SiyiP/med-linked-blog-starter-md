@@ -237,3 +237,5 @@ do one hammers, then the systems based?
 5. testing permit issued
 6. schedule test date via prometric center 
 deadline - oct 15 
+
+**i have access to cofc and the citadel libraries with my MUSC badge???????**
