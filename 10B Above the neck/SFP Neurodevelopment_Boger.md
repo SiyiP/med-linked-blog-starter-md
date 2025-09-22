@@ -37,6 +37,7 @@ neural prolif + differentiation  - in 5 weks, we see many neuroblasts in ependhy
 		1. gray matter of spinal cord 
 	3. marginal layer - the processes of neurons from the mantle layer, sight for axonal pathways. 
 		1. white matter of spinal cord 
+note - neuroblasts, intermed progen cells, oligodendrocyte progen cells, astrocyte progen cells, adult stem cells, and ependymal cells all come from radial glial clls 
 in transverse section of 5 1/2 wks of the spinal cord
 - this **sulcus limitans** will divide the ventral and dorsal plate. 
 - dorsal plate = gives rise to sensory cell bodies + inner neurons , sensory and/or coordinating cell populations
