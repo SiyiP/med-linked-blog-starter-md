@@ -230,3 +230,10 @@ do one hammers, then the systems based?
 - start with older blocks? 
 - doing 5 qs of your current block maybe and then the other one. 
 
+1. NBME creation
+2. apply for step 1 + pay fee
+3. verify id online 
+4. musc enrollment confirmed by stu affairs
+5. testing permit issued
+6. schedule test date via prometric center 
+deadline - oct 15 
