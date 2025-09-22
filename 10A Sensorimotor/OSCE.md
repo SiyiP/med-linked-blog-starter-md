@@ -17,3 +17,4 @@ note  - we need to go back and forth to check up on and feel the legs.
 start looking at feet + ankles, 
 - must tell them if there is or isn't swelling , hold finger down on medial to tibia and then the joint ankle line. and then brush against where a pit woudl be made. 
 for ROM, ankle for inversion/eversion, ask them to bring soles in / out 
+
