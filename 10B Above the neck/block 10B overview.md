@@ -42,7 +42,7 @@ under HRR - there's **neuroanatomy supplemental videos - has detailed dissection
 	- brains are in the cages. the cadavers we take out the brains in block 11 
 	- self-guided pinning. 
 
-brainlab 1
+brainlab 1 - laterla medial structures of brain + spinal cord 
 - spinal cord - cervical, thoracic, lumbar, sacral 
 - how are they diff? 
 - why are some sections wider
@@ -58,4 +58,20 @@ brainlab 1
 - id the lobes of brain, how are they delimited. dw about id-ing the opercula (foldings of lobes that make the lateral fissure)
 - sulci lateral central interhemispheric
 - gyrus and sulcus. 
-- 
+- regions of the brain - corpus collosum 
+- telecephalon, diencephalon, midbrain, pons, medulla , thalamus v hypothalamus 
+- print out some unlabeled syllabus pictures!!!! - and practice labeling them on ur own. 
+- commissures - how they communcate + fornix = septum pellucidum, fornix connection + septum separation 
+- ventricles - CSF flow directors? 
+
+next week - structures on ventral side of brain
+- medulla, pons, cerebellum, midbain, diecephalon etc. 
+- **cranial nerves!! (,:** - no deviation ,,, anomaly if they do. 
+- rhomboid fossa - dorsal surfac of brainstem , under cerebllum 
+- cranial n nuclei migrate to that dorsal surface, so we id some of those bumps 
+subcortical nuclei - additional set of them with axial cuts (dorsal surface down 
+cortical to spinal cord and stufff - these are hemisections 
+after each lab, there's a subset left out **in buckets - make sure you be respectful + put them back**
+
+during brain lab 2 = there's a fake practical/mock one - **she uses sutures or some smaller pins.**
+- **every single one has a prompt - id the pin/suture structure etc... all 25 have a prompt**
