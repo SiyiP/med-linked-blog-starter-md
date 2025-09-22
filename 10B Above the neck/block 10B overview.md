@@ -75,3 +75,5 @@ after each lab, there's a subset left out **in buckets - make sure you be respec
 
 during brain lab 2 = there's a fake practical/mock one - **she uses sutures or some smaller pins.**
 - **every single one has a prompt - id the pin/suture structure etc... all 25 have a prompt**
+don't worry about white matter tracts (they're in block 11)
+
