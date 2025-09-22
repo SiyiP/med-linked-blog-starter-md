@@ -657,10 +657,13 @@ gait -
 romberg -  shouler width apart, stand with your eyes closed, raised arms- do you know where your joints are in space? -  think cerebellar if thre's difference
 pronator drift - test of weakness 
 
+![[dermatomes of upper limb.jpeg]]
+![[dermatomes of lower limb.jpeg]]
+
 reflexes
 - brachioradialis C5-6
 - biceps C5-6
-- tricepsC7-8
+- triceps C7-8
 - patellar L3-4
 - achilles S1 
 - plantar reflex - babinski - scratch their foot up, normal response is flexion, abnormal = exenstion 
