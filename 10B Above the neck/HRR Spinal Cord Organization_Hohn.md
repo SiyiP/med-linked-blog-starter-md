@@ -65,14 +65,14 @@ ascending white matter = all have cell bodies of origin fro mdorsal root ganglio
 - ventral spinocerebellar tract - info about effects of motor descending signals, and unconscious proprioception 
 - anteriolateral tracts - pain + temp senses. +includes spinothalamic and spinoreticular pathways 
 
-![[Screenshot 2025-09-24 at 12.05.32 PM.png]]
+![[ascending white matter organization.png]]
 
 descending white matter tracts
 - corticospinal nad rubrospinal tracts - major cotrol of motor neurons + voluntary movements
 - vestibulospinal tracts - adjust posture + balanc in response t vesticular sensations
 - reticulospinal tract - act on motor neurons to trunk + prox limb k, postural control 
 - tectospinal tract - coordinate head + eye movements in response to visual stimuli 
-![[Screenshot 2025-09-24 at 12.07.37 PM.png]]
+![[descending white matter spinal cord.png]]
 
 spinal cord - will get blood supply from vertebral a, from the subclavian then the brachiocephalic 
 - anterior spinal a + ppsterior spinal arteries are branches of the vertebral a 

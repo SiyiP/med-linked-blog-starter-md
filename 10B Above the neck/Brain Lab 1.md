@@ -65,7 +65,7 @@ third ventricle is on the underside of the thalamus???
 cerebral aqueduct = connection to the cerebellum, midbrain side
 fourth ventricle - the small blob beflore the cerebellum 
 
-![[brain dorsal.png]]
+![[inferior brain.png]]
 ventral brain
 A. olfactory tract
 B - optic tchiasm 
@@ -77,7 +77,7 @@ G medullary pyramid
 H cerebellum 
 
 
-![[Screenshot 2025-09-24 at 11.27.05 AM.jpeg]]cranial nerves (numbered in order)
+![[cranial nerves inferior brain.jpeg]]cranial nerves (numbered in order)
 A - olfactory bulb (olfactory nerves are severed during brain extraction and left in the nasal cavity. CN I fibers synapse on in the olfactory bulbs.)
 B optic n 
 c oculomotor 
