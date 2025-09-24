@@ -9,7 +9,8 @@ spinal cord - questions to ask?
 trace "rostrally - toowards the top of the spinal cord, to the brain" 
 - lumbar enlargement - lumbar and sacral plexuses 
 - cervical enlargement - BP origin 
-externally - see the anterior median fissure with ant spinal artery 
+externally - see the anterior median fissure with ant spinal artery  - The anterior spinal artery provides blood to the ventral & lateral columns, ventral horns, and upper portion of dorsal horns.
+
 anterior roots attached on either sides of the anterior roots, motor stufff? 
 flip to posterior see
 - posterior dorsal columns = ridge of white matter 
@@ -32,4 +33,60 @@ central sulcus - runs sinusoidal course vertically, in front is the frontal lobe
 
 there's a half brain! 
 - corpus callosum -  fiber fbundle connection 
-- anterior commissure connects corrtex of 2 temporal lobes - a dot under the acorpus allosum's front? 
+- anterior commissure connects corrtex of 2 temporal lobes - a **dot** under the corpus callosum's front? 
+- fornix - column seen.... fiber traveling bt hppoampal complex in temporal lobe + number f ventral structure s- smaller c curve under te corpus callosum 
+	- this is suspended form under the corpus callosum with the septum pellucidum - very vasculature 
+you see that the preparer's knife has passed through the space of the tall,  
+narrow third ventricle which lies on the midline of the diencephalon. It thus creates a right and left  
+thalamus and hypothalamus that are mirror images of one another 
+- small disc like interthalamic adhesion across thst third ventricle. - sliced thru and we can see the canal of CSF from latera ventrical into the third = interventricular foamen. 
+- aqueduct is a tube through the midbrain which conveniently separates the dorsal part or  tectum from the ventral part or tegmentum. The tectum is made up of two bumps, one in front of the  
+other, the superior and inferior colliculi
+- The occipital lobe contains the primary visual cortex. Most of the visual cortex lies on the  
+medial side and is buried in the deep calcarine sulcus
+- deep parieto-occipital sulcus is on the  
+medial wall of the hemisphere and it converges with the horizontally running calcarine sulcus
+
+prominent gyrus just above and running parallel to the corpus callosum is called the cingulate gyrus
+
+![[lateral brain.jpeg]]
+
+A - caudate - inside lateral ventricle  
+B = interthalamic adhesion 
+C = pineal gland 
+D = optic chiasm 
+E = thalamus - is to the back of the intraventricular foramen/foramen of monro? 
+F = mamillary body 
+G = superior colliculus 
+
+pons = the larger one on the stem
+medulla - the smaller wedge underneath 
+third ventricle is on the underside of the thalamus???
+cerebral aqueduct = connection to the cerebellum, midbrain side
+fourth ventricle - the small blob beflore the cerebellum 
+
+![[brain dorsal.png]]
+ventral brain
+A. olfactory tract
+B - optic tchiasm 
+C - optic tract
+D mamillary body 
+E cerebral peduncle 
+F = pons
+G medullary pyramid
+H cerebellum 
+
+
+![[Screenshot 2025-09-24 at 11.27.05 AM.jpeg]]cranial nerves (numbered in order)
+A - olfactory bulb (olfactory nerves are severed during brain extraction and left in the nasal cavity. CN I fibers synapse on in the olfactory bulbs.)
+B optic n 
+c oculomotor 
+D trochlear n 
+E trigeminal n 
+F abducens n 
+G facial n 
+H vestibulocochlear n 
+I glossopharyngeal n 
+J vagus n 
+K spinal accessory n 
+L hypoglossal n 
