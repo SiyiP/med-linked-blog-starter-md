@@ -63,7 +63,7 @@ the dorsal column - pathway based on where the input is coming from
 when the thalamus gets that information, will relay it via the internal capsule 
  - this is a white matter bundle in the brain
  - ascending somatosensory axons travel in the posterior portion of posterior limb of the internal capsule
- - ![[Screenshot 2025-09-25 at 11.46.31 AM.png|238x336]] confusing img?? 
+ - ![[midbrain internal capsule somatosensory org.png|238x336]] confusing img?? 
  - F = face, A = arm, T = trunk, L = legs 
  - white matter bundle internal capsule = the v shape you see the FATL sit in (posterior limb), anterior limb is above. 
 
