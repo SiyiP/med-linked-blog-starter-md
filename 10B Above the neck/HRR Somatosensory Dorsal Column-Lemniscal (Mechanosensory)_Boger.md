@@ -58,11 +58,13 @@ the dorsal column - pathway based on where the input is coming from
 - 3rd order to the postcentral gyrus/somatosensory cortex - **synapse in the ventral posterior nucleus of the thalamus VP**
 	- body synapses within the VPL (lateral)
 	- face synapses int he VPM (medial)
+	- ==question - why does facial nerves synapse with the VPM if it's gonna be the most lateral??==
 ![[dorsal column pathway levels.png|210x252]]
 when the thalamus gets that information, will relay it via the internal capsule 
  - this is a white matter bundle in the brain
  - ascending somatosensory axons travel in the posterior portion of posterior limb of the internal capsule
- - ![[Screenshot 2025-09-25 at 11.46.31 AM.png|238x336]] F = face, A = arm, T = trunk, L = legs 
+ - ![[Screenshot 2025-09-25 at 11.46.31 AM.png|238x336]] confusing img?? 
+ - F = face, A = arm, T = trunk, L = legs 
  - white matter bundle internal capsule = the v shape you see the FATL sit in (posterior limb), anterior limb is above. 
 
 legs = medial of somatosensory cortex
