@@ -1,5 +1,8 @@
 #sensorimotor 
 
+open vs closed medulla
+This distinction is made based on whether the CSF-containing cavities are surrounded by the _medulla_ (_closed medulla_) _or_ not (_open medulla_). 
+
 motor control 
 - voluntary , reflexive, unconscious (posture/tone while walking around and all that.)
 
@@ -120,4 +123,18 @@ anterior corticospinal tract - 10% , more upper truncal control, but helps maint
 spinal intrneurons 
 - the corticospinal tracts can synapse on 8 and 7 
 - takes info to the muscle: motor neurons 
-- intrneurons will
+- intrneurons will intercept that signal and give **negative feedback via the renshaw clls so you on't overdo things**
+
+clostridium tetani. = we get tetanus shots. 
+- bsaically bc it it goofs up the renshaw cells 
+- if you shut those inhibitory things down, you get tetany all over ur muscles 
+
+corticobulbar tracts - for brainstem motor nuclei
+- basically for the facial things,you synapse on the **motor componeent of the brainstem nuclei!!!**
+- one thing to commit to memory 
+- upper part of face = dual innervation 
+- lower part = contralateral innervation only 
+
+upper motor v lower motro neuron 
+- proximal to alpha motor neuron = upper motor neuron 
+- distal to alpha motor neuron = lower motor neuron 

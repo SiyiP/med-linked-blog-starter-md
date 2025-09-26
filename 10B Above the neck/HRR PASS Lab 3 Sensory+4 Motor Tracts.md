@@ -44,3 +44,22 @@ and in the somatosensory cortex itself, the inputs are flipped!
 
 ---
 passlab 4 motor voluntary movement 
+precentral gyrus - motor cortex 
+prefrontal cortex - inclusive of supplemental mtor area 
+- similar to closer to the brain in the somatosensory stuff , the legs area hanging off midline cliff
+- but later as we travel down are all lateral 
+![[horizontal section of forebrain.png]]
+- caudate nucleus = part of basal ganglia, the corpus striatum, helps with execution of movement 
+- putamen - regulate movement in various stages suc as in prep + execution 
+- globus pallidus - conscious and voluntary movement by inhbitiing thalamus, regulation like such? 
+
+inside the internal capsule, the descending motor axons are:
+- **genu (to the face)** - anterior part of corpus callosum connecting frontal lobes of brain 
+- posterior limb (anterior half of this is for the neck + down, and posterior half of the limb are all sensory axons)
+
+- Descending corticospinal axons travel through the middle 1/3 of the cerebral peduncle.  The lateral 1/3 and most medial 1/3 carries corticocerebellar axons.
+
+The major input of information to the red nucleus is from the cerebellum as part of motor learning, but the motor cortex will send signals to the red nucleus as well to modulate the rubrospinal tract.
+Red nucleus neurons project to the spinal cord forming the rubrospinal tract.-  this is the descending tract that is formed by axons of red nucleus neurons
+
+-
