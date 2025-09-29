@@ -17,7 +17,7 @@ beyond the Betz cells when we think of non-voluntary!!!
 	- all the things that control movements and interneurons, other feedback loops 
 
 1. extrapyramidal system - modulation of truncal tone, posture, balance, equilibrium, cooordination 
-![[Screenshot 2025-09-28 at 3.45.34 AM.png]]
+![[pyramidal and extrapyramidal nuclei.png]]
 	- works and intercepts pyramidal system commanding or works off the return info from sensory systems
 	-  **doesn't innervate the alpha neurons directly bc it's not pyramidal system**
 	1. reticular formation - tracts are in midbrain, pons, medulla ... "all the stuff in between"
@@ -45,7 +45,7 @@ beyond the Betz cells when we think of non-voluntary!!!
 				1. axons coming from deep layers of superior clliculus (eye movements + gaze control)
 				2. cross + descend near midline, synapsing on motor neurons in ventral horn of cervical segments, controlling neck + shoulder girdle muscles
 				3. control saccades = quick simultaneous movement of 2 eyes between 2 focal points 
-![[Screenshot 2025-09-27 at 1.53.51 PM.png]]
+![[tectospinal and reticulospinal tract.png]]
 
 recall that flexors are more lateral in cord - CST, rubrospinal, medullary retiulospinal 
 and extensors = anteromedial = vestibulospinal, pontine, reticulospinal 
@@ -55,8 +55,73 @@ and extensors = anteromedial = vestibulospinal, pontine, reticulospinal
 - lesions of corticospinal tracts will leave reticular influences unbalanced.... 
 - vestibular nuclei = excites extensors
 - rubrospinal tract = excite flexors
+![[motor physiology extensors and flexors.png]]
+M1 = motor cortex 
+PRF = pontine (medial) reticular formation
+VN = vestibular nuclei
+MRF = medullary reticular formation 
+RN = rubrospinal tract
 
-decorticate posturing = injury to one side of the balance, 
-- lesion in **brainstem above the red nucleus**
+
+decorticate posturing = injury to one side of the balance, severe the M1 large arrow that was going down to the **flexors as well as the MRF**
+- lesion in **brainstem above the red nucleus**, above the cerebral peduncles 
 - recall rubrospinal tract = more for arm flexin than for legs 
-- if you slide off all the brainstem above - **get rid of all motor cortex function and feeding into stuff: so no more r**
+- if you slide off all the brainstem above - **get rid of all motor cortex function and feeding into stuff**
+- predominant upper flexor and lower extremity extensor function 
+	- **rubrospinal intact = flexor of uppers** = high input of this with any stimulus 
+	- vestibulospinal and pontine reticulospinal intact = extensor of lower extremities are done 
+- if given a bit of stimulus, leg would extend, but rubrospinal tract would overcome that in the upper extremities  and make arms flex 
+- **basically arms flexed, feet and legs pointed**
+
+decerebrate posturing 
+- lesions below the red nucleus 
+- basically cutting the arrow going from rn and downwards from the M1.... so basically no signals from RN, no signals from M1 directly to flexors,a nd no signal from M1 to mrf. 
+- predominant extensors in both upper and lowr extremities
+	- recall: **medullary reticular formation = near extensor UE and LE, so the fact that it's not here = no inhibition of extensor muscles.**
+- guy's laying down, extension of all limbs. 
+---
+cerebellum - 
+- doens't start movement, but makes fine control + coordination 
+- motor + sensory input (cortex, diencephalon brainstem, spinal cord)
+- cerebellar folia = inc processing surface + deep nuclei inside it too 
+1. cerebellar pedunles = where to carry information / where's it from? 
+	1. superior to thalamus to cortex
+	2. middle = to/from pons 
+	3. inferior to/from spinal cord + vestibular nuclei/reticular formation
+---
+basal ganglia/striatum/substantia nigra 
+- basal ganglia = deeper structure in the brain below the white matter, helping coordinate motor function and all that. 
+	- striatum (dorsal + ventral) - input to all this, all the input is from the cortex to here. 
+		- dorsal = caudate + putamen = 		- overall this is good for conscious motor movement and exec function control 
+		- ventral = nucleus accumbens + olfactory tubercle  = limbic system reward. + aversion 
+		- after this activation, it's inhibitory to basal ganglia and substantia nigra pars reticulata 
+	- globus pallidus - input given is **inhibitory** from the striatum, outputting inhibitory stufff both GPi and GPe
+		- externa version will output to the subthalamic nucleus , part of indirect pathway + inibits inhibitor which allows for inhibior excitation to reduce thalamic activity 
+		- output interna to thalamus , art of direct pathway 
+	- ventral pallidum 
+	- subthalamic nucleus - output excitatory to globus pallidus interna and also excitatory to substantia nigra pars reticulata 
+	- substantia nigra externa - will be dopaminergic modulatory from this to the striatum when they need to gt started. 
+		- pars compacta = input from retic activating system, ascending collaterals. 
+		- output is still dopaminergc to the putamen/caudate
+		- pars reticulata = **invol, from striatum + excitatory from STN** = output, will show that it's inhibitory to the trauma 
+- lentiform nuclei = putamen + globus pallidus  
+![[basal ganglia labeled side view.png]]
+thalamus - top of the midbrain and then will relay info everywhere
+basal ganglia right outside the **internal capsule = globus pallidus** and some stuff inside caudate + ventral and inf to thalamus = substantia nigras. 
+![[basal ganglia anterior post view.png]]
+
+caudate = seen deper inside 
+
+note = cortex + substantia nigra pars compacta booth stim dorsal striatum, which wil then stim the basal ganglia 
+- then either gaba or sn combo would enter or inibit
+- this is implicated in nigrostriatal pathway = huge in parkingsons . dopamine issue. give dopamine or shocking 
+
+---
+corticospinal tract - you still have spinal interneurons 
+- more chance if there's not a single alpha motor neuron at the end - there's a lot of spinal interneurons
+- gray matter of cord 
+- rexed laminae 7+8, 
+- all these interneurons are supposed to be for inhibitory help in this to make sure its not too bad 
+
+
+![[motor physiology flowchart.png]]
