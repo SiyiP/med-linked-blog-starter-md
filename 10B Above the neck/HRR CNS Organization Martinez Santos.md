@@ -153,7 +153,7 @@ K spinal accessory n  = **motor , shulder + neck muscles**
 L hypoglossal n  = movements of **tonue, pure motor**
 	test deviation of tongue during protrusion - **tongue will point to side of lesion**
 
-![[Screenshot 2025-09-30 at 1.25.31 PM.png]]
+![[cranial nerve nuclei.png]]
 embryology review: 
 ala = wing = sensory = more posterior 
 basal = > motor nuc 

@@ -61,7 +61,7 @@ some lipids enriched in CNS than other tissues
 - sphingolipidoses - main focal point - accumulation of sphingolipids 
 accumulation of lipids can cause traffic jams and nothing can get in or out or gen toxic things 
 
-![[Screenshot 2025-09-30 at 1.42.44 AM.png]]
+![[sphingolipid breakdown pathways.png]]
 list of storage dz!!! for **defects in sphingolipid metabolism**
 1. fabry dz = alpha-galactosidase A , will accumulate ceramide trihexoside = **only one that's x linked here, all else is AR**
 	1. 2 gal and 1 glucose to a ceramide = ceramide trihexoside.... supposed to make lactosylcerebroside. 

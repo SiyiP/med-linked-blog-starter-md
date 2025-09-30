@@ -1,6 +1,6 @@
 #sensorimotor 
 do passlab 4... ): 
-![[Screenshot 2025-09-30 at 1.15.12 AM.png]]
+![[semicircular canals.png]]
 
 
 vestibulospinal tract

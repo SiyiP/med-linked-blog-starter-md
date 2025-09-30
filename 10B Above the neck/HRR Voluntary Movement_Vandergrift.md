@@ -2,6 +2,7 @@
 
 open vs closed medulla
 This distinction is made based on whether the CSF-containing cavities are surrounded by the _medulla_ (_closed medulla_) _or_ not (_open medulla_). 
+- closed medulla is caudal to the 4th ventricle 
 
 motor control 
 - voluntary , reflexive, unconscious (posture/tone while walking around and all that.)

@@ -35,12 +35,14 @@ there's a half brain!
 - corpus callosum -  fiber fbundle connection 
 - anterior commissure connects corrtex of 2 temporal lobes - a **dot** under the corpus callosum's front? 
 - fornix - column seen.... fiber traveling bt hppoampal complex in temporal lobe + number f ventral structure s- smaller c curve under te corpus callosum 
+	- this will **connect the hippocampus and mammillary body**
 	- this is suspended form under the corpus callosum with the septum pellucidum - very vasculature 
 you see that the preparer's knife has passed through the space of the tall,  
 narrow third ventricle which lies on the midline of the diencephalon. It thus creates a right and left  
 thalamus and hypothalamus that are mirror images of one another 
 - small disc like interthalamic adhesion across thst third ventricle. - sliced thru and we can see the canal of CSF from latera ventrical into the third = interventricular foamen. 
 - aqueduct is a tube through the midbrain which conveniently separates the dorsal part or  tectum from the ventral part or tegmentum. The tectum is made up of two bumps, one in front of the  
+- pontine tegmentum = ventral to the 4th veentricle, containing cranial n nuclei + tract. 
 other, the superior and inferior colliculi
 - The occipital lobe contains the primary visual cortex. Most of the visual cortex lies on the  
 medial side and is buried in the deep calcarine sulcus
@@ -81,7 +83,7 @@ H cerebellum
 A - olfactory bulb (olfactory nerves are severed during brain extraction and left in the nasal cavity. CN I fibers synapse on in the olfactory bulbs.)
 B optic n 
 c oculomotor 
-D trochlear n 
+D trochlear n  - the only CN which exits from dorsal surface at the brainstem/brain. 
 E trigeminal n 
 F abducens n 
 G facial n 
@@ -90,3 +92,9 @@ I glossopharyngeal n
 J vagus n 
 K spinal accessory n 
 L hypoglossal n 
+
+![[caudal pons and cerebellum.png]]
+
+Midbrain tectum is dorsal to the cerebral aqueduct (dashed line) across whre the 4th ventricle would be 
+
+Midbrain tegmentum is the portion below the cerebral aqueduct (dashed line)

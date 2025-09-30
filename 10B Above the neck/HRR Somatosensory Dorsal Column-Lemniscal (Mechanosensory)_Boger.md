@@ -89,7 +89,12 @@ central pathways - conveys **unconscious proprioceptive info from the body**
 	- this will have 2nd order axons which will go ispilaterally by dorsal **spinocerebellar tract, ascending in the lateral column, into the cerebellum**
 - from **upper body**, some mechanoreceptors will **leave dorsal columns, traveling thru the cuneate tract and synapsing in the external cuneate nucleus of medulla** 
 	- 2nd order axon project ipsilaterally thru **inferior cerebellar peduncle to cerebellum**
+	- the external cuneate nucleus would **relay mechanosensory info from cervical region of SC to cerebellum**
 - ascending into the cerebellum for it to correct any movemnt infrmtion, it will send information to the motor cortex. 
 
 consvcious proprioception = voluntary movement due to stimulus, cerebrum. - **dorsal column medial lemniscus pathway**
 unconscious proprioception - activate muscle invol to a stimulous - cerebellum, **dorsal spinocerebellar tract + ventral spinocerebellar tract**
+
+dorsal intermediate sulcus - ending at T2, this whole thing exists in the dorsal column to separate gracile from cuneat fasciculi 
+
+ The _quadrigeminal plate_, also known as the _tectal plate_ or tectum, is constituted by the superior and inferior colliculi.

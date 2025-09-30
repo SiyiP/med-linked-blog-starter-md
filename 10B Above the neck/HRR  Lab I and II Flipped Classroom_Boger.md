@@ -65,3 +65,5 @@ Each Schwann cell produces only a piece of myelin on the axon of a PNS nerve fib
 However, oligodendrocytes myelinate many axons in the CNS, and actually secrete nerve growth inhibiting factors to reduce regrowth of CNS neurons.  Therefore, nerve damage in the CNS is much less likely to be able to repair itself than nerve damage in the PNS.
 
 
+
+**Sacral** cord has a lot of gray matter with a thin rim of white matter. Most descending axons have synapsed before sacral level and few ascending axons have entered.

@@ -45,6 +45,9 @@ gray matter - bodies of neurons **and glia** - can be mapped with nissl stain
 this matter is divided into 3 regions - dorsal, **intermediolateral cell column (pertains to autonomic motor neurons** and ventral
 - ==t1-2 lvls = **sympathetic preganglionic neurons -> white ramus to the sympathetic trunk**==
 - ==S2-4 = **parasympathetic preganglionic neurons**==
+- this is lowkey on the lateral horn of the thoracic segment - will have autonomic motor neurons giving rise to the preganglionic fibers of the sympathetic nervous system. 
+	- recall these are S2-4 motor neurons of the spinal cord 
+- 
 
 topographically organized
 ==motor neurons that are innervating the trunk - more media of ventral horn== 
