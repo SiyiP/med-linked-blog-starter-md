@@ -41,8 +41,60 @@ some lipids enriched in CNS than other tissues
 		3. acquired autoimmune + infectious dz = **multiple sclerosis**
 		4. genetic dz = leukodystrophies, refsum's dz (can't break down brached chain FA, accumulations of these in cells), phenylketonuria
 		5. toxic + nutritional dz = lead poisoning 
-			1. nutritional: vitamin B12 likely would be huge ; neurological symptoms are huge , dx by **inc anti-intrinsic factor antibodies, can't absorb b12 in the **
+			1. nutritional: vitamin B12 likely would be huge ; neurological symptoms are huge , dx by **inc anti-intrinsic factor antibodies, can't absorb b12 due to the parietal cells, like in autoimmune atrophic gastritis**
+				1. single methyl donor reactions in the white matter cause this
+				2. don't have that SAM being made in the body, so catecholamines + making of the sheaths are not there. 
 			2. and B9 if there's no neurological symptoms 
-		6. dz primarily affecting neurons with secondary involvment of myelin: mechanical trauma, infarc, tumors, lysosomal storage dz
-		7. 
+		6. dz primarily affecting neurons with secondary involvment of myelin: mechanical trauma, infarc, tumors, **lysosomal storage dz**
+			1. our neurons are mainly affected by lysosomal storage bc they're meant to be longterm cells with longterm dmg and are dependent on natural turnover of any dmg'd structures
+			2. primary lysosomal HYDROLASE defect - biggest thing - recall that these are meant to break down and clear sphingolipids. most common. 
+			3. acid alpha glucosidase = **pompe's dz**
+			4. alpha - L - iduronidase **hurler's**
+			5. idursulfase **hunters dz**
+	-  **loss of lipids = more water = detected in MRI!!!!**
+	- . sometimes cholesterol esters are MADE by phagocytic cells which are called to clear that debris, since there's no cholsterol esters normally!
+		- **acyl coa cholesterol acyl transferase ACAT, makes a very hydrophobic cholesterol esters,,, indicator of recent dmg*
 - and PC/PE/PS/PI phosphoacylglycerols **higher in gray matter.**
+
+2 major types of lysosomal storage dz 
+- mucopolysaccharidoses - accumulation GAGs 
+- sphingolipidoses - main focal point - accumulation of sphingolipids 
+accumulation of lipids can cause traffic jams and nothing can get in or out or gen toxic things 
+
+![[Screenshot 2025-09-30 at 1.42.44 AM.png]]
+list of storage dz!!! for **defects in sphingolipid metabolism**
+1. fabry dz = alpha-galactosidase A , will accumulate ceramide trihexoside = **only one that's x linked here, all else is AR**
+	1. 2 gal and 1 glucose to a ceramide = ceramide trihexoside.... supposed to make lactosylcerebroside. 
+	2. basicallly will lead to **full bod / localized pain, peripheral neuropath**y, **angiokeratoma**, hypohidrosis - nerve detachment from sweat glands, kidney failure, cardiomyopathy 
+	3. **see kidney failures, 16 years expectancy in males, kidney cells are most impacted**
+2. gaucher dz - glucocrebrosidase defect, makes glucocerebrooside accumulation 
+	1. lactosylcerebroside -> **glucocerebroside**, which u have to try taking that Glc off to make ceramide again 
+	2. 3 forms: non-neuronopathic type 1 , acute infantile neuropathic type 2 , and chronic neuronopathic type 3 
+	3. **hepatosplenomegaly, bone pain, osteoporosis, anemia + neuro symptoms**
+	4. these are common, enzyme replacement thrapy, appearance of this **macrophages that look like crumpled tissue paper.** this is due to glucose accumulation in the macrophages 
+	5. type 2 = end up in die by age 2 
+3. niemann-pick dz - sphingomyelinase - makes accumulate sphingomyelin 
+	1. 2 forms - type a classic infantile and type b visceral 
+	2. **cherry red spot on retina , foam cells, hepatosplenomegaly** and ofc neurodegen. - cherry due to the accumulation of sphingomylin, and the foam cells are due to the **lipid laden environment!!!** -> foam cells make hepatosplenomegaly accumulation 
+	3. the ppl with type A would die in the first 2 years 
+4. tay-sachs - hexosaminidase A - accumulate GM2 ganglioside
+	1. supposed to be broken down from GM2 to GM3.... supposed to remove GALNAC not the sialsilic acid 
+	2. 3 forms = infantile, juvenile, adult/late onset 
+	3. **onion skin appearance in lysosomes!**
+	4. cherry red spot on retina, **developmental delays, and psychomotor stuff - NO HEPATOMEGALY!** - no foam cellls !
+	5. kids with infantile form die in 2-3 years and then go blind first 
+5. krabbe dz - beta-galactocerebrosidase, accumulates galactocerebroside 
+	1. first, sulfatide gets broken into galactocerebroside. 
+	2. but can't make into ceramide from there, can't remove galactose. 
+	3. buildup of this, which is a **toxic metabolite.**
+	4. accumulation of galactocerebroside -> makes **psychosine, neurotoxin!!!**
+	5. progression will cause degen of motor skills, 3-6 months after birth with fever, sizures, muscleweakness, vision loss + slowing development
+	6. **low white cells**
+	7. **globoid cells = occur in brain tissu,e a cell with a whiter rim around it**
+6. metachromatic leukodystrophy - arylsulfatase - accumulates cerebroside sulfate 
+	1. remove sulfate off the sulfatide, making galactocerebroside is normal 
+	2. now that we dont' have that 
+	3. **central + peripheral demylinaten**
+	4. late infantile, juvenile, adults
+	5. symptoms happen after 1st yar of life. 
+
