@@ -135,7 +135,7 @@ c oculomotor n = motor, eye movements, papillary constriction/accomodation, eyel
 - checking oculomotor nuc in midbrain + the edinger westphal nuc 
 D trochlear n  = **mootor, eye movements**
 - can't look down when eye abducted. 
-E trigeminal n = **sensory and motor**, somatic sensation of face, mouth, cornea, but **msucles of mastication**
+E trigeminal n = **sensory and motor**, somatic sensation of face, mouth, cornea, but **muscles of mastication** / jaw muscles 
 - test facial sensation + palpate masseter muscles + temporal muslce 
 F abducens n = **motor, eye movements**
 - can't look laterally 

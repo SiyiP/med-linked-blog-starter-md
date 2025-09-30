@@ -74,14 +74,44 @@ prefrontal cortex - inclusive of supplemental mtor area
 ![[horizontal section of forebrain.png]]
 - caudate nucleus = part of basal ganglia, the corpus striatum, helps with execution of movement 
 - putamen - regulate movement in various stages suc as in prep + execution 
-- globus pallidus - conscious and voluntary movement by inhbitiing thalamus, regulation like such? 
+- globus pallidus - conscious and voluntary movement by inhbitiing thalamus, regulation like such
 
 inside the internal capsule, the **descending motor axons are:**
 - **genu (to the face)** - anterior part of corpus callosum connecting frontal lobes of brain 
 - posterior limb (anterior half of this is for the neck + down, and posterior half of the limb are all sensory axons)
+	- meidal to the posterior limb is the thalamus 
+	- you can see cerebral peduncle at midbrain lvl 
 
 - Descending corticospinal axons travel through the middle 1/3 of the cerebral peduncle.  The lateral 1/3 and most medial 1/3 carries corticocerebellar axons.
 
 The major input of information to the red nucleus is from the cerebellum as part of motor learning, but the motor cortex will send signals to the red nucleus as well to modulate the rubrospinal tract.
 Red nucleus neurons project to the spinal cord forming the rubrospinal tract.-  this is the descending tract that is formed by axons of red nucleus neurons
+- this meaning that **major source of input to red nuc: motor cortex**
 
+**Axons of red nucleus neurons** **descend** to form the **rubrospinal tract,** which **cross just ventral to their exit from the red nucleus.**
+![[brain v brainstem neuroanatomical orientation]]
+
+rostral midbrain 
+![[Screenshot 2025-09-30 at 4.44.10 PM.png]]
+
+the fiber bundle ventral + medial to periaqueductal gray = medial longitudinal fasciculus = MLF 
+- Axons of this bundle ascend and descend between the three oculomotor nuclei.  Connections between the three oculomotor nuclei allow coordination of eye movements.  **Connections between vestibular nuclei and oculomotor nuclei allow eye movements in response to head movement.**
+
+isthmus - midbrain pons junction 
+![[Screenshot 2025-09-30 at 4.48.11 PM.png]]
+axons synapse on pontine nuclear cells in base of pons - the axons that travel to contrallateral cerebellar hemisphee via middle cerebellar peduncle 
+also axons of the corticospinal tract - we see them travel rostrocaudally thru the pons as the corticospinal tract
+axons are axons synapsing on pontine nuclear cells in base of pons = axons traveling to the contralateral cerebellar hemisphere via the middle cerebellar peduncle
+
+The trigeminal motor nucleus of CN V is found just medial to the principal sensory nucleus of CN V.
+	Touch, pressure, and vibration from the face is relayed via the principal sensory nucleus of the trigeminal nerve. 
+	Pain and temperature are relayed from the face via the spinal trigeminal nucleus located at the level of the medulla.
+note - CN V sensory enters & motor exits the brainstem laterally through the middle cerebellar peduncle.
+
+pons 
+![[Screenshot 2025-09-30 at 4.53.45 PM.png]]
+pons + medulla? the junction there 
+![[Screenshot 2025-09-30 at 4.55.08 PM.png]]
+
+vestibular system
+- Lateral vestibular nuclei receive input from the utricle and saccule (respond to position of the head and linear acceleration) & the medial vestibular nuclei receive input from semicircular canals (angular acceleration). The vestibular division of CNVIII carries the activity into the brainstem.
