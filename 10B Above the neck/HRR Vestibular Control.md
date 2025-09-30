@@ -1,4 +1,7 @@
 #sensorimotor 
+do passlab 4... ): 
+![[Screenshot 2025-09-30 at 1.15.12 AM.png]]
+
 
 vestibulospinal tract
  - uniqu - takes sensory info in about proprioeption then the motor respponse
@@ -57,18 +60,48 @@ vestibulocochlear n = will be taken from both the otolithic organs and the semic
 
 3 tracts for vestibulospinal 
 - lateral and inferior vestibulospinal tract 
-	- received input from **utricle + saccul, unilat ipsilateral descending tract.... changes muscle tone in repsonse to gravity** - synaps in lateral vestibular nucleus + sometimes the inferior one. 
+	- received input from **utricle + saccule, unilat ipsilateral descending tract.... changes muscle tone in repsonse to gravity** - synaps in lateral vestibular nucleus + sometimes the inferior one. 
 	- after synapsing with this, will descend as the lateral vestibular spinal tract after the brainstems dorsal side. 
 	- this wil then travel thru ventral columns of spinal cord to aid with postural control 
 - medial + superior vestibulospinal tract: 
 	- gets input from semicirc canals 
 	- synapses in medial vestibular nuclei + superior one. 
 	- this will send **bilateral descending tracts and connections t the cervical level to coordination head neck and shoulder**
-- vestibuloocular tarct - this is unilateral bc it's checking for linear accleration. you rotat both shouders along this axis 
-	- the medial vestibular nuc will send bilareal asceending connections for eye movements.... 
+- vestibuloocular tarct - this is **unilateral** bc it's checking for linear accleration. you rotate both shouders along this axis 
+	- the medial vestibular nuc will send bilateral ascending connections for eye movements.... 
 	- CN III, IV, VI via medial longitudinal fasciculus 
-	- causes eye movement in response to head rotation - nystagmus - 
+	- causes eye movement in response to head rotation - nystagmus - **doll's eyes!!!!**
+		- as you rotate head, your eyes would typically move. 
+		- zip the eyes in that rotation's direction as you move - 
+		- at first when we rotate, try to maintain fixure on obj until **we can't anymore, then we quickly rotate the eyes to readjust = this is the nystagmus**
+		- physiological = due to net flex diff of firing bt 2 sides of movement, first slow then when the eyes reach limit of excursion, rapidly adjust. 
+		- **pathological - spontaneous and erking, when one vestibular n has decreased firing relative to another, there's a constant nystagmus**
 the vestibulo-ocular tract + medial superior vestibulo spinal tracts meet at medulla. 
 
 the vestibular cochlear n = **enters the brainstem at the pontine medullary junction, almost directl into the medulla.**
-- 
+
+we have vestibular nuclei to cerebellum 
+- medial + lateral vestibulospinal tracts will be independent from each othe but also send to cerebellum 
+- medial movement of head, shoulders, eyes, neck - bilateral ascending + descending projections 
+- lateral vestibulospinal tract - postural responses of trunk + limbs - ipsilateral descending position 
+- cerebellum reads to see if there's any errors or not. 
+
+there is a vestibulcerebellar tract - regulation of movements underlying posture + equilibrium 
+vestibular to cortical connections - 
+- cortical connects allow for conscious perception of head position + movement. 
+- sending up to both somatosensory stuff and postcentral lobe for instance to simply perceive this movement, not cause it 
+
+
+pathology: 
+vestibular system disorders
+ - any peripheral vestibuar disorder - anything out side of the brain stem like with vestibular nervee or inner ear structures
+ - Central vestibular disorders - of the CNS that help process blaance + spatial info (brainstem, vestibular nuc, cortex, cerebellum)
+ - dizziness, vertigo(spinning + persception of movement of self/surrounding objs is bad, need to be in a dark quiet room), disequilibrium(unsteadiness, imbalance, loss due to spatial disorientation, need ambulatory aid)
+ - all accompanied with problems with balance + spatial orientation.
+ - sensitive in changes to walking surfaces ): downtown charleston very dangerous 
+1. meniere's disease - **accumulation of water** int he origin of balance, in the vestibular system, **sudden rise in pressure of ear, only in the affected ear**
+	1. no exact cause, but stress + viral infection considered
+	2. sudden onset - vertigo with above the heart, sweating + vomiting for a few min to several hours. 
+	3. tinnitis in one ear + hearing difficulties. bt attacks, tho balance is normal **but hearing loss can persist**
+	4. give low sodium diet, no cafffiene, tobacco, chocolate. 
+	5. treat with motion sickness/anti nausea meds + vestibular rehab. 
