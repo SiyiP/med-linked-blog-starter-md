@@ -1,4 +1,27 @@
 #sensorimotor 
+
+**Tract Organization of the Cervical SC** 
+
+|                                   |                                                                          |                                            |
+| --------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------ |
+| **Motor Tract**                   | **Function**                                                             | **Location in Spinal Cord Column**         |
+| **Lateral Corticospinal Tract**   | Voluntary movement of limbs (especially distal muscles)                  | **Lateral column**                         |
+| **Anterior Corticospinal Tract**  | Voluntary movement of axial muscles (trunk)                              | **Anterior column**                        |
+| **Rubrospinal Tract**             | Facilitates flexor muscles, inhibits extensors (mostly upper limbs)      | **Lateral column**                         |
+| **Reticulospinal Tract**          | Modulates muscle tone and reflexes; posture and locomotion               | **Anterior and lateral columns**           |
+| **Medial Vestibulospinal tract**  | Coordinates head and neck movement                                       | **Anterior column (cervical region only)** |
+| **Lateral Vestibulospinal Tract** | Maintains balance and posture via extensor muscles                       | **Anterior column**                        |
+| **Tectospinal Tract**             | Reflexive head and neck movements in response to visual/auditory stimuli | **Anterior column (cervical region only)** |
+**Tract Organization in the Lumbar SC**
+
+|   |   |
+|---|---|
+|**Motor Tract**|**Function**|
+|**Lateral Corticospinal Tract**|Voluntary movement of limbs (especially distal muscles)|
+|**Anterior Corticospinal Tract**|Voluntary movement of axial muscles (trunk)|
+|**Reticulospinal Tract**|Modulates muscle tone and reflexes; posture and locomotion|
+|**Lateral Vestibulospinal Tract**|Maintains balance and posture via extensor muscles|
+
 passlab 3 
 - Mechanosensory fibers are topographically organized in the dorsal column of the spinal cord with fibers (medial to lateral) from the sacral region being the most medial, then the legs, then the trunk, etc
 - Pain and temp fibers are topographically organized in the lateral column of the spinal cord with fibers (lateral to medial) from the sacral region being the most lateral, then the legs, then the trunk, etc
@@ -53,7 +76,7 @@ prefrontal cortex - inclusive of supplemental mtor area
 - putamen - regulate movement in various stages suc as in prep + execution 
 - globus pallidus - conscious and voluntary movement by inhbitiing thalamus, regulation like such? 
 
-inside the internal capsule, the descending motor axons are:
+inside the internal capsule, the **descending motor axons are:**
 - **genu (to the face)** - anterior part of corpus callosum connecting frontal lobes of brain 
 - posterior limb (anterior half of this is for the neck + down, and posterior half of the limb are all sensory axons)
 
@@ -62,4 +85,3 @@ inside the internal capsule, the descending motor axons are:
 The major input of information to the red nucleus is from the cerebellum as part of motor learning, but the motor cortex will send signals to the red nucleus as well to modulate the rubrospinal tract.
 Red nucleus neurons project to the spinal cord forming the rubrospinal tract.-  this is the descending tract that is formed by axons of red nucleus neurons
 
--
