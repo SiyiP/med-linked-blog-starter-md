@@ -2,6 +2,10 @@
 
 animated pathways in the lecture
 there's many different layers in the cerebellum, but the labs of the nuclei are not covered in the labs
+point = every lesion to cerebellum = the deficit is on the ipsilateral side, since they have to cross over for the change. 
+only exception to this: lesion in the **medial motor system**
+- this is a bilateral disorder, truncal ataxia but the side lesioned has a more pronounced effect.
+
 
 - tentorum cerebelli over it 
 - cerebellum not in genesis of movements
@@ -20,6 +24,8 @@ on the dorsal side, below the thalami - superior colliculi and inferior collicul
 - and posterolateral , anterior region of cerebellum = for flocculonodular 
 	- flocculonodular - 2 flocculi under that cerebral peduncle component 
 	- the F-n lobe lol 
+	- flocculus = ont he side, the bulge, 
+	- nodule of this = is near the midline on the level where the tonsils come out and jut out 
 - anterior and posterior lobes 
 - middle cerebellar peduncle - extends medial to lateral into cerebellum. and a posteriolateral fissure lateral to this. 
 
@@ -72,7 +78,6 @@ cerebellum organization
 	7. and the thalamus sends to premotor + motor cortex on that same side. 
 	8. motor cortex sends motor instructions to the other side as usually 
 
-
 - spinocerebellum pathways - **aiding in ongoing movements bc we get that proprioceptive information here.**
 	- vermal + paravermal regions - more medial 
 	- gets input **direct from spinal cord**
@@ -113,4 +118,54 @@ deep cerebellar nuclei - know these nuclei would send info out of cerebellum for
 - emboliform nuc - interposed nuclei = paravermal region 
 - globose nuclei interposed nuclei = paravermal region 
 - fastigial nuclei - vermal region ! most medial 
-- 
+note - the vestibulacerebelar pathway doesn't really have or involve a deep cerebellar nuc 
+1. granular layer - innermost layer - **mossy fibers from so many diff places send input from these from for instance the pons, spinal cord, etc. EXCEPT the inferior olivary nucleus** synapsse with granule cells 
+2. purkinje layer - middle, each dendritic tree receives input from single climbing fibers from the controlateral **inferior olivary nucleus, part of that motor learning processes**
+	1. the climbing fibrs would climb that purkinje fiber into the molecular layer 
+3. molecular layer - outermost - has purkinje **dendritic tree,s and also 2 inhibitory neurons the stellate and basket cells**
+	1. climbing fibers will go up purkinje processes +
+	2. the projections **of granule cells that** **bifurcate, making the parallel processes which will spread the signals across that cerebellar cortex for appropriate processing**
+- those mossy + climbing fibers also will synapse in the **deep cerebellar nuclei, so they have bilateral input, sending it down to the deep cerebellar nuclei and up towards the cerebellar layers.**
+
+current theory 
+if an error in coding is detected 
+1. mossy fibers - some will synapse into deep cerebellar nuc others will send them up synapsing with granule cells which give the parallel fibers up top 
+2. simultaneously, with motor learning from the inferior olive, inferior olive will give off to the deep cerebellar nuclei as well as clibing those purkinje cells
+3. with **both sets of fibers activated together spontaneously in high voltage fashio, we get LONG TERM DEPRESSION LTD**
+4. LTD -> basically if initiated at the dendritic trees of purkinje cells, the purkinjje cell as a whole is **inhibited**
+5. and the deep cerebellar nucleus that it was synapsed onto would be **activated, so a motor command/correction signal is send outta the cerebellum to its target**
+	1. basically you disinhibit the deep cerebellar nuclei if error correction is necessary, allowing it to shoot out the corrective information 
+	2. if the correction isn't necessary - **there is no heightened firing int he molecular layer and purkinje cells would release GABA into the cerebellar nucleus bc it's not needed!**
+
+any disturbances of posture, equilibrium + gait 
+1. impaired rhythmic movement s- impairment of motor/perpetual tasks that require accurate timing like **finger tapping** (can't do it fast, have to focus on this)
+2. eye movement abnormalities - disruption of saccadic eye movements - **more focused positioning of eyes rather than sharp movements bt 2 focal points bc the superior colliculus and vestibular sends info into it to get eye information**
+3. ataxia - 
+	1. postural/truncal - lesion to the caudal vermis bc of medial motor aspects of systems, unsteadiness of head + trunk when seated, standing and walking poorly corrected by visual stabilization - **drunken sailor gait** - wider stance for stability 
+	2. appendicular ataxia - lesions of intermediate + lateral portions of cerebellar hemisphere - impact **lateral motor systems, ataxia on movement of extremities**-
+		1. touch their nose to finger and back to urs.... if we don't do fast and smooth movements, we have this. 
+		2. lower extremity - test heel to shin test. 
+romberg - testing with 2 feet together, not goonna even be able to happen = still considered negative  
+	3. more of a test of proprioception behavior, DCML. 
+	4. dmg to the dorsal column - offline is the proprioception AND visual input -> falls over. 
+
+---
+cases
+- lesion of vermis most common in kids = **medulloblastoma in roof of 4th ventricle**
+	- intracranial pressure signs = headache, vomit, drowsiness, papilledemia
+	- trunca atasia = unable to stand upright without support... involves vermis + FN lobe - vestibulospinals impacted  
+	- nystagmus eye flutter left and right  - superior cerebellar peduncle impacted 
+- case 2 = chronic alc use 
+	- lesion in the anterior lobe!! shrinkage of this lobe in the cerebellum 
+	- **lower limbs = are most impacted**
+	- staggering drunken gait even when the patient is sober, inability to stand with feet together + inability to toe a line 
+- case 3 - lesion to neocerebellar cortex, dentate nuc, and superior cerebllar peduncal 
+	- incoordination of voluntary movements of upper limbs... **we swing our arms when we walk and wont' have this anymore**
+	- intention tremor (not go away even with movements)
+	- adiadochokinesis, asynergy, hypotonia 
+	- speech impaired with phonics + articulation - lack of coordination with breathing. 
+- not talked abt a lot = link? cognitive-affective syndrome - not understood. 
+	- can be resulted from **posterior cerebellar lobe dmg**
+	- cognitive disfunction - in planning, reasoning, working memory, visuospatial reasoning
+	- mutism too - language deficit , can happen after surgery by just moving cerebellum out the way during chiari surgery ): 
+	- affective disorder - disinhibited behavior etc 
