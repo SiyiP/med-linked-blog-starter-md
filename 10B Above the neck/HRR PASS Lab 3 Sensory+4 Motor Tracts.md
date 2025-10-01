@@ -88,10 +88,14 @@ inside the internal capsule, the **descending motor axons are:**
 - posterior limb (anterior half of this is for the neck + down, and posterior half of the limb are all sensory axons)
 	- meidal to the posterior limb is the thalamus 
 	- you can see cerebral peduncle at midbrain lvl 
+	- middle cerebral peduncle - The middle cerebral peduncle is the major input to the cerebellum, carrying information from cortical areas for error correction.
+	- Correction information is relayed vis the superior cerebellar peduncle to the contralateral thalamus then to the cortex.
+	- The inferior cerebellar peduncle is defined as a structure that connects the cerebellum to the brainstem and is associated with the vestibulocerebellum. It plays a role in **coordinating balance and eye movements**.
 
 - Descending corticospinal axons travel through the middle 1/3 of the cerebral peduncle.  The lateral 1/3 and most medial 1/3 carries corticocerebellar axons.
 
 The major input of information to the red nucleus is from the cerebellum as part of motor learning, but the motor cortex will send signals to the red nucleus as well to modulate the rubrospinal tract.
+
 Red nucleus neurons project to the spinal cord forming the rubrospinal tract.-  this is the descending tract that is formed by axons of red nucleus neurons
 - this meaning that **major source of input to red nuc: motor cortex**
 

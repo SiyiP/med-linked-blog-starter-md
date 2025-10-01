@@ -80,7 +80,9 @@ decerebrate posturing
 	- recall: **medullary reticular formation = near extensor UE and LE, so the fact that it's not here = no inhibition of extensor muscles.**
 - guy's laying down, extension of all limbs. 
 ---
-cerebellum - 
+cerebellum - The folia on the superior side appears to be a continuum across the surface, whereas on the inferior surface. They do not. In addition, the superior surface will be flat compared to the curved shape of the inferior side.
+- Damage to the anterior lobe, which is largely contains the vermis, will cause the patient to stagger or sway from side to side and walks with a broad base, known as an ataxic gait.
+- The primary fissure separates the anterior cerebellum (approx. 1/3 of the cerebellum) from the posterior cerebellum
 - doens't start movement, but makes fine control + coordination 
 - motor + sensory input (cortex, diencephalon brainstem, spinal cord)
 - cerebellar folia = inc processing surface + deep nuclei inside it too 
@@ -104,6 +106,9 @@ basal ganglia/striatum/substantia nigra
 		- pars compacta = input from retic activating system, ascending collaterals. 
 		- output is still dopaminergc to the putamen/caudate
 		- pars reticulata = **invol, from striatum + excitatory from STN** = output, will show that it's inhibitory to the trauma 
+		- ==The substantia nigra regulates/modulates the basal ganglia circuitry by releasing dopamine into the caudate and putamen (aka dorsal striatum).==
+			-  A [white matter](https://en.wikipedia.org/wiki/White_matter "White matter") [nerve tract](https://en.wikipedia.org/wiki/Nerve_tract "Nerve tract") (the [internal capsule](https://en.wikipedia.org/wiki/Internal_capsule "Internal capsule")) in the dorsal striatum separates the caudate nucleus and the putamen.[[4]](https://en.wikipedia.org/wiki/Striatum#cite_note-FERRE2010-4) Anatomically, the term _striatum_ describes its striped (striated) appearance of grey-and-white matter
+			- The dorsal striatum can be further subdivided into the **dorsomedial striatum**, and the **dorsolateral striatum**. ==The dorsomedial region receives projections from the frontal and the parietal cortices. The dorsolateral region receives projections from the sensorimotor cortex==.[[15]](https://en.wikipedia.org/wiki/Striatum#cite_note-Macpherson2019-15)
 - lentiform nuclei = putamen + globus pallidus  
 ![[basal ganglia labeled side view.png]]
 thalamus - top of the midbrain and then will relay info everywhere
