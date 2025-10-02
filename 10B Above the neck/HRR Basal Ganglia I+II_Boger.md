@@ -130,6 +130,7 @@ parkinson's dz = **significant loss of dopamine cells in that substantia nigra.*
 - fluorodopa taken up wayyy less, not lighting anything up at all in imaging 
 - basically **reduction of dopamine into the caudate putamen**
 	you also see **an upregulation of D2 receptors, so more of that upreg of indirect pathway, the stopping**
+lewy body disease 
 
 deep brain stimulation DBS - can implant electrodes to try and mask the symptoms by doing firing. 
 implant electrode into the brain. physician preference, run wire into the generators and then regulate this to normalize motor function and firing. 
@@ -150,5 +151,5 @@ huntington's dz = **hyperkinetic**
 	- more triplicates = more risk of getting it 
 	- ==the brain = has significant atrophy of caudate and striatal structures== 
 	- dementia = atrophy 
-**the D2 contianing medium spiney neurons die off first!!!** = indirect one being impacted first, so excitation and movement working
+**the D2 contianing medium spiney neurons die off first!!!** = indirect one being TURNED OFF = no stop signals vs start 
 - direct pathway upregulation. 
