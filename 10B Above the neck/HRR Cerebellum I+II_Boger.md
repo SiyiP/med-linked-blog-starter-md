@@ -62,7 +62,7 @@ cerebellum organization
 	4. sending signal thru processes that **cross to contralateral side thru middle cerebellar peduncle**
 	5. then synapse in dentate nucleus/and some fibers into the lateral hemisphere 
 		1. if you lesion the R dentate nuc or hemisphere, deficits are **ipsilateral!!! bc the dentate nuc will then send back to the thalamus on the OTHER SIDE... so uncorrected movements get sent to this on the same side.**
-		2. ![[lesion of the dentate nucleus.png|278x216]]
+		2. ![[lesion of the dentate nucleus.png|335x260]]
 	6. **if error corrections necssary** , the dentate nucleus would send signal out following the superior cerebellar peduncle
 	7. cross to the **contralateral thalamus**
 	8. contralateral thalamus sends to the premotor + motor areas 
@@ -97,7 +97,7 @@ cerebellum organization
 	8. then the error corrected version will be sent back into the **contralateral side where the signal was originally from** to correct into the dorsal root ganglion 
 - from the upper extremities = spinocerebellar pathway still 
 	1. entrance of the senses to dorsal root then to spinal cord at cervical lvl ;  
-	2. gets to level of medulla. - **synapse at the external cuneat information = gets unconscious proprioception info**
+	2. gets to level of medulla. - **synapse at the external cuneate information = gets unconscious proprioception info**
 		1. recall - the cuneate nucleus not the external one gets touch, pressure, vibration from the upper extremities. 
 	3. extneral cuneate nucleus sends info **thru ipsilateral inferior cerebellar peduncle into the fastigial / interposed nucleus.**
 	4. eror correction from interposed nuleus into the **contralateral thalamus,**
