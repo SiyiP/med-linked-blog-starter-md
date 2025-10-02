@@ -45,4 +45,8 @@ Pontine nuclei will receive motor information from the ipsilateral cortex. Once 
 
 Remember the corticospinal tract descends through the ventral brainstem as a large fiber bundle. This image is showing the relationship of the structures involved with the corticocerebellar pathway.
 - Most of the axons leaving the cerebellum via the superior cerebellar peduncle synapse in the contralateral thalamus for motor error correction.  There is a small proportion that synapse in the red nucleus that play a role in motor learning (ie. baby learning to crawl).
-- 
+
+how hyperkinetic movement dz develop
+- dmg to subthalamic nuc 
+- results in less inhib of thalamus 
+- unilateral wild flinging movements of extremities contralateral to lesion 

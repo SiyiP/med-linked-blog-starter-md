@@ -75,8 +75,80 @@ direct + indirect pathways of the basal ganglia ...
 - indirect pathway - stop pathway 
 	- inhibit **unwanted movements!! inc tonic inhibition of thalamus mediated via globus pallucidis internus**
 these pathways work together - you point by go pathway that pointer, and then stop pathway everything else 
+big note - **GP will tonically fire AT REST, inhibiting the thalamus with GABA**
 
 
 direct - input directly to regulate the thalamus 
 indirect - bc the caudate / putamen will signal other nuclei to then impact the thalamus 
-- 
+- facilitate movement 
+1. behavioral stimuli 
+2. SN pars compacta releases dopamine!!! D1
+3. DA will bind to the D1 receptors in the striatal medium spinal neurons, and thus stimulating them ; D1R + DA -> **excitatory**
+4. medium spinal neurons of the striatum will release GABA into the globus pallidus internal, inhbiiting it 
+5. bc of that... the VA/VL complex of the thalamus would **be disinhibited, releasing glut into the cortex = voluntary movement**
+
+parkingsons is with the dopamine cell knockout.. keep that in mind. slow and not rearing up 
+- if the activation of the D1R happen, we see reduction of parkingsons symptoms , rearing up 
+
+
+indirect pathway - inhibit  unwanted movemnts, the stop pathway. 
+1. behavioral stimuli 
+2. SN pars compacta release DA into the striatum 
+3. **instead, DA binds the D2R!!! on striatal medium spiney neurons, inhibiting them** so its NOT r***eleasing GABA into the globus pallidus externus*** 
+	1. DA + D2R = inhibition 
+4. typically, the globus pallidus **externus** would be inhibited but now will be allowed for it to **tonically fire!!! releasing GABA into the SUBTHALAMIC NUCLEUS** = tonic firing 
+5. STN will be inhibited!!! by lots of GABA released here
+6. STN will release NO glutamate into the globus pallidus internal segment. = **the globus pallidus internal is inhibited here.**
+	1. ==No input to the GPi (consider it at rest, bc under no NT influence) means the GPi will continue to tonically fire.== 
+7. Globus pallidus internal segment will CONTINUE to release GABA... to the thalamus 
+8. Thalamus tonic firing of the GPi is ==releasing enough GABA into the thalamus to inhibit the thalamus..==.the inhibition of the thalamus means NO glutamate will be released in the cortex...thus NO movement!
+![[basal ganglia indirect and direct pathways.png]]
+
+**The key is remembering that at rest (or under ==no== upstream influence) the GP will tonically fire, causing inhibition of innervated nuclei, in this case the thalamus.**
+
+
+center-surround functional organization of direct + indirect pathways
+- direct = **more central in the cylinder , via caudate/putamin**
+	- very **focal disinhibition of the thalamus**
+- indirect = more of a wider influence, so it'll surround the direct cyinder. 
+	- very suppression and global suppression ... 
+
+basal ganglia motor + non-motor loops (learn more abt these in subsequent blocks)
+- we do have these loops that are there that impact body, mind, emotion/affect. 
+- oculomotor loop - with intent of communcating back tot he cortex 
+- and limbic loop = cortical regions with diff subcortical nuclei, parallell to the motor pathways 
+
+
+parkinson's dz 
+- hypokinetic movement disorder
+- bradykinesia (slow movements), rigidity (stiff) , tremor AT REST - pill rolling strting in the hand
+- postural instability (imbalance)
+
+parkinson's dz = **significant loss of dopamine cells in that substantia nigra.**
+- seen with the eye 
+- typically they los 80% of these cells before they get symptoms. 
+- fluorodopa taken up wayyy less, not lighting anything up at all in imaging 
+- basically **reduction of dopamine into the caudate putamen**
+	you also see **an upregulation of D2 receptors, so more of that upreg of indirect pathway, the stopping**
+
+deep brain stimulation DBS - can implant electrodes to try and mask the symptoms by doing firing. 
+implant electrode into the brain. physician preference, run wire into the generators and then regulate this to normalize motor function and firing. 
+
+in animal models of parkinsons' 
+- MPTP = dopamine neurotoxin injections into animals
+- irregular bursting pattern = **with parkinsons, GPI irregular bursting of them**
+- regular discharge of GPI normalized during STN stimulation
+	- so if you stimulate the subthalamic nucleus thru DBS,,,, the globus pallucidis interna will regularly discharge now. aka -NORMALIZED THE MOVEMENTS??///**
+
+huntington's dz = **hyperkinetic**
+- progressive debilitating - 
+- spontaneous invo movements, dancelike/choreiform movements
+- progressive behavioral changes + dementia 
+- only symptomatic treatment ): 
+- **on chromosome 4 + encodes a cytoplasmic protein huntintin of unknown function**
+	- expansion o CAG that codes for glutamine
+	- more triplicates = more risk of getting it 
+	- ==the brain = has significant atrophy of caudate and striatal structures== 
+	- dementia = atrophy 
+**the D2 contianing medium spiney neurons die off first!!!** = indirect one being impacted first, so excitation and movement working
+- direct pathway upregulation. 
