@@ -239,3 +239,94 @@ proprioception from leg and trunk
 7. brainstem 
 8. brainstem + forebrain lvls 
 9. rostral midbrain 
+
+---
+tbl cases
+case 1 
+- 9th thoracic vertebra 
+- severe dmg to spinal cord
+- UMN paralysis of L Leg , no more touch/pres/joint sense/proprioception on L leg
+	- descending tracts = UMN dmg! 
+	- dmg to ipsilateral lateral corticospinal tract of SC 
+- cutaneous hyperesthesia - around abdominal wall on l side at level of umbilicus 
+	- what causes those **BANDS? the dorsal roots are damaged, so we have an isolated band of loss of pain + temp on inpsilateral to contralateral.**
+	- brown's seclard syndrome ???
+- R side - total **analgesia, thrermoanesthesia of skin of abdominal wall below umbilicus + R leg**
+	- means there's a dmg to the contralateral ALS ! 
+dorsal L column
+he has a L sided spinal lesion, in his entire L side of his cord !!! 
+
+with a T9 vertebral dislocation, the spinal cord lvel dmg'd will be T10... all the way thru T12 ... **bc it still has to descend BEFORE it exits!!!**
+recall - C1-7 exit above corresponding vert, C8 below C7 
+further and further down, spinal n exits progresively lower as you descend hence why T12 was the answer. 
+LMNs = alpha moto neurons that sends it to the low muscles
+
+remember how to diff UMN and LMN lesion!!!
+![[upper motor neuron v lower motor neuron issues.png|481x185]]
+
+---
+case 2 
+- inc muscle tone bilaterally lower extremities
+- prog weakness
+- reducted strengt in hand, wrist bilaterally 
+- severe foot muscles
+- started in extremities + gradually inc 
+- continuous fasciculations
+- atrophy in L hand and wrist muscles bilatrally 
+- babinski sign bresent
+- needs assistance to walk 
+ALS / lou gehrigs 
+
+motor pathways are impacted here 
+presents with both UMN and LMN dmg - 
+- LMN: fasciculations, atrophy, muscle weakness (a symptoms of both)
+- UMN - inc muscle tone, poz babinskis, muscle weakness 
+
+what is the most likely location of dmg??
+- recall - this is impacting the **lower motor neurons!**
+- ==bilateral dmg to ventral horns  = where the gray matter ventral horns is !!!! = where the lower motor neuron bodies are== 
+- recall there's also no loss of sensation so no lateral or dorsal dmg
+
+what dmg is accounting for the UMN signs?? 
+- ==secondary degeneration of CST axons is causing UMN signs = coming from the loss of the LMN, ventral alpha motor neurons in the ventral horn== 
+
+---
+case 3 
+- 17 yo recovered from a COLD
+- weak legs and then progressive weakness in arms 
+- weakness to uppr + lower part of face, 
+- severely weak of all limbs 
+- no stretch reflexes, mod reductin of vibration sensation distally, legs more than arms. 
+- when peripheral nerves stimulated electrically, amplitude nrmal but SLOW conduction velocity 
+- CSF protein high 
+- on ventilator for 3 days then strength back 
+guillain barre?? 
+
+likely dmg'd =- peripheral nerves 
+demyelination 
+large myelinated axons damaged predominantly!!! 
+
+---
+case 4 
+- broad based and unsteady , gait + stance is broad
+- stomping on ground 
+- lying supine + attempting to move = jerky and clumssy, 
+- movement inaccurate with eyes closed but accurate and hard for eyes open 
+- no atrophy, tone normal 
+- proprioception + touch + vibratory absent in toes + ankles + reduced in knees = plurality - basically spinal cord region = **bilateral dorsal columns**
+- pinprick + temp sensation mildly dec in the feet 
+- tendon reflexes absent  in legs
+- **plantar responses are flexor.**
+proprioception absent + somatosensation not there much 
+temp and pain dec in foot mildly ? 
+
+unsteadiness - based on dmg from loss of touch, pressure, vibration + prprioception 
+
+postural/truncal ataxia - lesion of caudal vermis primarily impacts medial motor systems, 
+- usually poorly corrected by the vision 
+- **why is unsteadiness worse in dark? he's using vision to cmpensate for lack of proprioception and loss of touch**
+note: **bilateral dorsal column DEGEN: due to B12 DEFICIENCY with monocytic anemia or TABES DORSALIS - untreated syphilis**
+==pain and temp **mild reduction bc that degeneration would progress into that dorsal horn, acusing a loss more and more of the sensation in pain and temperature!**==
+
+
+**cerebellar lesion patient would have trouble doing finger to nose with EYES OPEN**

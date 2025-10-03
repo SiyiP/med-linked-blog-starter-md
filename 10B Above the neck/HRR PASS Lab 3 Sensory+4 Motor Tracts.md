@@ -141,7 +141,7 @@ pyramidal decussation - where the corticospinal fibers cross hence a horizontal 
 
 ![[descending white matter spinal cord.png]]
 circled parts of the cervical SC 
-![[cervical SC tracts.png]]
+![[cervical spinal cord tracts.png]]
 red = corticospinal tract - major control of voluntary movment 
 - primary vol motor info to skeletal muscles 
 blue = rubrospinal tract - major control of voluntary movment 
