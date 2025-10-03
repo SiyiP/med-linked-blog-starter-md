@@ -1,4 +1,28 @@
 #sensorimotor 
+  
+-Superior cerebellar peduncle - primarily output toward forebrain  
+-Middle cerebellar peduncle - input from **pons**
+- cerebrocerebellar pathway ; on the level of the PONS 
+-Inferior cerebellar peduncle - input from brainstem and spinal cord
+
+midbrain = has the red nuclei in the middle, big circular stuff
+- has a circular opening as the aqueduct 
+- the bumps at the top as the colliculi 
+- middle third 
+- **recall: CEREBRAL PEDUNCLE**
+	- corticobulbar + corticospinals -> travel in the middle 
+	- on the 1/3 on SIDES, the cerebrospinal will travel thru 
+
+periaqueductal gray. = **gets info from the ALS, and then will send out signals to "shut off" that pain**
+
+•Primary inputs to cerebellum –Inferior olivary nucleus –Somatic and muscle receptors (spinocerebellar tracts) •Proprioceptive information –Dorsal nucleus of Clarke –Lateral cuneate nucleus –Mesencephalic nucleus of the trigeminal –Vestibular receptors –Descending motor command information •Primarily from the cerebral peduncle
+
+recall for the tbl - molecular cell layer of cerebellum is on the top, most outer. 
+granule cell layer on the bottom. - very very mossy , small cells 
+- purkinje = inhibitory GABA, largest + perpendicular to folia, axons will leave that cerebellar cortex 
+- mossy granular cells. - glutamate, excitatory 
+external cuneate nucleus - just lateral to the internal normal one... this is gonna be like accessory getting proprioceptive input from C1-4 ipsilaterally 
+
 "one stop shop of all the 10B content"
 refer back to this and overlay pathways!!!
 understand: name these, and then modalities of information and trajectory (crossing points)
@@ -18,6 +42,7 @@ when u lesion, you'd impact everything below or above it?
 	1. in the open medulla: 
 	2. legs most ventral, arms most dorsal. like a sitting upright man 
 	3. ==at the midbrain, ALS is dorsolateral to DCML==
+	4. closer to medial center in the rostral medulla 
 6. then into the VPL - **ventroposteriorlateral** nucleus in the **thalamus**
 7. thalamus relays -> medial side of the somatosensory postcentral gyrus.
 - 
@@ -28,7 +53,8 @@ when u lesion, you'd impact everything below or above it?
 5. ascend thru the **medial lemniscus** on the other side -> medulla, pons, midbrain 
 6. then into the VPL - **ventroposteriorlateral** nucleus in the **thalamus**
 7. thalamus relays -> more **lateralish** side of the somatosensory postcentral gyrus.
-- 
+
+facial: 
 1. trigeminal nerve relayed in mechanosensation-> trigeminal ganglion lateral to pons -> enter via pons
 	- ==synapse in the principle primary nuc of trigeminal nerve **in the pons!**-> **cross at that level**==
 - join and ascend thru the medial lemniscus then the thalamus
@@ -40,21 +66,21 @@ ALS - pain+temp changes pathway in the body - anterolateral system
 2. ==dorsal horn sensory cells send fibers which **cross to contralateral side, ascending thru lateral column of white matter**==
 3. going thru the lateral ALS thru the SC, medulla, pons, midbrain, all the way to the thalamus
 	1. in the medulla - the legs are lateral and face medial 
-4. goes into the **VPL** of the thalamus **bc it's from the legs**
+4. goes into the **VPL** of the thalamus **bc it's from the body**
 5. then to the medial side of the somatosensory cortex 
 -  
 1. at cervical level, Dorsal root ganglion -> synapses on **dorsal horn sensory cells**
 2. ==dorsal horn sensory cells send fibers which **cross to contralateral side, ascending thru lateral column of white matter**==
 3. going thru the contralateral lateral ALS thru the SC, medulla, pons, midbrain, all the way to the thalamus
-4. goes into the **VPL** of the thalamus 
+4. goes into the **VPL** of the thalamus bc it's from the body  
 5. then to the lateral side of the somatosensory cortex 
 
 pain pathway of face!!!
 ![[pain pathway of face.jpeg|277x466]]
 1. pain from face comes thru the **trigeminal n** -> trigeminal root ganglion -> **pons!**
-2. fiber goes **down** via the **spinal trigeminal tract**, going to the **spinal trigeminal nucleus at the medulla**, bc of that elongation from embryonic times. 
+2. fiber goes **down** via the **spinal trigeminal tract**, going to the ==**spinal== trigeminal nucleus at the medulla**, bc of that elongation from embryonic times. 
 3. ==they sent signals that **cross at level of medulla, to then ascend**==
-4. ascend thru the **trigeminothalamic tract**
+4. ascend thru the ***trigeminothalamic* tract**
 5. thalamus VPM , info coming from the face so VPM relays to **most lateral aspect of the cortex.**
 
 ---
@@ -79,13 +105,16 @@ corticospinal and corticobulbular tracts
 5. run down tot he medulla, **thru the medullary pyramids** bc pyramidal cells will send them thru 
 6. ==when they get to **caudal medulla, they cROSS thru the decussation to the contralateral side**==
 	1. 10% stay on the same side, they will **travel down the ventral column on the same side,**
-	2. then the anterior corticospinal tract will **send BILATERAL projections to both sides in the more MEDIAL aspect of ventral horn**
-	3. more medial aspect of ventral horn controls POSTURE/gross truncal muscles, sneding out gross bilateral projections
-7. post-crossing, on the contralateral sid, they go thru the **lateral corticospinal tract -> continues to descend thru the lateral column**
-8. cells innervate the **lateral** cells of the ventral horn 
+	2. then the ==**anterior corticospinal tract** will **send BILATERAL projections to both sides in the more MEDIAL aspect of ventral horn** for postural control!!!!==
+	3.  ==anterior corticospinal tract for the axial muscles, descending down the anterior column in the fold that the tectospinal tract might be in too==
+	4. more medial aspect of ventral horn controls POSTURE/gross truncal muscles, sneding out gross bilateral projections
+7. post-crossing, on the contralateral side, they go thru the **lateral corticospinal tract -> ==continues to descend thru the lateral column**==
+8. ==cells innervate the **lateral** cells of the ventral horn== 
 9. lateral corticospinal tract cells will control the **fine motor control, more distal msucles**
+10. they will exit out the ventral roots 
 
-The trigeminal motor nucleus of CN V is found just medial to the principal sensory nucleus of CN V.
+
+==The trigeminal motor nucleus of CN V is found just medial to the principal sensory nucleus of CN V.==
 
 corticobulbar - tract
 1. precentral gyrus, recall the 6 diff layers of neurons, having **cell bodies of upper motor neurons**
@@ -101,8 +130,9 @@ lateral. -
 - utricle and saccule, so changes muscles due to response to gravity 
 - utricles procc'd while running
 1. utricles send signals via vestibulocochlear nerve CN 8 and then synapse in the **lateral vestibular nuclei**
-2. lateral vestibular nuclei sends **ipsilateral UNILATERAL projections down the VENTRAL column**
+2. lateral vestibular nuclei sends **ipsilateral UNILATERAL projections down the VENTRAL column** - ==this will be a little bit SC goes down ventrolaterally== 
 3. ventral column helps out with posture control + balance. 
+==**vestibular nuclei projects to cerebellum via inferior cerebellar peduncles**==
 
 medial - more from semicircular canals - **we have an vestibulaocular pathway (ends in ocular motor nuclei) and also a vestibulospinal pathway (ends in the cervical spine)**  
 - **causes movement of head + shoulders to coordinate eye + head movements**
@@ -110,13 +140,15 @@ medial - more from semicircular canals - **we have an vestibulaocular pathway (e
 3. synapse in the **medial vestibular nuclei** 
 4. medial vestibular nuclei sends **bilateral projections descending...**
 	1. this new tract is called the **medial vestibulospinal tract!**!!!
-	2. this coordinates head neck shoulder movement so it'll end at a cervical level! 
-	3. note about the vestibulospinal tract - extensors would predominate 
+	2. ==descend in folded ventral column of ventral horn, similar place as tectospinal tract.==
+	3. this coordinates head neck shoulder movement so it'll end at a cervical level! 
+	4. note about the vestibulospinal tract - extensors would predominate 
 5.  medial vestibular nuclei sends **bilateral projections ascending...
 	1. these fibers are **medial longitudinal fasciculus!!! MLF = ascending**
 		1. these are **just ventral + medial to the periaqueductal gray!!**
 		2. see this most clear in the isthmus 
 	2. these will coordinate eye movements nystagmus 
+==**vestibular nuclei projects to cerebellum via inferior cerebellar peduncles**==
 
 ---
 cerebellum pathways summary slides - 3 main pathways; a lesion on the cerebellum itself would impact: the ipsilateral side 
@@ -126,8 +158,8 @@ cerebrocerebellum/corticocerebellum
 2. sending signals thru the internal capsules
 3. thru the middle cerebellar peduncle 
 4. down to the ipsilateral pons -> **activation of the pontine nuclei**
-5. **pontine nuclei cross to the contralateral side** to the lateral hemisphere of cerebellum via the **middle cerebellar peduncle**
-6. lateral hemisphere of cerebellum  = **dentate nucleus**
+5. ==**pontine nuclei cross to the contralateral side** to the lateral hemisphere of cerebellum via the **middle cerebellar peduncle**==
+6. lateral hemisphere of cerebellum  = **dentate nucleus** = ==most dense connections to limb msucles + highly skilled movements==
 	1. if **corrections needed, sending out via superior cerebellar peduncle to**
 	2. **contralateral thalamus's AND RED NUC if we have to LEARN** 
 	3. thalamus sends back to origin 
@@ -137,7 +169,8 @@ part 2: learning:
 	6. motor cortex finds out it has to learn after signals from dentate nucleus hits... so 
 	7. signals into that **red nucleus, ipsilaterally of the cortex/on the other side of that dentate nucleus, facilitation of flexors AND motor learning**
 		1. red nucleus would also innervate the flexors in the rubrospinal tract, where flexors of upper limb would predominate. 
-		2. Axons of red nucleus neurons descend and cross j ventral to their exit from red nucleus 
+		2. rubrospinal track ==descends thru lateral column, slightlly ventral of corticospinal==
+		3. Axons of red nucleus neurons descend and cross j ventral to their exit from red nucleus 
 	8. red nucleus sends signals into the inferior olivary nucleus on its side, 
 	9. inf olivary nucleus sends info to the **CONTRALATERAL dentate nucleus/lateral hemisphere via the INFERIOR CEREBELLAR PEDUNCLE.**
 	10. dentate sends from the info to the **red nucleus back there contralaterally via the Superior cerebellar peduncle!!*
@@ -149,12 +182,16 @@ spinocerebellar tract - unconscious proprioception of body
 ![[fastigial nuc lesion.png]]
 1. proprioceptive info from leg go into dorsal root ganglion 
 2. dorsal root ganglion go into the **thoracic level of cord ascending into clarkes nucleus**
-	1. note: in the UPPER extremities we'd instead synapse in the **external cuneate nucleus in the medulla, which is diff from the regular cuneate nucleus** ... 
+	1. ==note: in the UPPER extremities we'd instead synapse in the **external cuneate nucleus in the medulla, which is diff from the regular cuneate nucleus** ...== 
+		1. this is more lateral 
+		2. ==will be sending it thru the **inferior cerebellar peduncle**==
 	2. this has the same effect sending that info thru thru ipsilateral inferior cerebellar peduncle into the fastigial / interposed nucleus
 3. clarke's nucleus takes that information and **sends it up the spinal cord thru the LATERAL column**
 4. and then at the medulla - the fibers **enter into cerebellum via INFERIOR CEREBELLAR PEDUNCLE**
 5. this information would travel via that into the **vermal paravermal region of this**
 6. info will synapse in **interposed/fastigial nucleus** - sends that error corrected information OUT of the cerebellum 
+	1. fastigial nuc = most dense connections to vermis/**proximal** muscles
+	2. interposed nuc = more dense connections to intermediate zone/**distal** muscles 
 7. this corrected information goes from the superior cerebellar peduncle to **contralateral thalamus**
 8. contralateral thalaus sends information to the cortex which sends it out on the other side.. the error corrected version will be sent back into the **contralateral side where the signal was originally from** to correct into the dorsal root ganglion 
 
@@ -176,12 +213,19 @@ indirect. = D2R ... modulation and what ends up happening
 - this will inhibit the STN... 
 - STN cannot excite that globus pallicus internal segment!!!
 - therefore not much is going into the VA/VL complex of thalamus to activate it at all. 
-[[tectospinal and reticulospinal tract.png]]
 
-rubrospinal tract 
+![[tectospinal and reticulospinal tract.png]]
+- tectospinal tract = will descend from superior colliculus of midbrain, ==ends at cervical level==
+- cross immediately 
+- ==descends in SC at the **most ventral aspect, tucked in the fold of the ventral horn!!!**==
 
-vestibulospinal tract 
+reticulospinal tract = locomotion, posture control 
+- from pontine reticular formation 
+- and medullary reticular formation 
+- both go down unilaterally 
+- medial intermediate zone and ==most front part of SC==
 
+![[descending white matter spinal cord.png]]
 
 ---
 symptoms from this one lesion??

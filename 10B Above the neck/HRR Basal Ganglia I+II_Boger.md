@@ -135,7 +135,7 @@ lewy body disease
 deep brain stimulation DBS - can implant electrodes to try and mask the symptoms by doing firing. 
 implant electrode into the brain. physician preference, run wire into the generators and then regulate this to normalize motor function and firing. 
 
-in animal models of parkinsons' 
+in animal models of parkinsons' = hypokinetic 
 - MPTP = dopamine neurotoxin injections into animals
 - irregular bursting pattern = **with parkinsons, GPI irregular bursting of them**
 - regular discharge of GPI normalized during STN stimulation
@@ -151,5 +151,5 @@ huntington's dz = **hyperkinetic**
 	- more triplicates = more risk of getting it 
 	- ==the brain = has significant atrophy of caudate and striatal structures== 
 	- dementia = atrophy 
-**the D2 contianing medium spiney neurons die off first!!!** = indirect one being TURNED OFF = no stop signals vs start 
-- direct pathway upregulation. 
+==**the D2 contianing medium spiney neurons die off first!!!** = indirect one being TURNED OFF = no stop signals vs start== 
+- direct pathway upregulation, indirect path gone. 
