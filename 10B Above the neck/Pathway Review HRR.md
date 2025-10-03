@@ -15,6 +15,9 @@ when u lesion, you'd impact everything below or above it?
 3. in the medulla, we synapse in the gracile nucleus (more medial)
 4. ==when activated gracile nucleus of medulla sends to **contralateral side**==
 5. ascend thru the **medial lemniscus** on the other side -> medulla, pons, midbrain 
+	1. in the open medulla: 
+	2. legs most ventral, arms most dorsal. like a sitting upright man 
+	3. ==at the midbrain, ALS is dorsolateral to DCML==
 6. then into the VPL - **ventroposteriorlateral** nucleus in the **thalamus**
 7. thalamus relays -> medial side of the somatosensory postcentral gyrus.
 - 
@@ -27,15 +30,16 @@ when u lesion, you'd impact everything below or above it?
 7. thalamus relays -> more **lateralish** side of the somatosensory postcentral gyrus.
 - 
 1. trigeminal nerve relayed in mechanosensation-> trigeminal ganglion lateral to pons -> enter via pons
-- synapse in the principle primary nuc of trigeminal nerve **in the pons!**-> **cross at that level**
+	- ==synapse in the principle primary nuc of trigeminal nerve **in the pons!**-> **cross at that level**==
 - join and ascend thru the medial lemniscus then the thalamus
-- in the thalamus activate on the VPM -> most lateral somatosensory cortex 
+- ==in the thalamus activate on the VPM!!!! and then will get sent to -> most lateral somatosensory cortex== 
 ---
 ALS - pain+temp changes pathway in the body - anterolateral system 
 ![[ALS pathway levels.png]]
 1. from the lower body, -> Dorsal root ganglion -> synapses on **dorsal horn sensory cells**
 2. ==dorsal horn sensory cells send fibers which **cross to contralateral side, ascending thru lateral column of white matter**==
 3. going thru the lateral ALS thru the SC, medulla, pons, midbrain, all the way to the thalamus
+	1. in the medulla - the legs are lateral and face medial 
 4. goes into the **VPL** of the thalamus **bc it's from the legs**
 5. then to the medial side of the somatosensory cortex 
 -  
@@ -54,7 +58,6 @@ pain pathway of face!!!
 5. thalamus VPM , info coming from the face so VPM relays to **most lateral aspect of the cortex.**
 
 ---
-
 motor control 
 upper motor neurons - descending systems - motor cortices/brainstem centers 
 - motor cortex, <- basal ganglia feed in for proper initiation via the premotor areas etc. 
@@ -71,6 +74,7 @@ corticospinal and corticobulbular tracts
 1. precentral gyrus, recall the 6 diff layers of neurons, having **cell bodies of upper motor neurons**
 2. send signals down via white matter region = **posterior limb of the internal capsule**
 3. fibers continue to descend thru the **midbrain** via the **middle third of the cerebral  peduncle**
+	1. in the cerebral peduncles, ==axons for face most medial, leg more lateral==
 4. fibers get bundled into the **pontine fiber bundle of the middle pons**
 5. run down tot he medulla, **thru the medullary pyramids** bc pyramidal cells will send them thru 
 6. ==when they get to **caudal medulla, they cROSS thru the decussation to the contralateral side**==
@@ -80,7 +84,9 @@ corticospinal and corticobulbular tracts
 7. post-crossing, on the contralateral sid, they go thru the **lateral corticospinal tract -> continues to descend thru the lateral column**
 8. cells innervate the **lateral** cells of the ventral horn 
 9. lateral corticospinal tract cells will control the **fine motor control, more distal msucles**
-- f
+
+The trigeminal motor nucleus of CN V is found just medial to the principal sensory nucleus of CN V.
+
 corticobulbar - tract
 1. precentral gyrus, recall the 6 diff layers of neurons, having **cell bodies of upper motor neurons**
 2. send signals down via white matter region = **posterior limb of the internal capsule**
@@ -108,6 +114,8 @@ medial - more from semicircular canals - **we have an vestibulaocular pathway (e
 	3. note about the vestibulospinal tract - extensors would predominate 
 5.  medial vestibular nuclei sends **bilateral projections ascending...
 	1. these fibers are **medial longitudinal fasciculus!!! MLF = ascending**
+		1. these are **just ventral + medial to the periaqueductal gray!!**
+		2. see this most clear in the isthmus 
 	2. these will coordinate eye movements nystagmus 
 
 ---
@@ -129,6 +137,7 @@ part 2: learning:
 	6. motor cortex finds out it has to learn after signals from dentate nucleus hits... so 
 	7. signals into that **red nucleus, ipsilaterally of the cortex/on the other side of that dentate nucleus, facilitation of flexors AND motor learning**
 		1. red nucleus would also innervate the flexors in the rubrospinal tract, where flexors of upper limb would predominate. 
+		2. Axons of red nucleus neurons descend and cross j ventral to their exit from red nucleus 
 	8. red nucleus sends signals into the inferior olivary nucleus on its side, 
 	9. inf olivary nucleus sends info to the **CONTRALATERAL dentate nucleus/lateral hemisphere via the INFERIOR CEREBELLAR PEDUNCLE.**
 	10. dentate sends from the info to the **red nucleus back there contralaterally via the Superior cerebellar peduncle!!*

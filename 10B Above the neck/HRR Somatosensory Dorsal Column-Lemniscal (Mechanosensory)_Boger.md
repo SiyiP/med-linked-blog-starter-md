@@ -92,7 +92,7 @@ central pathways - conveys **unconscious proprioceptive info from the body**
 	- the external cuneate nucleus would **relay mechanosensory info from cervical region of SC to cerebellum**
 - ascending into the cerebellum for it to correct any movemnt infrmtion, it will send information to the motor cortex. 
 
-consvcious proprioception = voluntary movement due to stimulus, cerebrum. - **dorsal column medial lemniscus pathway**
+conscious proprioception = voluntary movement due to stimulus, cerebrum. - **dorsal column medial lemniscus pathway**
 unconscious proprioception - activate muscle invol to a stimulous - cerebellum, **dorsal spinocerebellar tract + ventral spinocerebellar tract**
 
 dorsal intermediate sulcus - ending at T2, this whole thing exists in the dorsal column to separate gracile from cuneat fasciculi 
