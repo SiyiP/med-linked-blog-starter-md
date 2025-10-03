@@ -46,11 +46,48 @@ central pain syndromes
 		1. due to irritable peripheral nociceptors w/ inc input to SC 
 	8. subtype: **continuous** pain: **sensory loss** 
 		1. deafferentation and reorg of spinal cord 
-	9. TREAT: pre
+	9. TREAT: prevention is key: zoster vaccine - 50+ or immunocompromised 19+ 
+		1. 90% effective at prevention + effective for 7 yrs 
+		2. **start antiviral med asap = acyclovir, valacyclovir, famciclovir**
+		3. first line = lidocain, gabapentin + pregabalin 
+		4. 2nd line = antidepressants, opiods, tramadol, capsaicin 
+		5. noninvasive conservative care = cold therapy, e-stim, acupuncture, therapy 
 
+3. phantom limb pain
+	1. common causes **post-amputation , typically due to vascular dz and trauma**
+	2. 2 key types of chronic pain: residual limb pain and phantom pain 
+	3. phantom limb pain - unpleasant and pain in area of missing limb, happens to everyone who might get amputated 
+		1. **huge RF for someone with pain in that limb, pre-existing pain in that limb already**
+	4. residual- stump pain - localized at stump made worse with traction/pressure, like ill fitting prosthesis 
+	5. sensations = basically every amputee, but nonpainful. 
+	6. **telescoping - progressive shortening of the phantom body part so distal part of limb is more proximal** 
+	7. **cortical reorganization happens** - areas of cortex representing the amputated area are taken over by neighbor regions = fMRI shows this, the more, the more pain. 
+	8. spinal reorgs too!!! due to loss of inhibitory effects of sensory input from deafferentation injury 
+	9. phys exam - look at residual tissue and skin on the stalk + check for tenderness - 
+		1. liek a poz **tinel's sign = neuroma**
+		2. lab testing not indicated unless infection suspected, visualization of neuroma for imaging. 
+	10. TREAT: PT and OT for gait and postural issues, give better prosthesis 
+		1. mirror therapy is complementary and alternative 
+		2. CBT 
+		3. peripheral nerve blocks and radiofreq ablation for residual limb pain only 
+		4. maybe rTMS and tDCS to alter neuronal activity 
+		5. interventions = last resort, with spinal cord stimulation at dorsla horn to **enhance descending pain inhibition**, maybe peripheral n stimulation and stimulation of sensory thalamus + periaqueductal gray 
+	11. MEDS: somatic pain with NSAIDs, acetaminophen, low opioids immediate postop, 
+		1. neuropathic pain - anticonvulsants SNRI, TCA
+		2. NMDA antagonists - **ketamine might help with disorders of central sensitization**, limiited by SEs. 
+	- prevention: - mixed in doing it 48 hrs be4 surgery - a LA epidural infusion blockage. might do this with ppl with pre-existing pain. ??? 
 
-
-3. 
-4. phantom limb pain
-5. thalamic pain syndrome 
-6. 
+4. thalamic pain syndrome 
+spinal thalamic tract = ALS 
+	1. "post stroke pain"
+	2. vasc dmg in CNS , mainly thalamus-> pain in coresponding areas, mainly on **hemiplegic side = paralyzed.** aka contalateral 
+		1. thalamus loss of GABA inhibitory neurons = **activation of cortical areas resulting in pain** 
+		2. ectopic discharges happen in various neurons along the 
+	3. **6 months post CVA**
+	4. allodynia, hyperalgesia, somatosensory disturbances,
+	5. evolves slwly  , pain to the **contralateral to the centrallesion + mainly in upper extremities**
+	6. pins and needles, tingling, burning, numbness. 
+	7. change in temp, stress, movement makes it worse. 
+	8. exam: dec sensitivity to cold, dec pinprick with preserved vibration 
+	9. **injury to spinothalamic tract , losing the temp and pinprick sensation but preserved DCML**
+	10. TREAT: multidisc, mood + sleep, CBT, anticonvulsants, antidepressants, tramadol, NMDA antagonist like **ketamine** 
