@@ -80,6 +80,18 @@ pain management
 
 realistic goal/expectations - no pain is not real 
 
+physical help 
+- patient centered self administrated. PT, OT, referral helps so much 
+- ice + heat
+- tai chi - **highlighted over and over in our data helps with strengthening + stretiching**
+
+psychological/behavioral. 
+- meditations , acceptance and commitment therapy 
+- mindfulness 
+- CBT 
+- biofeedback, coping strategies art therapy, musc, pet therapy 
+
+
 
 
 
