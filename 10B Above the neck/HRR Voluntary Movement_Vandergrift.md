@@ -51,6 +51,8 @@ primary motor cortex = M1
 	- largest neuron 
 	- layer V 
 	- 10% of Primary cortex output to hte spinal cord
+	- **they're just rlly big pyramidal cells, with huge dendrites + long axons**
+	- 5th layer of cortical mantle but only make up 10% of layer V of the primary motor cortex that would project to the spinal cord. only a small amount though. 
 - agranular = lacks the layer IV 
 - sulci + gyri individual but preserved
 - somatotopical organization - homunculus - 
@@ -65,6 +67,9 @@ the homunculus is the same kinda as the somatosensory's
 - hand knob - sometimes there's a characteristic little posterior bend in the motor strip gyrus (seen in top down view?)
 
 pyramidal tracts - some are 2 nerve system 
+- not just BETZ cells, **but pyramidal cells are their own thing, sorta conically shaped cell body... seen in the primary motor cortex, hippocampus amygdala**
+- named from the pyramidal cell shape, passing thru the medullary pyramids... 
+- corticospinal tract **plus the corticobulbar tract. together**
 - basically BETz cells descending - > pyramidal tracts going down, upside down pyramid shape or a fan shape as the cells signasl descend to the medulla 
 - **they descend to synapse on spinal cord at exiting level.**
 	- alpha motor neurons - **cell body in the ventral horn of the spinal cord that takes the message out.**
@@ -92,6 +97,8 @@ mneumonic
 L for lateral, L for leg, in the posterior limb of the internal capsule 
 
 in the corticospinal tract....
+- the cortical output all the stuff that will go down and synapses on the ventral horn **interneuron/alpha motor neuron system for voluntary control**
+- 1/3 of it from the primary motor cortex (goes thru the posterior limb of internal capsule, the 1/3rd of midbrain cerebral peduncle which turns into medullary pyramids, and then most of them going thru the decussation, having the lateral and anterior corticospinal tracts.), 1/3 premotor SMA , and then 1/3 somatosensory and cingulate. 
 - the crus cerebri = the midbrain cerebral peduncle 
 - going from the white matter of posterior limb, going into the ventrolateral aspect of cerebral peduncle , descnding into the pons 
 - midbrain cerebral peduncles, Lateral, trunk, and arm/band 
@@ -138,4 +145,8 @@ corticobulbar tracts - for brainstem motor nuclei
 
 upper motor v lower motro neuron 
 - proximal to alpha motor neuron = upper motor neuron 
+	- basically this is important for vol and invol stuff that would synapse on the interneurons/alpha motor nueron system 
+	- all the pyramidal tracts plus invol systems
+	- involuntary system s= extrapyramidal 
+	- posture tone thing = unconscious stuff , **rubospinal, tectospinal, vestibulospinal tracts... those are upper motor neurons as well.**
 - distal to alpha motor neuron = lower motor neuron 
