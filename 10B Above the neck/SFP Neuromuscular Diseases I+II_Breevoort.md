@@ -53,9 +53,34 @@ electrodiagnostic testing is huge in finding out where it's at. an extension of 
 	1. Myasthenia gravis - 
 		1. antibdies of ACH **postsynaptic receptors.**
 		2. anticholinesterase inhibitors are huge .... 
-		3. 80% have IgG against the ACH receptors... but 10% have anti-**MuSK prote**
+		3. 80% have IgG against the ACH receptors... but 10% have anti-**MuSK proteins assocciated with the receptor...** and some are questionably seronegative. 
+		4. **this is BIMODAL age of onset, women under 40 and then older men!!**
+		5. **extraocular weakness with ptosis droopy and diplopia, later will develop limb + bulbar muscle weakness** - 
+		6. huge is **fatigability of weakness, WORSENING of the disease and weakness after sustained contraction!!!**
+		7. also **tendon reflex + sensory normal**
+		8. MuSK myasthenia gravis
+			1. occular, facial and bulbar involvement = eyebrow droop, smoothing forehead + droopy mouth. 
+			2. acute with **rapid progression in weeks, and early respiratory crises!!!** tachycardia, reduced sounds, immeinently get to hospital, use FVC 
+			3. muscle atrophy is seen!! symptoms no fluccuation and no response to ACHesterase inhibitors 
+		9. DX - EMG single fiber gold standard, single nerve stimulated multiple times to see decrement in response (fatigability)
+		10. chest CT - 10-15% have **associated thymoma!!**
+		11. avoid exacerbating factors: infections, trauma, pstop stress, withdrawal of inhibitors, **using steroids TOO rapidly,** electrolyte imbalance , anemia, and **gentamicin, chloroquine, succinylcholine, botox**
+		12. TREAT: **pyridostigmine - blocks acetylcholinesterase.... cholinergic AEs abdominal cramps, diarrhea, inc sweating sludge**
+			1. fixed deficits ptosis and diplopia opthalmic 
+		13. maintinence treatmet - **prednisone - bc autoimmune. titrate it slowly**
+		14. thymonectomy only for ppl with thymomas 
 	2. LEMS
-		1. lambert eaton - autoantibodies against **CA2+ channels, blocking the calcium influx, therefore preventing the ACH release.**
+		1. lambert eaton - presynaptic; autoantibodies against **CA2+ voltage gated channels, blocking the calcium influx, therefore preventing the ACH release.**
+		2. rare dz, idiopathic or **paraneoplastic like SMALL CELL LUNG CARCINOMA**
+		3. will precede cancer dx by up to 2 years, will have to monitor the development of cancers
+		4. tumor associated, 58-60  and nontumr 35 and late 50s 
+		5. prognosis varies. muscle strength at initial eval= only factor that can predict long term dz control. 
+		6. **proximal leg + arm weakness, NO BULBAR weakness AND respiratory weakness is rare**
+		7. in exam room seems nearly normla 
+		8. **autonomic dysfunction = dry mouth and eyes!!!!**
+		9. **reduced reflexes!! is huge, know that reflex test FIRST, bc they improve after brief exercise**
+		10. anti-P/Q type calcium channel, majorty of limbs poz, but 15% are seronegative. 
+		11. congenital myasthenic syndromes - inherited disorders caused by mutations in genes encoding for proteins essential for integrity of neuromuscular transmission - **fatigable muscle weakness**; will be classed on location of mutation, presynaptic, synaptic, post-synaptic ... variable
 4. inflammatory disorders of peripheral nerve- > polyradiculoneuropathies
 		1. inflammation of the myelin sheath **proximally at root and distally along the peripheral nerve - > prox and distal signs and symptoms early and areflexia**
 	1. AIDP - acute inflammatory demyelinating poly neuropathy - this is guillain barre 
@@ -88,5 +113,89 @@ electrodiagnostic testing is huge in finding out where it's at. an extension of 
 		4. classically - **high arches, hammer toes with chronic muscle loss , thinning of calves, family hx autosomal dom, chronic and slowly progressive**
 		5. NO neuropathic pain, only loss of **large fiber nerves... distal motor weakness is predominant, atrophy too**
 		6. hearing loss is common 
+hereditary myopathies
+- myopathy itself is not realated to dz in innervation nor NMJ
+- can be impairments to biochem procsses or structure of muscles itself. 
+1. dystrophinopathis - most often 
+2. duchenne + beckers - dystrophin X chromosome
+	1. DMD - early age of onset, de novo and frameshift mutations 
+	2. BMD - no frameshift, and variable age. less extreme 
+		1. presenting later in adolsence
+		2. variable, slowly progressive, still soem dystrophin protein
+		3. **not uncommon - heart failure as presenting sign**
+		4. female carriers - asymptomatic, cardiac disease signs tho ): 
+	3. dystrophin - is in skeletal and cardiac and brain + retina (cognitive and eyesight impairment).  this will help you link the muscle to the ECM ... important for contraction - we get loss of this = muscular breakdown 
+	4. calf enlargement - **pseudohypertorphy, fat deposits**
+	5. gower's sign = climb their hands up their legs, and then lose abiilties + most kids don't live beyond 30s and later now
+	6. myopathic gait - seeing a wiggle of pelvis, "strutting, toe walkig"
+3. limb-girdle muscular dystrophy 
+	1. progressive **proximal muscle atrophy + weakness in shoulder + hip girdle**
+		1. AD forms = LGMD1 - tend to have older age of onset, slow progression, minimal to no elevations of CK (muscle breakdown) 
+		2. AR forms - LGMD2 younger age + faster prog, CK elevation and more prevalent 
+	2. clinically - **hard reaching overhead, lifting objs off floor, hard to get off floor, stairs**
+	3. legs giving out 
+	4. resp weakness can follow after losing ambulation, and cardiomyopathy might develop but may be spared. 
+4. myotonic muscular dystrophy 
+	1. DM1 and DM2
+	2. DM1 = CTG repeat in DMPK autonosomal dom !!!! **50-1000 CTG repeats** and longer repeat = early symptoms + more severe
+		1. **faical waeakness, ptosis, prox truncal weakness and distal limb muscles**
+		2. myotonia is huge - grip myotnia and jaw clenching oromandibular myotonia 
+	3. DM2 = no correlation bt repeat lenght ... 
+		1. weakness of neck flexion, more **proximal, myotonia less common, but cramping and muscle pain**
+		2. oftn misdx with fibromyalgia 
+	4. both intefere with RNa splicing , multisystem dz 
+	5. anticipation - can be congenital, floppy baby dz, cognitive difficultieis , 
+	6. genetic testing and eveyrhitng helps 
+	7. myotonia - **meaning muscles will contract but can't uncontract or relax!!!!!** due to alterations of chloride channel. 
+	8. both get **cataracts and cardiac arrhythmia sudden deaths - might get this in their family!!!**
+	9. **tent mouth - congenital from facial eakness**
+	10. hatchet face = frontal balding and temporal wasting seen frontal balding
+	11. shank sign - proximal weakness. 
+	12. percussion myotonia - seen with hitting the muscle and grip myotonia - if they grip hard, the grip would stay. 
+skeletal muscle channelopathies - 
+- inability of msucle to contract/relax - flouride , sodium, potassium channels
+	- **hallmark - episodic aka paroxysmal, improving after activities**
+	- commonly **leg muscles impacted in case of myotonia**
+	- usually subtle - episodes of weakness, coach gives salt tablets and all that 
+	- **hyperkalemic disorders** = any time, mins to hours, high K+ foods, rest after exercise, cold, SCN4A
+	- **hypokalemic** - night/early morning, hours to days, high carb meals, sustained exercise, thyrotoxicosis, CACNA1S/SCN4A
+	- we see **paralysis!!! usually but not all weakness is paralysis**, weakness can be task specific and limited to one spot 
+	- typically normal in paralysis but some get proximal myopathy 
+	- in mytonia - **stiff gait pattern.**
+	- now we do genetic stuff
+	- TREAT: avoid symptom triggers + lifestyle , low intensty and low resistance training.... 
+	- long term acetalzolamide 
+- non-dystrophic myotonia
+- periodic paralysis = episodes of weakness. 
+- metabolic myopatis - FA oxidation, glycogen storage, mt metabolism 
+1. glycogen storage dz - Mcardle  or pompes disease 
+	1. **mcardles - mutation in myophosphorylase, most common metabolic myopathy**
+		1. getting symptoms within first seconds to minutes of activities
+		2. rhabdomyolysis, acute risk in CK 
+		3. cramping begins and can be alleviated by reducing intensity or resting and then careful resuming - **2nd wind phenomenon**
+		4. childhood hx of pigmenturia, SOB, **fewer symptoms after high carb meal...**
+2. FA ox defect - carnitine palmitoyl transferase 2 deficiency , VLC acyl-coa DH deficiency 
+	1. CPT2 deficiency 
+		1. **exercise induced myalgia not cramping...**
+		2. delayed muscle soreness!!!
+		3. fasting, prolonged exercise or illness precipitates sickness, 
+		4. tREAT: avoid dz triggers + most tolerated resistance exercise or short burst type activity 
+		5. **eat higher carb foods immediately be4 exercise** 
+3. mt myopathy - mtDNA mutatins like melas, cytb, cytc oxidase 
+
+in muscle metabolism we often use glucose in short duration and 
+- carbs = higher intensitives; main source of this from **glycogen**
+- free fatty acid breakdown = longer duration endurence 
+
+1. friedreich Ataxia - most common AR ataxia 
+	1. GAA repeat on **frataxin gene** - this assists in formation of **iron sulfur clusters acting as coffactors in the ETC!!!**
+	2. age of onset + severeity related to repeat length 
+	3. affects: dorsal root ganglia, spinocerebellar tracts + posterior columns!!!
+		1. gait + limb ataxia, dysarthria, sensory changes, areflexia and weakness
+		2. **nonneurologic symptoms from ETC meddling - diabetes, sensorineural hearing loss, scoliosis, cardiomyopathy**  ; disruptions in endocrine system. 
+		3. degen - **lateral corticospinal tract = spastic paralysis** ,
+		4. spinocerebellar tract (ataxia)
+		5. dorsal columns - sensory vibration + proprioception bad along with dorsal root ganglia loss. 
+		6. 
 
 ----

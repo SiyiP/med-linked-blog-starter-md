@@ -12,7 +12,7 @@ parkinsonism = hypokinetic movement disorder,
 		- **they are round, pink and eosinophilic, pale halo.** - made up of alpha synuclein. 
 		- can also get lewy neurites, deposits into the neuronal processes 
 		- eventually those deposited neurons will die off. neuromelanin pushed off to side, these guys stand out greatly. and some free melanin there about to be cleared post cell death. 
-		- ![[Screenshot 2025-10-04 at 1.04.18 AM.png]]
+		- ![[lewy bodies.png]]
 		- lewy bodies can be seen in the cortex too
 			- pale pink round inclusion but only seen really with a immunostain!!!
 			- knw that parkinson's dz 
@@ -43,7 +43,7 @@ parkinsonism = hypokinetic movement disorder,
 			4. tau from protein that has something to do with protein transport and stuff in axons when hyperphosphorylated. 
 		5. gross pathology - hummingbird sign - atrophy of midbrain! 
 			1. meaning the beak or the rostral tegmentum will look like a **beak dip**, and narrowing 
-			2. ![[Screenshot 2025-10-04 at 1.11.05 AM.png]]
+			2. ![[atrophy of midbrain.png]]
 		6. backwards falls
 		7. atrophy in midbrain , SN pallor, and **spared peduncles.** 
 		8. CBD - also has globose tangles and tau but the only thing diff: **ideomotor apraxia, alien limb phenomenon**, which is where if u ask someone to brush their hair they can't replicate motions of repetitive movements they do every day life ... and alien limb phenomenon with limbs having mind of their own  
