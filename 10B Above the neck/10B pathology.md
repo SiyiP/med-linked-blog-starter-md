@@ -15,6 +15,8 @@ lack of closing on neural tube on head
 ---
 ==PATHO: **pick's disease - with frontotemporal degen or dementia, resulting in complex personality changes + working memory deficits** - predom the frontal and temporal cortices== 
 
+
+
 ---
 path: alz dz = irreversible, **loss of basal forebrain cholinergic neurons so has to do with ACH in the brain**
 
@@ -39,3 +41,72 @@ myelin disorders
 		3. acid alpha glucosidase = **pompe's dz**
 		4. alpha - L - iduronidase **hurler's**
 		5. idursulfase **hunters dz**
+list of storage dz!!! for **defects in sphingolipid metabolism**
+3. fabry dz = alpha-galactosidase A , will accumulate ceramide trihexoside = **only one that's x linked here, all else is AR**
+	1. 2 gal and 1 glucose to a ceramide = ceramide trihexoside.... supposed to make lactosylcerebroside. 
+	2. basicallly will lead to **full bod / localized pain, peripheral neuropath**y, **angiokeratoma**, hypohidrosis - nerve detachment from sweat glands, kidney failure, cardiomyopathy 
+	3. **see kidney failures, 16 years expectancy in males, kidney cells are most impacted**
+4. gaucher dz - glucocrebrosidase defect, makes glucocerebrooside accumulation 
+	1. lactosylcerebroside -> **glucocerebroside**, which u have to try taking that Glc off to make ceramide again 
+	2. 3 forms: non-neuronopathic type 1 , acute infantile neuropathic type 2 , and chronic neuronopathic type 3 
+	3. **hepatosplenomegaly, bone pain, osteoporosis, anemia + neuro symptoms**
+	4. these are common, enzyme replacement thrapy, appearance of this **macrophages that look like crumpled tissue paper.** this is due to glucose accumulation in the macrophages 
+	5. type 2 = end up in die by age 2 
+5. niemann-pick dz - sphingomyelinase - makes accumulate sphingomyelin 
+	1. 2 forms - type a classic infantile and type b visceral 
+	2. **cherry red spot on retina , foam cells, hepatosplenomegaly** and ofc neurodegen. - cherry due to the accumulation of sphingomylin, and the foam cells are due to the **lipid laden environment!!!** -> foam cells make hepatosplenomegaly accumulation 
+	3. the ppl with type A would die in the first 2 years 
+6. tay-sachs - hexosaminidase A - accumulate GM2 ganglioside
+	1. supposed to be broken down from GM2 to GM3.... supposed to remove GALNAC not the sialsilic acid 
+	2. 3 forms = infantile, juvenile, adult/late onset 
+	3. **onion skin appearance in lysosomes!**
+	4. cherry red spot on retina, **developmental delays, and psychomotor stuff - NO HEPATOMEGALY!** - no foam cellls !
+	5. kids with infantile form die in 2-3 years and then go blind first 
+7. krabbe dz - beta-galactocerebrosidase, accumulates galactocerebroside 
+	1. first, sulfatide gets broken into galactocerebroside. 
+	2. but can't make into ceramide from there, can't remove galactose. 
+	3. buildup of this, which is a **toxic metabolite.**
+	4. accumulation of galactocerebroside -> makes **psychosine, neurotoxin!!!**
+	5. progression will cause degen of motor skills, 3-6 months after birth with fever, sizures, muscleweakness, vision loss + slowing development
+	6. **low white cells**
+	7. **globoid cells = occur in brain tissu,e a cell with a whiter rim around it**
+8. metachromatic leukodystrophy - arylsulfatase - accumulates cerebroside sulfate 
+	1. remove sulfate off the sulfatide, making galactocerebroside is normal 
+	2. now that we dont' have that 
+	3. **central + peripheral demylinaten**
+	4. late infantile, juvenile, adults
+	5. symptoms happen after 1st yar of life. 
+
+---
+syringomyelia - cyst grows at the central canal at the spinal cord 
+- **enlargement of that central canal of spinal cord**
+- gray matter, horns displaced more lateral
+- **loss of pain + temperature sensation bilaterally from ==ARMS==**
+- ==legs and trunk stay normal in pain and temp -== 
+- ==recall: the dorsal horns for the ALS needs to send that neurons **across the gray matter to the other side**==
+- normal dorsal column medial meniscus bc it's not crossing the entire gray matter from the dorsal horn at the entry of the SC, will instead go to the dorsal column 
+	==touch, proprioception, vibraiton, etc will not be impacted, except maybe==
+	- ==weakened motor control slightly below lesion tho== 
+- ultimately this can be fixed....
+
+neuropathic pain + pain disorders
+- hyperactivity of neurons associated in pain pathways - in the absence of nociceptor stimulation 
+- usually stabbing, burning quality 
+---
+
+
+pathology: 
+vestibular system disorders
+ - any peripheral vestibuar disorder - anything out side of the brain stem like with vestibular nervee or inner ear structures
+ - Central vestibular disorders - of the CNS that help process blaance + spatial info (brainstem, vestibular nuc, cortex, cerebellum)
+ - dizziness, vertigo(spinning + persception of movement of self/surrounding objs is bad, need to be in a dark quiet room), disequilibrium(unsteadiness, imbalance, loss due to spatial disorientation, need ambulatory aid)
+ - all accompanied with problems with balance + spatial orientation.
+ - sensitive in changes to walking surfaces ): downtown charleston very dangerous 
+1. meniere's disease - **accumulation of water** int he origin of balance, in the vestibular system, **sudden rise in pressure of ear, only in the affected ear**
+	1. no exact cause, but stress + viral infection considered
+	2. sudden onset - vertigo with above the heart, sweating + vomiting for a few min to several hours. 
+	3. tinnitis in one ear + hearing difficulties. bt attacks, tho balance is normal **but hearing loss can persist**
+	4. give low sodium diet, no cafffiene, tobacco, chocolate. 
+	5. treat with motion sickness/anti nausea meds + vestibular rehab. 
+
+---
