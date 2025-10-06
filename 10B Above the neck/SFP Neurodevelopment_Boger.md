@@ -3,36 +3,36 @@
 not as much cell signalling as before ? 
 understand difff dev stages + where it happens for the nervous system + some pathologies 
 
-focus on induction, proliferation, migration, differentiation - first 4 developmental stages
+focus on **induction, proliferation, migration, differentiation** - first 4 developmental stages
 
 prenatal dev
-- begins with neurulation in the 3rd week, neural tube making 
+- ==begins with neurulation in the 3rd week, neural tube making== 
 
 neurulation - mesoderm on sides, notochord in the middle and right under the neural plates
-1. recall **neuroectodermal** tissues diff from the ectoderm + thicken into neural plate (green = neural plate border)
+1. ==recall **neuroectodermal** tissues differentiate from the ectoderm + thicken into neural plate (green = neural plate border)==
 2. plate bends dorsally, w/ 2 ends jointing -> makes the neural crest = the borders where the plate joins, fusion. 
-3. neural crest underneath ectoderm/closure of neural tube disconnects neural crest from epidermis.... then the NCCs will differentate to most of the PNS 
-4. neural tube -> CNS stuff. notochord degenerates + only persists as nucleus pulposus of the intervertebral discs. other mesoderm diff-> somites 
+3. ==neural crest underneath ectoderm/closure of neural tube disconnects neural crest from epidermis==.... then the ==NCCs will differentate to most of the PNS== 
+4. neural tube -> CNS stuff. ==notochord degenerates + only persists as nucleus pulposus== of the intervertebral discs. **other mesoderm diff-> somites** 
 
 
 neurohistogenesis - 
-- neuroepithelial cells - from neural tube -> **CNS structures**
-	- innermost layer - epidymal layer, 
+- neuroepithelial cells - ==from neural tube== -> **CNS structures**
+	- ==innermost layer - epidymal layer,== 
 	- space in the neural tube = neural canal 
-	- neuroepithelial cells turn into **neuroblasts, then neurons** -> axons, different neurons. brain and stufff, etc. 
-	- or neuroepithelial turn into ==glioblasts==, giving rise to oligodendrocytes, ependymal cells, astrocytes and adult stem cells. (from subventricular zone)
+	- ==neuroepithelial cells turn into **neuroblasts, then neurons** -> axons, different neurons. brain and stufff, etc.== 
+	- or ==neuroepithelial== turn into ==glioblasts==, giving rise to oligodendrocytes, ependymal cells, astrocytes and adult stem cells. (from subventricular zone)
 - neural crest cells -> PNS
-	- gives rise to neuroblast -> turns into **primary sensory neurons in the dorsal root ganglia** and autonomic post-ganglionic cells in the periphery 
-	- schwann cells from directly NCC. the myelinating glial cells of periphery. 
+	- ==NCCs gives rise to neuroblast -> turns into **primary sensory neurons in the dorsal root ganglia** and autonomic post-ganglionic cells in the periphery== 
+	- ==schwann cells from directly NCC==. the myelinating glial cells of periphery. 
 	- NCC-> the 2 meningial layers pia and arachnoid. (dura from mesenchymal cells instead)
 - mesenchymal cells -> also give rise to the microglia?(controversy, some ppl think it might be coming from the yolk sac.)
 
-neural prolif + differentiation  - in 5 weks, we see many neuroblasts in ependhymal layer and mantle layer 
+neural prolif + differentiation  - in ==5 weks, we see many neuroblasts in ependymal layer and mantle layer== 
 - neuroepithelium ->> 3 layers of the spinal cord 
-	1. ependymal cells - near central canal, called the germinal layer, will be the neuroblasts which migrate into the innermost
-		1. becoms ependymal lining and epithelium fo choroid plexus, 
+	1. ==ependymal cells - near central canal, called the germinal layer(creation of neuroblasts hence germinal), will be the neuroblasts which migrate into the innermost==
+		1. ==becomes ependymal lining and epithelium of choroid plexus==, 
 		2. creation of neuroblasts happen here "germinal cell layer"
-		3. germinal cell layer in brain will still make those neuroblasts, but these migraters would then go to the rise of the **outer cellular layers, bc the gray matter is on the outside** - this travel is based on cllular signals 
+		3. germinal cell layer in brain ==will still make those neuroblasts, but these migraters would then go to the rise of the **outer cellular layers, bc the gray matter is on the outside**== - this travel is based on cllular signals 
 	2. mantle layer - neuroblasts which migrate to make the gray mattr with dorsal and ventral horns 
 		1. gray matter of spinal cord 
 	3. marginal layer - the processes of neurons from the mantle layer, sight for axonal pathways. 
