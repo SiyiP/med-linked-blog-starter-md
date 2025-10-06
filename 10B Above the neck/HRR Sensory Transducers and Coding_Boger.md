@@ -61,28 +61,28 @@ what info is AP coding?
 		- single signal from the central cell being activated will be the only one that can help you pinpoint that 
 		- shuts down the neighbors to make sure we only send that one signal. 
 - duration - 2 mechanisms 
-	- rapidly adapting stimuli - like vibration from call 
-		- will cause the action potentials and then eventually you don't notice that anymore with the APs going down while the stimulus is constant
-		- basically AP stops suddenly, until it stops, then it sends a short one 
-	- slowly adapting stimuli - the profe standing up  , maintianing the posture 
-		- signal will stay and then AP continues to fire?? 
+	- ==rapidly adapting stimuli - like vibration from a cell phone on ur body ringing== 
+		- will cause the action potentials and then eventually you don't notice that anymore with the ==APs going down while the stimulus is constant==
+		- ==basically AP stops suddenly, until it stops, then it sends a short one== 
+	- ==slowly adapting stimuli - the profe standing up  , maintaining the posture== 
+		- ==signal will stay and then AP continues to fire??== 
 		- AP will still fire. 
 somato sensory afferents
-- proprioception - inside the muscle spindle receptors, large axons and all that myelin , high conduction velocity; Ia and II cells 
+- ==proprioception - inside the muscle spindle receptors, large axons and all that myelin , high conduction velocity; Ia and II cells== 
 	- where we are in space, theres 2 diff populations 
-		- inside muscle spindle - "self receptor"- intrafusal fibers surrounded by CT capsule, where we detect any stretch in our muscle tensions, sending info into brain
-		- golgi tendon organs - low threshold mechanorecpeotrs.
-			- **found sepcifically in tendons, help prevent hyperflexion of joints, preventing overuse of them!!**
-			- associated wit reflexes 
-- touch = merkel, meissner, pacinian, ruffini cells, 2nd largest and fastest , are A-beta cells - medium ones associated with touch
-	- meissner corpuscle - near epidermis but not quite in there, **vibrations** , phasic type, once it hits a time, APs will dissipate
-	- merkel cells = will be **sharp** activations, grabbing the papillae of the epidermis and pain receptors also while you cut thru those free nerve endings in the epidermis 
-	- ruffini - in the **dermis, deeper**, responsive to **stretch**
-	- pacinian corpuscle = these are **deep vibrations, almost in the subq layer**, like jackhammers rather than phone calls. 
-- pain/temp = free nerve endings, A-delta, 3rd smallest 
+		- ==inside muscle spindle - "self receptor"- intrafusal fibers surrounded by CT capsule, where we detect any stretch in our muscle tensions, sending info into brain==
+		- ==golgi tendon organs - low threshold mechanorecpeotrs.==
+			- **found sepcifically ==in tendons, help prevent hyperflexion of joints, preventing overuse of them!!**==
+			- ==associated wit reflexes== 
+- ==touch = merkel, meissner, pacinian, ruffini cells, 2nd largest and fastest , are A-beta cells - medium ones associated with touch======
+	- ==meissner corpuscle - near epidermis but not quite in there, **vibrations** , phasic type, once it hits a time, APs will dissipate==
+	- ==merkel cells = will be **sharp** activations, grabbing the papillae of the epidermis and pain receptors also while you cut thru those free nerve endings in the epidermis== 
+	- ==ruffini - in the **dermis, deeper**, responsive to **stretch**==
+	- ==pacinian corpuscle = these are **deep vibrations, almost in the subq layer**, like jackhammers rather than phone calls.== 
+- ==pain/temp = free nerve endings, A-delta, 3rd smallest== 
 	- thesea re in the epidermis 
 	- thermoreceptors - warm v cold are separate 
-- pain, temp, and itch = free nerve endings, we see C nerves; A-delta and C 
+- ==pain, temp, and itch = free nerve endings, we see C nerves; A-delta and C== 
 	- in epidermis 
 
 

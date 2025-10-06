@@ -4,14 +4,14 @@ reference powerpoint to come back to as u learn more
 need to know postsynaptic effect, precursors + rate limiting enzymes (for pathology and drug targets.) . 
 astrocytes = **has transporters to clear out the NTs**, and other enzymes like MAO in that cleft will help remove shit 
 - **we don't have to learn type of vesicle!!!**
-![[neurotransmitter summary table.png]]
+==![[neurotransmitter summary table.png]]==
 - ligand gated ion channels - NT binds, opening it and allowing the flow 
 - g-protein coupled receptors - NT binds , G protein will then activated, making effector protein get ion flow on. 
 
 1. ACH - MSK junctions, neuromusc synapse bt **vagus nerve and cardiac factors + ganglia synapses of visceral motor system**
 	1. ![[ach pathway overview.png]]
-	2. origin in CNS = **basal nucleus of meynert**, in the basal forebrain, implicated and project to cerebral cortex + degen in alz dz
-	3. brainstem nuclei - has cholinergic cells (don't have to know much, they just will project up into basal nucleus structures in the caudate nucleus)
+	2. ==origin in CNS = **basal nucleus of meynert**, in the basal forebrain, implicated and project to cerebral cortex + degen in alz dz==
+	3. brainstem nuclei - has ==cholinergic cells (don't have to know much, they just will project up into basal nucleus structures in the caudate nucleus)==
 	4. striatal interneurons = of the striatal region of the caudate nucleus, these are cholinergic cells and interneurons of this region (basal ganglia structure)
 	5. synthesis with ChAT, pyruvate turned into acetyl coa, and choline present .... turned itnoo ACH and then transporters 
 	6. termination via acetylcholinesterase + choline transporters.... 
