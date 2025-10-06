@@ -167,11 +167,11 @@ columns that feed into the motor nuc :
 	- occulomotor nuc III and trochlear nuc IV in midbrain 
 	- abducens nuc VI in the pons
 	- hypoglossal nuc XII in the medulla 
-visceral motor nuclei??
-- midbrain: edinger-westphal nuc III 
-- superir salivtry nuc VII and interior salivatory nuc IX in pons 
-- dorsla motor nuc of vagus X and nucleus ambiguus X in the medulla
-columsn to the sensory nuc:
+visceral motor nuclei - hypothalamic nuclei relevant to visceral motor function project to the nuclei in the brainstem that organize many visceral reflexes 
+- midbrain: edinger-westphal nuc III aka occulomotor n 
+- superior salivtory nuc VII and interior salivatory nuc IX in pons 
+- dorsal motor nuc of vagus X and nucleus ambiguus X in the medulla
+columns to the sensory nuc:
 - special somatic sensory column: SSA
 	- in between the pons + medulla = vestibular nuc 8 and cochlear nuc 8 
 - general somatic snesory column = GSA
@@ -181,27 +181,27 @@ columsn to the sensory nuc:
 - visercal sensory column = SVA + GVA 
 	- nucleus of the solitary tract 7,9,10 
 
-somatic nuc = supply skeletal muscles **derived from head somites**
-brachial nuc = supply skeletals derived from **branchial arches**
+==somatic nuc = supply skeletal muscles **derived from head somites**==
+==brachial nuc = supply skeletals derived from **branchial arches**==
 
 
 in the cross sections of the medulla - on the rostral pons - think the trigeminal nerve. - 
 - upper surface of cerebellum 
 - superior cerebellar peduncle going to midbrain 
 
-caudal midbrain - think CN IV, trochlear 
+==caudal midbrain - think CN IV, trochlear== 
 
-rostral midbrain = think CN III oculomotor 
+==rostral midbrain = think CN III oculomotor== 
 
-vascular supply with circle of willis
+==vascular supply with circle of willis==
 
-reticular formation. = brainstem in the middle of it, 
+==reticular formation. = middle of brainstem, interconnected nuclei as a relay center== 
 - cranial nn are off to the other side ventral brainstem 
 - then the long tracts in the middle of cranial n and reticular 
 - reticular formation  - interconnected nuclei as a relay center 
 	- mediate reflexes, fixed action patterns + brain states like sleep, walking, arousal 
 	- parvicellular - reflex, local circuits
-	- magnoocellular - long distanc integration 
+	- magnoocellular - long distance integration 
 	- paramedian - the middle = serotonin 
 	- rostral RF -> diecephalon = alert + conscious state 
 	- caudal RF -> CNs + spinal cord for reflexes + autonomic funcitons 
