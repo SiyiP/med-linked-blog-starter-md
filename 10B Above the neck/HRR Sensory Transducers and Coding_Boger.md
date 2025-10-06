@@ -61,7 +61,7 @@ what info is AP coding?
 		- single signal from the central cell being activated will be the only one that can help you pinpoint that 
 		- shuts down the neighbors to make sure we only send that one signal. 
 - duration - 2 mechanisms 
-	- rapidly adapting sitmuli - like vibration from call 
+	- rapidly adapting stimuli - like vibration from call 
 		- will cause the action potentials and then eventually you don't notice that anymore with the APs going down while the stimulus is constant
 		- basically AP stops suddenly, until it stops, then it sends a short one 
 	- slowly adapting stimuli - the profe standing up  , maintianing the posture 
