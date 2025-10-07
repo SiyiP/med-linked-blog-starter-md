@@ -21,7 +21,7 @@ orbitomedial PFC + emotion into motivated behavior, connection to limbic sys + l
 - schizophrenia 
 
 premotor cortex - is associated, a bit behind prefrontal, in front of the motor strip. = **more complex types of movements**
-- fewr betz cells than the primary motor cortex, slight granular layer called layer IV 
+- ==fewr betz cells than the primary motor cortex, slight granular layer called layer IV== 
 - projects locally + distally into thalamus + SC
 - reaching. + grasping - diff functions from diff zones 
 - if you stimulate the motor strip of near that area you can make ur hands do smth 
@@ -33,8 +33,8 @@ supplementary motor area - associated - **more high and stuff**
 - speech generators too. 
 
 ![[functional lobes and cortexes.png]]
-**SMA - a bit more medial , mre up towards the midline** 
-PMA = more lateral - premotor cortex is more lateral, definitely in front of the primary motor cortex 
+==**SMA - a bit more medial , more up towards the midline**== 
+==PMA = more lateral - premotor cortex is more lateral, definitely in front of the primary motor cortex== 
 strip = primary motor cortex, prefrontal gyrus 
 
 think about intention to move is frontal cortex, 
@@ -47,12 +47,12 @@ once the decision is from the frontal cortex, we will shuffle it to the primary 
 primary motor cortex = M1
 - 3 long sulci will dead-end to make some motor cortexes and strips. 
 - motor cortex comes down into the lateral and sylvian fissures,a nd will be a closed loop gyrus, wrapping around at the bottom . 
-- will be **populated with BETZ cells!!!** - 
+- ==will be **populated with BETZ cells!!!** -== 
 	- largest neuron 
 	- layer V 
 	- 10% of Primary cortex output to hte spinal cord
 	- **they're just rlly big pyramidal cells, with huge dendrites + long axons**
-	- 5th layer of cortical mantle but only make up 10% of layer V of the primary motor cortex that would project to the spinal cord. only a small amount though. 
+	- ==5th layer of cortical mantle but only make up 10% of layer V of the primary motor cortex that would project to the spinal cord. only a small amount though.== 
 - agranular = lacks the layer IV 
 - sulci + gyri individual but preserved
 - somatotopical organization - homunculus - 
@@ -66,19 +66,19 @@ primary motor cortex = M1
 the homunculus is the same kinda as the somatosensory's 
 - hand knob - sometimes there's a characteristic little posterior bend in the motor strip gyrus (seen in top down view?)
 
-pyramidal tracts - some are 2 nerve system 
-- not just BETZ cells, **but pyramidal cells are their own thing, sorta conically shaped cell body... seen in the primary motor cortex, hippocampus amygdala**
-- named from the pyramidal cell shape, passing thru the medullary pyramids... 
-- corticospinal tract **plus the corticobulbar tract. together**
+==pyramidal tracts - some are 2 nerve system== 
+- ==not just BETZ cells, **but pyramidal cells are their own thing, sorta conically shaped cell body... seen in the primary motor cortex, hippocampus amygdala**==
+- ==named from the pyramidal cell shape, passing thru the medullary pyramids...== 
+- ==corticospinal tract **plus the corticobulbar tract. together**==
 - basically BETz cells descending - > pyramidal tracts going down, upside down pyramid shape or a fan shape as the cells signasl descend to the medulla 
 - **they descend to synapse on spinal cord at exiting level.**
-	- alpha motor neurons - **cell body in the ventral horn of the spinal cord that takes the message out.**
+	- ==alpha motor neurons - **cell body in the ventral horn of the spinal cord that takes the message out.**==
 	- interneurons - 
 - also descend to synapse on brainstem nuclei 
 
-pyramidal tracts - aren't JUST betz cells!
-- 30% are from primary motor cortex
-- 30% from SMA and premotor... 
+==pyramidal tracts - aren't JUST betz cells!==
+- ==30% are from primary motor cortex==
+- ==30% from SMA and premotor...== 
 - rest from parietal/cingulate cortex 
 ![[cingulate gyrus.png]]
 as the pyramidal tract descends, turns into all that white matter below the cortex
