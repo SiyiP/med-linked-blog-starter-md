@@ -10,11 +10,11 @@ motor control
 limbic areas - emotion, behavior, long term memroy 
 - amygdala, hippoampus, mammillary bodies etc - this makes like a C shape in the brain! 
 - output to the prefrontal campus, cingulate, striatum, nucleus accumbens. 
-prefrontal cortex - memories of actions made in the past
+==prefrontal cortex - memories of actions made in the past==
 - ventromedial = risk processing 
 - dorsolateral working memory 
 
-lateral prefrontal cortex = > **behavior strategies , connection to basal ganglia sys + motor cortical areas**
+==lateral prefrontal cortex = > **behavior strategies , connection to basal ganglia sys + motor cortical areas**==
 orbitomedial PFC + emotion into motivated behavior, connection to limbic sys + lat PFC 
 - any prefrontal lobotomy - unable to anticipate consequences of behavior (impulsive) + perseveration (inability to change behavior)
 - delayed response task too 
