@@ -31,32 +31,32 @@ parkinsonism = hypokinetic movement disorder,
 		1. if centered in brainstem = parkinsons dz
 		2. if centered in cortex = dementia with lewy bodies 
 - atypical parkinsonian symptoms
-	- parkinsonium (bradykinesia/rigitity) + other symptoms not typical 
+	- parkinsonium (bradykinesia/rigitity) + other symptoms not typical  - basically **syndromes that look like parkinson's dz initially but with additional features.**
 	1. progressive supranuclear palsy PSP / corticobasal degeneration CBD
-		1. both tautopathies, globose tangles, frontal atrophy involving motor strip 
+		1. both ==tautopathies==, globose tangles, frontal atrophy involving motor strip 
 		2. parkinsonium **with a gaze problem, can't do up and down eye movements bc affected region in superior colliculus**
 		3. basically vertical gaze palsy 
 		4. tauopathy - **NOT!!!! the alpha synuclein!!!** - meaning tau , non-specific neurofibrillary tangle can happen anytime a large round nueron has a tangle that fills the cytoplasm 
 			1. similar to alzheimers. 
 			2. lewy bodies not seen 
-			3. but hyperphosphorylated strings of tau is in a lot of round neuron cell bodies, harder to see. = this is a **globose tangle** - highlighted with a silver stain! 
-			4. tau from protein that has something to do with protein transport and stuff in axons when hyperphosphorylated. 
-		5. gross pathology - hummingbird sign - atrophy of midbrain! 
+			3. ==but hyperphosphorylated strings of tau is in a lot of round neuron cell bodies, harder to see. = this is a **globose tangle** - highlighted with a silver stain!== 
+			4. ==tau from protein that has something to do with protein transport and stuff in axons when hyperphosphorylated.== 
+		5. ==gross pathology - hummingbird sign - atrophy of midbrain!== 
 			1. meaning the beak or the rostral tegmentum will look like a **beak dip**, and narrowing 
 			2. ![[atrophy of midbrain.png]]
 		6. backwards falls
-		7. atrophy in midbrain , SN pallor, and **spared peduncles.** 
-		8. CBD - also has globose tangles and tau but the only thing diff: **ideomotor apraxia, alien limb phenomenon**, which is where if u ask someone to brush their hair they can't replicate motions of repetitive movements they do every day life ... and alien limb phenomenon with limbs having mind of their own  
+		7. ==atrophy in midbrain , SN pallor, and **spared peduncles.**== 
+		8. CBD - also has globose tangles and tau but the only thing diff==: **ideomotor apraxia, alien limb phenomenon**, which is where if u ask someone to brush their hair they can't replicate motions of repetitive movements they do every day life== ... and alien limb phenomenon with limbs having mind of their own  
 			1. **specific region of atrophy - seveer in the motor cortex, asymmetric cortical atrophy, so symptoms are assymetric.**
 
-	2. multiple system atrophy MSA - parkinsonium + autonomic dysfunction (UG problems, orthostatic hypotension, urinary issues, etc)
-		1. **see shrunken and dark putamen bilaterally!!! atrophy of pons + middle cerebellar peduncle = hot cross bun sign** (don't worry about the differences between the two. lots of space bt the folia = atrophy.)
+	2. multiple system atrophy MSA - parkinsonium + **autonomic** dysfunction (UG problems, orthostatic hypotension, urinary issues, etc)
+		1. ==**see shrunken and dark putamen bilaterally!!! atrophy of pons + middle cerebellar peduncle = hot cross bun sign** (don't worry about the differences between the two. lots of space bt the folia = atrophy.)==
 			1. hot cross buns - left with the cross in the middle of the pons. 
 		2. there's pallor in SN ofc 
 		3. **it's an alpha synucleinopathy but NO LEWY BODY** 
-		4. instead there's **glial cytoplasmic inclusions of the brain** - myelinators f brain 
-		5. doesn't improve with levodopa 
-		6. pons flattened = atropic. 
+		4. ==instead there's **glial cytoplasmic inclusions of the brain** - myelinators f brain== 
+		5. ==doesn't improve with levodopa== 
+		6. ==pons flattened = atropic.== 
 		7. glial cytoplasmic inlusions will be stained 
 
 huntington dz - hyperkinetic
