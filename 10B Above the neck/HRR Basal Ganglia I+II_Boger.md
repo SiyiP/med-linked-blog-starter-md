@@ -84,14 +84,10 @@ indirect - bc the caudate / putamen will signal other nuclei to then impact the 
 1. behavioral stimuli 
 2. SN pars compacta releases dopamine!!! D1
 3. DA will bind to the D1 receptors in the striatal medium spinal neurons, and thus stimulating them ; D1R + DA -> **excitatory**
-4. medium spinal neurons of the striatum will release GABA into the globus pallidus internal, inhbiiting it 
+4. medium spinal neurons of the striatum will release GABA into the globus pallidus **internal**, inhbiiting it 
 5. bc of that... the VA/VL complex of the thalamus would **be disinhibited, releasing glut into the cortex = voluntary movement**
 
-parkingsons is with the dopamine cell knockout.. keep that in mind. slow and not rearing up 
-- if the activation of the D1R happen, we see reduction of parkingsons symptoms , rearing up 
-
-
-indirect pathway - inhibit  unwanted movemnts, the stop pathway. 
+indirect pathway - inhibit  unwanted movements, the stop pathway. 
 1. behavioral stimuli 
 2. SN pars compacta release DA into the striatum 
 3. **instead, DA binds the D2R!!! on striatal medium spiney neurons, inhibiting them** so its NOT r***eleasing GABA into the globus pallidus externus*** 
