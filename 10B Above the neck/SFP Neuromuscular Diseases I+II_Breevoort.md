@@ -96,7 +96,7 @@ electrodiagnostic testing is huge in finding out where it's at. an extension of 
 		10. subtypes: classical AIDP more common 
 		11. axonal variant - more severe goes beyond the demyelination! AMAN and AMSAN ilke in asia 
 		12. TREAT: ventilation and IVIG ...**steroids make this worse.**
-	2. **miller fisher syndrome = anti-GQ1b antibody , opthalmoplegia, ataxia, areflexia, more common in east asia**
+	2. ==**miller fisher syndrome = anti-GQ1b antibody , opthalmoplegia, ataxia, areflexia, more common in east asia**==
 	3. CIDP - similar to guillain barre, but this **period of time is 6 weeks of infection**
 		1. or immune stress 
 		2. multifocal **patchy demyelination, predom impacting the spinal nerve roots, plexuses + prox nerve trunks**
@@ -140,7 +140,7 @@ hereditary myopathies
 	2. DM1 = CTG repeat in DMPK autonosomal dom !!!! **50-1000 CTG repeats** and longer repeat = early symptoms + more severe
 		1. **faical waeakness, ptosis, prox truncal weakness and distal limb muscles**
 		2. myotonia is huge - grip myotnia and jaw clenching oromandibular myotonia 
-	3. DM2 = no correlation bt repeat lenght ... 
+	3. DM2 = no correlation bt repeat lenght ... expanded CCTG on CNBP gene
 		1. weakness of neck flexion, more **proximal, myotonia less common, but cramping and muscle pain**
 		2. oftn misdx with fibromyalgia 
 	4. both intefere with RNa splicing , multisystem dz 
@@ -148,7 +148,7 @@ hereditary myopathies
 	6. genetic testing and eveyrhitng helps 
 	7. myotonia - **meaning muscles will contract but can't uncontract or relax!!!!!** due to alterations of chloride channel. 
 	8. both get **cataracts and cardiac arrhythmia sudden deaths - might get this in their family!!!**
-	9. **tent mouth - congenital from facial eakness**
+	9. **tent mouth - congenital from facial weakness**
 	10. hatchet face = frontal balding and temporal wasting seen frontal balding
 	11. shank sign - proximal weakness. 
 	12. percussion myotonia - seen with hitting the muscle and grip myotonia - if they grip hard, the grip would stay. 
