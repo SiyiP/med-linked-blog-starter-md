@@ -36,11 +36,11 @@ electrodiagnostic testing is huge in finding out where it's at. an extension of 
 		8. **no bowel or bladder incontinence**
 		9. 20-40% cognitive impairment 
 		10. PMA = progressive muscular atrophy = "slowly progressive ALS, better prognosis, more of the **lower motor neuron issues**", type of ALS 
-		11. PLS = progressive lateral sclerosis, **upper motor neurons only**, corticobulbar involvement a lot o that, dx of exclusion , type of ALS 
+		11. PLS = progressive lateral sclerosis, **upper motor neurons only**, ==corticobulbar involvement a lot o that, dx of exclusion , type of ALS== 
 		12. LABS: CBC, CMP, ESR, CK, CSF to check for infection ... brain imging might see some intensities in motor cortex. 
-		13. **rule out this ALS mimic!!!! - with severe cervical stenosis we see upper motor neuron issues with lesion in the spinal cord AND polyradiculopathy from nerves getting pinched!!!!**
+		13. **rule out this ALS mimic!!!! - with ==severe cervical stenosis== we see upper motor neuron issues with lesion in the spinal cord AND polyradiculopathy from nerves getting pinched!!!!**
 		14. TREAT: respiratory management and preserving it as well as nutrition is initiated early - a lot of symptom management 
-	2. SMA- hereditary , SMN1 missing or not working but SMN2 backup genes will not really make too much protin. the type and severity depends on how much SMN2 u have. 
+	2. SMA spinal muscular atrophy - hereditary , SMN1 missing or not working but SMN2 backup genes will not really make too much protin. the type and severity depends on how much SMN2 u have. 
 		1. spinal muscular atrophies = there are some clinical subtypes of this 
 		2. type 1 = before 6 months, no sitting
 		3. type 2 = onset 5-18 mon, sits but no walk

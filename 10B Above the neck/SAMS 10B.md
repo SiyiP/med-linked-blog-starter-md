@@ -1,5 +1,44 @@
+hard wk 2 SAM
+Acute injury of the skin would be associated with nociceptive. Nociceptive pain is type of pain caused by damage to body tissue. Somatic pain can be constant and comes from superficial injury.
+  
+The medullary reticulospinal axons descend bilaterally via the lateral reticulospinal tract to inhibit extensor muscle tone and the pontine reticulospinal axons descend ipsilaterally through the medial reticulospinal tract to facilitate extensor tone.
+ After upper motor neuron lesions, facilitation of extensors dominates, thus leading to spastic paralysis.  A lesion to the right cortex takes away the ipsi pontine reticulospinal and the bilateral medullary reticulospinal, thus leaving the left pontine reticulospinal intact (since it receives cortical input from the left), resulting in contralateral extensor hypertonia and spasticity.  
+
+1. Medial Reticulospinal Tract (Pontine): Descends ipsilaterally in the anterior funiculus, Responsible for controlling axial and extensor motor neurons e.g enable extension of the legs to maintain postural support ; Stimulation of the midbrain locomotor centre can result patterned movements (e.g. stepping)
+2. Lateral Reticulospinal tracts (Medullary): Descends bilaterally in the lateral funiculus. Responsible for **flexor motor neurons**; Inhibits the medial reticulospinal tract and therefore extensor motor neurones enabling modulation of the stretch reflex
+
+   There would be contralateral paralysis due to the loss of corticospinal input to the lower motor neurons, but the spasticity is related to the changes in the reticulospinal input.
+
+|                                                                                                                                                                                                                                                                                                     |                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| It is important to remember that the **major output from the cerebellar cortex is via Purkinje cells** releasing GABA on the deep cerebellar nuclei.  The **major output from the cerebellum is via the deep cerebellar nuclei** to target cortical and brainstem regions for corrective behaviors. | Fastigial nucleus gets the major inhibitory output from the Purkinje cells in the cerebellum |
+The major input to the striatum is from the cerebral cortex.
+
+|   |   |
+|---|---|
+==|The anterior lobe of the cerebellum tends to be damaged initially by chronic alcoholism==.  If you recall the somatotopic organization of the spinocerebellum, the l**ower half of the body is mapped to the anterior lobe region of the spinocerebellum**, thus ==causing the patient to have a drunken gait, even when sober.==  Eventually as the disease continues other regions of the cerebellum will be affected.|   |
+
+  
+The SCP is the major output bundle from the cerebellum.  These fibers exist the cerebellum thru the SCP cross to then innervate the contralateral thalamus.  A portion of these fibers will cross to innervate the contralateral red nucleus. sending to the red nucleus, superior colliculus, and thalamus.
+
+The ICP receives **ipsilateral sensory information from the spinal cord and the vestibular nucle**i.  The **ICP is also how the cerebellum communicates back to the vestibular nuclei ipsilaterally.**
+- lesion here would reduce spinal cord proprioceptive input to the cerebellum
+- 
+
+The **MCP is the major input fiber bundle to the cerebellum**.  These fibers **originate in the contralateral pontine nuclei, and receive information from cortical regions.**
 
 
+The ==**displacement** of the **cupula**== in the SCC ==semicircular canals== the hair cells that **relay signals through CNVIII to the medial vestibular nucle**i, which then activates the ==medial vestibulospinal tract to coordinate head, neck, shoulder movement==s.
+
+Fibers of the LATERAL vestibulospinal tract are activated by the hair cell activation of the o==tolithic organs of the vestibular system, the uttricle and saccule.==  This is for l==ateral movement detection relative to space.==
+
+Dopamine is the precursor to NE, NE is the precursor for E.
+
+Glutamate is the precursor for GABA.
+
+
+
+---
 
 hard week 1 SAM:
 

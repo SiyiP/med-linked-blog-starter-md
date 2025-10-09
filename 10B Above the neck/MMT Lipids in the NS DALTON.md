@@ -66,6 +66,9 @@ accumulation of lipids can cause traffic jams and nothing can get in or out or g
 
 ![[sphingolipid breakdown pathways.png]]
 list of storage dz!!! for **defects in sphingolipid metabolism**
+
+![[lysosomal storage diseases.png]]
+
 1. ==fabry dz = alpha-galactosidase A , will accumulate ceramide trihexoside = **only one that's x linked here, all else is AR**==
 	1. 2 gal and 1 glucose to a ceramide = ceramide trihexoside.... ==supposed to make lactosylcerebroside.== 
 	2. ==basically will lead to **full bod / localized pain, peripheral neuropath**y, **angiokeratoma**, hypohidrosis - **nerve detachment from sweat glands, kidney failure, cardiomyopathy**==
