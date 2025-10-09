@@ -98,7 +98,7 @@ electrodiagnostic testing is huge in finding out where it's at. an extension of 
 		12. TREAT: ventilation and IVIG ...**steroids make this worse.**
 	2. ==**miller fisher syndrome = anti-GQ1b antibody , opthalmoplegia, ataxia, areflexia, more common in east asia**==
 	3. CIDP - similar to guillain barre, but this **period of time is 6 weeks of infection**
-		1. or immune stress 
+		1. or immune stress   
 		2. multifocal **patchy demyelination, predom impacting the spinal nerve roots, plexuses + prox nerve trunks**
 		3. idiopathic, tret this symtpoms, **generalized weakness symmetric pattern, relapsing course**
 		4. LABS: prog 2 months, weakness more than sensory deficits, symmetical, proximal and distal muscles, **widespread reflex reduction.**
