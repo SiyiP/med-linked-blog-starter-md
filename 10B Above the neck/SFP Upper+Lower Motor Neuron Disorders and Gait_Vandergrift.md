@@ -17,7 +17,7 @@ upper motor neurons are
 ascending and descending tracts of the spinal cord 
 ![[ascending and descending tracts of the spinal cord.png]]
 - betz cells = mainly in primary motor cortex
-- largely crossing medulla LCST, and 10% uncrossed (anterior corticospinal tract) - they **still LATER cross at the ventral white matter at level of innervation though!**
+- ==largely crossing medulla LCST, and 10% uncrossed (anterior corticospinal tract) - they **still LATER cross at the ventral white matter at level of innervation though!**==
 - **glutamate is UMN -> LMN cell signal** happens in the SC **ventral horn**
 - brainstem UMNs - corticobulbar fibers coordinate tone and posture.  nose wiggle and tongue etc. largely gonna be extrapyramidal tracts 
 - cortical UMNs - coordinate the voluntary movement  - pyramidal system

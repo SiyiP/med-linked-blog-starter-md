@@ -7,7 +7,7 @@ reflex loops happen wit the alpha motor neuron lower body downwards
 ==![[intrafusal muscle fibers.png]]==
 ==NMJ = connection bt alpha motor neuron + extrafusal m.== 
 
-==extrafusal muscle fiber = standard skeletal muscle fibers, makes bicep move== 
+**==extrafusal muscle fiber = standard skeletal muscle fibers, makes bicep move==** 
 
 ==motor unit = alpha motor neuron + extrafusal muscle fiber it innervates + inherent spindles in muscle belly== 
 - ==passive stretch = inc firing from spindle afferents==
@@ -17,16 +17,17 @@ reflex loops happen wit the alpha motor neuron lower body downwards
 - also we get reciprocal other muscle antagonist relaxation with one muscle contraction too 
 	- stretch in msucle results in **contraction of it and synergists, but relaxation of antag groups**
 
-==neuromuscular spindle - specialized intrafusal muscle fibers + trimmings, which **run in parallel to each other in muscle fibers**, **within** the muscle== 
-- ==these will sense length ; **stretching a muscle = inc length of spindle, increasing afferent discharge**==
+==neuromuscular spindle - s**pecialized intrafusal muscle fibers + trimmings,** which **run in parallel to each other in muscle fibers**, **within** the muscle== 
+- ==these will sense length ; **stretching a muscle = inc length of spindle, increasing afferent discharge
+- intrafusal muscle fibers SENSE LENGTH, inc length of spindle and stretching stuff....**==
 
 ==intrafusal muscle fibers = skeletal muscle fiber that **serves as a sensory organ, determining rate + amt of change in extrafusal muscle fiber** = - muscle itself is like a sensory organ== 
 - these are ==in parallel to extrafusal muscle fibers... with a capsule surrounding the smaller ones.== 
 types of input: has to do with how the nuclei are 
-- ==dynamic nuclear bag muscle fiber = type Ia sensory== 
+- ==**dynamic** nuclear bag muscle fiber = type Ia sensory== 
 	- ==afferents will twine around the center of these intrafusal fibers.== 
-- ==static nuclear bag muscle fibers = type Ia and II sensory fibers==
-- ==nuclear chain muscle fibers = type II sensory fibers== 
+- ==**static** nuclear bag muscle fibers = type Ia and II sensory fibers==
+- ==**nuclear** chain muscle fibers = type II sensory fibers== 
  
 
 ==intrafusal muscle motor innervation - is via **gamma motor neuron / fusiform neurons, which will only innervate this, maintaining sensitivity of muscle spindle mech**==
@@ -137,7 +138,7 @@ cranial nerves in comatose patient (idk)
 - gag CN 9,10 
 
 ==rhythmic movements like walking, chewing, scratching== 
-- ==patterning of these = interconnections bt interneuron pools at segmental levels of spinal gray matter/brainstem reticular formation== 
+- **==patterning of these = interconnections bt interneuron pools at segmental levels of spinal gray matter/brainstem reticular formation==** 
 - ==initiation via descending tracts.== 
 
 ==central pattern generators - **local interneurons are capable of producing these patterned movements**==

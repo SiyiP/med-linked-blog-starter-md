@@ -76,7 +76,7 @@ list of storage dz!!! for **defects in sphingolipid metabolism**
 2. ==gaucher dz - glucocrebrosidase defect, makes glucocerebroside accumulation== 
 	1. lactosylcerebroside -> **glucocerebroside**, which u have to try taking that Glc off to make ceramide again 
 	2. ==3 forms: non-neuronopathic type 1 , acute infantile neuropathic type 2 , and chronic neuronopathic type 3== 
-	3. ==**hepatosplenomegaly, bone pain, osteoporosis, anemia + neuro symptoms**==
+	3. ==**hepatosplenomegaly, *bone* pain, osteoporosis, anemia + neuro symptoms**==
 	4. these are ==common, enzyme replacement thrapy, appearance of this **macrophages that look like crumpled tissue paper.** due to glucose accumulation== this is due to glucose accumulation in the macrophages 
 	5. ==type 2 = end up in die by age 2== 
 3. ==niemann-pick dz - sphingomyelinase - makes accumulate sphingomyelin== 
@@ -94,13 +94,13 @@ list of storage dz!!! for **defects in sphingolipid metabolism**
 	2. ==but can't make into ceramide from there, can't remove galactose.== 
 	3. ==buildup of galactocerebroside==
 	4. accumulation of galactocerebroside -> ==makes **psychosine, neurotoxin!!!**==
-	5. progression will cause ==degen of motor skills, 3-6 months after birth with fever, sizures, muscle weakness, vision loss + slowing development==
+	5. *progression will cause ==degen of motor skills, 3-6 months after birth with fever, sizures, muscle weakness, vision loss + slowing development==*
 	6. ==**low white cells**==
-	7. ==**globoid cells = occur in brain tissue a cell with a whiter rim around it**==
+	7. ==***globoid* cells = occur in brain tissue a cell with a whiter rim around it**==
 6. ==metachromatic leukodystrophy - arylsulfatase - accumulates cerebroside sulfate== 
 	1. remove sulfate off the sulfatide, making galactocerebroside is normal 
 	2. ==we can't take sulfate off sulfatide, so can't make galactocerebroside so can only make and accumulate cerebroside sulfate.== 
 	3. ==central + peripheral demylinatenation==
-	4. late infantile, juvenile, adults
+	4. *late infantile, juvenile, adults*
 	5. ==symptoms happen after 1st year of life.== 
 

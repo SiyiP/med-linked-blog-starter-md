@@ -11,7 +11,7 @@ vol motor control - starts in motor cortex = in some other areas, recall betz ce
 
 ---
 motor control - posture + tone - overview and general understanding 
-==beyond the Betz cells when we think of non-voluntary!!!==
+*==beyond the Betz cells when we think of non-voluntary!!!==*
 - ==voluntary motor system - pyramidal system==
 - ==invol: extrapyramidal system, cerebellum(separate lecture in future), basal ganglia(separate lec in future), striatum, substantia nigra, interneurons== 
 	- all the things that control movements and interneurons, other feedback loops 
@@ -59,7 +59,7 @@ motor control - posture + tone - overview and general understanding
 ==M1 = motor cortex== 
 ==PRF = pontine (medial) reticular formation==
 ==VN = vestibular nuclei==
-==MRF = medullary reticular formation== 
+==MRF = medullary reticular formation== - this uniquely inhibits the extensors a bit!1
 ==RN = rubrospinal tract==
 
 
@@ -95,7 +95,7 @@ basal ganglia/striatum/substantia nigra
 - basal ganglia = deeper structure in the brain below the white matter, helping coordinate motor function and all that. 
 	- striatum (dorsal + ventral) - input to all this, all the input is from the cortex to here. 
 		- dorsal = caudate + putamen = 		- overall this is good for conscious motor movement and exec function control 
-		- ventral = nucleus accumbens + olfactory tubercle  = limbic system reward. + aversion 
+		- ==ventral = nucleus accumbens + olfactory tubercle  = limbic system reward. + aversion== 
 		- after this activation, it's inhibitory to basal ganglia and substantia nigra pars reticulata 
 	- globus pallidus - input given is **inhibitory** from the striatum, outputting inhibitory stufff both GPi and GPe
 		- externa version will output to the subthalamic nucleus , part of indirect pathway + inibits inhibitor which allows for inhibior excitation to reduce thalamic activity 
@@ -103,9 +103,9 @@ basal ganglia/striatum/substantia nigra
 	- ventral pallidum 
 	- subthalamic nucleus - output excitatory to globus pallidus interna and also excitatory to substantia nigra pars reticulata 
 	- substantia nigra externa - will be dopaminergic modulatory from this to the striatum when they need to gt started. 
-		- ==pars compacta = input from retic activating system, ascending collaterals.== 
+		- ==pars compacta = input from reticular activating system, ascending collaterals.== 
 		- output is still dopaminergc to the putamen/caudate
-		- ==pars reticulata = **invol, from striatum + excitatory from STN** = output, will show that it's inhibitory to the trauma== 
+		- *==pars reticulata = **invol, from striatum + excitatory from STN** = output, will show that it's inhibitory to the trauma==* 
 		- ==The substantia nigra regulates/modulates the basal ganglia circuitry by releasing dopamine into the caudate and putamen (aka dorsal striatum).==
 			-  A [white matter](https://en.wikipedia.org/wiki/White_matter "White matter") [nerve tract](https://en.wikipedia.org/wiki/Nerve_tract "Nerve tract") (the [internal capsule](https://en.wikipedia.org/wiki/Internal_capsule "Internal capsule")) in the dorsal striatum separates the caudate nucleus and the putamen.[[4]](https://en.wikipedia.org/wiki/Striatum#cite_note-FERRE2010-4) Anatomically, the term _striatum_ describes its striped (striated) appearance of grey-and-white matter
 			- The dorsal striatum can be further subdivided into the **dorsomedial striatum**, and the **dorsolateral striatum**. ==The dorsomedial region receives projections from the frontal and the parietal cortices. The dorsolateral region receives projections from the sensorimotor cortex==.[[15]](https://en.wikipedia.org/wiki/Striatum#cite_note-Macpherson2019-15)

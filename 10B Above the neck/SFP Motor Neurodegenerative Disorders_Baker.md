@@ -32,9 +32,9 @@ parkinsonism = hypokinetic movement disorder,
 		2. if centered in cortex = dementia with lewy bodies 
 - atypical parkinsonian symptoms
 	- parkinsonium (bradykinesia/rigitity) + other symptoms not typical  - basically **syndromes that look like parkinson's dz initially but with additional features.**
-	1. progressive supranuclear palsy PSP / corticobasal degeneration CBD
-		1. both ==tautopathies==, globose tangles, frontal atrophy involving motor strip 
-		2. parkinsonium **with a gaze problem, can't do up and down eye movements bc affected region in superior colliculus**
+	1. ==progressive supranuclear palsy PSP / corticobasal degeneration CBD==
+		1. both ==tautopathies==, ==globose== tangles, frontal atrophy involving motor strip 
+		2. parkinsonium **with a ==gaze problem==, can't do up and down eye movements bc affected region in superior colliculus**
 		3. basically vertical gaze palsy 
 		4. tauopathy - **NOT!!!! the alpha synuclein!!!** - meaning tau , non-specific neurofibrillary tangle can happen anytime a large round nueron has a tangle that fills the cytoplasm 
 			1. similar to alzheimers. 
@@ -47,13 +47,13 @@ parkinsonism = hypokinetic movement disorder,
 		6. backwards falls
 		7. ==atrophy in midbrain , SN pallor, and **spared peduncles.**== 
 		8. CBD - also has globose tangles and tau but the only thing diff==: **ideomotor apraxia, alien limb phenomenon**, which is where if u ask someone to brush their hair they can't replicate motions of repetitive movements they do every day life== ... and alien limb phenomenon with limbs having mind of their own  
-			1. **specific region of atrophy - seveer in the motor cortex, asymmetric cortical atrophy, so symptoms are assymetric.**
+			1. ==**specific region of atrophy - seveer in the motor cortex, asymmetric cortical atrophy, so symptoms are assymetric.**==
 
 	2. multiple system atrophy MSA - parkinsonium + **autonomic** dysfunction (UG problems, orthostatic hypotension, urinary issues, etc)
 		1. ==**see shrunken and dark putamen bilaterally!!! atrophy of pons + middle cerebellar peduncle = hot cross bun sign** (don't worry about the differences between the two. lots of space bt the folia = atrophy.)==
 			1. hot cross buns - left with the cross in the middle of the pons. 
 		2. there's pallor in SN ofc 
-		3. **it's an alpha synucleinopathy but NO LEWY BODY** 
+		3. ==**it's an alpha synucleinopathy but NO LEWY BODY**== 
 		4. ==instead there's **glial cytoplasmic inclusions of the brain** - myelinators f brain== 
 		5. ==doesn't improve with levodopa== 
 		6. ==pons flattened = atropic.== 
@@ -71,14 +71,14 @@ ALS - amyotrophic lateral sclerosis
 - men>women 
 - 5th decade + later 
 - 5-10% familial mainly AD 
-- **c9ORF72 = the primary gene alteration!!! and other one is SOD1**
+- ==**c9ORF72 = the primary gene alteration!!! and other one is SOD1**==
 - **TARDBP = causes ALS with frontotemporal lobar dementia - aphasia or disinhibited behavior off**
 - UMN dysfunction and the LMN dysfunction at the same time - you lose in both ur cortex + spinal cord! 
 - in the SC, the neurons are dying in the **anterior horn of this bc it's controlling ur motor,, in addition to peripheral nerve axons.**
 - also loss of that corticospinal tracts aka lateral columns , upper part that we lost . 
 - peripheral nerves in ALS = will be lost more and more , demyelinated
-- **neurogenic atrophy = angular, shrunken skeletal muscle fibers, angular atrophic fibers** are seen!!!!! in ALS
-- eventually after repeated episodes, we will see cycle of denervation + renervation an you end up with **group atrophy!**
+- ==**neurogenic atrophy = angular, shrunken skeletal muscle fibers, angular atrophic fibers** are seen!!!!! in ALS==
+- ==eventually after repeated episodes, we will see cycle of denervation + renervation an you end up with **group atrophy!**==
 
 
 
